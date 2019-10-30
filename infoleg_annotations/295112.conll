@@ -1,0 +1,76 @@
+Decreto	Decreto	PROPN	ROOT	Decreto	O
+Ley	Ley	PROPN	flat	Decreto	O
+3.322/45	3.322/45	PROPN	flat	Decreto	O
+
+APLICACION	APLICACION	NOUN	ROOT	APLICACION	O
+EN	EN	ADP	case	TODO	O
+TODO	TODO	NOUN	nmod	APLICACION	O
+EL	EL	DET	det	PAIS	O
+PAIS	PAIS	PROPN	appos	APLICACION	O
+DE	DE	ADP	case	DECRETO	O
+DECRETO	DECRETO	VERB	nmod	PAIS	O
+21306/44	21306/44	NOUN	appos	APLICACION	O
+
+BUENOS	BUENOS	PROPN	ROOT	BUENOS	O
+AIRES	AIRES	PROPN	flat	BUENOS	O
+,	,	PUNCT	punct	15	O
+15	15	NUM	appos	BUENOS	O
+de	de	ADP	case	febrero	O
+febrero	febrero	NOUN	compound	15	O
+de	de	ADP	case	1945	O
+1945	1945	NUM	compound	15	O
+
+ARTICULO	ARTICULO	PROPN	ROOT	ARTICULO	O
+1	1	NUM	nummod	ARTICULO	O
+.	.	PUNCT	punct	ARTICULO	O
+-	-	PUNCT	punct	aplicación	O
+Las	Las	DET	det	disposiciones	O
+disposiciones	disposición	NOUN	nsubj	aplicación	O
+del	del	ADP	case	decreto	O
+decreto	decretar	NOUN	nmod	disposiciones	Decreto
+21.306	21.306	NUM	appos	decreto	Decreto
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	compound	21.306	O
+9	9	NUM	appos	21.306	O
+de	de	ADP	case	agosto	O
+agosto	agostar	NOUN	compound	21.306	O
+de	de	ADP	case	1944	O
+1944	1944	NUM	compound	21.306	O
+,	,	PUNCT	punct	disposiciones	O
+son	ser	AUX	cop	aplicación	O
+de	de	ADP	case	aplicación	O
+aplicación	aplicación	NOUN	ROOT	aplicación	O
+en	en	ADP	case	territorio	O
+todo	todo	DET	det	el	O
+el	el	DET	det	territorio	O
+territorio	territorio	NOUN	nmod	aplicación	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	nmod	territorio	O
+.	.	PUNCT	punct	aplicación	O
+
+ARTICULO	ARTICULO	PROPN	ROOT	ARTICULO	O
+2	2	NUM	nummod	ARTICULO	O
+.	.	PUNCT	punct	ARTICULO	O
+-	-	PUNCT	punct	Comuníquese	O
+Comuníquese	Comuníquese	PROPN	ROOT	Comuníquese	O
+,	,	PUNCT	punct	Comuníquese	O
+etc.	etcétera	NOUN	dep	Comuníquese	O
+
+FARRELL	FARRELL	PROPN	ROOT	FARRELL	O
+-	-	PUNCT	punct	Teisaire	O
+Teisaire	Teisaire	PROPN	appos	FARRELL	O
+-	-	PUNCT	punct	Ameghino	O
+Ameghino	Ameghino	PROPN	conj	FARRELL	O
+-	-	PUNCT	punct	Etcheverry	O
+Etcheverry	Etcheverry	PROPN	flat	Ameghino	O
+Boneo	Boneo	PROPN	flat	Etcheverry	O
+-	-	PUNCT	punct	Peron	O
+Peron	Peron	VERB	flat	Ameghino	O
+-	-	PUNCT	punct	Avalos	O
+Avalos	Avalos	PROPN	flat	Ameghino	O
+-	-	PUNCT	punct	Pistarini	O
+Pistarini	Pistarini	PROPN	flat	Ameghino	O
+.	.	PUNCT	punct	FARRELL	O
+
+

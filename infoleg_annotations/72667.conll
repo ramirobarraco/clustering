@@ -1,0 +1,2019 @@
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Economía	O
+Economía	Economía	PROPN	flat	Ministerio	O
+e	e	CONJ	cc	Infraestructura	O
+Infraestructura	Infraestructura	PROPN	conj	Economía	O
+
+COMERCIO	COMERCIO	NOUN	amod	EXTERIOR	O
+EXTERIOR	EXTERIOR	NOUN	ROOT	EXTERIOR	O
+
+Resolución	Resolución	PROPN	ROOT	Resolución	O
+11/2002	11/2002	NUM	appos	Resolución	O
+
+Fíjanse	Fíjanse	ADV	ROOT	Fíjanse	O
+derechos	derecho	ADJ	nsubj	Fíjanse	O
+a	a	ADP	case	exportación	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	obl	Fíjanse	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	exportación	O
+de	de	ADP	case	mercaderías	O
+diversas	diverso	DET	det	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	consumo	O
+comprendidas	comprender	ADJ	amod	mercaderías	O
+en	en	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	obl	comprendidas	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	Mercosur	O
+Mercosur	Mercosur	PROPN	flat	Nomenclatura	O
+.	.	PUNCT	punct	Fíjanse	O
+Alcances	Alcances	PROPN	ROOT	Alcances	O
+.	.	PUNCT	punct	Alcances	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	4/3/2002	O
+4/3/2002	4/3/2002	NUM	ROOT	4/3/2002	O
+
+Ver	Ver	PROPN	ROOT	Ver	O
+Antecedentes	Antecedentes	PROPN	obj	Ver	O
+Normativos	Normativos	PROPN	flat	Antecedentes	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+el	el	DET	det	Expediente	O
+Expediente	Expediente	PROPN	nsubj	VISTO	O
+Nº	Nº	PROPN	nmod	020	O
+020	020	NUM	advmod	VISTO	O
+-	-	PUNCT	punct	002972/2002	O
+002972/2002	002972/2002	NUM	appos	020	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	nmod	002972/2002	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Registro	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	Registro	O
+E	E	CONJ	cc	INFRAESTRUCTURA	O
+INFRAESTRUCTURA	INFRAESTRUCTURA	PROPN	conj	Registro	O
+,	,	PUNCT	punct	VISTO	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	declaró	O
+a	a	ADP	case	Ley	O
+través	través	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obl	declaró	O
+Nº	Nº	PROPN	flat	Ley	O
+25.561	25.561	NUM	flat	Ley	O
+se	se	PRON	obj	declaró	O
+declaró	declarar	VERB	ROOT	declaró	O
+el	el	DET	det	estado	O
+estado	estar	NOUN	nsubj	declaró	O
+de	de	ADP	case	Emergencia	O
+Emergencia	Emergencia	PROPN	nmod	estado	O
+Pública	Pública	PROPN	flat	Emergencia	O
+en	en	ADP	case	materia	O
+materia	materia	NOUN	nmod	estado	O
+social	social	ADJ	amod	materia	O
+,	,	PUNCT	punct	económica	O
+económica	económico	ADJ	conj	materia	O
+,	,	PUNCT	punct	administrativa	O
+administrativa	administrativo	ADJ	conj	materia	O
+,	,	PUNCT	punct	financiera	O
+financiera	financiero	ADJ	conj	materia	O
+y	y	CONJ	cc	cambiaria	O
+cambiaria	cambiario	ADJ	conj	materia	O
+.	.	PUNCT	punct	declaró	O
+
+Que	Que	SCONJ	mark	caracteriza	O
+el	el	DET	det	contexto	O
+actual	actual	ADJ	amod	contexto	O
+contexto	contexto	NOUN	nsubj	caracteriza	O
+económico	económico	ADJ	amod	contexto	O
+se	se	PRON	obj	caracteriza	O
+caracteriza	caracterizar	VERB	ROOT	caracteriza	O
+,	,	PUNCT	punct	aspectos	O
+entre	entrar	ADP	case	aspectos	O
+otros	otro	DET	det	aspectos	O
+aspectos	aspecto	NOUN	obl	caracteriza	O
+,	,	PUNCT	punct	deterioro	O
+por	por	ADP	case	deterioro	O
+un	uno	DET	det	deterioro	O
+fuerte	fuerte	ADJ	amod	deterioro	O
+deterioro	deteriorar	NOUN	obl	caracteriza	O
+en	en	ADP	case	ingresos	O
+los	lo	DET	det	ingresos	O
+ingresos	ingreso	NOUN	nmod	deterioro	O
+fiscales	fiscal	ADJ	amod	ingresos	O
+,	,	PUNCT	punct	encuentra	O
+que	que	PRON	nsubj	encuentra	O
+a	a	ADP	case	vez	O
+su	su	DET	det	vez	O
+vez	vez	NOUN	obl	encuentra	O
+se	se	PRON	obj	encuentra	O
+encuentra	encontrar	AUX	acl	ingresos	O
+acompañado	acompañar	ADJ	obj	encuentra	O
+por	por	ADP	case	demanda	O
+una	uno	DET	det	demanda	O
+creciente	creciente	ADJ	amod	demanda	O
+demanda	demandar	NOUN	obj	acompañado	O
+de	de	ADP	case	asistencia	O
+asistencia	asistencia	NOUN	nmod	demanda	O
+para	parir	ADP	case	sectores	O
+los	lo	DET	det	sectores	O
+sectores	sector	NOUN	nmod	demanda	O
+más	más	ADV	advmod	desprotegidos	O
+desprotegidos	desproteger	ADJ	amod	sectores	O
+de	de	ADP	case	país	O
+nuestro	nuestro	DET	det	país	O
+país	país	NOUN	nmod	sectores	O
+.	.	PUNCT	punct	caracteriza	O
+
+Que	Que	SCONJ	mark	hace	O
+asimismo	asimismo	ADV	advmod	hace	O
+se	se	PRON	obj	hace	O
+hace	hacer	VERB	ROOT	hace	O
+necesaria	necesario	ADJ	obj	hace	O
+la	lo	DET	det	disposición	O
+disposición	disposición	NOUN	nsubj	hace	O
+de	de	ADP	case	medidas	O
+medidas	medir	NOUN	nmod	disposición	O
+que	que	PRON	nsubj	atenúen	O
+atenúen	atenuar	VERB	acl	medidas	O
+el	el	DET	det	efecto	O
+efecto	efecto	NOUN	obj	atenúen	O
+de	de	ADP	case	modificaciones	O
+las	los	DET	det	modificaciones	O
+modificaciones	modificación	NOUN	nmod	efecto	O
+cambiarias	cambiario	ADJ	amod	modificaciones	O
+sobre	sobrar	ADP	case	precios	O
+los	lo	DET	det	precios	O
+precios	precio	NOUN	nmod	modificaciones	O
+internos	interno	ADJ	amod	precios	O
+,	,	PUNCT	punct	especialmente	O
+especialmente	especialmente	ADV	advmod	atenúen	O
+en	en	ADP	case	especialmente	O
+lo	el	DET	det	relativo	O
+relativo	relativo	ADJ	nmod	especialmente	O
+a	a	ADP	case	productos	O
+productos	producto	NOUN	nmod	relativo	O
+esenciales	esencial	ADJ	amod	productos	O
+de	de	ADP	case	canasta	O
+la	lo	DET	det	canasta	O
+canasta	canasta	NOUN	nmod	productos	O
+familiar	familiar	ADJ	amod	canasta	O
+.	.	PUNCT	punct	hace	O
+
+Que	Que	SCONJ	advmod	fundamenta	O
+lo	el	DET	det	señalado	O
+señalado	señalar	ADJ	nsubj	fundamenta	O
+anteriormente	anteriormente	ADV	advmod	señalado	O
+,	,	PUNCT	punct	señalado	O
+fundamenta	fundamentar	VERB	ROOT	fundamenta	O
+la	lo	DET	det	aplicación	O
+aplicación	aplicación	NOUN	obj	fundamenta	O
+de	de	ADP	case	dispuesto	O
+lo	el	DET	det	dispuesto	O
+dispuesto	disponer	ADJ	amod	aplicación	O
+en	en	ADP	case	resolución	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	obl	dispuesto	O
+,	,	PUNCT	punct	carácter	O
+entendiendo	entender	AUX	aux	carácter	O
+que	que	SCONJ	mark	carácter	O
+su	su	DET	det	aplicación	O
+aplicación	aplicación	NOUN	nsubj	carácter	O
+será	ser	AUX	cop	carácter	O
+de	de	ADP	case	carácter	O
+carácter	carácter	NOUN	advcl	fundamenta	O
+transitorio	transitorio	ADJ	amod	carácter	O
+.	.	PUNCT	punct	fundamenta	O
+
+Que	Que	SCONJ	mark	considerarán	O
+asimismo	asimismo	ADV	advmod	considerarán	O
+se	se	PRON	obj	considerarán	O
+considerarán	considerar	VERB	ROOT	considerarán	O
+las	los	DET	det	consecuencias	O
+consecuencias	consecuencia	NOUN	nsubj	considerarán	O
+de	de	ADP	case	alteraciones	O
+eventuales	eventual	ADJ	amod	alteraciones	O
+alteraciones	alteración	NOUN	nmod	consecuencias	O
+significativas	significativo	ADJ	amod	alteraciones	O
+en	en	ADP	case	precios	O
+los	lo	DET	det	precios	O
+precios	precio	NOUN	nmod	consecuencias	O
+internacionales	internacional	ADJ	amod	precios	O
+de	de	ADP	case	productos	O
+los	lo	DET	det	productos	O
+productos	producto	NOUN	nmod	precios	O
+agrícolas	agrícola	ADJ	amod	productos	O
+.	.	PUNCT	punct	considerarán	O
+
+Que	Que	SCONJ	mark	tomado	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	nsubj	tomado	O
+General	General	PROPN	flat	Dirección	O
+de	de	ADP	case	Asuntos	O
+Asuntos	Asuntos	PROPN	flat	Dirección	O
+Jurídicos	Jurídicos	PROPN	flat	Dirección	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Dirección	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	Dirección	O
+E	E	CONJ	cc	INFRAESTRUCTURA	O
+INFRAESTRUCTURA	INFRAESTRUCTURA	PROPN	conj	Dirección	O
+ha	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+que	que	PRON	nsubj	compete	O
+le	le	PRON	obj	compete	O
+compete	competer	VERB	acl	intervención	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	dicta	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	nsubj	dicta	O
+se	se	PRON	obj	dicta	O
+dicta	dictar	VERB	ROOT	dicta	O
+en	en	ADP	case	previsto	O
+función	función	NOUN	fixed	en	O
+de	de	ADP	fixed	en	O
+lo	el	DET	det	previsto	O
+previsto	prever	ADJ	obl	dicta	O
+en	en	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obl	previsto	O
+Nº	Nº	PROPN	flat	Ley	O
+22.415	22.415	NUM	nummod	Ley	O
+,	,	PUNCT	punct	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	flat	Ley	O
+Nº	Nº	PROPN	flat	Ley	O
+25.561	25.561	NUM	nummod	Ley	O
+,	,	PUNCT	punct	Ley	O
+Ley	Ley	PROPN	flat	Ley	O
+de	de	ADP	case	Ministerios	O
+Ministerios	Ministerios	PROPN	flat	Ley	O
+(	(	PUNCT	punct	texto	O
+texto	texto	NOUN	appos	Ley	O
+ordenado	ordenar	ADJ	amod	texto	O
+por	por	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	obj	ordenado	O
+Nº	Nº	PROPN	flat	Decreto	O
+438/92	438/92	NUM	flat	Decreto	O
+)	)	PUNCT	punct	texto	O
+,	,	PUNCT	punct	modificada	O
+modificada	modificar	ADJ	amod	Ley	O
+por	por	ADP	case	Leyes	O
+las	los	DET	det	Leyes	O
+Leyes	Leyes	PROPN	obj	modificada	O
+Nros	Nros	PROPN	flat	Leyes	O
+.	.	PUNCT	punct	dicta	O
+24.190	24.190	NUM	ROOT	24.190	O
+y	y	CONJ	cc	25.233	O
+25.233	25.233	NUM	conj	24.190	O
+y	y	CONJ	cc	Decretos	O
+por	por	ADP	case	Decretos	O
+los	lo	DET	det	Decretos	O
+Decretos	Decretos	PROPN	conj	24.190	O
+Nros	Nros	PROPN	flat	Decretos	O
+.	.	PUNCT	punct	24.190	O
+1343	1343	NOUN	ROOT	1343	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	1343	O
+24	24	NUM	appos	fecha	O
+de	de	ADP	case	octubre	O
+octubre	octubre	NOUN	compound	24	O
+de	de	ADP	case	2001	O
+2001	2001	NUM	compound	24	O
+,	,	PUNCT	punct	1366	O
+1366	1366	NOUN	appos	1343	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	1366	O
+26	26	NUM	appos	fecha	O
+de	de	ADP	case	octubre	O
+octubre	octubre	NOUN	compound	26	O
+de	de	ADP	case	2001	O
+2001	2001	NUM	compound	26	O
+,	,	PUNCT	punct	1454	O
+1454	1454	NUM	appos	1366	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	1454	O
+8	8	NUM	appos	fecha	O
+de	de	ADP	case	noviembre	O
+noviembre	noviembre	NOUN	compound	8	O
+de	de	ADP	case	2001	O
+2001	2001	NUM	compound	8	O
+y	y	CONJ	cc	355	O
+355	355	NUM	conj	1454	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	355	O
+21	21	NUM	appos	355	O
+de	de	ADP	case	febrero	O
+febrero	febrero	NOUN	compound	21	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	21	O
+y	y	CONJ	cc	uso	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	conj	1366	O
+de	de	ADP	case	facultades	O
+las	los	DET	det	facultades	O
+facultades	facultad	NOUN	nmod	uso	O
+conferidas	conferir	ADJ	amod	facultades	O
+por	por	ADP	case	Decretos	O
+los	lo	DET	det	Decretos	O
+Decretos	Decretos	PROPN	obj	conferidas	O
+Nros	Nros	PROPN	flat	Decretos	O
+.	.	PUNCT	punct	1343	O
+751	751	NUM	ROOT	751	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	751	O
+8	8	NUM	appos	fecha	O
+de	de	ADP	case	marzo	O
+marzo	marzo	NOUN	compound	751	O
+de	de	ADP	case	1974	O
+1974	1974	NUM	compound	751	O
+y	y	CONJ	cc	2752	O
+2752	2752	NOUN	conj	1974	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	751	O
+26	26	NUM	appos	fecha	O
+de	de	ADP	case	diciembre	O
+diciembre	diciembre	NOUN	compound	26	O
+de	de	ADP	case	1991	O
+1991	1991	NUM	compound	26	O
+.	.	PUNCT	punct	751	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+,	,	PUNCT	punct	ello	O
+
+EL	EL	DET	det	MINISTRO	O
+MINISTRO	MINISTRO	PROPN	ROOT	MINISTRO	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	MINISTRO	O
+E	E	CONJ	cc	INFRAESTRUCTURA	O
+INFRAESTRUCTURA	INFRAESTRUCTURA	PROPN	conj	MINISTRO	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	NOUN	nsubj	planillas	O
+1º	1º	NUM	nummod	Artículo	O
+-	-	PUNCT	punct	Fíjase	O
+Fíjase	Fíjase	VERB	appos	Artículo	O
+un	uno	DET	det	derecho	O
+derecho	derecho	NOUN	obj	Fíjase	O
+del	del	ADP	case	DIEZ	O
+DIEZ	DIEZ	PROPN	nmod	derecho	O
+POR	POR	ADP	case	CIENTO	O
+CIENTO	CIENTO	PROPN	nmod	derecho	O
+(	(	PUNCT	punct	10	O
+10	10	NUM	appos	derecho	O
+%	%	SYM	nmod	10	O
+)	)	PUNCT	punct	10	O
+a	a	ADP	case	exportación	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	nmod	Artículo	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	exportación	O
+de	de	ADP	case	mercaderías	O
+las	los	DET	det	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	consumo	O
+comprendidas	comprender	ADJ	amod	mercaderías	O
+en	en	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	obl	comprendidas	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Nomenclatura	O
+(	(	PUNCT	punct	N.C.M.	O
+N.C.M.	N.C.M.	PROPN	flat	Nomenclatura	O
+)	)	PUNCT	punct	N.C.M.	O
+detalladas	detallar	ADJ	amod	Nomenclatura	O
+en	en	ADP	case	SEIS	O
+las	los	DET	det	SEIS	O
+SEIS	SEIS	PROPN	obl	detalladas	O
+(	(	PUNCT	punct	6	O
+6	6	NUM	obj	detalladas	O
+)	)	PUNCT	punct	6	O
+planillas	planilla	ADJ	ROOT	planillas	O
+que	que	PRON	nsubj	forman	O
+como	comer	SCONJ	mark	Anexo	O
+Anexo	Anexo	PROPN	nsubj	forman	O
+forman	formar	VERB	acl	planillas	O
+parte	partir	NOUN	compound	forman	O
+integrante	integrante	ADJ	advmod	forman	O
+de	de	ADP	case	resolución	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	obj	forman	O
+.	.	PUNCT	punct	planillas	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2º	2º	PUNCT	ROOT	2º	O
+-	-	PUNCT	punct	Fíjase	O
+Fíjase	Fíjase	VERB	ROOT	Fíjase	O
+un	uno	DET	det	derecho	O
+derecho	derecho	NOUN	obj	Fíjase	O
+del	del	ADP	case	CINCO	O
+CINCO	CINCO	NUM	nmod	derecho	O
+POR	POR	ADP	case	CIENTO	O
+CIENTO	CIENTO	PROPN	flat	CINCO	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	derecho	O
+%	%	SYM	nmod	5	O
+)	)	PUNCT	punct	5	O
+a	a	ADP	case	exportación	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	nmod	derecho	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	exportación	O
+de	de	ADP	case	mercaderías	O
+las	los	DET	det	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	consumo	O
+comprendidas	comprender	ADJ	amod	mercaderías	O
+en	en	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	obl	comprendidas	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Nomenclatura	O
+(	(	PUNCT	punct	N.C.M.	O
+N.C.M.	N.C.M.	PROPN	flat	Nomenclatura	O
+)	)	PUNCT	punct	N.C.M.	O
+no	no	ADV	advmod	consignadas	O
+consignadas	consignar	ADJ	amod	derecho	O
+en	en	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	obl	consignadas	O
+a	a	ADP	case	resolución	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	obj	consignadas	O
+.	.	PUNCT	punct	Fíjase	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3º	3º	NUM	ROOT	3º	O
+-	-	PUNCT	punct	Exclúyese	O
+Exclúyese	Exclúyese	VERB	appos	3º	O
+de	de	ADP	case	establecido	O
+lo	el	DET	det	establecido	O
+establecido	establecer	ADJ	amod	Exclúyese	O
+en	en	ADP	case	artículos	O
+los	lo	DET	det	artículos	O
+artículos	artículo	NOUN	obl	establecido	O
+precedentes	precedente	ADJ	amod	artículos	O
+a	a	ADP	case	hidrocarburos	O
+los	lo	DET	det	hidrocarburos	O
+hidrocarburos	hidrocarburo	NOUN	nmod	artículos	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	hidrocarburos	O
+comprendidos	comprender	ADJ	amod	derivados	O
+dentro	dentro	ADV	advmod	comprendidos	O
+de	de	ADP	case	alcances	O
+los	lo	DET	det	alcances	O
+alcances	alcanzar	NOUN	obl	dentro	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	alcances	O
+Nº	Nº	PROPN	flat	Decreto	O
+1589	1589	NOUN	flat	Decreto	O
+del	del	ADP	case	27	O
+27	27	NUM	obl	dentro	O
+de	de	ADP	case	diciembre	O
+diciembre	diciembre	NOUN	compound	27	O
+de	de	ADP	case	1989	O
+1989	1989	NUM	compound	27	O
+.	.	PUNCT	punct	Exclúyese	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4º	4º	NUM	punct	adicionados	O
+-	-	PUNCT	punct	derechos	O
+Los	Los	DET	det	derechos	O
+derechos	derecho	NOUN	nsubj	adicionados	O
+a	a	ADP	case	exportación	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	nmod	derechos	O
+fijados	fijar	ADJ	amod	exportación	O
+por	por	ADP	case	artículos	O
+los	lo	DET	det	artículos	O
+artículos	artículo	NOUN	obj	fijados	O
+1º	1º	NUM	appos	artículos	O
+y	y	CONJ	cc	2º	O
+2º	2º	NUM	conj	1º	O
+de	de	ADP	case	resolución	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	nmod	artículos	O
+serán	ser	AUX	aux	adicionados	O
+adicionados	adicionar	VERB	ROOT	adicionados	O
+a	a	ADP	case	vigentes	O
+los	lo	DET	det	vigentes	O
+ya	ya	ADV	advmod	vigentes	O
+vigentes	vigente	ADJ	obj	adicionados	O
+,	,	PUNCT	punct	adicionados	O
+sean	ser	AUX	cop	éstos	O
+éstos	este	PRON	advcl	adicionados	O
+permanentes	permanente	ADJ	amod	éstos	O
+o	o	CONJ	cc	transitorios	O
+transitorios	transitorio	ADJ	conj	permanentes	O
+.	.	PUNCT	punct	adicionados	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+5º	5º	NUM	punct	exento	O
+-	-	PUNCT	punct	Estará	O
+Estará	Estará	AUX	cop	exento	O
+exento	exentar	NOUN	ROOT	exento	O
+del	del	ADP	case	pago	O
+pago	pagar	NOUN	nmod	exento	O
+de	de	ADP	case	derechos	O
+los	lo	DET	det	derechos	O
+derechos	derecho	NOUN	nmod	pago	O
+a	a	ADP	case	exportación	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	nmod	pago	O
+previstos	prever	ADJ	amod	exportación	O
+en	en	ADP	case	artículos	O
+los	lo	DET	det	artículos	O
+artículos	artículo	NOUN	obl	previstos	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	appos	artículos	O
+y	y	CONJ	cc	°	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	conj	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+presente	presentar	ADJ	amod	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	O
+:	:	PUNCT	punct	exento	O
+
+a	a	ADP	case	valor	O
+)	)	PUNCT	fixed	a	O
+el	el	DET	det	valor	O
+valor	valor	NOUN	ROOT	valor	O
+CIF	CIF	PROPN	appos	valor	O
+de	de	ADP	case	mercaderías	O
+las	los	DET	det	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	valor	O
+importadas	importar	ADJ	amod	mercaderías	O
+temporariamente	temporariamente	ADV	advmod	importadas	O
+,	,	PUNCT	punct	marco	O
+en	en	ADP	case	marco	O
+el	el	DET	det	marco	O
+marco	marcar	NOUN	nmod	valor	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	marco	O
+ex	ex	ADJ	flat	Resolución	O
+-	-	PUNCT	punct	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Resolución	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	MINISTERIO	O
+Y	Y	CONJ	cc	OBRAS	O
+OBRAS	OBRAS	PROPN	conj	MINISTERIO	O
+Y	Y	CONJ	cc	SERVICIOS	O
+SERVICIOS	SERVICIOS	PROPN	conj	OBRAS	O
+PUBLICOS	PUBLICOS	PROPN	flat	SERVICIOS	O
+N	N	PROPN	flat	SERVICIOS	O
+°	°	PROPN	flat	SERVICIOS	O
+72	72	NUM	nummod	°	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	compound	72	O
+20	20	NUM	appos	MINISTERIO	O
+de	de	ADP	case	enero	O
+enero	enero	NOUN	compound	20	O
+de	de	ADP	case	1992	O
+1992	1992	NUM	compound	20	O
+y	y	CONJ	cc	Decreto	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	conj	Resolución	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+1439	1439	NOUN	appos	Decreto	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Decreto	O
+11	11	NUM	appos	Decreto	O
+de	de	ADP	case	diciembre	O
+diciembre	diciembre	NOUN	compound	11	O
+de	de	ADP	case	1996	O
+1996	1996	NUM	compound	Decreto	O
+,	,	PUNCT	punct	medida	O
+en	en	ADP	case	medida	O
+la	lo	DET	det	medida	O
+medida	medir	NOUN	nmod	valor	O
+en	en	ADP	case	que	O
+que	que	PRON	obl	hubieren	O
+las	los	DET	det	mismas	O
+mismas	mismo	DET	nsubj	hubieren	O
+se	se	PRON	obj	hubieren	O
+hubieren	haber	VERB	acl	medida	O
+incorporado	incorporar	VERB	obj	hubieren	O
+a	a	ADP	case	mercaderías	O
+las	los	DET	det	mercaderías	O
+mercaderías	mercadería	NOUN	obj	incorporado	O
+exportadas	exportar	ADJ	amod	mercaderías	O
+;	;	PUNCT	punct	valor	O
+
+b	b	NOUN	ROOT	b	O
+)	)	PUNCT	punct	b	O
+la	lo	DET	det	exportación	O
+exportación	exportación	NOUN	obj	b	O
+de	de	ADP	case	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	exportación	O
+llevadas	llevar	ADJ	amod	mercaderías	O
+personalmente	personalmente	ADV	advmod	llevadas	O
+por	por	ADP	case	viajero	O
+el	el	DET	det	viajero	O
+viajero	viajero	ADJ	obj	llevadas	O
+,	,	PUNCT	punct	límite	O
+hasta	hasta	ADP	case	límite	O
+el	el	DET	det	límite	O
+límite	límite	NOUN	nmod	exportación	O
+de	de	ADP	case	DOS	O
+DOS	DOS	PROPN	nmod	límite	O
+MIL	MIL	PROPN	flat	DOS	O
+DOLARES	DOLARES	PROPN	appos	límite	O
+ESTADOUNIDENSES	ESTADOUNIDENSES	PROPN	flat	DOLARES	O
+(	(	PUNCT	punct	u$s	O
+u$s	u$s	NOUN	appos	límite	O
+2000	2000	NUM	compound	u$s	O
+)	)	PUNCT	punct	u$s	O
+,	,	PUNCT	punct	traslado	O
+para	parir	ADP	case	traslado	O
+su	su	DET	det	traslado	O
+traslado	trasladar	NOUN	nmod	exportación	O
+a	a	ADP	case	países	O
+los	lo	DET	det	países	O
+países	país	NOUN	nmod	traslado	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	países	O
+,	,	PUNCT	punct	trate	O
+siempre	siempre	ADV	mark	trate	O
+que	que	SCONJ	fixed	siempre	O
+se	se	PRON	expl:pass	trate	O
+trate	tratar	VERB	acl	exportación	O
+de	de	ADP	case	productos	O
+productos	producto	NOUN	obj	trate	O
+de	de	ADP	case	exportación	O
+libre	librar	ADJ	amod	exportación	O
+exportación	exportación	NOUN	nmod	productos	O
+y	y	CONJ	cc	presente	O
+se	se	PRON	obj	presente	O
+presente	presentar	VERB	conj	trate	O
+la	lo	DET	det	factura	O
+factura	facturar	NOUN	nsubj	presente	O
+comercial	comercial	ADJ	amod	factura	O
+respectiva	respectivo	ADJ	amod	factura	O
+.	.	PUNCT	punct	b	O
+
+(	(	PUNCT	punct	Artículo	O
+Artículo	Artículo	PROPN	ROOT	Artículo	O
+sustituido	sustituir	ADJ	amod	Artículo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	sustituido	O
+.	.	PUNCT	punct	Artículo	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	appos	°	Resolución
+530/2002	530/2002	NUM	nummod	°	Resolución
+del	del	ADP	case	Ministerio	O
+Ministerio	Ministerio	PROPN	nmod	°	O
+de	de	ADP	case	Economía	O
+Economía	Economía	PROPN	flat	Ministerio	O
+B.O.	B.O.	PROPN	flat	Economía	O
+30/10/2002	30/10/2002	NUM	nummod	°	O
+)	)	PUNCT	punct	°	O
+.	.	PUNCT	punct	°	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+6º	6º	NUM	nsubj	considerará	O
+-	-	PUNCT	punct	producirse	O
+En	En	ADP	mark	producirse	O
+caso	casar	NOUN	fixed	En	O
+de	de	ADP	fixed	En	O
+producirse	producirse	VERB	advcl	considerará	O
+alteraciones	alteración	NOUN	obj	producirse	O
+negativas	negativo	ADJ	amod	alteraciones	O
+y	y	CONJ	cc	significación	O
+de	de	ADP	case	significación	O
+significación	significación	NOUN	conj	alteraciones	O
+en	en	ADP	case	precios	O
+los	lo	DET	det	precios	O
+precios	precio	NOUN	nmod	significación	O
+internacionales	internacional	ADJ	amod	precios	O
+de	de	ADP	case	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	precios	O
+agrícolas	agrícola	ADJ	amod	mercaderías	O
+contenidas	contener	ADJ	amod	precios	O
+en	en	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	obl	contenidas	O
+a	a	ADP	case	resolución	O
+la	lo	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	obj	contenidas	O
+,	,	PUNCT	punct	producirse	O
+se	se	PRON	obj	considerará	O
+considerará	considerar	VERB	ROOT	considerará	O
+la	lo	DET	det	modificación	O
+modificación	modificación	NOUN	nsubj	considerará	O
+de	de	ADP	case	derechos	O
+los	lo	DET	det	derechos	O
+derechos	derecho	NOUN	nmod	modificación	O
+aquí	aquí	ADV	advmod	establecidos	O
+establecidos	establecer	ADJ	amod	derechos	O
+para	parir	ADP	case	sectores	O
+los	lo	DET	det	sectores	O
+sectores	sector	NOUN	obl	establecidos	O
+afectados	afectar	ADJ	amod	sectores	O
+.	.	PUNCT	punct	considerará	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+7º	7º	PUNCT	punct	aplicación	O
+-	-	PUNCT	punct	aplicación	O
+La	La	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	nsubj	aplicación	O
+no	no	ADV	advmod	aplicación	O
+será	ser	AUX	cop	aplicación	O
+de	de	ADP	case	aplicación	O
+aplicación	aplicación	NOUN	ROOT	aplicación	O
+para	parir	ADP	case	posiciones	O
+las	los	DET	det	posiciones	O
+posiciones	posicionar	NOUN	nmod	aplicación	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Nomenclatura	O
+(	(	PUNCT	punct	N.C.M.	O
+N.C.M.	N.C.M.	PROPN	flat	Nomenclatura	O
+)	)	PUNCT	punct	N.C.M.	O
+alcanzadas	alcanzar	ADJ	amod	posiciones	O
+por	por	ADP	case	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obj	alcanzadas	O
+Nº	Nº	PROPN	flat	Decreto	O
+310	310	NUM	nummod	Decreto	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Decreto	O
+13	13	NUM	appos	Decreto	O
+de	de	ADP	case	febrero	O
+febrero	febrero	NOUN	compound	13	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	13	O
+.	.	PUNCT	punct	aplicación	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+8º	8º	NUM	ROOT	8º	O
+-	-	PUNCT	punct	regir	O
+La	La	DET	det	resolución	O
+presente	presentar	ADJ	amod	resolución	O
+resolución	resolución	NOUN	nsubj	regir	O
+comenzará	comenzar	AUX	aux	regir	O
+a	a	ADP	mark	regir	O
+regir	regir	VERB	appos	8º	O
+a	a	ADP	case	publicación	O
+partir	partir	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	obl	regir	O
+en	en	ADP	case	Boletín	O
+el	el	DET	det	Boletín	O
+Boletín	Boletín	PROPN	nmod	publicación	O
+Oficial	Oficial	PROPN	flat	Boletín	O
+.	.	PUNCT	punct	8º	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+9º	9º	PUNCT	ROOT	9º	O
+-	-	PUNCT	punct	Comuníquese	O
+Comuníquese	Comuníquese	PROPN	appos	9º	O
+,	,	PUNCT	punct	Comuníquese	O
+publíquese	publíquese	VERB	conj	9º	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADV	obj	publíquese	O
+a	a	ADP	case	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	nmod	dése	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	flat	Dirección	O
+Oficial	Oficial	PROPN	flat	Dirección	O
+y	y	CONJ	cc	archívese	O
+archívese	archívese	VERB	conj	dése	O
+.	.	PUNCT	punct	publíquese	O
+-	-	PUNCT	punct	Jorge	O
+Jorge	Jorge	PROPN	ROOT	Jorge	O
+Remes	Remes	PROPN	flat	Jorge	O
+Lenicov	Lenicov	PROPN	flat	Jorge	O
+.	.	PUNCT	punct	Jorge	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+A	A	ADP	case	RES	O
+LA	LA	DET	det	RES	O
+RES	RES	PROPN	nmod	ANEXO	O
+.	.	PUNCT	punct	ANEXO	O
+M.E.	M.E.	PROPN	ROOT	M.E.	O
+e.	e.	VERB	flat	M.E.	O
+I.	I.	PROPN	appos	M.E.	O
+N	N	PROPN	flat	I.	O
+°	°	PROPN	flat	M.E.	O
+11	11	NUM	nummod	M.E.	O
+
+(	(	PUNCT	punct	Anexo	O
+Anexo	Anexo	PROPN	ROOT	Anexo	O
+sustituido	sustituir	ADJ	amod	Anexo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	sustituido	O
+.	.	PUNCT	punct	Anexo	O
+40	40	NUM	ROOT	40	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	40	Decreto
+N	N	PROPN	flat	Decreto	Decreto
+°	°	PROPN	appos	40	Decreto
+690/2002	690/2002	PROPN	nummod	B.O.2/5/2002	Decreto
+B.O.2/5/2002	B.O.2/5/2002	PROPN	obj	°	O
+,	,	PUNCT	punct	modificaciones	O
+con	con	ADP	case	modificaciones	O
+las	los	DET	det	modificaciones	O
+modificaciones	modificación	NOUN	nmod	40	O
+introducidas	introducir	ADJ	amod	modificaciones	O
+por	por	ADP	case	Resoluciones	O
+las	los	DET	det	Resoluciones	O
+Resoluciones	Resoluciones	PROPN	obj	introducidas	O
+del	del	ADP	case	Ministerio	O
+Ministerio	Ministerio	PROPN	flat	Resoluciones	O
+de	de	ADP	case	Economía	O
+Economía	Economía	PROPN	flat	Resoluciones	O
+nros	nros	PROPN	amod	Resoluciones	O
+.	.	PUNCT	punct	40	O
+160/2002	160/2002	NUM	ROOT	160/2002	Misc
+(	(	PUNCT	punct	arts	O
+arts	arts	NOUN	appos	160/2002	O
+.	.	PUNCT	punct	160/2002	O
+1º	1º	NUM	ROOT	1º	O
+y	y	CONJ	cc	B.O.	O
+3º	3º	NUM	punct	B.O.	O
+-	-	PUNCT	punct	B.O.	O
+B.O.	B.O.	PROPN	conj	1º	O
+8/7/2002	8/7/2002	NUM	flat	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+,	,	PUNCT	punct	307/2002	O
+307/2002	307/2002	PROPN	appos	1º	Misc
+(	(	PUNCT	punct	307/2002	O
+art	artículo	NOUN	appos	307/2002	O
+.	.	PUNCT	punct	1º	O
+1º	1º	NUM	ROOT	1º	O
+-	-	PUNCT	punct	B.O.	O
+B.O.	B.O.	PROPN	appos	1º	O
+20/8/2002	20/8/2002	NUM	appos	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+,	,	PUNCT	punct	Resolución	O
+Resolución	Resolución	PROPN	conj	1º	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+149/2006	149/2006	PROPN	appos	Resolución	Resolución
+(	(	PUNCT	punct	Resolución	O
+art	artículo	NOUN	appos	Resolución	O
+.	.	PUNCT	punct	1º	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+-	-	PUNCT	punct	B.O.	O
+B.O.	B.O.	PROPN	appos	°	O
+27/3/2006	27/3/2006	NUM	appos	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+y	y	CONJ	cc	Resolución	O
+Resolución	Resolución	PROPN	conj	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+1030/2006	1030/2006	NUM	nummod	Resolución	Resolución
+(	(	PUNCT	punct	art	O
+art	artículo	NOUN	appos	Resolución	O
+.	.	PUNCT	punct	°	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+-	-	PUNCT	punct	B.O.	O
+B.O.	B.O.	PROPN	appos	°	O
+27/12/2006	27/12/2006	NUM	nummod	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+..	..	PUNCT	punct	°	O
+
+0101.10.10	0101.10.10	NUM	ROOT	0101.10.10	O
+
+0101.10.90	0101.10.90	NUM	ROOT	0101.10.90	O
+
+0101.90.10	0101.90.10	NUM	ROOT	0101.90.10	O
+
+0102.10.10	0102.10.10	NUM	ROOT	0102.10.10	O
+
+0102.10.90	0102.10.90	NUM	ROOT	0102.10.90	O
+
+0102.90.11	0102.90.11	NUM	ROOT	0102.90.11	O
+
+0102.90.19	0102.90.19	NUM	ROOT	0102.90.19	O
+
+0102.90.90	0102.90.90	NUM	ROOT	0102.90.90	O
+
+0103.10.00	0103.10.00	NUM	ROOT	0103.10.00	O
+
+0103.91.00	0103.91.00	NUM	ROOT	0103.91.00	O
+
+0103.92.00	0103.92.00	NUM	ROOT	0103.92.00	O
+
+0104.10.11	0104.10.11	NUM	ROOT	0104.10.11	O
+
+0104.10.19	0104.10.19	NUM	ROOT	0104.10.19	O
+
+0104.10.90	0104.10.90	NUM	ROOT	0104.10.90	O
+
+0104.20.10	0104.20.10	NUM	ROOT	0104.20.10	O
+
+0104.20.90	0104.20.90	NUM	ROOT	0104.20.90	O
+
+0105.11.10	0105.11.10	NUM	ROOT	0105.11.10	O
+
+0105.11.90	0105.11.90	NUM	ROOT	0105.11.90	O
+
+0105.12.00	0105.12.00	NUM	ROOT	0105.12.00	O
+
+0105.19.00	0105.19.00	NUM	ROOT	0105.19.00	O
+
+0105.92.00	0105.92.00	NUM	ROOT	0105.92.00	O
+
+0105.93.00	0105.93.00	NUM	ROOT	0105.93.00	O
+
+0105.99.00	0105.99.00	NUM	ROOT	0105.99.00	O
+
+0106.11.00	0106.11.00	NUM	ROOT	0106.11.00	O
+
+0106.12.00	0106.12.00	NUM	ROOT	0106.12.00	O
+
+0106.19.00	0106.19.00	NUM	ROOT	0106.19.00	O
+
+0106.20.00	0106.20.00	NUM	ROOT	0106.20.00	O
+
+0106.31.00	0106.31.00	NUM	ROOT	0106.31.00	O
+
+0106.32.00	0106.32.00	NUM	ROOT	0106.32.00	O
+
+0106.39.10	0106.39.10	NUM	ROOT	0106.39.10	O
+
+0106.39.90	0106.39.90	NUM	ROOT	0106.39.90	O
+
+0301.10.00	0301.10.00	NUM	ROOT	0301.10.00	O
+
+0301.91.10	0301.91.10	NUM	ROOT	0301.91.10	O
+
+0301.91.90	0301.91.90	NUM	ROOT	0301.91.90	O
+
+0301.92.10	0301.92.10	NUM	ROOT	0301.92.10	O
+
+0301.92.90	0301.92.90	NUM	ROOT	0301.92.90	O
+
+0301.93.10	0301.93.10	NUM	ROOT	0301.93.10	O
+
+0301.93.90	0301.93.90	NUM	ROOT	0301.93.90	O
+
+0301.99.10	0301.99.10	NUM	ROOT	0301.99.10	O
+
+0301.99.90	0301.99.90	NUM	ROOT	0301.99.90	O
+
+0302.11.00	0302.11.00	NUM	ROOT	0302.11.00	O
+
+0302.12.00	0302.12.00	NUM	ROOT	0302.12.00	O
+
+0302.19.00	0302.19.00	NUM	ROOT	0302.19.00	O
+
+0302.21.00	0302.21.00	NUM	ROOT	0302.21.00	O
+
+0302.22.00	0302.22.00	NUM	ROOT	0302.22.00	O
+
+0302.23.00	0302.23.00	NUM	ROOT	0302.23.00	O
+
+0302.29.00	0302.29.00	NUM	ROOT	0302.29.00	O
+
+0302.31.00	0302.31.00	NUM	ROOT	0302.31.00	O
+
+0302.32.00	0302.32.00	NUM	ROOT	0302.32.00	O
+
+0302.33.00	0302.33.00	NUM	ROOT	0302.33.00	O
+
+0302.39.00	0302.39.00	NUM	ROOT	0302.39.00	O
+
+0302.40.00	0302.40.00	NUM	ROOT	0302.40.00	O
+
+0302.50.00	0302.50.00	NUM	ROOT	0302.50.00	O
+
+0302.61.00	0302.61.00	NUM	ROOT	0302.61.00	O
+
+0302.62.00	0302.62.00	NUM	ROOT	0302.62.00	O
+
+0302.63.00	0302.63.00	NUM	ROOT	0302.63.00	O
+
+0302.64.00	0302.64.00	NUM	ROOT	0302.64.00	O
+
+0302.65.00	0302.65.00	NUM	ROOT	0302.65.00	O
+
+0302.66.00	0302.66.00	NUM	ROOT	0302.66.00	O
+
+0302.69.10	0302.69.10	NUM	ROOT	0302.69.10	O
+
+0302.69.90	0302.69.90	NUM	ROOT	0302.69.90	O
+
+0302.70.00	0302.70.00	NUM	ROOT	0302.70.00	O
+
+0303.11.00	0303.11.00	NUM	ROOT	0303.11.00	O
+
+0303.19.00	0303.19.00	NUM	ROOT	0303.19.00	O
+
+0303.21.00	0303.21.00	NUM	ROOT	0303.21.00	O
+
+0303.22.00	0303.22.00	NUM	ROOT	0303.22.00	O
+
+0303.29.00	0303.29.00	NUM	ROOT	0303.29.00	O
+
+0303.31.00	0303.31.00	NUM	ROOT	0303.31.00	O
+
+0303.32.00	0303.32.00	NUM	ROOT	0303.32.00	O
+
+0303.33.00	0303.33.00	NUM	ROOT	0303.33.00	O
+
+0303.39.00	0303.39.00	NUM	ROOT	0303.39.00	O
+
+0303.41.00	0303.41.00	NUM	ROOT	0303.41.00	O
+
+0303.42.00	0303.42.00	NUM	ROOT	0303.42.00	O
+
+0303.43.00	0303.43.00	NUM	ROOT	0303.43.00	O
+
+0303.49.00	0303.49.00	NUM	ROOT	0303.49.00	O
+
+0303.50.00	0303.50.00	NUM	ROOT	0303.50.00	O
+
+0303.60.00	0303.60.00	NUM	ROOT	0303.60.00	O
+
+0303.71.00	0303.71.00	NUM	ROOT	0303.71.00	O
+
+0303.72.00	0303.72.00	NUM	ROOT	0303.72.00	O
+
+0303.73.00	0303.73.00	NUM	ROOT	0303.73.00	O
+
+0303.74.00	0303.74.00	NUM	ROOT	0303.74.00	O
+
+0303.75.00	0303.75.00	NUM	ROOT	0303.75.00	O
+
+0303.76.00	0303.76.00	NUM	ROOT	0303.76.00	O
+
+0303.77.00	0303.77.00	NUM	ROOT	0303.77.00	O
+
+0303.78.00	0303.78.00	NUM	ROOT	0303.78.00	O
+
+0303.79.10	0303.79.10	NUM	ROOT	0303.79.10	O
+
+0303.79.20	0303.79.20	NUM	ROOT	0303.79.20	O
+
+0303.79.90	0303.79.90	NUM	ROOT	0303.79.90	O
+
+0303.80.00	0303.80.00	VERB	ROOT	0303.80.00	O
+
+0306.11.10	0306.11.10	NUM	ROOT	0306.11.10	O
+
+0306.11.90	0306.11.90	NUM	ROOT	0306.11.90	O
+
+0306.12.00	0306.12.00	NUM	ROOT	0306.12.00	O
+
+0306.13.10	0306.13.10	NUM	ROOT	0306.13.10	O
+
+0306.13.91	0306.13.91	NUM	ROOT	0306.13.91	O
+
+0306.13.99	0306.13.99	NUM	ROOT	0306.13.99	O
+
+0306.14.00	0306.14.00	DET	ROOT	0306.14.00	O
+
+0306.19.00	0306.19.00	NUM	ROOT	0306.19.00	O
+
+0306.21.00	0306.21.00	NUM	ROOT	0306.21.00	O
+
+0306.22.00	0306.22.00	NUM	ROOT	0306.22.00	O
+
+0306.23.00	0306.23.00	NUM	ROOT	0306.23.00	O
+
+0306.24.00	0306.24.00	NUM	ROOT	0306.24.00	O
+
+0306.29.00	0306.29.00	NUM	ROOT	0306.29.00	O
+
+0307.10.00	0307.10.00	NUM	ROOT	0307.10.00	O
+
+0307.21.00	0307.21.00	NUM	ROOT	0307.21.00	O
+
+0307.29.00	0307.29.00	NUM	ROOT	0307.29.00	O
+
+0307.31.00	0307.31.00	NUM	ROOT	0307.31.00	O
+
+0307.39.00	0307.39.00	NUM	ROOT	0307.39.00	O
+
+0307.41.00	0307.41.00	NUM	ROOT	0307.41.00	O
+
+0307.49.11	0307.49.11	NUM	ROOT	0307.49.11	O
+
+0307.49.19	0307.49.19	NUM	ROOT	0307.49.19	O
+
+0307.49.20	0307.49.20	NUM	ROOT	0307.49.20	O
+
+0307.51.00	0307.51.00	NUM	ROOT	0307.51.00	O
+
+0307.59.10	0307.59.10	NUM	ROOT	0307.59.10	O
+
+0307.59.20	0307.59.20	NUM	ROOT	0307.59.20	O
+
+0307.60.00	0307.60.00	NUM	ROOT	0307.60.00	O
+
+0307.91.00	0307.91.00	NUM	ROOT	0307.91.00	O
+
+0307.99.00	0307.99.00	NUM	ROOT	0307.99.00	O
+
+0505.10.00	0505.10.00	NUM	ROOT	0505.10.00	O
+
+0505.90.00	0505.90.00	NUM	ROOT	0505.90.00	O
+
+0508.00.00	0508.00.00	NUM	ROOT	0508.00.00	O
+
+0509.00.00	0509.00.00	NUM	ROOT	0509.00.00	O
+
+0601.10.00	0601.10.00	NUM	ROOT	0601.10.00	O
+
+0601.20.00	0601.20.00	NUM	ROOT	0601.20.00	O
+
+0602.10.00	0602.10.00	NUM	ROOT	0602.10.00	O
+
+0602.20.00	0602.20.00	NUM	ROOT	0602.20.00	O
+
+0602.30.00	0602.30.00	NUM	ROOT	0602.30.00	O
+
+0602.40.00	0602.40.00	NUM	ROOT	0602.40.00	O
+
+0602.90.10	0602.90.10	NUM	ROOT	0602.90.10	O
+
+0602.90.21	0602.90.21	NUM	ROOT	0602.90.21	O
+
+0602.90.29	0602.90.29	NUM	ROOT	0602.90.29	O
+
+0602.90.81	0602.90.81	NUM	ROOT	0602.90.81	O
+
+0602.90.82	0602.90.82	NUM	ROOT	0602.90.82	O
+
+0602.90.83	0602.90.83	NUM	ROOT	0602.90.83	O
+
+0602.90.89	0602.90.89	NUM	ROOT	0602.90.89	O
+
+0602.90.90	0602.90.90	NUM	ROOT	0602.90.90	O
+
+0603.10.00	0603.10.00	NUM	ROOT	0603.10.00	O
+
+0603.90.00	0603.90.00	NUM	ROOT	0603.90.00	O
+
+0604.10.00	0604.10.00	NUM	ROOT	0604.10.00	O
+
+0604.91.00	0604.91.00	NUM	ROOT	0604.91.00	O
+
+0604.99.00	0604.99.00	NUM	ROOT	0604.99.00	O
+
+0708.20.00	0708.20.00	NUM	ROOT	0708.20.00	O
+
+0709.90.19	0709.90.19	NUM	ROOT	0709.90.19	O
+
+0713.31.90	0713.31.90	NUM	ROOT	0713.31.90	O
+
+0713.32.90	0713.32.90	NUM	ROOT	0713.32.90	O
+
+0713.33.19	0713.33.19	NUM	ROOT	0713.33.19	O
+
+0713.33.29	0713.33.29	NUM	ROOT	0713.33.29	O
+
+0713.33.99	0713.33.99	NUM	ROOT	0713.33.99	O
+
+0713.39.90	0713.39.90	NUM	ROOT	0713.39.90	O
+
+0713.90.90	0713.90.90	NUM	ROOT	0713.90.90	O
+
+0801.11.10	0801.11.10	NUM	ROOT	0801.11.10	O
+
+0801.11.90	0801.11.90	ADV	ROOT	0801.11.90	O
+
+0801.19.00	0801.19.00	NUM	ROOT	0801.19.00	O
+
+0801.21.00	0801.21.00	NUM	ROOT	0801.21.00	O
+
+0801.22.00	0801.22.00	NUM	ROOT	0801.22.00	O
+
+0801.31.00	0801.31.00	VERB	ROOT	0801.31.00	O
+
+0801.32.00	0801.32.00	NUM	ROOT	0801.32.00	O
+
+0802.11.00	0802.11.00	NUM	ROOT	0802.11.00	O
+
+0802.12.00	0802.12.00	NUM	ROOT	0802.12.00	O
+
+0802.21.00	0802.21.00	NUM	ROOT	0802.21.00	O
+
+0802.22.00	0802.22.00	NUM	ROOT	0802.22.00	O
+
+0802.31.00	0802.31.00	NUM	ROOT	0802.31.00	O
+
+0802.32.00	0802.32.00	NUM	ROOT	0802.32.00	O
+
+0802.40.00	0802.40.00	NUM	ROOT	0802.40.00	O
+
+0802.50.00	0802.50.00	VERB	ROOT	0802.50.00	O
+
+0802.90.00	0802.90.00	NUM	ROOT	0802.90.00	O
+
+0803.00.00	0803.00.00	NUM	ROOT	0803.00.00	O
+
+0804.10.10	0804.10.10	NUM	ROOT	0804.10.10	O
+
+0804.10.20	0804.10.20	NUM	ROOT	0804.10.20	O
+
+0804.20.10	0804.20.10	NUM	ROOT	0804.20.10	O
+
+0804.20.20	0804.20.20	NUM	ROOT	0804.20.20	O
+
+0804.30.00	0804.30.00	NUM	ROOT	0804.30.00	O
+
+0804.40.00	0804.40.00	NUM	ROOT	0804.40.00	O
+
+0804.50.00	0804.50.00	NUM	ROOT	0804.50.00	O
+
+0805.90.00	0805.90.00	NUM	ROOT	0805.90.00	O
+
+0806.10.00	0806.10.00	NUM	ROOT	0806.10.00	O
+
+0807.11.00	0807.11.00	NUM	ROOT	0807.11.00	O
+
+0807.19.00	0807.19.00	NUM	ROOT	0807.19.00	O
+
+0807.20.00	0807.20.00	NUM	ROOT	0807.20.00	O
+
+0808.10.00	0808.10.00	NUM	ROOT	0808.10.00	O
+
+0808.20.10	0808.20.10	NUM	ROOT	0808.20.10	O
+
+0808.20.20	0808.20.20	NUM	ROOT	0808.20.20	O
+
+0809.10.00	0809.10.00	NUM	ROOT	0809.10.00	O
+
+0809.20.00	0809.20.00	NUM	ROOT	0809.20.00	O
+
+0809.30.10	0809.30.10	NUM	ROOT	0809.30.10	O
+
+0809.30.20	0809.30.20	NUM	ROOT	0809.30.20	O
+
+0809.40.00	0809.40.00	NUM	ROOT	0809.40.00	O
+
+0810.10.00	0810.10.00	NUM	ROOT	0810.10.00	O
+
+0810.20.00	0810.20.00	NUM	ROOT	0810.20.00	O
+
+0810.30.00	0810.30.00	NUM	ROOT	0810.30.00	O
+
+0810.40.00	0810.40.00	NUM	ROOT	0810.40.00	O
+
+0810.50.00	0810.50.00	NUM	ROOT	0810.50.00	O
+
+0810.90.00	0810.90.00	NUM	ROOT	0810.90.00	O
+
+0812.10.00	0812.10.00	NUM	ROOT	0812.10.00	O
+
+0812.90.00	0812.90.00	NUM	ROOT	0812.90.00	O
+
+0901.11.10	0901.11.10	NUM	ROOT	0901.11.10	O
+
+0901.11.90	0901.11.90	NUM	ROOT	0901.11.90	O
+
+0901.12.00	0901.12.00	NUM	ROOT	0901.12.00	O
+
+1006.10.91	1006.10.91	NUM	ROOT	1006.10.91	O
+
+1006.10.92	1006.10.92	NUM	ROOT	1006.10.92	O
+
+1006.30.19	1006.30.19	NUM	ROOT	1006.30.19	O
+
+1006.30.29	1006.30.29	NUM	ROOT	1006.30.29	O
+
+1006.40.00	1006.40.00	NOUN	ROOT	1006.40.00	O
+
+1107.10.10	1107.10.10	NOUN	ROOT	1107.10.10	O
+
+1107.10.20	1107.10.20	NUM	ROOT	1107.10.20	O
+
+1107.20.10	1107.20.10	NUM	ROOT	1107.20.10	O
+
+1107.20.20	1107.20.20	NUM	ROOT	1107.20.20	O
+
+1202.20.90	1202.20.90	NUM	ROOT	1202.20.90	O
+(	(	PUNCT	punct	1	O
+1	1	NUM	appos	1202.20.90	O
+)	)	PUNCT	punct	1	O
+
+1202.20.90	1202.20.90	NUM	ROOT	1202.20.90	O
+(	(	PUNCT	punct	2	O
+2	2	NUM	appos	1202.20.90	O
+)	)	PUNCT	punct	2	O
+
+1203.00.00	1203.00.00	NOUN	ROOT	1203.00.00	O
+
+1205.10.90	1205.10.90	NUM	ROOT	1205.10.90	O
+
+1205.90.90	1205.90.90	NOUN	ROOT	1205.90.90	O
+
+1206.00.90	1206.00.90	NUM	ROOT	1206.00.90	O
+(	(	PUNCT	punct	3	O
+3	3	NUM	appos	1206.00.90	O
+)	)	PUNCT	punct	3	O
+
+1207.10.90	1207.10.90	NUM	ROOT	1207.10.90	O
+
+1207.20.90	1207.20.90	NUM	ROOT	1207.20.90	O
+
+1207.30.90	1207.30.90	NUM	ROOT	1207.30.90	O
+
+1207.40.90	1207.40.90	NUM	ROOT	1207.40.90	O
+
+1207.50.90	1207.50.90	NUM	ROOT	1207.50.90	O
+
+1207.91.90	1207.91.90	NUM	ROOT	1207.91.90	O
+
+1210.10.00	1210.10.00	NOUN	ROOT	1210.10.00	O
+
+1210.20.10	1210.20.10	NOUN	ROOT	1210.20.10	O
+
+1210.20.20	1210.20.20	NUM	ROOT	1210.20.20	O
+
+1212.92.00	1212.92.00	NUM	ROOT	1212.92.00	O
+
+1213.00.00	1213.00.00	NOUN	ROOT	1213.00.00	O
+
+1214.10.00	1214.10.00	NUM	ROOT	1214.10.00	O
+
+1214.90.00	1214.90.00	NUM	ROOT	1214.90.00	O
+
+1601.00.00	1601.00.00	NOUN	ROOT	1601.00.00	O
+
+2401.10.10	2401.10.10	NOUN	ROOT	2401.10.10	O
+
+2401.10.20	2401.10.20	NOUN	ROOT	2401.10.20	O
+
+2401.10.30	2401.10.30	NOUN	ROOT	2401.10.30	O
+
+2401.10.40	2401.10.40	NUM	ROOT	2401.10.40	O
+
+2401.10.90	2401.10.90	ADV	ROOT	2401.10.90	O
+
+2401.20.10	2401.20.10	NOUN	ROOT	2401.20.10	O
+
+2401.20.20	2401.20.20	VERB	ROOT	2401.20.20	O
+
+2401.20.30	2401.20.30	NUM	ROOT	2401.20.30	O
+
+2401.20.40	2401.20.40	VERB	ROOT	2401.20.40	O
+
+2401.20.90	2401.20.90	NUM	ROOT	2401.20.90	O
+
+2401.30.00	2401.30.00	NOUN	ROOT	2401.30.00	O
+
+2501.00.11	2501.00.11	NOUN	ROOT	2501.00.11	O
+
+2501.00.19	2501.00.19	NUM	ROOT	2501.00.19	O
+
+2501.00.20	2501.00.20	ADJ	ROOT	2501.00.20	O
+
+2501.00.90	2501.00.90	NUM	ROOT	2501.00.90	O
+
+2502.00.00	2502.00.00	NOUN	ROOT	2502.00.00	O
+
+2503.00.10	2503.00.10	NOUN	ROOT	2503.00.10	O
+
+2503.00.90	2503.00.90	ADV	ROOT	2503.00.90	O
+
+2504.10.00	2504.10.00	NOUN	ROOT	2504.10.00	O
+
+2504.90.00	2504.90.00	NUM	ROOT	2504.90.00	O
+
+2505.10.00	2505.10.00	NOUN	ROOT	2505.10.00	O
+
+2505.90.00	2505.90.00	NUM	ROOT	2505.90.00	O
+
+2506.10.00	2506.10.00	NOUN	ROOT	2506.10.00	O
+
+2506.21.00	2506.21.00	NOUN	ROOT	2506.21.00	O
+
+2506.29.00	2506.29.00	NOUN	ROOT	2506.29.00	O
+
+2507.00.10	2507.00.10	NOUN	ROOT	2507.00.10	O
+
+2507.00.90	2507.00.90	NUM	ROOT	2507.00.90	O
+
+2508.10.00	2508.10.00	NOUN	ROOT	2508.10.00	O
+
+2508.20.00	2508.20.00	NOUN	ROOT	2508.20.00	O
+
+2508.30.00	2508.30.00	NUM	ROOT	2508.30.00	O
+
+2508.40.10	2508.40.10	NOUN	ROOT	2508.40.10	O
+
+2508.40.90	2508.40.90	ADV	ROOT	2508.40.90	O
+
+2508.50.00	2508.50.00	NUM	ROOT	2508.50.00	O
+
+2508.60.00	2508.60.00	NUM	ROOT	2508.60.00	O
+
+2508.70.00	2508.70.00	NOUN	ROOT	2508.70.00	O
+
+2509.00.00	2509.00.00	NOUN	ROOT	2509.00.00	O
+
+2510.10.10	2510.10.10	PRON	ROOT	2510.10.10	O
+
+2510.10.90	2510.10.90	ADJ	ROOT	2510.10.90	O
+
+2510.20.10	2510.20.10	NOUN	ROOT	2510.20.10	O
+
+2510.20.90	2510.20.90	ADJ	ROOT	2510.20.90	O
+
+2511.10.00	2511.10.00	NUM	ROOT	2511.10.00	O
+
+2511.20.00	2511.20.00	NOUN	ROOT	2511.20.00	O
+
+2512.00.00	2512.00.00	NOUN	ROOT	2512.00.00	O
+
+2513.11.00	2513.11.00	NOUN	ROOT	2513.11.00	O
+
+2513.19.00	2513.19.00	NOUN	ROOT	2513.19.00	O
+
+2513.20.00	2513.20.00	NOUN	ROOT	2513.20.00	O
+
+2514.00.00	2514.00.00	NOUN	ROOT	2514.00.00	O
+
+2515.11.00	2515.11.00	NUM	ROOT	2515.11.00	O
+
+2515.12.10	2515.12.10	NOUN	ROOT	2515.12.10	O
+
+2515.12.20	2515.12.20	SYM	ROOT	2515.12.20	O
+
+2515.20.00	2515.20.00	NOUN	ROOT	2515.20.00	O
+
+2516.11.00	2516.11.00	PRON	ROOT	2516.11.00	O
+
+2516.12.00	2516.12.00	NOUN	ROOT	2516.12.00	O
+
+2516.21.00	2516.21.00	NOUN	ROOT	2516.21.00	O
+
+2516.22.00	2516.22.00	NOUN	ROOT	2516.22.00	O
+
+2516.90.00	2516.90.00	NUM	ROOT	2516.90.00	O
+
+2517.10.00	2517.10.00	VERB	ROOT	2517.10.00	O
+
+2517.20.00	2517.20.00	NOUN	ROOT	2517.20.00	O
+
+2517.30.00	2517.30.00	NOUN	ROOT	2517.30.00	O
+
+2517.41.00	2517.41.00	NOUN	ROOT	2517.41.00	O
+
+2517.49.00	2517.49.00	NOUN	ROOT	2517.49.00	O
+
+2518.10.00	2518.10.00	NOUN	ROOT	2518.10.00	O
+
+2518.20.00	2518.20.00	NOUN	ROOT	2518.20.00	O
+
+2518.30.00	2518.30.00	NOUN	ROOT	2518.30.00	O
+
+2519.10.00	2519.10.00	NUM	ROOT	2519.10.00	O
+
+2519.90.10	2519.90.10	NOUN	ROOT	2519.90.10	O
+
+2519.90.90	2519.90.90	NUM	ROOT	2519.90.90	O
+
+2520.10.11	2520.10.11	NOUN	ROOT	2520.10.11	O
+
+2520.10.19	2520.10.19	NUM	ROOT	2520.10.19	O
+
+2520.10.20	2520.10.20	SYM	ROOT	2520.10.20	O
+
+2520.20.10	2520.20.10	NUM	ROOT	2520.20.10	O
+
+2520.20.90	2520.20.90	VERB	ROOT	2520.20.90	O
+
+2521.00.00	2521.00.00	NOUN	ROOT	2521.00.00	O
+
+2524.00.10	2524.00.10	NOUN	ROOT	2524.00.10	O
+
+2524.00.20	2524.00.20	NUM	ROOT	2524.00.20	O
+
+2524.00.90	2524.00.90	VERB	ROOT	2524.00.90	O
+
+2525.10.00	2525.10.00	NOUN	ROOT	2525.10.00	O
+
+2525.20.00	2525.20.00	NOUN	ROOT	2525.20.00	O
+
+2525.30.00	2525.30.00	NUM	ROOT	2525.30.00	O
+
+2526.10.00	2526.10.00	NUM	ROOT	2526.10.00	O
+
+2526.20.00	2526.20.00	NOUN	ROOT	2526.20.00	O
+
+2528.10.00	2528.10.00	NUM	ROOT	2528.10.00	O
+
+2528.90.00	2528.90.00	NOUN	ROOT	2528.90.00	O
+
+2529.10.00	2529.10.00	NOUN	ROOT	2529.10.00	O
+
+2529.21.00	2529.21.00	NOUN	ROOT	2529.21.00	O
+
+2529.22.00	2529.22.00	NOUN	ROOT	2529.22.00	O
+
+2529.30.00	2529.30.00	NUM	ROOT	2529.30.00	O
+
+2530.10.10	2530.10.10	NUM	ROOT	2530.10.10	O
+
+2530.10.90	2530.10.90	NUM	ROOT	2530.10.90	O
+
+2530.20.00	2530.20.00	NOUN	ROOT	2530.20.00	O
+
+2530.90.10	2530.90.10	ADJ	ROOT	2530.90.10	O
+
+2530.90.20	2530.90.20	VERB	ROOT	2530.90.20	O
+
+2530.90.30	2530.90.30	NOUN	ROOT	2530.90.30	O
+
+2530.90.40	2530.90.40	NUM	ROOT	2530.90.40	O
+
+2530.90.90	2530.90.90	ADV	ROOT	2530.90.90	O
+
+2601.11.00	2601.11.00	NOUN	ROOT	2601.11.00	O
+
+2601.12.00	2601.12.00	NOUN	ROOT	2601.12.00	O
+
+2602.00.10	2602.00.10	NOUN	ROOT	2602.00.10	O
+
+2602.00.90	2602.00.90	ADV	ROOT	2602.00.90	O
+
+2603.00.10	2603.00.10	NOUN	ROOT	2603.00.10	O
+
+2603.00.90	2603.00.90	ADJ	ROOT	2603.00.90	O
+
+2604.00.00	2604.00.00	NOUN	ROOT	2604.00.00	O
+
+2605.00.00	2605.00.00	NOUN	ROOT	2605.00.00	O
+
+2606.00.11	2606.00.11	ADV	ROOT	2606.00.11	O
+
+2606.00.12	2606.00.12	NUM	ROOT	2606.00.12	O
+
+2606.00.90	2606.00.90	NUM	ROOT	2606.00.90	O
+
+2607.00.00	2607.00.00	NUM	ROOT	2607.00.00	O
+
+2608.00.10	2608.00.10	NUM	ROOT	2608.00.10	O
+
+2608.00.90	2608.00.90	VERB	ROOT	2608.00.90	O
+
+2609.00.00	2609.00.00	NOUN	ROOT	2609.00.00	O
+
+2610.00.10	2610.00.10	NOUN	ROOT	2610.00.10	O
+
+2610.00.90	2610.00.90	NUM	ROOT	2610.00.90	O
+
+2611.00.00	2611.00.00	NOUN	ROOT	2611.00.00	O
+
+2612.10.00	2612.10.00	NOUN	ROOT	2612.10.00	O
+
+2612.20.00	2612.20.00	NOUN	ROOT	2612.20.00	O
+
+2613.10.10	2613.10.10	NOUN	ROOT	2613.10.10	O
+
+2613.10.90	2613.10.90	ADV	ROOT	2613.10.90	O
+
+2613.90.10	2613.90.10	NOUN	ROOT	2613.90.10	O
+
+2613.90.90	2613.90.90	NUM	ROOT	2613.90.90	O
+
+2614.00.10	2614.00.10	NOUN	ROOT	2614.00.10	O
+
+2614.00.90	2614.00.90	NUM	ROOT	2614.00.90	O
+
+2615.10.10	2615.10.10	NOUN	ROOT	2615.10.10	O
+
+2615.10.20	2615.10.20	NUM	ROOT	2615.10.20	O
+
+2615.10.90	2615.10.90	ADJ	ROOT	2615.10.90	O
+
+2615.90.00	2615.90.00	NOUN	ROOT	2615.90.00	O
+
+2616.10.00	2616.10.00	NOUN	ROOT	2616.10.00	O
+
+2616.90.00	2616.90.00	NOUN	ROOT	2616.90.00	O
+
+2617.10.00	2617.10.00	NOUN	ROOT	2617.10.00	O
+
+2617.90.00	2617.90.00	NOUN	ROOT	2617.90.00	O
+
+3101.00.00	3101.00.00	NUM	ROOT	3101.00.00	O
+
+4001.10.00	4001.10.00	VERB	ROOT	4001.10.00	O
+
+4001.21.00	4001.21.00	VERB	ROOT	4001.21.00	O
+
+4001.22.00	4001.22.00	NUM	ROOT	4001.22.00	O
+
+4001.29.10	4001.29.10	NOUN	ROOT	4001.29.10	O
+
+4001.29.20	4001.29.20	NUM	ROOT	4001.29.20	O
+
+4001.29.90	4001.29.90	NUM	ROOT	4001.29.90	O
+
+4001.30.00	4001.30.00	VERB	ROOT	4001.30.00	O
+
+4401.10.00	4401.10.00	NUM	ROOT	4401.10.00	O
+
+4101.20.10	4101.20.10	NUM	ROOT	4101.20.10	O
+(	(	PUNCT	punct	4	O
+4	4	NUM	appos	4101.20.10	O
+)	)	PUNCT	punct	4	O
+
+4101.20.20	4101.20.20	NUM	ROOT	4101.20.20	O
+(	(	PUNCT	punct	4	O
+4	4	NUM	appos	4101.20.20	O
+)	)	PUNCT	punct	4	O
+
+4101.20.30	4101.20.30	NOUN	ROOT	4101.20.30	O
+(	(	PUNCT	punct	4	O
+4	4	NUM	appos	4101.20.30	O
+)	)	PUNCT	punct	4	O
+
+4401.21.00	4401.21.00	NUM	ROOT	4401.21.00	O
+
+4401.22.00	4401.22.00	NOUN	ROOT	4401.22.00	O
+
+4401.30.00	4401.30.00	VERB	ROOT	4401.30.00	O
+
+4101.50.10	4101.50.10	NUM	ROOT	4101.50.10	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.50.10	O
+)	)	PUNCT	punct	5	O
+y(6	y(6	PROPN	advmod	4101.50.10	O
+)	)	PUNCT	punct	y(6	O
+
+4101.50.20	4101.50.20	NUM	ROOT	4101.50.20	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.50.20	O
+)	)	PUNCT	punct	5	O
+y	y	CONJ	cc	7	O
+(	(	PUNCT	punct	7	O
+7	7	NUM	conj	4101.50.20	O
+)	)	PUNCT	punct	7	O
+
+4101.50.30	4101.50.30	NOUN	ROOT	4101.50.30	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.50.30	O
+)	)	PUNCT	punct	5	O
+y	y	CONJ	cc	8)	O
+(	(	PUNCT	punct	8)	O
+8)	8)	VERB	conj	4101.50.30	O
+
+4101.90.10	4101.90.10	NOUN	ROOT	4101.90.10	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.90.10	O
+)	)	PUNCT	punct	5	O
+y(6	y(6	PROPN	amod	4101.90.10	O
+)	)	PUNCT	punct	y(6	O
+
+4101.90.20	4101.90.20	NUM	ROOT	4101.90.20	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.90.20	O
+)	)	PUNCT	punct	5	O
+y	y	CONJ	cc	7	O
+(	(	PUNCT	punct	7	O
+7	7	NUM	conj	4101.90.20	O
+)	)	PUNCT	punct	7	O
+
+4101.90.30	4101.90.30	NUM	ROOT	4101.90.30	O
+(	(	PUNCT	punct	5	O
+5	5	NUM	appos	4101.90.30	O
+)	)	PUNCT	punct	5	O
+
+4102.10.00	4102.10.00	NUM	ROOT	4102.10.00	O
+
+4102.21.00	4102.21.00	NUM	ROOT	4102.21.00	O
+
+4102.29.00	4102.29.00	VERB	ROOT	4102.29.00	O
+
+4103.10.00	4103.10.00	NUM	ROOT	4103.10.00	O
+
+4104.11.11	4104.11.11	ADV	ROOT	4104.11.11	O
+
+4104.11.13	4104.11.13	NUM	ROOT	4104.11.13	O
+
+4104.11.14	4104.11.14	NUM	ROOT	4104.11.14	O
+
+4104.11.21	4104.11.21	NUM	ROOT	4104.11.21	O
+
+4104.11.23	4104.11.23	NUM	ROOT	4104.11.23	O
+
+4104.11.24	4104.11.24	ADJ	ROOT	4104.11.24	O
+
+4104.19.10	4104.19.10	NOUN	ROOT	4104.19.10	O
+
+4104.19.30	4104.19.30	NUM	ROOT	4104.19.30	O
+
+4104.19.40	4104.19.40	VERB	ROOT	4104.19.40	O
+(	(	PUNCT	punct	9	O
+9	9	NUM	appos	4104.19.40	O
+)	)	PUNCT	punct	9	O
+
+4403.10.00	4403.10.00	VERB	ROOT	4403.10.00	O
+
+4403.20.00	4403.20.00	VERB	ROOT	4403.20.00	O
+
+4403.41.00	4403.41.00	VERB	ROOT	4403.41.00	O
+
+4403.49.00	4403.49.00	VERB	ROOT	4403.49.00	O
+
+4403.91.00	4403.91.00	NUM	ROOT	4403.91.00	O
+
+4403.92.00	4403.92.00	VERB	ROOT	4403.92.00	O
+
+4403.99.00	4403.99.00	VERB	ROOT	4403.99.00	O
+
+4501.10.00	4501.10.00	NUM	ROOT	4501.10.00	O
+
+4501.90.00	4501.90.00	NUM	ROOT	4501.90.00	O
+
+5001.00.00	5001.00.00	VERB	ROOT	5001.00.00	O
+
+5101.11.10	5101.11.10	NUM	ROOT	5101.11.10	O
+
+5101.11.90	5101.11.90	NUM	ROOT	5101.11.90	O
+
+5101.19.00	5101.19.00	NUM	ROOT	5101.19.00	O
+
+5201.00.10	5201.00.10	NUM	ROOT	5201.00.10	O
+
+5301.10.00	5301.10.00	NUM	ROOT	5301.10.00	O
+
+5302.10.00	5302.10.00	NUM	ROOT	5302.10.00	O
+
+5303.10.11	5303.10.11	ADV	ROOT	5303.10.11	O
+
+5303.10.12	5303.10.12	ADV	ROOT	5303.10.12	O
+
+5303.10.90	5303.10.90	ADV	ROOT	5303.10.90	O
+
+5304.10.00	5304.10.00	NUM	ROOT	5304.10.00	O
+
+5305.11.00	5305.11.00	NUM	ROOT	5305.11.00	O
+
+5305.21.00	5305.21.00	NUM	ROOT	5305.21.00	O
+
+5305.90.11	5305.90.11	NUM	ROOT	5305.90.11	O
+
+5305.90.91	5305.90.91	NUM	ROOT	5305.90.91	O
+
+(	(	PUNCT	punct	1	O
+1	1	NUM	ROOT	1	O
+)	)	PUNCT	punct	1	O
+Unicamente	Unicamente	PROPN	appos	1	O
+Maní	Maní	PROPN	flat	Unicamente	O
+Confitería	Confitería	PROPN	flat	Unicamente	O
+según	según	ADP	case	Resolución	O
+Resolución	Resolución	PROPN	nmod	1	O
+ex	ex	ADJ	amod	-SAGYP	O
+-SAGYP	-SAGYP	PROPN	appos	1	O
+N	N	PROPN	flat	-SAGYP	O
+°	°	PROPN	compound	1	O
+530/93	530/93	NUM	compound	1	O
+.	.	PUNCT	punct	1	O
+
+(	(	PUNCT	punct	2	O
+2	2	NUM	ROOT	2	O
+)	)	PUNCT	punct	2	O
+Unicamente	Unicamente	PROPN	appos	2	O
+Maní	Maní	PROPN	flat	Unicamente	O
+Partido	Partido	PROPN	flat	Unicamente	O
+de	de	ADP	case	estándar	O
+acuerdo	acordar	NOUN	fixed	de	O
+con	con	ADP	fixed	de	O
+el	el	DET	det	estándar	O
+estándar	estándar	NOUN	nmod	2	O
+establecido	establecer	ADJ	amod	estándar	O
+por	por	ADP	case	Resolución	O
+Resolución	Resolución	PROPN	obj	establecido	O
+SAGPYA	SAGPYA	PROPN	flat	Resolución	O
+N	N	PROPN	flat	Resolución	O
+°	°	PROPN	flat	Resolución	O
+12/99	12/99	NUM	flat	Resolución	O
+.	.	PUNCT	punct	2	O
+
+(	(	PUNCT	punct	3	O
+3	3	NUM	advmod	confitería	O
+)	)	PUNCT	punct	3	O
+Unicamente	Unicamente	PROPN	advmod	semilla	O
+semilla	semilla	ADJ	nsubj	confitería	O
+de	de	ADP	case	girasol	O
+girasol	girasol	NOUN	nmod	semilla	O
+tipo	tipo	NOUN	amod	semilla	O
+confitería	confitería	VERB	ROOT	confitería	O
+
+(	(	PUNCT	punct	4	O
+4	4	NUM	ROOT	4	O
+)	)	PUNCT	punct	4	O
+Excepto	Excepto	ADP	case	pieles	O
+las	los	DET	det	pieles	O
+pieles	piel	NOUN	nmod	4	O
+de	de	ADP	case	bovino	O
+bovino	bovino	NOUN	nmod	pieles	O
+y	y	CONJ	cc	equino	O
+equino	equino	NOUN	conj	bovino	O
+secas	seco	ADJ	amod	bovino	O
+sin	sin	ADP	case	vestigios	O
+vestigios	vestigio	NOUN	nmod	pieles	O
+de	de	ADP	case	tratamientos	O
+tratamientos	tratamiento	NOUN	nmod	vestigios	O
+con	con	ADP	case	sales	O
+sales	salir	ADJ	nmod	tratamientos	O
+.	.	PUNCT	punct	4	O
+
+(	(	PUNCT	punct	5	O
+5	5	NUM	ROOT	5	O
+)	)	PUNCT	punct	5	O
+Frescos	Frescos	PROPN	flat	5	O
+o	o	CONJ	cc	salados	O
+salados	salar	ADJ	conj	Frescos	O
+verdes	verde	ADJ	amod	5	O
+(	(	PUNCT	punct	húmedos	O
+húmedos	húmedo	ADJ	appos	5	O
+)	)	PUNCT	punct	húmedos	O
+excepto	excepto	ADP	case	equinos	O
+de	de	ADP	case	equinos	O
+equinos	equino	NOUN	nmod	5	O
+.	.	PUNCT	punct	5	O
+
+(	(	PUNCT	punct	6	O
+6	6	NUM	advmod	Conservados	O
+)	)	PUNCT	punct	6	O
+Conservados	Conservados	PROPN	ROOT	Conservados	O
+de	de	ADP	case	modo	O
+otro	otro	DET	det	modo	O
+modo	modo	NOUN	obl	Conservados	O
+excepto	excepto	ADP	case	cueros	O
+cueros	cuero	NOUN	nmod	modo	O
+vacunos	vacuno	ADJ	amod	cueros	O
+y	y	CONJ	cc	equinos	O
+equinos	equino	NOUN	conj	vacunos	O
+secos	seco	ADJ	amod	equinos	O
+sin	sin	ADP	case	vestigios	O
+vestigios	vestigio	NOUN	nmod	cueros	O
+de	de	ADP	case	tratamiento	O
+tratamiento	tratamiento	NOUN	nmod	vestigios	O
+con	con	ADP	case	sales	O
+sales	salir	ADJ	nmod	tratamiento	O
+.	.	PUNCT	punct	Conservados	O
+
+(	(	PUNCT	punct	7	O
+7	7	NUM	ROOT	7	O
+)	)	PUNCT	punct	7	O
+Conservados	Conservados	PROPN	appos	7	O
+de	de	ADP	case	modo	O
+otro	otro	DET	det	modo	O
+modo	modo	NOUN	obl	Conservados	O
+excepto	excepto	ADP	case	equinos	O
+de	de	ADP	case	equinos	O
+equinos	equino	NOUN	nmod	modo	O
+.	.	PUNCT	punct	7	O
+
+(	(	PUNCT	punct	8)	O
+8)	8)	VERB	ROOT	8)	O
+Conservados	Conservados	PROPN	nsubj	8)	O
+de	de	ADP	case	modo	O
+otro	otro	DET	det	modo	O
+modo	modo	NOUN	obl	8)	O
+,	,	PUNCT	punct	descarnes	O
+excepto	excepto	ADP	case	descarnes	O
+descarnes	descarnar	NOUN	nmod	8)	O
+de	de	ADP	case	cueros	O
+cueros	cuero	NOUN	nmod	descarnes	O
+vacunos	vacuno	ADJ	amod	cueros	O
+piquelados	piquelados	ADJ	amod	cueros	O
+.	.	PUNCT	punct	8)	O
+
+(	(	PUNCT	punct	9	O
+9	9	NUM	ROOT	9	O
+)	)	PUNCT	punct	9	O
+Excepto	Excepto	ADP	case	descarnes	O
+descarnes	descarnar	NOUN	nmod	9	O
+de	de	ADP	case	cueros	O
+cueros	cuero	NOUN	nmod	descarnes	O
+vacunos	vacuno	ADJ	amod	cueros	O
+"	"	PUNCT	punct	wet	O
+wet	wet	NOUN	parataxis	9	O
+blue	blue	ADJ	obj	wet	O
+"	"	PUNCT	punct	wet	O
+.	.	PUNCT	punct	9	O
+
+Antecedentes	Antecedentes	NOUN	ROOT	Antecedentes	O
+Normativos	Normativos	ADJ	flat	Antecedentes	O
+
+-	-	PUNCT	punct	art	O
+Por	Por	ADP	case	art	O
+art	artículo	NOUN	ROOT	art	O
+.	.	PUNCT	punct	art	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	nsubj	redujeron	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	det	655/2005	Resolución
+655/2005	655/2005	PROPN	appos	°	Resolución
+del	del	ADP	case	Ministerio	O
+Ministerio	Ministerio	PROPN	nmod	°	O
+de	de	ADP	case	Economía	O
+Economía	Economía	PROPN	flat	Ministerio	O
+y	y	CONJ	cc	Producción	O
+Producción	Producción	PROPN	conj	Ministerio	O
+B.O.	B.O.	PROPN	flat	Producción	O
+21/11/2005	21/11/2005	NUM	appos	°	O
+se	se	PRON	obj	redujeron	O
+redujeron	reducir	VERB	ROOT	redujeron	O
+al	al	ADP	case	TRES	O
+TRES	TRES	NUM	obj	redujeron	O
+POR	POR	ADP	case	CIENTO	O
+CIENTO	CIENTO	PROPN	compound	TRES	O
+(	(	PUNCT	punct	3	O
+3	3	NUM	appos	TRES	O
+%	%	SYM	nmod	3	O
+)	)	PUNCT	punct	3	O
+los	lo	DET	det	derechos	O
+derechos	derecho	NOUN	obj	redujeron	O
+de	de	ADP	case	exportación	O
+exportación	exportación	NOUN	nmod	derechos	O
+de	de	ADP	case	posiciones	O
+determinadas	determinar	ADJ	amod	posiciones	O
+posiciones	posicionar	NOUN	nmod	derechos	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Nomenclatura	O
+(	(	PUNCT	punct	N.C.M.	O
+N.C.M.	N.C.M.	PROPN	flat	Nomenclatura	O
+)	)	PUNCT	punct	N.C.M.	O
+,	,	PUNCT	punct	restablecieron	O
+cuyos	cuyo	PRON	nmod	valores	O
+valores	valorar	NOUN	nsubj	restablecieron	O
+originales	original	ADJ	amod	valores	O
+se	se	PRON	obj	restablecieron	O
+restablecieron	restablecer	VERB	acl	posiciones	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	restablecieron	O
+.	.	PUNCT	punct	redujeron	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	appos	°	Resolución
+149/2006	149/2006	PROPN	appos	°	Resolución
+B.O.	B.O.	PROPN	flat	149/2006	O
+27/3/2006	27/3/2006	NUM	appos	°	O
+)	)	PUNCT	punct	°	O
+.	.	PUNCT	punct	°	O
+
+

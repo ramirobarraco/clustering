@@ -1,0 +1,1263 @@
+(	(	PUNCT	punct	Nota	O
+Nota	Nota	PROPN	ROOT	Nota	O
+Infoleg	Infoleg	PROPN	flat	Nota	O
+:	:	PUNCT	punct	Norma	O
+Norma	Norma	PROPN	flat	Nota	O
+abrogada	abrogar	ADJ	amod	Norma	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obj	abrogada	O
+.	.	PUNCT	punct	Nota	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	appos	°	Resolución
+525/2004	525/2004	NUM	det	°	Resolución
+de	de	ADP	case	Jefatura	O
+Jefatura	Jefatura	PROPN	nmod	°	O
+de	de	ADP	case	Gabinete	O
+Gabinete	Gabinete	PROPN	flat	Jefatura	O
+de	de	ADP	case	Ministros	O
+Ministros	Ministros	PROPN	flat	Jefatura	O
+B.O.	B.O.	PROPN	flat	Ministros	O
+5/8/2004	5/8/2004	NUM	nummod	°	O
+)	)	PUNCT	punct	°	O
+.	.	PUNCT	punct	°	O
+
+Jefatura	Jefatura	PROPN	ROOT	Jefatura	O
+de	de	ADP	case	Gabinete	O
+Gabinete	Gabinete	PROPN	flat	Jefatura	O
+de	de	ADP	case	Ministros	O
+Ministros	Ministros	PROPN	flat	Jefatura	O
+
+CONTRATACIONES	CONTRATACIONES	NOUN	ROOT	CONTRATACIONES	O
+
+Resolución	Resolución	PROPN	nsubj	1/2003	O
+1/2003	1/2003	NUM	ROOT	1/2003	O
+
+Listado	Listado	ADJ	ROOT	Listado	O
+de	de	ADP	case	entidades	O
+entidades	entidad	NOUN	obj	Listado	O
+cubiertas	cubrir	ADJ	amod	entidades	O
+por	por	ADP	case	Protocolo	O
+el	el	DET	det	Protocolo	O
+Protocolo	Protocolo	PROPN	obj	cubiertas	O
+de	de	ADP	case	Compras	O
+Compras	Compras	PROPN	flat	Protocolo	O
+Gubernamentales	Gubernamentales	PROPN	flat	Compras	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Protocolo	O
+.	.	PUNCT	punct	Listado	O
+Contrataciones	Contrataciones	NOUN	ROOT	Contrataciones	O
+incluidas	incluir	ADJ	amod	Contrataciones	O
+en	en	ADP	case	Protocolo	O
+dicho	decir	ADJ	amod	Protocolo	O
+Protocolo	Protocolo	PROPN	obl	incluidas	O
+.	.	PUNCT	punct	Contrataciones	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	7/1/2003	O
+7/1/2003	7/1/2003	NUM	ROOT	7/1/2003	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+el	el	DET	det	Expediente	O
+Expediente	Expediente	PROPN	nsubj	VISTO	O
+N	N	PROPN	flat	Expediente	O
+°	°	PROPN	obj	VISTO	O
+8769/2002	8769/2002	NUM	compound	°	O
+del	del	ADP	case	registro	O
+registro	registrar	NOUN	obj	VISTO	O
+de	de	ADP	case	SUBSECRETARIA	O
+la	lo	DET	det	SUBSECRETARIA	O
+SUBSECRETARIA	SUBSECRETARIA	PROPN	nmod	registro	O
+DE	DE	ADP	case	GESTION	O
+LA	LA	DET	det	GESTION	O
+GESTION	GESTION	PROPN	flat	SUBSECRETARIA	O
+PUBLICA	PUBLICA	ADJ	flat	GESTION	O
+de	de	ADP	case	JEFATURA	O
+la	lo	DET	det	JEFATURA	O
+JEFATURA	JEFATURA	NOUN	nmod	registro	O
+DE	DE	ADP	case	GABINETE	O
+GABINETE	GABINETE	NOUN	nmod	JEFATURA	O
+DE	DE	ADP	case	MINISTROS	O
+MINISTROS	MINISTROS	PROPN	nmod	JEFATURA	O
+y	y	CONJ	punct	VISTO	O
+,	,	PUNCT	punct	y	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	tendientes	O
+las	los	DET	det	tendientes	O
+tratativas	tratativas	NOUN	amod	tendientes	O
+tendientes	tendientes	ADJ	ROOT	tendientes	O
+a	a	ADP	mark	aprobar	O
+aprobar	aprobar	VERB	acl	tendientes	O
+el	el	DET	det	Protocolo	O
+Protocolo	Protocolo	PROPN	obj	aprobar	O
+de	de	ADP	case	Compras	O
+Compras	Compras	PROPN	flat	Protocolo	O
+Gubernamentales	Gubernamentales	PROPN	flat	Compras	O
+del	del	ADP	punct	tendientes	O
+
+MERCOSUR	MERCOSUR	PROPN	nsubj	encuentran	O
+se	se	PRON	obj	encuentran	O
+encuentran	encontrar	VERB	ROOT	encuentran	O
+en	en	ADP	case	grado	O
+un	uno	DET	det	grado	O
+alto	alto	ADJ	amod	grado	O
+grado	gradar	NOUN	obl	encuentran	O
+de	de	ADP	case	avance	O
+avance	avanzar	NOUN	nmod	grado	O
+.	.	PUNCT	punct	encuentran	O
+
+Que	Que	SCONJ	mark	tiene	O
+el	el	DET	det	Protocolo	O
+Protocolo	Protocolo	PROPN	nsubj	tiene	O
+de	de	ADP	case	Compras	O
+Compras	Compras	PROPN	flat	Protocolo	O
+Gubernamentales	Gubernamentales	PROPN	flat	Compras	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	Protocolo	O
+tiene	tener	VERB	ROOT	tiene	O
+por	por	ADP	case	objeto	O
+objeto	objetar	NOUN	obl	tiene	O
+proporcionar	proporcionar	VERB	xcomp	tiene	O
+a	a	ADP	case	proveedores	O
+los	lo	DET	det	proveedores	O
+proveedores	proveedor	NOUN	obj	proporcionar	O
+y	y	CONJ	cc	prestadores	O
+prestadores	prestador	NOUN	conj	proveedores	O
+establecidos	establecer	ADJ	amod	proveedores	O
+en	en	ADP	case	Estados	O
+los	lo	DET	det	Estados	O
+Estados	Estados	PROPN	obl	establecidos	O
+Parte	Parte	PROPN	flat	Estados	O
+y	y	CONJ	cc	bienes	O
+a	a	ADP	case	bienes	O
+los	lo	DET	det	bienes	O
+bienes	bien	NOUN	conj	Estados	O
+,	,	PUNCT	punct	servicios	O
+servicios	servicio	NOUN	conj	bienes	O
+y	y	CONJ	cc	obras	O
+obras	obrar	NOUN	conj	bienes	O
+públicas	público	ADJ	amod	obras	O
+originarios	originario	ADJ	amod	bienes	O
+de	de	ADP	case	mismos	O
+los	lo	DET	det	mismos	O
+mismos	mismo	PRON	nmod	originarios	O
+,	,	PUNCT	punct	tiene	O
+un	uno	DET	det	tratamiento	O
+tratamiento	tratamiento	NOUN	obj	tiene	O
+no	no	ADV	advmod	discriminatorio	O
+discriminatorio	discriminatorio	VERB	amod	tratamiento	O
+en	en	ADP	case	proceso	O
+el	el	DET	det	proceso	O
+proceso	procesar	NOUN	nmod	tratamiento	O
+de	de	ADP	case	contrataciones	O
+contrataciones	contratación	NOUN	nmod	proceso	O
+efectuadas	efectuar	ADJ	amod	contrataciones	O
+por	por	ADP	case	entidades	O
+las	los	DET	det	entidades	O
+entidades	entidad	NOUN	obj	efectuadas	O
+públicas	público	ADJ	amod	entidades	O
+.	.	PUNCT	punct	tiene	O
+
+Que	Que	SCONJ	mark	establece	O
+en	en	ADP	case	Protocolo	O
+el	el	DET	det	Protocolo	O
+aludido	aludir	NOUN	amod	Protocolo	O
+Protocolo	Protocolo	PROPN	obl	establece	O
+se	se	PRON	obj	establece	O
+establece	establecer	VERB	ROOT	establece	O
+que	que	SCONJ	mark	realizados	O
+los	lo	DET	det	procesos	O
+procesos	proceso	NOUN	nsubj	realizados	O
+de	de	ADP	case	contrataciones	O
+contrataciones	contratación	NOUN	nmod	procesos	O
+públicas	público	ADJ	amod	contrataciones	O
+de	de	ADP	case	bienes	O
+bienes	bien	NOUN	nmod	contrataciones	O
+,	,	PUNCT	punct	servicios	O
+servicios	servicio	NOUN	conj	bienes	O
+y	y	CONJ	cc	obras	O
+obras	obrar	NOUN	conj	bienes	O
+públicas	público	ADJ	amod	obras	O
+deberán	deber	AUX	aux	realizados	O
+ser	ser	AUX	aux	realizados	O
+realizados	realizar	VERB	csubj	establece	O
+de	de	ADP	case	forma	O
+forma	formar	NOUN	obl	realizados	O
+transparente	transparentar	ADJ	amod	forma	O
+,	,	PUNCT	punct	observando	O
+observando	observar	VERB	advcl	realizados	O
+los	lo	DET	det	principios	O
+principios	principio	NOUN	obj	observando	O
+básicos	básico	ADJ	amod	principios	O
+de	de	ADP	case	legalidad	O
+legalidad	legalidad	NOUN	nmod	principios	O
+,	,	PUNCT	punct	objetividad	O
+objetividad	objetividad	NOUN	conj	legalidad	O
+,	,	PUNCT	punct	impersonalidad	O
+impersonalidad	impersonalidad	NOUN	conj	legalidad	O
+,	,	PUNCT	punct	moralidad	O
+moralidad	moralidad	NOUN	conj	legalidad	O
+,	,	PUNCT	punct	igualdad	O
+igualdad	igualdad	NOUN	conj	legalidad	O
+,	,	PUNCT	punct	proceso	O
+debido	deber	DET	case	proceso	O
+proceso	procesar	NOUN	obl	observando	O
+,	,	PUNCT	punct	publicidad	O
+publicidad	publicidad	NOUN	conj	proceso	O
+,	,	PUNCT	punct	vinculación	O
+vinculación	vinculación	NOUN	conj	proceso	O
+al	al	ADP	case	instrumento	O
+instrumento	instrumentar	NOUN	nmod	vinculación	O
+de	de	ADP	case	convocatoria	O
+la	lo	DET	det	convocatoria	O
+convocatoria	convocatorio	NOUN	nmod	instrumento	O
+,	,	PUNCT	punct	concurrencia	O
+concurrencia	concurrencia	NOUN	conj	convocatoria	O
+y	y	CONJ	cc	acordes	O
+de	de	ADP	case	que	O
+los	lo	DET	det	que	O
+que	que	PRON	nsubj	acordes	O
+fueran	ser	AUX	cop	acordes	O
+acordes	acorde	NOUN	conj	proceso	O
+con	con	ADP	case	ellos	O
+ellos	ellos	PRON	nmod	acordes	O
+.	.	PUNCT	punct	establece	O
+
+Que	Que	SCONJ	mark	resulta	O
+resulta	resultar	VERB	ROOT	resulta	O
+necesario	necesario	ADJ	obj	resulta	O
+definir	definir	VERB	csubj	resulta	O
+la	lo	DET	det	lista	O
+lista	listo	NOUN	obj	definir	O
+de	de	ADP	case	entidades	O
+entidades	entidad	NOUN	nmod	lista	O
+de	de	ADP	case	República	O
+la	lo	DET	det	República	O
+República	República	PROPN	nmod	lista	O
+Argentina	Argentina	PROPN	flat	República	O
+que	que	PRON	nsubj	quedarán	O
+quedarán	quedar	VERB	acl	lista	O
+cubiertas	cubrir	ADJ	obj	quedarán	O
+por	por	ADP	case	aludido	O
+el	el	DET	det	aludido	O
+aludido	aludir	NOUN	obj	cubiertas	O
+Protocolo	Protocolo	PROPN	appos	aludido	O
+en	en	ADP	case	forma	O
+forma	formar	NOUN	obl	quedarán	O
+previa	previo	ADJ	amod	forma	O
+a	a	ADP	case	aprobación	O
+su	su	DET	det	aprobación	O
+aprobación	aprobación	NOUN	nmod	forma	O
+.	.	PUNCT	punct	resulta	O
+
+Que	Que	SCONJ	mark	resulta	O
+asimismo	asimismo	ADV	advmod	resulta	O
+resulta	resultar	VERB	ROOT	resulta	O
+necesario	necesario	ADJ	obj	resulta	O
+fijar	fijar	VERB	csubj	resulta	O
+los	lo	DET	det	umbrales	O
+umbrales	umbral	NOUN	obj	fijar	O
+que	que	PRON	nsubj	determinarán	O
+determinarán	determinar	VERB	acl	umbrales	O
+que	que	SCONJ	mark	quedarán	O
+contrataciones	contratación	NOUN	nsubj	quedarán	O
+públicas	público	ADJ	amod	contrataciones	O
+quedarán	quedar	VERB	ccomp	determinarán	O
+comprendidas	comprender	ADJ	obj	quedarán	O
+en	en	ADP	case	mismo	O
+el	el	DET	det	mismo	O
+mismo	mismo	PRON	obl	comprendidas	O
+.	.	PUNCT	punct	resulta	O
+
+Que	Que	SCONJ	mark	dicta	O
+la	lo	DET	det	medida	O
+presente	presentar	ADJ	amod	medida	O
+medida	medir	NOUN	nsubj	dicta	O
+se	se	PRON	obj	dicta	O
+dicta	dictar	VERB	ROOT	dicta	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	obl	dicta	O
+de	de	ADP	case	atribuciones	O
+las	los	DET	det	atribuciones	O
+atribuciones	atribución	NOUN	nmod	uso	O
+conferidas	conferir	ADJ	amod	atribuciones	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	conferidas	O
+100	100	NUM	appos	artículo	O
+,	,	PUNCT	punct	incisos	O
+incisos	inciso	ADJ	appos	artículo	O
+1	1	NUM	appos	incisos	O
+y	y	CONJ	cc	2	O
+2	2	NUM	conj	1	O
+de	de	ADP	case	Constitución	O
+la	lo	DET	det	Constitución	O
+Constitución	Constitución	PROPN	nmod	artículo	O
+Nacional	Nacional	PROPN	flat	Constitución	O
+:	:	PUNCT	punct	dicta	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+,	,	PUNCT	punct	ello	O
+
+EL	EL	DET	det	JEFE	O
+JEFE	JEFE	PROPN	ROOT	JEFE	O
+DE	DE	ADP	case	GABINETE	O
+GABINETE	GABINETE	NOUN	nmod	JEFE	O
+DE	DE	ADP	case	MINISTROS	O
+MINISTROS	MINISTROS	NOUN	nmod	JEFE	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	PROPN	nsubj	lista	O
+1	1	NUM	nummod	Artículo	O
+°	°	PROPN	flat	Artículo	O
+—	—	PROPN	appos	Artículo	O
+Apruébase	Apruébase	PROPN	flat	—	O
+la	lo	DET	det	lista	O
+lista	listo	NOUN	ROOT	lista	O
+de	de	ADP	case	entidades	O
+entidades	entidad	NOUN	nmod	lista	O
+de	de	ADP	case	República	O
+la	lo	DET	det	República	O
+República	República	PROPN	nmod	lista	O
+Argentina	Argentina	PROPN	flat	República	O
+que	que	PRON	nsubj	quedarán	O
+quedarán	quedar	VERB	acl	lista	O
+cubiertas	cubrir	ADJ	obj	quedarán	O
+por	por	ADP	case	Protocolo	O
+el	el	DET	det	Protocolo	O
+Protocolo	Protocolo	PROPN	obj	cubiertas	O
+de	de	ADP	case	Compras	O
+Compras	Compras	PROPN	flat	Protocolo	O
+Gubernamentales	Gubernamentales	PROPN	flat	Compras	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	flat	Protocolo	O
+,	,	PUNCT	punct	forma	O
+la	lo	DET	det	forma	O
+que	que	PRON	nsubj	forma	O
+como	comer	SCONJ	mark	Anexo	O
+Anexo	Anexo	PROPN	nsubj	forma	O
+I	I	CONJ	flat	Anexo	O
+forma	formar	VERB	advcl	quedarán	O
+parte	partir	NOUN	compound	forma	O
+integrante	integrante	ADJ	advmod	forma	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+presente	presentar	ADJ	amod	Resolución	O
+Resolución	Resolución	PROPN	obj	forma	O
+.	.	PUNCT	punct	lista	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Fíjase	Fíjase	PROPN	flat	—	O
+los	lo	DET	det	umbrales	O
+umbrales	umbral	NOUN	appos	°	O
+que	que	PRON	nsubj	determinarán	O
+determinarán	determinar	VERB	acl	umbrales	O
+que	que	SCONJ	mark	quedarán	O
+contrataciones	contratación	NOUN	nsubj	quedarán	O
+públicas	público	ADJ	amod	contrataciones	O
+quedarán	quedar	VERB	ccomp	determinarán	O
+comprendidas	comprender	ADJ	obj	quedarán	O
+en	en	ADP	case	Protocolo	O
+el	el	DET	det	Protocolo	O
+Protocolo	Protocolo	PROPN	obl	comprendidas	O
+de	de	ADP	case	Compras	O
+Compras	Compras	PROPN	flat	Protocolo	O
+Gubernamentales	Gubernamentales	PROPN	flat	Compras	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	Protocolo	O
+,	,	PUNCT	punct	escala	O
+según	según	ADP	case	escala	O
+la	lo	DET	det	escala	O
+siguiente	siguiente	ADJ	amod	escala	O
+escala	escalar	NOUN	obl	quedarán	O
+:	:	PUNCT	punct	escala	O
+
+a	a	ADP	case	PESOS	O
+)	)	PUNCT	fixed	a	O
+Más	Más	ADV	cc	PESOS	O
+de	de	ADP	case	Más	O
+PESOS	PESOS	PROPN	ROOT	PESOS	O
+CINCUENTA	CINCUENTA	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	flat	PESOS	O
+50.000	50.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+:	:	PUNCT	punct	Contratación	O
+Contratación	Contratación	PROPN	appos	PESOS	O
+Directa	Directa	PROPN	flat	Contratación	O
+.	.	PUNCT	punct	PESOS	O
+
+b	b	NOUN	ROOT	b	O
+)	)	PUNCT	punct	b	O
+Más	Más	ADV	advmod	b	O
+de	de	ADP	case	Más	O
+PESOS	PESOS	PROPN	obl	Más	O
+DOSCIENTOS	DOSCIENTOS	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	dep	b	O
+200.000	200.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+:	:	PUNCT	punct	Licitación	O
+Licitación	Licitación	PROPN	dep	b	O
+Abreviada	Abreviada	PROPN	flat	Licitación	O
+o	o	CONJ	cc	Privada	O
+Privada	Privada	PROPN	conj	Licitación	O
+y	y	CONJ	cc	Licitación	O
+Licitación	Licitación	PROPN	conj	Licitación	O
+Pública	Pública	PROPN	flat	Licitación	O
+.	.	PUNCT	punct	b	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Comuníquese	Comuníquese	PROPN	flat	—	O
+,	,	PUNCT	punct	publíquese	O
+publíquese	publíquese	VERB	acl	°	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADV	advmod	publíquese	O
+a	a	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nmod	dése	O
+NACIONAL	NACIONAL	PROPN	flat	DIRECCION	O
+DEL	DEL	ADP	case	REGISTRO	O
+REGISTRO	REGISTRO	PROPN	nmod	DIRECCION	O
+OFICIAL	OFICIAL	PROPN	flat	DIRECCION	O
+y	y	CONJ	cc	archívese	O
+archívese	archívese	VERB	conj	publíquese	O
+.	.	PUNCT	punct	publíquese	O
+—	—	PROPN	ROOT	—	O
+Alfredo	Alfredo	PROPN	flat	—	O
+N.	N.	PROPN	flat	—	O
+Atanasof	Atanasof	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+I	I	CONJ	flat	ANEXO	O
+
+LISTA	LISTA	NOUN	ROOT	LISTA	O
+DE	DE	ADP	case	ENTIDADES	O
+ENTIDADES	ENTIDADES	PROPN	nmod	LISTA	O
+CUBIERTAS	CUBIERTAS	PROPN	amod	LISTA	O
+POR	POR	ADP	case	PROTOCOLO	O
+EL	EL	DET	det	PROTOCOLO	O
+PROTOCOLO	PROTOCOLO	PROPN	nmod	LISTA	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Central	Central	PROPN	flat	Administración	O
+
+Presidencia	Presidencia	NOUN	ROOT	Presidencia	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	nmod	Presidencia	O
+
+Secretaría	Secretaría	PROPN	ROOT	Secretaría	O
+General	General	PROPN	flat	Secretaría	O
+
+Secretaría	Secretaría	PROPN	ROOT	Secretaría	O
+Legal	Legal	PROPN	flat	Secretaría	O
+y	y	CONJ	cc	Técnica	O
+Técnica	Técnica	PROPN	conj	Secretaría	O
+
+Casa	Casa	PROPN	ROOT	Casa	O
+Militar	Militar	PROPN	flat	Casa	O
+
+Secretaría	Secretaría	VERB	ROOT	Secretaría	O
+de	de	ADP	case	Turismo	O
+Turismo	Turismo	PROPN	flat	Secretaría	O
+y	y	CONJ	cc	Deporte	O
+Deporte	Deporte	NOUN	conj	Turismo	O
+
+Secretaría	Secretaría	PROPN	ROOT	Secretaría	O
+de	de	ADP	case	Medios	O
+Medios	Medios	PROPN	flat	Secretaría	O
+de	de	ADP	case	Comunicación	O
+Comunicación	Comunicación	PROPN	flat	Secretaría	O
+
+Secretaría	Secretaría	PROPN	ROOT	Secretaría	O
+de	de	ADP	case	Inteligencia	O
+Inteligencia	Inteligencia	PROPN	flat	Secretaría	O
+
+Secretaría	Secretaría	PROPN	ROOT	Secretaría	O
+para	parir	ADP	case	Programación	O
+la	lo	DET	det	Programación	O
+Programación	Programación	PROPN	nmod	Secretaría	O
+de	de	ADP	case	Prevención	O
+la	lo	DET	det	Prevención	O
+Prevención	Prevención	PROPN	flat	Programación	O
+de	de	ADP	case	Drogadicción	O
+la	lo	DET	det	Drogadicción	O
+Drogadicción	Drogadicción	PROPN	flat	Programación	O
+y	y	CONJ	cc	Lucha	O
+la	lo	DET	det	Lucha	O
+Lucha	Lucha	PROPN	conj	Secretaría	O
+contra	contra	ADP	case	Narcotráfico	O
+el	el	DET	det	Narcotráfico	O
+Narcotráfico	Narcotráfico	PROPN	nmod	Lucha	O
+Secretaría	Secretaría	PROPN	flat	Narcotráfico	O
+de	de	ADP	case	Seguridad	O
+Seguridad	Seguridad	PROPN	flat	Narcotráfico	O
+Interior	Interior	PROPN	flat	Narcotráfico	O
+
+Secretaría	Secretaría	NOUN	ROOT	Secretaría	O
+de	de	ADP	case	Cultura	O
+Cultura	Cultura	PROPN	flat	Secretaría	O
+
+Secretaría	Secretaría	VERB	ROOT	Secretaría	O
+de	de	ADP	case	Obras	O
+Obras	Obras	PROPN	flat	Secretaría	O
+Públicas	Públicas	PROPN	flat	Obras	O
+
+Jefatura	Jefatura	PROPN	ROOT	Jefatura	O
+de	de	ADP	case	Gabinete	O
+Gabinete	Gabinete	PROPN	flat	Jefatura	O
+de	de	ADP	case	Ministros	O
+Ministros	Ministros	PROPN	flat	Jefatura	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+del	del	ADP	case	Interior	O
+Interior	Interior	PROPN	flat	Ministerio	O
+
+Ministerio	Ministerio	PROPN	ROOT	Ministerio	O
+de	de	ADP	case	Relaciones	O
+Relaciones	Relaciones	PROPN	flat	Ministerio	O
+Exteriores	Exteriores	PROPN	flat	Relaciones	O
+,	,	PUNCT	punct	Comercio	O
+Comercio	Comercio	PROPN	conj	Ministerio	O
+Internacional	Internacional	PROPN	flat	Comercio	O
+y	y	CONJ	cc	Culto	O
+Culto	Culto	PROPN	conj	Ministerio	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Justicia	O
+Justicia	Justicia	PROPN	flat	Ministerio	O
+y	y	CONJ	cc	Derechos	O
+Derechos	Derechos	PROPN	conj	Justicia	O
+Humanos	Humanos	PROPN	flat	Derechos	O
+
+Servicio	Servicio	PROPN	ROOT	Servicio	O
+Penitenciario	Penitenciario	PROPN	flat	Servicio	O
+Federal	Federal	PROPN	flat	Servicio	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Defensa	O
+Defensa	Defensa	PROPN	flat	Ministerio	O
+
+Estado	Estado	PROPN	ROOT	Estado	O
+Mayor	Mayor	PROPN	flat	Estado	O
+General	General	PROPN	flat	Estado	O
+del	del	ADP	case	Ejército	O
+Ejército	Ejército	PROPN	flat	Estado	O
+
+Estado	Estado	PROPN	ROOT	Estado	O
+Mayor	Mayor	PROPN	flat	Estado	O
+General	General	PROPN	flat	Estado	O
+de	de	ADP	case	Armada	O
+la	lo	DET	det	Armada	O
+Armada	Armada	PROPN	flat	Estado	O
+
+Estado	Estado	PROPN	ROOT	Estado	O
+Mayor	Mayor	PROPN	flat	Estado	O
+General	General	PROPN	flat	Estado	O
+de	de	ADP	case	Fuerza	O
+la	lo	DET	det	Fuerza	O
+Fuerza	Fuerza	PROPN	flat	Estado	O
+Aérea	Aérea	PROPN	flat	Fuerza	O
+
+Estado	Estado	PROPN	ROOT	Estado	O
+Mayor	Mayor	PROPN	flat	Estado	O
+Conjunto	Conjunto	PROPN	flat	Estado	O
+de	de	ADP	case	Fuerzas	O
+las	los	DET	det	Fuerzas	O
+Fuerzas	Fuerzas	PROPN	nmod	Estado	O
+Armadas	Armadas	PROPN	flat	Fuerzas	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Economía	O
+Economía	Economía	PROPN	flat	Ministerio	O
+
+Ministerio	Ministerio	PROPN	ROOT	Ministerio	O
+de	de	ADP	case	Producción	O
+la	lo	DET	det	Producción	O
+Producción	Producción	PROPN	flat	Ministerio	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Educación	O
+Educación	Educación	PROPN	flat	Ministerio	O
+,	,	PUNCT	punct	Ciencia	O
+Ciencia	Ciencia	PROPN	conj	Ministerio	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Ministerio	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Trabajo	O
+Trabajo	Trabajo	PROPN	flat	Ministerio	O
+,	,	PUNCT	punct	Empleo	O
+Empleo	Empleo	PROPN	conj	Ministerio	O
+y	y	CONJ	cc	Seguridad	O
+Seguridad	Seguridad	PROPN	conj	Ministerio	O
+Social	Social	PROPN	flat	Seguridad	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Salud	O
+Salud	Salud	PROPN	flat	Ministerio	O
+
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Desarrollo	O
+Desarrollo	Desarrollo	PROPN	flat	Ministerio	O
+Social	Social	PROPN	flat	Desarrollo	O
+
+Organismos	Organismos	PROPN	ROOT	Organismos	O
+Descentralizados	Descentralizados	PROPN	flat	Organismos	O
+
+Comité	Comité	PROPN	ROOT	Comité	O
+Federal	Federal	PROPN	flat	Comité	O
+de	de	ADP	case	Radiodifusión	O
+Radiodifusión	Radiodifusión	PROPN	flat	Comité	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Energía	O
+Energía	Energía	PROPN	flat	Comisión	O
+Atómica	Atómica	PROPN	flat	Comisión	O
+
+Sindicatura	Sindicatura	PROPN	ROOT	Sindicatura	O
+General	General	PROPN	flat	Sindicatura	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	flat	Sindicatura	O
+
+Autoridad	Autoridad	PROPN	ROOT	Autoridad	O
+Regulatoria	Regulatoria	PROPN	flat	Autoridad	O
+Nuclear	Nuclear	PROPN	flat	Autoridad	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+de	de	ADP	case	Parques	O
+Parques	Parques	PROPN	flat	Administración	O
+Nacionales	Nacionales	PROPN	flat	Parques	O
+
+Teatro	Teatro	PROPN	ROOT	Teatro	O
+Nacional	Nacional	PROPN	flat	Teatro	O
+Cervantes	Cervantes	PROPN	flat	Teatro	O
+
+Biblioteca	Biblioteca	PROPN	ROOT	Biblioteca	O
+Nacional	Nacional	PROPN	flat	Biblioteca	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+del	del	ADP	case	Teatro	O
+Teatro	Teatro	PROPN	flat	Instituto	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Cine	O
+Cine	Cine	PROPN	flat	Instituto	O
+y	y	CONJ	cc	Artes	O
+Artes	Artes	PROPN	conj	Instituto	O
+Audiovisuales	Audiovisuales	PROPN	flat	Artes	O
+
+Fondo	Fondo	PROPN	ROOT	Fondo	O
+Nacional	Nacional	PROPN	flat	Fondo	O
+de	de	ADP	case	Artes	O
+las	los	DET	det	Artes	O
+Artes	Artes	PROPN	flat	Fondo	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+del	del	ADP	case	Agua	O
+Agua	Agua	PROPN	flat	Instituto	O
+
+Dirección	Dirección	PROPN	ROOT	Dirección	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+de	de	ADP	case	Vialidad	O
+Vialidad	Vialidad	PROPN	flat	Dirección	O
+
+Tribunal	Tribunal	NOUN	ROOT	Tribunal	O
+de	de	ADP	case	Tasaciones	O
+Tasaciones	Tasaciones	PROPN	flat	Tribunal	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	flat	Tribunal	O
+
+Ente	Ente	PROPN	ROOT	Ente	O
+Nacional	Nacional	PROPN	flat	Ente	O
+de	de	ADP	case	Obras	O
+Obras	Obras	PROPN	flat	Ente	O
+Hídricas	Hídricas	PROPN	flat	Obras	O
+de	de	ADP	case	Saneamiento	O
+Saneamiento	Saneamiento	PROPN	nmod	Ente	O
+
+Registro	Registro	PROPN	ROOT	Registro	O
+Nacional	Nacional	PROPN	flat	Registro	O
+de	de	ADP	case	Personas	O
+las	los	DET	det	Personas	O
+Personas	Personas	PROPN	flat	Registro	O
+
+Dirección	Dirección	PROPN	ROOT	Dirección	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+de	de	ADP	case	Migraciones	O
+Migraciones	Migraciones	PROPN	flat	Dirección	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Actividades	O
+Actividades	Actividades	PROPN	flat	Comisión	O
+Espaciales	Espaciales	PROPN	flat	Comisión	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Geográfico	Geográfico	PROPN	flat	Instituto	O
+Militar	Militar	PROPN	flat	Instituto	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Comunicaciones	O
+Comunicaciones	Comunicaciones	PROPN	flat	Comisión	O
+
+Dirección	Dirección	PROPN	ROOT	Dirección	O
+General	General	PROPN	flat	Dirección	O
+de	de	ADP	case	Fabricaciones	O
+Fabricaciones	Fabricaciones	PROPN	flat	Dirección	O
+Militares	Militares	PROPN	flat	Dirección	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Valores	O
+Valores	Valores	PROPN	flat	Comisión	O
+
+Superintendencia	Superintendencia	NOUN	ROOT	Superintendencia	O
+de	de	ADP	case	Seguros	O
+Seguros	Seguros	PROPN	flat	Superintendencia	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	nmod	Superintendencia	O
+
+Tribunal	Tribunal	PROPN	ROOT	Tribunal	O
+Fiscal	Fiscal	PROPN	flat	Tribunal	O
+de	de	ADP	case	Nación	O
+la	lo	DET	det	Nación	O
+Nación	Nación	PROPN	flat	Tribunal	O
+
+Ente	Ente	PROPN	ROOT	Ente	O
+Nacional	Nacional	PROPN	flat	Ente	O
+Regulador	Regulador	PROPN	flat	Ente	O
+del	del	ADP	case	Gas	O
+Gas	Gas	PROPN	flat	Ente	O
+
+Ente	Ente	PROPN	ROOT	Ente	O
+Nacional	Nacional	PROPN	flat	Ente	O
+Regulador	Regulador	PROPN	flat	Ente	O
+de	de	ADP	case	Electricidad	O
+la	lo	DET	det	Electricidad	O
+Electricidad	Electricidad	PROPN	flat	Ente	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Regulación	O
+Regulación	Regulación	PROPN	flat	Comisión	O
+del	del	ADP	case	Transporte	O
+Transporte	Transporte	PROPN	flat	Comisión	O
+
+Organismo	Organismo	PROPN	ROOT	Organismo	O
+Regulador	Regulador	PROPN	flat	Organismo	O
+del	del	ADP	case	Sistema	O
+Sistema	Sistema	PROPN	flat	Organismo	O
+Nacional	Nacional	PROPN	flat	Sistema	O
+de	de	ADP	case	Aeropuertos	O
+Aeropuertos	Aeropuertos	PROPN	flat	Sistema	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Federal	Federal	PROPN	flat	Administración	O
+de	de	ADP	case	Ingresos	O
+Ingresos	Ingresos	PROPN	flat	Administración	O
+Públicos	Públicos	PROPN	flat	Ingresos	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Recursos	O
+los	lo	DET	det	Recursos	O
+Recursos	Recursos	PROPN	flat	Instituto	O
+de	de	ADP	case	Seguridad	O
+la	lo	DET	det	Seguridad	O
+Seguridad	Seguridad	PROPN	flat	Instituto	O
+Social	Social	PROPN	flat	Seguridad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+de	de	ADP	case	Buenos	O
+Buenos	Buenos	PROPN	flat	Universidad	O
+Aires	Aires	PROPN	flat	Buenos	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Catamarca	O
+Catamarca	Catamarca	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+del	del	ADP	case	Centro	O
+Centro	Centro	PROPN	flat	Universidad	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Universidad	O
+de	de	ADP	case	Buenos	O
+Buenos	Buenos	PROPN	flat	Universidad	O
+Aires	Aires	PROPN	flat	Buenos	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Comahué	O
+Comahué	Comahué	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Córdoba	O
+Córdoba	Córdoba	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Cuyo	O
+Cuyo	Cuyo	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Ríos	O
+Entre	Entre	ADP	case	Ríos	O
+Ríos	Ríos	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Formosa	O
+Formosa	Formosa	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	General	O
+General	General	PROPN	flat	Universidad	O
+San	San	PROPN	flat	Universidad	O
+Martín	Martín	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	General	O
+General	General	PROPN	flat	Universidad	O
+Sarmiento	Sarmiento	PROPN	flat	General	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Jujuy	O
+Jujuy	Jujuy	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Matanza	O
+La	La	DET	det	Matanza	O
+Matanza	Matanza	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Pampa	O
+La	La	DET	det	Pampa	O
+Pampa	Pampa	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Plata	O
+La	La	DET	det	Plata	O
+Plata	Plata	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+del	del	ADP	case	Litoral	O
+Litoral	Litoral	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Lomas	O
+Lomas	Lomas	PROPN	flat	Universidad	O
+de	de	ADP	case	Zamora	O
+Zamora	Zamora	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Luján	O
+Luján	Luján	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Mar	O
+Mar	Mar	PROPN	flat	Universidad	O
+del	del	ADP	case	Plata	O
+Plata	Plata	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Misiones	O
+Misiones	Misiones	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+del	del	ADP	case	Nordeste	O
+Nordeste	Nordeste	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Patagonia	O
+la	lo	DET	det	Patagonia	O
+Patagonia	Patagonia	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Quilmes	O
+Quilmes	Quilmes	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Río	O
+Río	Río	PROPN	flat	Universidad	O
+Cuarto	Cuarto	PROPN	flat	Río	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Rosario	O
+Rosario	Rosario	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Salta	O
+Salta	Salta	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	San	O
+San	San	PROPN	flat	Universidad	O
+Juan	Juan	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	San	O
+San	San	PROPN	flat	Universidad	O
+Luis	Luis	PROPN	flat	San	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Tecnología	O
+Tecnología	Tecnología	PROPN	flat	Instituto	O
+Agropecuaria	Agropecuaria	PROPN	flat	Instituto	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Investigación	O
+Investigación	Investigación	PROPN	flat	Instituto	O
+y	y	CONJ	cc	Desarrollo	O
+Desarrollo	Desarrollo	PROPN	conj	Instituto	O
+Pesquero	Pesquero	PROPN	flat	Desarrollo	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Tecnología	O
+Tecnología	Tecnología	PROPN	flat	Instituto	O
+Industrial	Industrial	PROPN	flat	Instituto	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Vitivinicultura	O
+Vitivinicultura	Vitivinicultura	PROPN	flat	Instituto	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Propiedad	O
+la	lo	DET	det	Propiedad	O
+Propiedad	Propiedad	PROPN	flat	Instituto	O
+Industrial	Industrial	PROPN	flat	Propiedad	O
+
+Servicio	Servicio	PROPN	ROOT	Servicio	O
+Nacional	Nacional	PROPN	flat	Servicio	O
+de	de	ADP	case	Sanidad	O
+Sanidad	Sanidad	PROPN	flat	Servicio	O
+y	y	CONJ	cc	Calidad	O
+Calidad	Calidad	PROPN	conj	Servicio	O
+Agroalimentaria	Agroalimentaria	PROPN	flat	Calidad	O
+
+Servicio	Servicio	PROPN	ROOT	Servicio	O
+Geológico	Geológico	PROPN	flat	Servicio	O
+Minero	Minero	PROPN	flat	Servicio	O
+Argentino	Argentino	PROPN	flat	Servicio	O
+
+Consejo	Consejo	PROPN	ROOT	Consejo	O
+Nacional	Nacional	PROPN	flat	Consejo	O
+de	de	ADP	case	Investigaciones	O
+Investigaciones	Investigaciones	PROPN	flat	Consejo	O
+Científicas	Científicas	PROPN	flat	Consejo	O
+y	y	CONJ	cc	Técnicas	O
+Técnicas	Técnicas	PROPN	conj	Consejo	O
+
+Comisión	Comisión	PROPN	ROOT	Comisión	O
+Nacional	Nacional	PROPN	flat	Comisión	O
+de	de	ADP	case	Evaluación	O
+Evaluación	Evaluación	PROPN	flat	Comisión	O
+y	y	CONJ	cc	Acreditación	O
+Acreditación	Acreditación	PROPN	conj	Comisión	O
+Universitaria	Universitaria	PROPN	flat	Acreditación	O
+
+Superintendencia	Superintendencia	NOUN	ROOT	Superintendencia	O
+de	de	ADP	case	Riesgos	O
+Riesgos	Riesgos	PROPN	flat	Superintendencia	O
+del	del	ADP	case	Trabajo	O
+Trabajo	Trabajo	PROPN	nmod	Superintendencia	O
+
+Centro	Centro	PROPN	ROOT	Centro	O
+Nacional	Nacional	PROPN	flat	Centro	O
+de	de	ADP	case	Reeducación	O
+Reeducación	Reeducación	PROPN	flat	Centro	O
+Social	Social	PROPN	flat	Centro	O
+
+Hospital	Hospital	PROPN	ROOT	Hospital	O
+Nacional	Nacional	PROPN	flat	Hospital	O
+Dr	Dr	PROPN	flat	Hospital	O
+.	.	PUNCT	punct	Hospital	O
+Baldomero	Baldomero	PROPN	ROOT	Baldomero	O
+Sommer	Sommer	PROPN	flat	Baldomero	O
+Administración	Administración	PROPN	flat	Baldomero	O
+Nacional	Nacional	PROPN	flat	Baldomero	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Baldomero	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Baldomero	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Baldomero	O
+Médica	Médica	PROPN	flat	Tecnología	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+Centro	Centro	PROPN	flat	Instituto	O
+Unico	Unico	PROPN	flat	Instituto	O
+Coordinador	Coordinador	PROPN	flat	Instituto	O
+de	de	ADP	case	Ablación	O
+Ablación	Ablación	PROPN	flat	Instituto	O
+e	e	CONJ	cc	Implantes	O
+Implantes	Implantes	PROPN	conj	Instituto	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Laboratorios	O
+Laboratorios	Laboratorios	PROPN	flat	Administración	O
+e	e	CONJ	cc	Institutos	O
+Institutos	Institutos	PROPN	conj	Administración	O
+de	de	ADP	case	Salud	O
+Salud	Salud	PROPN	flat	Institutos	O
+Dr	Dr	PROPN	flat	Salud	O
+.	.	PUNCT	punct	Administración	O
+Carlos	Carlos	PROPN	ROOT	Carlos	O
+G.	G.	PROPN	flat	Carlos	O
+Malbrán	Malbrán	PROPN	flat	Carlos	O
+
+Colonia	Colonia	PROPN	ROOT	Colonia	O
+Nacional	Nacional	PROPN	flat	Colonia	O
+Dr	Dr	PROPN	flat	Colonia	O
+.	.	PUNCT	punct	Colonia	O
+Manuel	Manuel	PROPN	ROOT	Manuel	O
+A.	A.	PROPN	flat	Manuel	O
+Montes	Montes	PROPN	flat	Manuel	O
+de	de	ADP	case	Oca	O
+Oca	Oca	PROPN	flat	Manuel	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Rehabilitación	O
+Rehabilitación	Rehabilitación	PROPN	flat	Instituto	O
+Psicofísica	Psicofísica	PROPN	flat	Instituto	O
+del	del	ADP	case	Sur	O
+Sur	Sur	PROPN	flat	Instituto	O
+
+Servicio	Servicio	PROPN	ROOT	Servicio	O
+Nacional	Nacional	PROPN	flat	Servicio	O
+de	de	ADP	case	Rehabilitación	O
+Rehabilitación	Rehabilitación	PROPN	flat	Servicio	O
+y	y	CONJ	cc	Promoción	O
+Promoción	Promoción	PROPN	conj	Servicio	O
+de	de	ADP	case	Persona	O
+la	lo	DET	det	Persona	O
+Persona	Persona	PROPN	flat	Servicio	O
+con	con	ADP	case	Discapacidad	O
+Discapacidad	Discapacidad	PROPN	nmod	Servicio	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+de	de	ADP	case	Programas	O
+Programas	Programas	PROPN	flat	Administración	O
+Especiales	Especiales	PROPN	flat	Programas	O
+
+Superintendencia	Superintendencia	NOUN	ROOT	Superintendencia	O
+de	de	ADP	case	Servicios	O
+Servicios	Servicios	PROPN	flat	Superintendencia	O
+de	de	ADP	case	Salud	O
+Salud	Salud	PROPN	flat	Superintendencia	O
+
+Consejo	Consejo	PROPN	ROOT	Consejo	O
+Nacional	Nacional	PROPN	flat	Consejo	O
+de	de	ADP	case	Niñez	O
+Niñez	Niñez	PROPN	flat	Consejo	O
+,	,	PUNCT	punct	Adolescencia	O
+Adolescencia	Adolescencia	PROPN	conj	Consejo	O
+y	y	CONJ	cc	Familia	O
+Familia	Familia	PROPN	conj	Consejo	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Asociativismo	O
+Asociativismo	Asociativismo	PROPN	flat	Instituto	O
+y	y	CONJ	cc	Economía	O
+Economía	Economía	PROPN	conj	Instituto	O
+Social	Social	PROPN	flat	Economía	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Asuntos	O
+Asuntos	Asuntos	PROPN	flat	Instituto	O
+Indígenas	Indígenas	PROPN	flat	Asuntos	O
+
+Instituciones	Instituciones	NOUN	ROOT	Instituciones	O
+de	de	ADP	case	Seguridad	O
+Seguridad	Seguridad	PROPN	flat	Instituciones	O
+Social	Social	PROPN	flat	Seguridad	O
+
+Caja	Caja	PROPN	ROOT	Caja	O
+de	de	ADP	case	Retiros	O
+Retiros	Retiros	PROPN	flat	Caja	O
+,	,	PUNCT	punct	Jubilaciones	O
+Jubilaciones	Jubilaciones	PROPN	conj	Retiros	O
+y	y	CONJ	cc	Pensiones	O
+Pensiones	Pensiones	PROPN	conj	Retiros	O
+de	de	ADP	punct	Caja	O
+la	lo	DET	det	Caja	O
+
+Policía	Policía	PROPN	ROOT	Policía	O
+Federal	Federal	PROPN	flat	Policía	O
+Argentina	Argentina	PROPN	flat	Policía	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+de	de	ADP	case	Ayuda	O
+Ayuda	Ayuda	PROPN	flat	Instituto	O
+Financiera	Financiera	PROPN	flat	Ayuda	O
+para	parir	ADP	case	pago	O
+el	el	DET	det	pago	O
+pago	pagar	NOUN	nmod	Instituto	O
+de	de	ADP	punct	Instituto	O
+
+Retiros	Retiros	PROPN	ROOT	Retiros	O
+y	y	CONJ	cc	Pensiones	O
+Pensiones	Pensiones	PROPN	conj	Retiros	O
+Militares	Militares	PROPN	flat	Pensiones	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Seguridad	O
+la	lo	DET	det	Seguridad	O
+Seguridad	Seguridad	PROPN	flat	Administración	O
+Social	Social	PROPN	flat	Seguridad	O
+
+Otros	Otros	DET	det	Entes	O
+Entes	Entes	PROPN	ROOT	Entes	O
+del	del	ADP	case	Sector	O
+Sector	Sector	PROPN	flat	Entes	O
+Público	Público	PROPN	flat	Sector	O
+Nacional	Nacional	PROPN	flat	Sector	O
+no	no	ADV	advmod	Financiero	O
+Financiero	Financiero	PROPN	flat	Entes	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Santiago	O
+Santiago	Santiago	PROPN	flat	Universidad	O
+del	del	ADP	case	Estero	O
+Estero	Estero	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+del	del	ADP	case	Sur	O
+Sur	Sur	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Tecnológica	Tecnológica	PROPN	flat	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Tucumán	O
+Tucumán	Tucumán	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Rioja	O
+La	La	DET	det	Rioja	O
+Rioja	Rioja	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Lanús	O
+Lanús	Lanús	PROPN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+3	3	NUM	nummod	Universidad	O
+de	de	ADP	case	Febrero	O
+Febrero	Febrero	NOUN	flat	Universidad	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Villa	O
+Villa	Villa	PROPN	flat	Universidad	O
+María	María	PROPN	flat	Villa	O
+
+Universidad	Universidad	PROPN	ROOT	Universidad	O
+Nacional	Nacional	PROPN	flat	Universidad	O
+de	de	ADP	case	Patagonia	O
+la	lo	DET	det	Patagonia	O
+Patagonia	Patagonia	PROPN	flat	Universidad	O
+Austral	Austral	PROPN	flat	Universidad	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Universitario	Universitario	PROPN	flat	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Arte	O
+Arte	Arte	PROPN	flat	Instituto	O
+
+Superintendencia	Superintendencia	NOUN	ROOT	Superintendencia	O
+de	de	ADP	case	Administradoras	O
+Administradoras	Administradoras	PROPN	flat	Superintendencia	O
+de	de	ADP	case	Fondos	O
+Fondos	Fondos	PROPN	flat	Superintendencia	O
+de	de	ADP	case	Jubilaciones	O
+Jubilaciones	Jubilaciones	PROPN	flat	Superintendencia	O
+y	y	CONJ	cc	Pensiones	O
+Pensiones	Pensiones	PROPN	conj	Jubilaciones	O
+
+Instituto	Instituto	PROPN	ROOT	Instituto	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Servicios	O
+Servicios	Servicios	PROPN	flat	Instituto	O
+Sociales	Sociales	PROPN	flat	Servicios	O
+para	parir	ADP	case	Jubilados	O
+Jubilados	Jubilados	PROPN	nmod	Instituto	O
+y	y	CONJ	cc	Pensionados	O
+Pensionados	Pensionados	PROPN	conj	Jubilados	O
+
+

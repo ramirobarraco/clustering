@@ -1,0 +1,4140 @@
+Administración	Administración	PROPN	ROOT	Administración	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Administración	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Administración	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Administración	O
+Médica	Médica	PROPN	flat	Tecnología	O
+
+PRODUCTOS	PRODUCTOS	NOUN	nsubj	COSMETICOS	O
+COSMETICOS	COSMETICOS	PROPN	ROOT	COSMETICOS	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	O
+1112/99	1112/99	VERB	flat	Disposición	O
+
+Determínanse	Determínanse	DET	ROOT	Determínanse	O
+las	los	DET	det	limitaciones	O
+limitaciones	limitación	NOUN	nsubj	éstas	O
+que	que	PRON	nsubj	corresponden	O
+corresponden	corresponder	VERB	acl	limitaciones	O
+al	al	ADP	case	uso	O
+uso	usar	NOUN	obj	corresponden	O
+de	de	ADP	case	materias	O
+ciertas	cierto	DET	det	materias	O
+materias	materia	NOUN	nmod	uso	O
+primas	primo	ADJ	amod	materias	O
+que	que	PRON	nsubj	utilizarse	O
+pueden	poder	AUX	aux	utilizarse	O
+utilizarse	utilizarse	VERB	acl	materias	O
+en	en	ADP	case	Productos	O
+Productos	Productos	PROPN	obl	utilizarse	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Productos	O
+Personal	Personal	PROPN	flat	Higiene	O
+,	,	PUNCT	punct	Cosméticos	O
+Cosméticos	Cosméticos	PROPN	conj	Productos	O
+y	y	CONJ	cc	Perfumes	O
+Perfumes	Perfumes	PROPN	conj	Productos	O
+sean	ser	AUX	cop	éstas	O
+éstas	este	PRON	nsubj	Determínanse	O
+de	de	ADP	case	elaboración	O
+elaboración	elaboración	NOUN	nmod	éstas	O
+nacional	nacional	ADJ	amod	elaboración	O
+o	o	CONJ	cc	importadas	O
+importadas	importar	ADJ	conj	nacional	O
+.	.	PUNCT	punct	Determínanse	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	15/3/99	O
+15/3/99	15/3/99	NOUN	ROOT	15/3/99	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	VISTO	O
+4	4	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	O
+(	(	PUNCT	punct	M.S.	O
+M.S.	M.S.	PROPN	appos	artículo	O
+y	y	CONJ	cc	A.S.	O
+A.S.	A.S.	PROPN	conj	M.S.	O
+)	)	PUNCT	punct	M.S.	O
+N	N	PROPN	appos	artículo	O
+°	°	PROPN	flat	N	O
+155/92	155/92	NUM	nummod	N	O
+que	que	PRON	nsubj	establece	O
+establece	establecer	VERB	acl	artículo	O
+que	que	SCONJ	mark	determinar	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	nsubj	determinar	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Administración	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Administración	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Administración	O
+Médica	Médica	PROPN	flat	Tecnología	O
+(	(	PUNCT	punct	ANMAT	O
+ANMAT	ANMAT	PROPN	flat	Administración	O
+)	)	PUNCT	punct	ANMAT	O
+deberá	deber	AUX	aux	determinar	O
+determinar	determinar	VERB	xcomp	establece	O
+las	los	DET	det	limitaciones	O
+limitaciones	limitación	NOUN	obj	determinar	O
+que	que	PRON	nsubj	corresponden	O
+corresponden	corresponder	VERB	acl	limitaciones	O
+al	al	ADP	case	uso	O
+uso	usar	NOUN	obj	corresponden	O
+de	de	ADP	case	materias	O
+ciertas	cierto	DET	det	materias	O
+materias	materia	NOUN	nmod	uso	O
+primas	primo	ADJ	amod	materias	O
+que	que	PRON	nsubj	utilizarse	O
+pueden	poder	AUX	aux	utilizarse	O
+utilizarse	utilizarse	VERB	acl	materias	O
+en	en	ADP	case	Productos	O
+Productos	Productos	PROPN	obl	utilizarse	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Productos	O
+Personal	Personal	PROPN	flat	Higiene	O
+,	,	PUNCT	punct	Cosméticos	O
+Cosméticos	Cosméticos	PROPN	conj	Productos	O
+y	y	CONJ	cc	Perfumes	O
+Perfumes	Perfumes	PROPN	conj	Productos	O
+sean	ser	AUX	cop	éstas	O
+éstas	este	PRON	advcl	VISTO	O
+de	de	ADP	case	elaboración	O
+elaboración	elaboración	NOUN	nmod	éstas	O
+nacional	nacional	ADJ	amod	elaboración	O
+o	o	CONJ	cc	importadas	O
+importadas	importar	ADJ	conj	nacional	O
+;	;	PUNCT	punct	VISTO	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	advmod	especifica	O
+el	el	DET	det	artículo	O
+citado	citar	ADJ	amod	artículo	O
+artículo	artículo	NOUN	nsubj	especifica	O
+especifica	especificar	VERB	ROOT	especifica	O
+la	lo	DET	det	necesidad	O
+necesidad	necesidad	NOUN	obj	especifica	O
+de	de	ADP	mark	establecer	O
+establecer	establecer	VERB	acl	necesidad	O
+los	lo	DET	det	listados	O
+siguientes	siguiente	ADJ	amod	listados	O
+listados	listar	ADJ	obj	establecer	O
+:	:	PUNCT	punct	a	O
+a	a	NOUN	advmod	especifica	O
+)	)	PUNCT	punct	a	O
+Lista	Lista	PROPN	obj	especifica	O
+de	de	ADP	case	Sustancias	O
+Sustancias	Sustancias	PROPN	flat	Lista	O
+Prohibidas	Prohibidas	PROPN	flat	Sustancias	O
+;	;	PUNCT	punct	b	O
+b	b	SYM	conj	Lista	O
+)	)	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	flat	Lista	O
+de	de	ADP	case	Sustancias	O
+Sustancias	Sustancias	PROPN	flat	Lista	O
+de	de	ADP	case	Uso	O
+Uso	Uso	PROPN	flat	Lista	O
+Limitado	Limitado	PROPN	flat	Uso	O
+;	;	PUNCT	punct	p	O
+p	página	SYM	conj	Lista	O
+)	)	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	flat	Lista	O
+de	de	ADP	case	Colorantes	O
+Colorantes	Colorantes	PROPN	flat	Lista	O
+Autorizados	Autorizados	PROPN	flat	Colorantes	O
+;	;	PUNCT	punct	d	O
+d	d	NOUN	obl	especifica	O
+)	)	PUNCT	punct	especifica	O
+Lista	Lista	PROPN	obj	especifica	O
+de	de	ADP	case	Conservadores	O
+Conservadores	Conservadores	PROPN	flat	Lista	O
+autorizados	autorizar	ADJ	amod	Lista	O
+;	;	PUNCT	punct	Lista	O
+e	e	CONJ	cc	Lista	O
+)	)	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	conj	especifica	O
+de	de	ADP	case	Filtros	O
+Filtros	Filtros	PROPN	flat	Lista	O
+Solares	Solares	PROPN	flat	Filtros	O
+y	y	CONJ	cc	Absorbedores	O
+Absorbedores	Absorbedores	PROPN	conj	Filtros	O
+de	de	ADP	case	Radiación	O
+Radiación	Radiación	PROPN	flat	Absorbedores	O
+UV	UV	PROPN	flat	Radiación	O
+(	(	PUNCT	punct	Ultravioleta	O
+Ultravioleta	Ultravioleta	PROPN	flat	Lista	O
+)	)	PUNCT	punct	Ultravioleta	O
+.	.	PUNCT	punct	especifica	O
+
+Que	Que	SCONJ	mark	necesario	O
+para	parir	ADP	mark	proceder	O
+proceder	proceder	VERB	advcl	necesario	O
+a	a	ADP	case	admisión	O
+la	lo	DET	det	admisión	O
+admisión	admisión	NOUN	obj	proceder	O
+automática	automático	ADJ	amod	admisión	O
+o	o	CONJ	cc	evaluación	O
+con	con	ADP	case	evaluación	O
+evaluación	evaluación	NOUN	conj	admisión	O
+de	de	ADP	case	Productos	O
+los	lo	DET	det	Productos	O
+Productos	Productos	PROPN	nmod	evaluación	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Productos	O
+Personal	Personal	PROPN	flat	Higiene	O
+,	,	PUNCT	punct	Cosméticos	O
+Cosméticos	Cosméticos	PROPN	conj	Productos	O
+y	y	CONJ	cc	Perfumes	O
+Perfumes	Perfumes	PROPN	conj	Productos	O
+es	ser	AUX	cop	necesario	O
+necesario	necesario	ADJ	ROOT	necesario	O
+la	lo	DET	det	confección	O
+confección	confección	NOUN	nsubj	necesario	O
+de	de	ADP	case	listados	O
+estos	este	DET	det	listados	O
+listados	listar	NOUN	nmod	confección	O
+.	.	PUNCT	punct	necesario	O
+
+Que	Que	SCONJ	mark	tenerse	O
+en	en	ADP	case	elaboración	O
+la	lo	DET	det	elaboración	O
+elaboración	elaboración	NOUN	obl	tenerse	O
+de	de	ADP	case	listados	O
+estos	este	DET	det	listados	O
+listados	listar	NOUN	nmod	elaboración	O
+deberá	deber	AUX	aux	tenerse	O
+tenerse	tenerse	VERB	ROOT	tenerse	O
+en	en	ADP	case	cuenta	O
+cuenta	contar	NOUN	compound	tenerse	O
+los	lo	DET	det	armonizados	O
+armonizados	armonizar	ADJ	obj	tenerse	O
+en	en	ADP	case	ámbito	O
+el	el	DET	det	ámbito	O
+ámbito	ámbito	NOUN	nmod	armonizados	O
+del	del	ADP	case	Mercado	O
+Mercado	Mercado	PROPN	nmod	ámbito	O
+Común	Común	PROPN	flat	Mercado	O
+del	del	ADP	case	Sur	O
+Sur	Sur	PROPN	flat	Mercado	O
+,	,	PUNCT	punct	confeccionados	O
+que	que	PRON	nsubj	confeccionados	O
+fueron	ser	AUX	aux	confeccionados	O
+confeccionados	confeccionar	VERB	acl	ámbito	O
+a	a	ADP	case	listas	O
+partir	partir	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+listas	listo	NOUN	obl	confeccionados	O
+similares	similar	ADJ	amod	vigentes	O
+vigentes	vigente	ADJ	amod	listas	O
+en	en	ADP	case	Unión	O
+la	lo	DET	det	Unión	O
+Unión	Unión	PROPN	nmod	vigentes	O
+Europea	Europea	PROPN	flat	Unión	O
+(	(	PUNCT	punct	Cosmetic	O
+Cosmetic	Cosmetic	PROPN	flat	Unión	O
+Directive	Directive	PROPN	flat	Cosmetic	O
+76/768	76/768	VERB	flat	Cosmetic	O
+E.E.U.	E.E.U.	PROPN	flat	Cosmetic	O
+Anexos	Anexos	PROPN	flat	Cosmetic	O
+y	y	CONJ	cc	Actualizaciones	O
+Actualizaciones	Actualizaciones	PROPN	conj	Cosmetic	O
+)	)	PUNCT	punct	Cosmetic	O
+y	y	CONJ	cc	prohibidas	O
+no	no	ADV	advmod	prohibidas	O
+prohibidas	prohibir	ADJ	conj	confeccionados	O
+por	por	ADP	case	Food	O
+la	lo	DET	det	Food	O
+Food	Food	PROPN	obj	prohibidas	O
+and	and	PROPN	flat	Food	O
+Drug	Drug	PROPN	flat	Food	O
+Administration	Administration	PROPN	flat	Drug	O
+de	de	ADP	case	EE.UU	O
+los	lo	DET	det	EE.UU	O
+EE.UU	EE.UU	PROPN	flat	Food	O
+.	.	PUNCT	punct	tenerse	O
+y	y	CONJ	cc	existencia	O
+la	lo	DET	det	existencia	O
+existencia	existencia	NOUN	ROOT	existencia	O
+de	de	ADP	case	ingredientes	O
+ciertos	cierto	DET	det	ingredientes	O
+ingredientes	ingrediente	NOUN	nmod	existencia	O
+observados	observar	ADJ	amod	ingredientes	O
+en	en	ADP	case	ámbito	O
+el	el	DET	det	ámbito	O
+ámbito	ámbito	NOUN	obl	observados	O
+nacional	nacional	ADJ	amod	ámbito	O
+.	.	PUNCT	punct	existencia	O
+
+Que	Que	SCONJ	mark	realizarse	O
+en	en	ADP	case	actualización	O
+la	lo	DET	det	actualización	O
+actualización	actualización	NOUN	obl	realizarse	O
+de	de	ADP	case	listados	O
+estos	este	DET	det	listados	O
+listados	listar	NOUN	nmod	actualización	O
+debe	deber	AUX	aux	realizarse	O
+realizarse	realizarse	VERB	ROOT	realizarse	O
+mediante	mediante	ADP	case	revisión	O
+una	uno	DET	det	revisión	O
+revisión	revisión	NOUN	obl	realizarse	O
+periódica	periódico	ADJ	amod	revisión	O
+y	y	CONJ	cc	introducir	O
+así	asir	ADV	advmod	introducir	O
+introducir	introducir	VERB	conj	realizarse	O
+las	los	DET	det	modificaciones	O
+modificaciones	modificación	NOUN	obj	introducir	O
+que	que	PRON	obj	considere	O
+se	se	PRON	obj	considere	O
+considere	considerar	VERB	acl	modificaciones	O
+oportuno	oportuno	ADJ	obj	considere	O
+realizar	realizar	VERB	csubj	considere	O
+.	.	PUNCT	punct	realizarse	O
+
+Que	Que	SCONJ	mark	tomado	O
+el	el	DET	det	Instituto	O
+Instituto	Instituto	PROPN	nsubj	tomado	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Instituto	O
+y	y	CONJ	cc	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	conj	Instituto	O
+de	de	ADP	case	Asuntos	O
+Asuntos	Asuntos	PROPN	flat	Dirección	O
+Jurídicos	Jurídicos	PROPN	flat	Asuntos	O
+han	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+de	de	ADP	case	competencia	O
+su	su	DET	det	competencia	O
+competencia	competencia	NOUN	nmod	intervención	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	actúa	O
+se	se	PRON	obj	actúa	O
+actúa	actuar	VERB	ROOT	actúa	O
+en	en	ADP	case	facultades	O
+virtud	virtud	NOUN	fixed	en	O
+de	de	ADP	fixed	en	O
+las	los	DET	det	facultades	O
+facultades	facultad	NOUN	obl	actúa	O
+conferidas	conferir	ADJ	amod	facultades	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	conferidas	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+,	,	PUNCT	punct	incisos	O
+incisos	inciso	ADJ	appos	artículo	O
+c	c	CONJ	nmod	incisos	O
+)	)	PUNCT	punct	incisos	O
+y	y	CONJ	cc	e	O
+e	e	CONJ	conj	artículo	O
+)	)	PUNCT	punct	e	O
+y	y	CONJ	cc	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	conj	artículo	O
+8	8	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+,	,	PUNCT	punct	inciso	O
+inciso	inciso	VERB	advcl	actúa	O
+11	11	NUM	obj	inciso	O
+)	)	PUNCT	punct	inciso	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	obl	inciso	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+1490/92	1490/92	NOUN	flat	Decreto	O
+.	.	PUNCT	punct	actúa	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+;	;	PUNCT	punct	ello	O
+
+EL	EL	DET	det	DIRECTOR	O
+DIRECTOR	DIRECTOR	NOUN	ROOT	DIRECTOR	O
+NACIONAL	NACIONAL	ADJ	amod	DIRECTOR	O
+DE	DE	ADP	case	ADMINISTRACION	O
+LA	LA	DET	det	ADMINISTRACION	O
+ADMINISTRACION	ADMINISTRACION	NOUN	nmod	DIRECTOR	O
+NACIONAL	NACIONAL	ADJ	flat	DIRECTOR	O
+DE	DE	ADP	case	MEDICAMENTOS	O
+MEDICAMENTOS	MEDICAMENTOS	NOUN	nmod	DIRECTOR	O
+,	,	PUNCT	punct	ALIMENTOS	O
+ALIMENTOS	ALIMENTOS	NOUN	appos	DIRECTOR	O
+Y	Y	CONJ	cc	TECNOLOGIA	O
+TECNOLOGIA	TECNOLOGIA	NOUN	conj	DIRECTOR	O
+MEDICA	MEDICA	ADJ	flat	TECNOLOGIA	O
+
+DISPONE	DISPONE	NOUN	ROOT	DISPONE	O
+:	:	PUNCT	punct	DISPONE	O
+
+Artículo	Artículo	PROPN	nsubj	mencionan	O
+1	1	NUM	nummod	Artículo	O
+°	°	PROPN	flat	Artículo	O
+—	—	PROPN	flat	Artículo	O
+En	En	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nmod	Artículo	O
+I	I	CONJ	flat	Anexo	O
+"	"	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	flat	Anexo	O
+de	de	ADP	case	Sustancias	O
+Sustancias	Sustancias	PROPN	flat	Lista	O
+Prohibidas	Prohibidas	PROPN	flat	Sustancias	O
+"	"	PUNCT	punct	Lista	O
+se	se	PRON	obj	mencionan	O
+mencionan	mencionar	VERB	ROOT	mencionan	O
+aquellas	aquel	DET	det	materias	O
+materias	materia	NOUN	nsubj	mencionan	O
+primas	primo	ADJ	amod	materias	O
+que	que	PRON	nsubj	circunstancia	O
+no	no	ADV	advmod	circunstancia	O
+pueden	poder	AUX	punct	no	O
+bajo	bajar	ADP	case	circunstancia	O
+ninguna	ninguno	DET	det	circunstancia	O
+circunstancia	circunstancia	NOUN	acl	materias	O
+,	,	PUNCT	punct	Cosméticos	O
+ser	ser	AUX	aux	utilizadas	O
+utilizadas	utilizar	VERB	advcl	mencionan	O
+en	en	ADP	case	formulación	O
+la	lo	DET	det	formulación	O
+formulación	formulación	NOUN	obl	utilizadas	O
+de	de	ADP	case	Productos	O
+Productos	Productos	PROPN	nmod	formulación	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Productos	O
+Personal	Personal	PROPN	flat	Higiene	O
+,	,	PUNCT	punct	Cosméticos	O
+Cosméticos	Cosméticos	PROPN	conj	Productos	O
+y	y	CONJ	cc	Perfumes	O
+Perfumes	Perfumes	PROPN	conj	Productos	O
+.	.	PUNCT	punct	mencionan	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2º	2º	PUNCT	punct	detalla	O
+—	—	PROPN	nsubj	detalla	O
+En	En	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nmod	—	O
+II	II	PROPN	flat	Anexo	O
+se	se	PRON	obj	detalla	O
+detalla	detallar	VERB	ROOT	detalla	O
+la	lo	DET	det	Lista	O
+"	"	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	nsubj	detalla	O
+de	de	ADP	case	Sustancias	O
+Sustancias	Sustancias	PROPN	flat	Lista	O
+de	de	ADP	case	Uso	O
+Uso	Uso	PROPN	flat	Lista	O
+Limitado	Limitado	PROPN	flat	Uso	O
+"	"	PUNCT	punct	Lista	O
+,	,	PUNCT	punct	utilizadas	O
+las	los	DET	det	cuales	O
+cuales	cual	PRON	nsubj	utilizadas	O
+pueden	poder	AUX	aux	utilizadas	O
+ser	ser	AUX	aux	utilizadas	O
+utilizadas	utilizar	VERB	acl	Lista	O
+hasta	hasta	ADP	case	porcentajes	O
+los	lo	DET	det	porcentajes	O
+máximos	máximo	ADJ	amod	porcentajes	O
+porcentajes	porcentaje	NOUN	obl	utilizadas	O
+indicados	indicar	ADJ	amod	porcentajes	O
+para	parir	ADP	case	usos	O
+los	lo	DET	det	usos	O
+usos	uso	NOUN	obl	indicados	O
+determinados	determinar	ADJ	amod	usos	O
+y	y	CONJ	cc	limitaciones	O
+con	con	ADP	case	limitaciones	O
+las	los	DET	det	limitaciones	O
+limitaciones	limitación	NOUN	conj	determinados	O
+y	y	CONJ	cc	condiciones	O
+condiciones	condicionar	NOUN	conj	limitaciones	O
+que	que	PRON	nsubj	indiquen	O
+en	en	ADP	case	misma	O
+la	lo	DET	det	misma	O
+misma	mismo	PRON	obl	indiquen	O
+se	se	PRON	obj	indiquen	O
+indiquen	indicar	VERB	acl	limitaciones	O
+.	.	PUNCT	punct	detalla	O
+
+Se	Se	PRON	obj	tener	O
+deberán	deber	AUX	aux	tener	O
+tener	tener	VERB	ROOT	tener	O
+en	en	ADP	case	cuenta	O
+cuenta	contar	NOUN	compound	tener	O
+las	los	DET	det	advertencias	O
+advertencias	advertencia	NOUN	nsubj	tener	O
+en	en	ADP	case	rotulado	O
+el	el	DET	det	rotulado	O
+rotulado	rotular	NOUN	nmod	advertencias	O
+de	de	ADP	case	productos	O
+los	lo	DET	det	productos	O
+productos	producto	NOUN	nmod	rotulado	O
+en	en	ADP	case	que	O
+que	que	PRON	obl	utilicen	O
+se	se	PRON	obj	utilicen	O
+utilicen	utilizar	VERB	acl	productos	O
+.	.	PUNCT	punct	tener	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	nsubj	detalla	O
+—	—	PROPN	appos	°	O
+En	En	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nmod	°	O
+III	III	PROPN	flat	Anexo	O
+se	se	PRON	obj	detalla	O
+detalla	detallar	VERB	ROOT	detalla	O
+la	lo	DET	det	Lista	O
+"	"	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	obj	detalla	O
+de	de	ADP	case	Colorantes	O
+Colorantes	Colorantes	PROPN	flat	Lista	O
+Autorizados	Autorizados	PROPN	flat	Lista	O
+"	"	PUNCT	punct	Lista	O
+que	que	PRON	nsubj	admitidos	O
+son	ser	AUX	cop	admitidos	O
+los	lo	DET	det	admitidos	O
+admitidos	admitir	ADJ	acl	Lista	O
+para	parir	ADP	mark	utilizados	O
+ser	ser	AUX	aux	utilizados	O
+utilizados	utilizar	VERB	advcl	admitidos	O
+como	comer	SCONJ	mark	tales	O
+tales	talar	PRON	obl	utilizados	O
+,	,	PUNCT	punct	área	O
+de	de	ADP	case	área	O
+acuerdo	acordar	NOUN	fixed	de	O
+con	con	ADP	fixed	de	O
+el	el	DET	det	área	O
+área	área	NOUN	obl	utilizados	O
+de	de	ADP	case	aplicación	O
+aplicación	aplicación	NOUN	nmod	área	O
+,	,	PUNCT	punct	Productos	O
+en	en	ADP	case	Productos	O
+los	lo	DET	det	Productos	O
+Productos	Productos	PROPN	nmod	área	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Productos	O
+Personal	Personal	PROPN	flat	Higiene	O
+,	,	PUNCT	punct	Cosméticos	O
+Cosméticos	Cosméticos	PROPN	conj	Higiene	O
+y	y	CONJ	cc	Perfumes	O
+Perfumes	Perfumes	PROPN	conj	Higiene	O
+.	.	PUNCT	punct	detalla	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4	4	NUM	nummod	°	O
+°	°	PROPN	nsubj	detalla	O
+—	—	PROPN	appos	°	O
+En	En	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nmod	°	O
+IV	IV	PROPN	flat	Anexo	O
+se	se	PRON	obj	detalla	O
+detalla	detallar	VERB	ROOT	detalla	O
+la	lo	DET	det	Lista	O
+"	"	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	obj	detalla	O
+de	de	ADP	case	Conservadores	O
+Conservadores	Conservadores	PROPN	flat	Lista	O
+Autorizados	Autorizados	PROPN	flat	Conservadores	O
+"	"	PUNCT	punct	Lista	O
+que	que	PRON	nsubj	admitidos	O
+son	ser	AUX	cop	admitidos	O
+los	lo	DET	det	admitidos	O
+admitidos	admitir	ADJ	acl	Lista	O
+para	parir	ADP	mark	utilizados	O
+ser	ser	AUX	aux	utilizados	O
+utilizados	utilizar	VERB	advcl	admitidos	O
+como	comer	SCONJ	mark	tales	O
+tales	talar	PRON	obl	utilizados	O
+,	,	PUNCT	punct	considerando	O
+considerando	considerar	VERB	advcl	utilizados	O
+los	lo	DET	det	porcentajes	O
+porcentajes	porcentaje	NOUN	obj	considerando	O
+de	de	ADP	case	sustancia	O
+sustancia	sustanciar	NOUN	nmod	porcentajes	O
+activa	activo	ADJ	amod	sustancia	O
+máximos	máximo	ADJ	advmod	considerando	O
+indicados	indicar	ADJ	amod	máximos	O
+.	.	PUNCT	punct	detalla	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+5	5	NUM	nummod	°	O
+°	°	PROPN	nsubj	detalla	O
+—	—	PROPN	appos	°	O
+En	En	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nmod	°	O
+V	V	PROPN	flat	Anexo	O
+se	se	PRON	obj	detalla	O
+detalla	detallar	VERB	ROOT	detalla	O
+la	lo	DET	det	Lista	O
+"	"	PUNCT	punct	Lista	O
+Lista	Lista	PROPN	obj	detalla	O
+de	de	ADP	case	Filtros	O
+Filtros	Filtros	PROPN	flat	Lista	O
+Solares	Solares	PROPN	flat	Filtros	O
+y	y	CONJ	cc	Absorbedores	O
+Absorbedores	Absorbedores	PROPN	conj	Lista	O
+de	de	ADP	case	Radiación	O
+Radiación	Radiación	PROPN	flat	Absorbedores	O
+UV	UV	PROPN	flat	Radiación	O
+(	(	PUNCT	punct	Ultravioleta	O
+Ultravioleta	Ultravioleta	PROPN	flat	Absorbedores	O
+)	)	PUNCT	punct	Ultravioleta	O
+"	"	PUNCT	punct	admitidos	O
+que	que	PRON	nsubj	admitidos	O
+son	ser	AUX	cop	admitidos	O
+los	lo	DET	det	admitidos	O
+admitidos	admitir	ADJ	acl	Lista	O
+para	parir	ADP	mark	utilizados	O
+ser	ser	AUX	aux	utilizados	O
+utilizados	utilizar	VERB	advcl	admitidos	O
+con	con	ADP	case	fin	O
+tal	tal	NOUN	fixed	con	O
+fin	fin	NOUN	obl	utilizados	O
+,	,	PUNCT	punct	considerando	O
+considerando	considerar	VERB	advcl	utilizados	O
+los	lo	DET	det	porcentajes	O
+porcentajes	porcentaje	NOUN	obj	considerando	O
+de	de	ADP	case	sustancia	O
+sustancia	sustanciar	NOUN	nmod	porcentajes	O
+activa	activo	ADJ	amod	sustancia	O
+máximos	máximo	ADJ	advmod	considerando	O
+indicados	indicar	ADJ	amod	máximos	O
+.	.	PUNCT	punct	detalla	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+6º	6º	NUM	nsubj	revisados	O
+—	—	PROPN	flat	6º	O
+Los	Los	DET	det	Listados	O
+Listados	Listados	PROPN	nsubj	revisados	O
+que	que	PRON	nsubj	corresponden	O
+corresponden	corresponder	VERB	acl	Listados	O
+a	a	ADP	case	Anexos	O
+los	lo	DET	det	Anexos	O
+Anexos	Anexos	PROPN	obj	corresponden	O
+de	de	ADP	case	Disposición	O
+la	lo	DET	det	Disposición	O
+presente	presentar	ADJ	amod	Disposición	O
+Disposición	Disposición	PROPN	flat	Anexos	O
+serán	ser	AUX	aux	revisados	O
+revisados	revisar	VERB	ROOT	revisados	O
+periódicamente	periódicamente	ADV	advmod	revisados	O
+a	a	ADP	mark	introducir	O
+fin	fin	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+introducir	introducir	VERB	xcomp	revisados	O
+las	los	DET	det	modificaciones	O
+modificaciones	modificación	NOUN	obj	introducir	O
+que	que	PRON	nsubj	necesarias	O
+sean	ser	AUX	cop	necesarias	O
+necesarias	necesario	ADJ	acl	modificaciones	O
+.	.	PUNCT	punct	revisados	O
+Para	Para	ADP	case	ello	O
+ello	él	PRON	obl	constituirá	O
+,	,	PUNCT	punct	ello	O
+ANMAT	ANMAT	PROPN	nsubj	constituirá	O
+constituirá	constituir	VERB	ROOT	constituirá	O
+una	uno	DET	det	Comisión	O
+Comisión	Comisión	PROPN	obj	constituirá	O
+Científico	Científico	PROPN	flat	Comisión	O
+-	-	PUNCT	punct	Técnica	O
+Técnica	Técnica	PROPN	appos	Comisión	O
+integrada	integrar	ADJ	amod	Técnica	O
+por	por	ADP	case	profesionales	O
+profesionales	profesional	NOUN	obj	integrada	O
+del	del	ADP	case	INAME	O
+INAME	INAME	PROPN	nmod	profesionales	O
+y	y	CONJ	cc	Cámara	O
+de	de	ADP	case	Cámara	O
+la	lo	DET	det	Cámara	O
+Cámara	Cámara	PROPN	conj	INAME	O
+Argentina	Argentina	PROPN	flat	Cámara	O
+de	de	ADP	case	Industria	O
+la	lo	DET	det	Industria	O
+Industria	Industria	PROPN	flat	Cámara	O
+de	de	ADP	case	Productos	O
+Productos	Productos	PROPN	flat	Cámara	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Cámara	O
+y	y	CONJ	cc	Tocador	O
+Tocador	Tocador	PROPN	conj	Higiene	O
+y	y	CONJ	cc	Asociación	O
+de	de	ADP	case	Asociación	O
+Asociación	Asociación	PROPN	conj	Cámara	O
+Argentina	Argentina	PROPN	flat	Asociación	O
+de	de	ADP	case	Químicos	O
+Químicos	Químicos	PROPN	flat	Asociación	O
+Cosméticos	Cosméticos	PROPN	flat	Asociación	O
+que	que	PRON	nsubj	colaborará	O
+colaborará	colaborar	VERB	acl	Técnica	O
+en	en	ADP	case	evaluación	O
+la	lo	DET	det	evaluación	O
+evaluación	evaluación	NOUN	obl	colaborará	O
+y	y	CONJ	cc	revisión	O
+revisión	revisión	NOUN	conj	evaluación	O
+de	de	ADP	case	Listados	O
+estos	este	DET	det	Listados	O
+Listados	Listados	PROPN	nmod	evaluación	O
+.	.	PUNCT	punct	constituirá	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+7	7	NUM	nummod	°	O
+°	°	PROPN	nsubj	hará	O
+—	—	PROPN	appos	°	O
+El	El	DET	det	incumplimiento	O
+incumplimiento	incumplimiento	NOUN	appos	°	O
+de	de	ADP	case	preceptos	O
+los	lo	DET	det	preceptos	O
+preceptos	precepto	NOUN	nmod	incumplimiento	O
+establecidos	establecer	ADJ	amod	preceptos	O
+por	por	ADP	case	Disposición	O
+esta	este	DET	det	Disposición	O
+Disposición	Disposición	PROPN	obj	establecidos	O
+,	,	PUNCT	punct	°	O
+hará	hacer	VERB	ROOT	hará	O
+pasible	pasible	ADJ	iobj	hará	O
+a	a	ADP	mark	resulten	O
+quienes	quien	PRON	nsubj	resulten	O
+resulten	resultar	VERB	ccomp	hará	O
+responsables	responsable	NOUN	obj	resulten	O
+de	de	ADP	case	sanciones	O
+las	los	DET	det	sanciones	O
+sanciones	sancionar	NOUN	nmod	responsables	O
+previstas	prever	ADJ	amod	sanciones	O
+en	en	ADP	case	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	previstas	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+141/53	141/53	NUM	appos	Decreto	O
+,	,	PUNCT	punct	actualizaciones	O
+y	y	CONJ	cc	actualizaciones	O
+sus	su	DET	det	actualizaciones	O
+actualizaciones	actualización	NOUN	conj	resulten	O
+(	(	PUNCT	punct	Decreto	O
+Decreto	Decreto	PROPN	appos	actualizaciones	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+341/92	341/92	PROPN	nummod	Decreto	O
+)	)	PUNCT	punct	Decreto	O
+;	;	PUNCT	punct	hará	O
+sin	sin	ADP	mark	correspondiere	O
+perjuicio	perjuicio	NOUN	fixed	sin	O
+de	de	ADP	case	que	O
+las	los	DET	det	que	O
+que	que	PRON	iobj	correspondiere	O
+correspondiere	corresponder	VERB	advcl	hará	O
+instruir	instruir	AUX	aux	constituyera	O
+si	si	SCONJ	mark	constituyera	O
+la	lo	DET	det	conducta	O
+conducta	conducta	NOUN	nsubj	constituyera	O
+evidenciada	evidenciar	ADJ	amod	conducta	O
+constituyera	constituir	VERB	ccomp	correspondiere	O
+un	uno	DET	det	ilícito	O
+ilícito	ilícito	NOUN	obj	constituyera	O
+tipificado	tipificar	ADJ	amod	ilícito	O
+por	por	ADP	case	Código	O
+el	el	DET	det	Código	O
+Código	Código	PROPN	obj	tipificado	O
+Penal	Penal	PROPN	flat	Código	O
+.	.	PUNCT	punct	hará	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+8	8	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Comuníquese	Comuníquese	PROPN	flat	—	O
+a	a	ADP	case	Asociación	O
+la	lo	DET	det	Asociación	O
+Asociación	Asociación	PROPN	nmod	°	O
+Argentina	Argentina	PROPN	flat	Asociación	O
+de	de	ADP	case	Químicos	O
+Químicos	Químicos	PROPN	flat	Asociación	O
+Cosméticos	Cosméticos	PROPN	flat	Asociación	O
+,	,	PUNCT	punct	Cámara	O
+a	a	ADP	case	Cámara	O
+la	lo	DET	det	Cámara	O
+Cámara	Cámara	PROPN	nmod	°	O
+Argentina	Argentina	PROPN	flat	Cámara	O
+de	de	ADP	case	Industria	O
+la	lo	DET	det	Industria	O
+Industria	Industria	PROPN	flat	Cámara	O
+de	de	ADP	case	Productos	O
+Productos	Productos	PROPN	flat	Cámara	O
+de	de	ADP	case	Higiene	O
+Higiene	Higiene	PROPN	flat	Cámara	O
+y	y	CONJ	cc	Tocador	O
+Tocador	Tocador	PROPN	conj	Higiene	O
+y	y	CONJ	cc	entidades	O
+demás	demás	DET	det	entidades	O
+entidades	entidad	NOUN	conj	Cámara	O
+relacionadas	relacionar	ADJ	amod	entidades	O
+.	.	PUNCT	punct	°	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+9	9	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Anótese	Anótese	PROPN	flat	—	O
+,	,	PUNCT	punct	notifíquese	O
+notifíquese	notifíquese	CONJ	appos	—	O
+a	a	ADP	case	quienes	O
+quienes	quien	PRON	nsubj	corresponda	O
+corresponda	corresponder	VERB	acl	notifíquese	O
+.	.	PUNCT	punct	°	O
+Dése	Dése	ADV	ROOT	Dése	O
+a	a	ADP	case	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	obj	Dése	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	flat	Dirección	O
+Oficial	Oficial	PROPN	flat	Dirección	O
+para	parir	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	obl	Dése	O
+;	;	PUNCT	punct	cumplido	O
+cumplido	cumplir	ADJ	conj	Dése	O
+,	,	PUNCT	punct	archívese	O
+archívese	archívese	VERB	advmod	Dése	O
+.	.	PUNCT	punct	Dése	O
+PERMANENTE	PERMANENTE	PROPN	ROOT	PERMANENTE	O
+.	.	PUNCT	punct	PERMANENTE	O
+—	—	PROPN	ROOT	—	O
+Pablo	Pablo	PROPN	flat	—	O
+M.	M.	PROPN	flat	—	O
+Bazerque	Bazerque	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+I	I	CONJ	flat	ANEXO	O
+
+LISTA	LISTA	NOUN	ROOT	LISTA	O
+DE	DE	ADP	case	SUSTANCIAS	O
+SUSTANCIAS	SUSTANCIAS	PROPN	nmod	LISTA	O
+PROHIBIDAS	PROHIBIDAS	PROPN	appos	LISTA	O
+
+(	(	PUNCT	punct	*	O
+*	*	NUM	obl	nombradas	O
+)	)	PUNCT	punct	*	O
+Las	Las	DET	det	sustancias	O
+sustancias	sustanciar	NOUN	nsubj	nombradas	O
+acompañadas	acompañar	ADJ	amod	sustancias	O
+por	por	ADP	case	símbolo	O
+este	este	DET	det	símbolo	O
+símbolo	símbolo	NOUN	obj	acompañadas	O
+han	haber	AUX	aux	nombradas	O
+sido	ser	AUX	aux	nombradas	O
+nombradas	nombrar	VERB	ROOT	nombradas	O
+con	con	ADP	case	nombre	O
+el	el	DET	det	nombre	O
+nombre	nombrar	NOUN	obl	nombradas	O
+castellanizado	castellanizar	ADJ	amod	nombre	O
+del	del	ADP	case	International	O
+International	International	PROPN	nmod	nombre	O
+Non	Non	PROPN	flat	International	O
+-	-	PUNCT	punct	propietary	O
+propietary	propietary	NOUN	appos	International	O
+Name	Name	PROPN	appos	propietary	O
+,	,	PUNCT	punct	propietary	O
+por	por	ADP	mark	entenderse	O
+entenderse	entenderse	VERB	advcl	nombradas	O
+que	que	SCONJ	mark	conocidas	O
+son	ser	AUX	cop	conocidas	O
+comúnmente	comúnmente	ADV	advmod	conocidas	O
+conocidas	conocido	ADJ	ccomp	entenderse	O
+bajo	bajar	ADP	case	denominación	O
+tal	tal	DET	det	denominación	O
+denominación	denominación	NOUN	obl	conocidas	O
+.	.	PUNCT	punct	nombradas	O
+
+1	1	NUM	nummod	N-5-Clorobenzoxazol-2il	O
+N-5-Clorobenzoxazol-2il	N-5-Clorobenzoxazol-2il	PROPN	ROOT	N-5-Clorobenzoxazol-2il	O
+-	-	PUNCT	punct	acetamida	O
+acetamida	acetamida	VERB	amod	N-5-Clorobenzoxazol-2il	O
+
+2	2	NUM	nummod	Hidróxido	O
+Hidróxido	Hidróxido	PROPN	ROOT	Hidróxido	O
+de	de	ADP	case	2-acetoxietiltrimetilamonio	O
+2-acetoxietiltrimetilamonio	2-acetoxietiltrimetilamonio	PROPN	flat	Hidróxido	O
+(	(	PUNCT	punct	acetilcolina	O
+acetilcolina	acetilcolina	NOUN	appos	Hidróxido	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	conj	acetilcolina	O
+)	)	PUNCT	punct	acetilcolina	O
+
+3	3	NUM	nummod	Aceglumato	O
+Aceglumato	Aceglumato	PROPN	ROOT	Aceglumato	O
+de	de	ADP	case	Deanol	O
+Deanol	Deanol	PROPN	flat	Aceglumato	O
+*	*	NUM	nummod	Aceglumato	O
+
+4	4	NUM	nummod	Espironolactona	O
+Espironolactona	Espironolactona	PROPN	ROOT	Espironolactona	O
+*	*	SYM	nummod	Espironolactona	O
+
+5	5	NUM	nummod	Acido	O
+Acido	Acido	PROPN	nsubj	]	O
+[	[	NUM	nummod	Acido	O
+4-(4-hidroxi-3-iodofenoxi)-3,5-diiodofenil	4-(4-hidroxi-3-iodofenoxi)-3,5-diiodofenil	NUM	nummod	Acido	O
+]	]	PUNCT	ROOT	]	O
+acético	acético	ADJ	amod	]	O
+y	y	CONJ	punct	]	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+6	6	NUM	nummod	Metotrexato	O
+Metotrexato	Metotrexato	PROPN	ROOT	Metotrexato	O
+*	*	VERB	nummod	Metotrexato	O
+
+7	7	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+aminocaproico	aminocaproico	ADJ	amod	Acido	O
+*	*	NUM	appos	Acido	O
+y	y	CONJ	punct	Acido	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+8	8	NUM	ROOT	8	O
+Cincofen	Cincofen	PROPN	appos	8	O
+*	*	SYM	nummod	8	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	8	O
+,	,	PUNCT	punct	derivados	O
+derivados	derivar	NOUN	amod	sales	O
+y	y	CONJ	cc	sales	O
+sales	salir	ADJ	conj	derivados	O
+de	de	ADP	case	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	nmod	sales	O
+
+9	9	NUM	nummod	Acido	O
+Acido	Acido	ADJ	ROOT	Acido	O
+tiroprópico	tiroprópico	ADJ	amod	Acido	O
+*	*	SYM	appos	Acido	O
+y	y	CONJ	punct	Acido	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+10	10	NUM	nummod	Acido	O
+Acido	Acido	ADJ	ROOT	Acido	O
+tricloroacético	tricloroacético	ADJ	amod	Acido	O
+
+11	11	NUM	nummod	Aconitum	O
+Aconitum	Aconitum	PROPN	ROOT	Aconitum	O
+napellus	napellus	PROPN	flat	Aconitum	O
+L.	L.	PROPN	flat	Aconitum	O
+(	(	PUNCT	punct	hojas	O
+hojas	hoja	NOUN	appos	Aconitum	O
+,	,	PUNCT	punct	raíces	O
+raíces	raíz	NOUN	conj	hojas	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	hojas	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	hojas	O
+
+12	12	NUM	nummod	Aconitina	O
+Aconitina	Aconitina	PROPN	ROOT	Aconitina	O
+(	(	PUNCT	punct	alcaloide	O
+alcaloide	alcaloide	NOUN	appos	Aconitina	O
+principal	principal	ADJ	amod	alcaloide	O
+de	de	ADP	case	Aconitun	O
+la	lo	DET	det	Aconitun	O
+Aconitun	Aconitun	PROPN	nmod	alcaloide	O
+napellus	napellus	PROPN	flat	Aconitun	O
+L.	L.	PROPN	flat	Aconitun	O
+)	)	PUNCT	punct	alcaloide	O
+y	y	CONJ	punct	Aconitina	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+13	13	NUM	nummod	Adonis	O
+Adonis	Adonis	PROPN	ROOT	Adonis	O
+vernalis	vernalis	NUM	nummod	Adonis	O
+L.	L.	PROPN	flat	Adonis	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Adonis	O
+
+14	14	NUM	nummod	Epinefrina	O
+Epinefrina	Epinefrina	PROPN	ROOT	Epinefrina	O
+*	*	SYM	nummod	Epinefrina	O
+
+15	15	NUM	nummod	Alcaloides	O
+Alcaloides	Alcaloides	PROPN	ROOT	Alcaloides	O
+de	de	ADP	case	Rauwolfia	O
+Rauwolfia	Rauwolfia	PROPN	flat	Alcaloides	O
+Serpentina	Serpentina	PROPN	flat	Rauwolfia	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Alcaloides	O
+
+16	16	NUM	nummod	Alcoholes	O
+Alcoholes	Alcoholes	NOUN	ROOT	Alcoholes	O
+de	de	ADP	case	alquinos	O
+alquinos	alquino	NOUN	nmod	Alcoholes	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	ésteres	O
+ésteres	éster	NOUN	appos	Alcoholes	O
+,	,	PUNCT	punct	éteres	O
+éteres	éter	NOUN	appos	ésteres	O
+y	y	CONJ	cc	sales	O
+sales	salir	ADJ	conj	ésteres	O
+.	.	PUNCT	punct	Alcoholes	O
+
+17	17	NUM	nummod	Isoprenalina	O
+Isoprenalina	Isoprenalina	PROPN	ROOT	Isoprenalina	O
+*	*	SYM	appos	Isoprenalina	O
+
+18	18	NUM	nummod	Isotiocianato	O
+Isotiocianato	Isotiocianato	PROPN	ROOT	Isotiocianato	O
+de	de	ADP	case	alilo	O
+alilo	alilo	NOUN	nmod	Isotiocianato	O
+
+19	19	NUM	nummod	Aloclamida	O
+Aloclamida	Aloclamida	PROPN	ROOT	Aloclamida	O
+*	*	NUM	compound	Aloclamida	O
+y	y	CONJ	punct	Aloclamida	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+20	20	NUM	nummod	Nalorfina	O
+Nalorfina	Nalorfina	PROPN	ROOT	Nalorfina	O
+*	*	SYM	nummod	Nalorfina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	appos	Nalorfina	O
+y	y	CONJ	cc	éteres	O
+éteres	éter	PRON	conj	sales	O
+
+21	21	NUM	nummod	Aminas	O
+Aminas	Aminas	PROPN	ROOT	Aminas	O
+simpaticomiméticas	simpaticomimético	ADJ	amod	Aminas	O
+que	que	PRON	nsubj	actúan	O
+actúan	actuar	VERB	acl	Aminas	O
+sobre	sobrar	ADP	case	sistema	O
+el	el	DET	det	sistema	O
+sistema	sistema	NOUN	obl	actúan	O
+nervioso	nervioso	ADJ	amod	sistema	O
+central	central	ADJ	amod	sistema	O
+.	.	PUNCT	punct	Aminas	O
+
+22	22	NUM	nummod	Anilina	O
+Anilina	Anilina	PROPN	ROOT	Anilina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	appos	Anilina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	appos	Anilina	O
+halogenados	halogenar	ADJ	amod	derivados	O
+y	y	CONJ	cc	sulfonados	O
+sulfonados	sulfonado	VERB	conj	halogenados	O
+
+23	23	NUM	nummod	Betoxicaína	O
+Betoxicaína	Betoxicaína	PROPN	ROOT	Betoxicaína	O
+*	*	NUM	flat	Betoxicaína	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Betoxicaína	O
+
+24	24	NUM	nummod	Zoxazolamina	O
+Zoxazolamina	Zoxazolamina	PROPN	ROOT	Zoxazolamina	O
+*	*	SYM	nummod	Zoxazolamina	O
+
+25	25	NUM	nummod	Procaínamida	O
+Procaínamida	Procaínamida	PROPN	ROOT	Procaínamida	O
+*	*	NUM	nummod	Procaínamida	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Procaínamida	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+.	.	PUNCT	punct	Procaínamida	O
+
+26	26	NUM	nummod	Bencidina	O
+Bencidina	Bencidina	PROPN	ROOT	Bencidina	O
+
+27	27	NUM	nummod	Tuaminoheptano	O
+Tuaminoheptano	Tuaminoheptano	PROPN	ROOT	Tuaminoheptano	O
+*	*	SYM	nummod	Tuaminoheptano	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	isómeros	O
+isómeros	isómero	NOUN	appos	Tuaminoheptano	O
+y	y	CONJ	cc	sales	O
+sales	salir	ADJ	conj	isómeros	O
+
+28	28	NUM	nummod	Octodrina	O
+Octodrina	Octodrina	PROPN	ROOT	Octodrina	O
+*	*	NUM	flat	Octodrina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Octodrina	O
+
+29	29	NUM	nummod	2-Amino-1,2-bis(4-metoxifenil	O
+2-Amino-1,2-bis(4-metoxifenil	2-Amino-1,2-bis(4-metoxifenil	NUM	ROOT	2-Amino-1,2-bis(4-metoxifenil	O
+)	)	PUNCT	punct	2-Amino-1,2-bis(4-metoxifenil	O
+etanol	etanol	ADJ	appos	2-Amino-1,2-bis(4-metoxifenil	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	etanol	O
+
+30	30	NUM	nummod	1,3-dimetilpentilamina	O
+1,3-dimetilpentilamina	1,3-dimetilpentilamina	NUM	ROOT	1,3-dimetilpentilamina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	1,3-dimetilpentilamina	O
+
+31	31	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+4-aminosalicílico	4-aminosalicílico	NUM	nummod	Acido	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Acido	O
+
+32	32	NUM	nummod	Toluidinas	O
+Toluidinas	Toluidinas	NOUN	ROOT	Toluidinas	O
+,	,	PUNCT	punct	derivados	O
+sus	su	DET	det	isómeros	O
+isómeros	isómero	NOUN	appos	Toluidinas	O
+,	,	PUNCT	punct	sales	O
+sales	salir	ADJ	amod	isómeros	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	NOUN	conj	isómeros	O
+halogenados	halogenar	ADJ	amod	isómeros	O
+y	y	CONJ	cc	sulfonados	O
+sulfonados	sulfonado	VERB	conj	halogenados	O
+
+33	33	NUM	nummod	Xylidinas	O
+Xylidinas	Xylidinas	PROPN	ROOT	Xylidinas	O
+,	,	PUNCT	punct	derivados	O
+sus	su	DET	det	isómeros	O
+isómeros	isómero	NOUN	appos	Xylidinas	O
+,	,	PUNCT	punct	sales	O
+sales	salir	ADJ	amod	isómeros	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	NOUN	conj	isómeros	O
+halogenadas	halogenar	ADJ	amod	isómeros	O
+y	y	CONJ	cc	sulfonados	O
+sulfonados	sulfonado	ADJ	conj	halogenadas	O
+
+34	34	NUM	nummod	Imperatorin	O
+Imperatorin	Imperatorin	PROPN	nsubj	]	O
+[	[	NUM	nummod	Imperatorin	O
+9-(3-metilbut-2-eniloxi)furo(3,2-g)chromen-7-ona	9-(3-metilbut-2-eniloxi)furo(3,2-g)chromen-7-ona	NUM	nummod	Imperatorin	O
+]	]	PUNCT	ROOT	]	O
+
+35	35	NUM	nummod	Ammi	O
+Ammi	Ammi	PROPN	nsubj	majus	O
+majus	majus	VERB	ROOT	majus	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	majus	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+36	36	NUM	nummod	2,3-dicloro-2-metilbutano	O
+2,3-dicloro-2-metilbutano	2,3-dicloro-2-metilbutano	NUM	ROOT	2,3-dicloro-2-metilbutano	O
+
+37	37	NUM	nummod	Sustancias	O
+Sustancias	Sustancias	NOUN	ROOT	Sustancias	O
+con	con	ADP	case	efectos	O
+efectos	efecto	NOUN	nmod	Sustancias	O
+androgénicos	androgénicos	ADJ	amod	efectos	O
+
+38	38	NUM	nummod	Aceite	O
+Aceite	Aceite	PROPN	ROOT	Aceite	O
+de	de	ADP	case	antraceno	O
+antraceno	antraceno	NOUN	nmod	Aceite	O
+
+39	39	NUM	nummod	Antibióticos	O
+Antibióticos	Antibióticos	PROPN	ROOT	Antibióticos	O
+
+40	40	NUM	nummod	Antimonio	O
+Antimonio	Antimonio	PROPN	ROOT	Antimonio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Antimonio	O
+
+41	41	NUM	nummod	Apocynum	O
+Apocynum	Apocynum	PROPN	ROOT	Apocynum	O
+cannabinum	cannabinum	VERB	flat	Apocynum	O
+L.	L.	PROPN	flat	Apocynum	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Apocynum	O
+
+42	42	NUM	nummod	Apomorfina	O
+Apomorfina	Apomorfina	PROPN	ROOT	Apomorfina	O
+(	(	PUNCT	punct	R5,6,6a,7-tetrahidro-6-metil-4-H	O
+R5,6,6a,7-tetrahidro-6-metil-4-H	R5,6,6a,7-tetrahidro-6-metil-4-H	PROPN	appos	Apomorfina	O
+-	-	PUNCT	punct	dibenzo(De	O
+dibenzo(De	dibenzo(De	INTJ	appos	R5,6,6a,7-tetrahidro-6-metil-4-H	O
+,	,	PUNCT	punct	g)-quinolina-10,11-diol	O
+g)-quinolina-10,11-diol	g)-quinolina-10,11-diol	NOUN	conj	R5,6,6a,7-tetrahidro-6-metil-4-H	O
+)	)	PUNCT	punct	R5,6,6a,7-tetrahidro-6-metil-4-H	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Apomorfina	O
+
+43	43	NUM	nummod	Arsénico	O
+Arsénico	Arsénico	PROPN	ROOT	Arsénico	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Arsénico	O
+
+44	44	NUM	nummod	Atropa	O
+Atropa	Atropa	PROPN	ROOT	Atropa	O
+Belladonna	Belladonna	PROPN	flat	Atropa	O
+L.	L.	PROPN	flat	Atropa	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Atropa	O
+
+45	45	NUM	nummod	Atropina	O
+Atropina	Atropina	PROPN	ROOT	Atropina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Atropina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+46	46	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	bario	O
+bario	bario	NOUN	nmod	Sales	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	Sales	O
+del	del	ADP	case	sulfato	O
+sulfato	sulfatar	NOUN	nmod	excepción	O
+de	de	ADP	case	bario	O
+bario	bario	NOUN	nmod	sulfato	O
+,	,	PUNCT	punct	sulfuro	O
+sulfuro	sulfurar	ADJ	amod	sulfato	O
+de	de	ADP	case	bario	O
+bario	bario	NOUN	nmod	sulfuro	O
+,	,	PUNCT	punct	lacas	O
+lacas	laca	NOUN	conj	bario	O
+y	y	CONJ	cc	pigmentos	O
+pigmentos	pigmento	NOUN	conj	bario	O
+preparados	preparar	ADJ	amod	bario	O
+bajo	bajar	ADP	case	condiciones	O
+las	los	DET	det	condiciones	O
+condiciones	condicionar	NOUN	nmod	sulfuro	O
+descriptas	descriptas	ADJ	amod	condiciones	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	condiciones	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+.	.	PUNCT	punct	Sales	O
+
+47	47	NUM	nummod	Benceno	O
+Benceno	Benceno	NOUN	ROOT	Benceno	O
+
+48	48	NUM	nummod	Bencimidazol-2(3H)-ona	O
+Bencimidazol-2(3H)-ona	Bencimidazol-2(3H)-ona	PROPN	ROOT	Bencimidazol-2(3H)-ona	O
+
+49	49	NUM	nummod	Benzacepinas	O
+Benzacepinas	Benzacepinas	PROPN	ROOT	Benzacepinas	O
+y	y	CONJ	cc	benzodiacepinas	O
+benzodiacepinas	benzodiacepina	NOUN	conj	Benzacepinas	O
+
+50	50	NUM	nummod	Benzoato	O
+Benzoato	Benzoato	PROPN	ROOT	Benzoato	O
+de	de	ADP	case	1-dimetilaminometil-1-metilpropilo(amilocaína	O
+1-dimetilaminometil-1-metilpropilo(amilocaína	1-dimetilaminometil-1-metilpropilo(amilocaína	NUM	nummod	Benzoato	O
+)	)	PUNCT	punct	Benzoato	O
+y	y	CONJ	punct	Benzoato	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+51	51	NUM	nummod	Benzoato	O
+Benzoato	Benzoato	PROPN	ROOT	Benzoato	O
+de	de	ADP	case	2,2,6,trimetil-4-piperidilo(benzamina	O
+2,2,6,trimetil-4-piperidilo(benzamina	2,2,6,trimetil-4-piperidilo(benzamina	PROPN	nmod	Benzoato	O
+)	)	PUNCT	punct	Benzoato	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Benzoato	O
+
+52	52	NUM	nummod	Isocarboxacida	O
+Isocarboxacida	Isocarboxacida	ADJ	ROOT	Isocarboxacida	O
+*	*	SYM	appos	Isocarboxacida	O
+
+53	53	NUM	nummod	Bendroflumetiazida	O
+Bendroflumetiazida	Bendroflumetiazida	PROPN	ROOT	Bendroflumetiazida	O
+*	*	NUM	flat	Bendroflumetiazida	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	Bendroflumetiazida	O
+
+54	54	NUM	nummod	Berilio	O
+Berilio	Berilio	PROPN	ROOT	Berilio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Berilio	O
+
+55	55	NUM	nummod	Bromo	O
+Bromo	Bromo	PROPN	ROOT	Bromo	O
+elemental	elemental	ADJ	amod	Bromo	O
+
+56	56	NUM	nummod	Tosilato	O
+Tosilato	Tosilato	PROPN	ROOT	Tosilato	O
+de	de	ADP	case	Bretilio	O
+Bretilio	Bretilio	PROPN	flat	Tosilato	O
+*	*	SYM	nummod	Tosilato	O
+
+57	57	NUM	nummod	Carbromal	O
+Carbromal	Carbromal	PROPN	ROOT	Carbromal	O
+*	*	SYM	nummod	Carbromal	O
+
+58	58	NUM	nummod	Bromisoval	O
+Bromisoval	Bromisoval	PROPN	ROOT	Bromisoval	O
+*	*	SYM	appos	Bromisoval	O
+
+59	59	NUM	nummod	Bromfeniramina	O
+Bromfeniramina	Bromfeniramina	PROPN	ROOT	Bromfeniramina	O
+*	*	SYM	flat	Bromfeniramina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Bromfeniramina	O
+
+60	60	NUM	nummod	Bromuro	O
+Bromuro	Bromuro	PROPN	ROOT	Bromuro	O
+de	de	ADP	case	Bencilonio	O
+Bencilonio	Bencilonio	PROPN	flat	Bromuro	O
+*	*	VERB	appos	Bromuro	O
+
+61	61	NUM	nummod	Bromuro	O
+Bromuro	Bromuro	PROPN	ROOT	Bromuro	O
+de	de	ADP	case	tetrilamonio	O
+tetrilamonio	tetrilamonio	PROPN	nmod	Bromuro	O
+*	*	SYM	appos	Bromuro	O
+
+62	62	NUM	nummod	Brucina	O
+Brucina	Brucina	PROPN	ROOT	Brucina	O
+
+63	63	NUM	nummod	Tetracaína	O
+Tetracaína	Tetracaína	PROPN	ROOT	Tetracaína	O
+*	*	NUM	flat	Tetracaína	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Tetracaína	O
+
+64	64	NUM	nummod	Mofebutazona	O
+Mofebutazona	Mofebutazona	PROPN	ROOT	Mofebutazona	O
+*	*	SYM	nummod	Mofebutazona	O
+
+65	65	NUM	nummod	Tolbutamida	O
+Tolbutamida	Tolbutamida	PROPN	ROOT	Tolbutamida	O
+*	*	NUM	nummod	Tolbutamida	O
+
+66	66	NUM	nummod	Carbutamida	O
+Carbutamida	Carbutamida	PROPN	ROOT	Carbutamida	O
+*	*	NUM	nummod	Carbutamida	O
+
+67	67	NUM	nummod	Fenilbutazona	O
+Fenilbutazona	Fenilbutazona	PROPN	ROOT	Fenilbutazona	O
+*	*	NUM	nummod	Fenilbutazona	O
+
+68	68	NUM	nummod	Cadmio	O
+Cadmio	Cadmio	PROPN	ROOT	Cadmio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Cadmio	O
+
+69	69	NUM	nummod	Cantáridas	O
+Cantáridas	Cantáridas	PROPN	nsubj	vesicatoria	O
+,	,	PUNCT	punct	Cantáridas	O
+Cantharis	Cantharis	PROPN	nsubj	vesicatoria	O
+vesicatoria	vesicatorio	ADJ	ROOT	vesicatoria	O
+
+70	70	NUM	nummod	Anhídrido	O
+Anhídrido	Anhídrido	PROPN	ROOT	Anhídrido	O
+de	de	ADP	case	1R,2S)-Hexahidro-1,2-dimetil-3,6-epoxiftálico	O
+(	(	PUNCT	punct	1R,2S)-Hexahidro-1,2-dimetil-3,6-epoxiftálico	O
+1R,2S)-Hexahidro-1,2-dimetil-3,6-epoxiftálico	1R,2S)-Hexahidro-1,2-dimetil-3,6-epoxiftálico	NUM	flat	Anhídrido	O
+(	(	PUNCT	punct	cantaridina	O
+cantaridina	cantaridina	NOUN	appos	1R,2S)-Hexahidro-1,2-dimetil-3,6-epoxiftálico	O
+)	)	PUNCT	punct	cantaridina	O
+
+71	71	NUM	nummod	Fenprobamato	O
+Fenprobamato	Fenprobamato	PROPN	ROOT	Fenprobamato	O
+*	*	SYM	nummod	Fenprobamato	O
+
+72	72	NUM	nummod	Nitroderivados	O
+Nitroderivados	Nitroderivados	PRON	ROOT	Nitroderivados	O
+de	de	ADP	case	carbazol	O
+carbazol	carbazol	VERB	nmod	Nitroderivados	O
+
+73	73	NUM	nummod	Disulfuro	O
+Disulfuro	Disulfuro	ADJ	ROOT	Disulfuro	O
+de	de	ADP	case	carbono	O
+carbono	carbonar	NOUN	nmod	Disulfuro	O
+
+74	74	NUM	nummod	Catalasa	O
+Catalasa	Catalasa	PROPN	ROOT	Catalasa	O
+
+75	75	NUM	nummod	Cefalina	O
+Cefalina	Cefalina	PROPN	ROOT	Cefalina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Cefalina	O
+
+76	76	NUM	nummod	Aceite	O
+Aceite	Aceite	PROPN	ROOT	Aceite	O
+esencial	esencial	ADJ	amod	Aceite	O
+de	de	ADP	case	chenopodium	O
+chenopodium	chenopodium	NOUN	nmod	Aceite	O
+ambrosioides	ambrosioides	ADJ	appos	Aceite	O
+
+77	77	NUM	nummod	2,2,2-tricloroetano-1,1-diol	O
+2,2,2-tricloroetano-1,1-diol	2,2,2-tricloroetano-1,1-diol	NUM	ROOT	2,2,2-tricloroetano-1,1-diol	O
+
+78	78	NUM	nummod	Cloro	O
+Cloro	Cloro	PROPN	ROOT	Cloro	O
+
+79	79	NUM	nummod	Clorpropamida	O
+Clorpropamida	Clorpropamida	PROPN	ROOT	Clorpropamida	O
+*	*	NUM	nummod	Clorpropamida	O
+
+80	80	NUM	nummod	Clorhidrato	O
+Clorhidrato	Clorhidrato	PROPN	ROOT	Clorhidrato	O
+de	de	ADP	case	difenoxilato	O
+difenoxilato	difenoxilato	NOUN	nmod	Clorhidrato	O
+*	*	PUNCT	appos	Clorhidrato	O
+
+81	81	NUM	nummod	Clorhidrato	O
+Clorhidrato	Clorhidrato	PROPN	ROOT	Clorhidrato	O
+de	de	ADP	case	4-fenilazofenileno-1,3-diaminocitrato(clorhidrato	O
+4-fenilazofenileno-1,3-diaminocitrato(clorhidrato	4-fenilazofenileno-1,3-diaminocitrato(clorhidrato	NUM	nummod	Clorhidrato	O
+,	,	PUNCT	punct	citrato	O
+citrato	citrato	NOUN	appos	4-fenilazofenileno-1,3-diaminocitrato(clorhidrato	O
+de	de	ADP	case	crisoidina	O
+crisoidina	crisoidina	NOUN	nmod	citrato	O
+)	)	PUNCT	punct	citrato	O
+
+82	82	NUM	nummod	Clorzoxazona	O
+Clorzoxazona	Clorzoxazona	PROPN	ROOT	Clorzoxazona	O
+*	*	SYM	nummod	Clorzoxazona	O
+
+83	83	NUM	nummod	2-cloro-6-metilpirimidin-4-il	O
+2-cloro-6-metilpirimidin-4-il	2-cloro-6-metilpirimidin-4-il	NUM	ROOT	2-cloro-6-metilpirimidin-4-il	O
+-	-	PUNCT	punct	dimetilamina	O
+dimetilamina	dimetilamina	NOUN	appos	2-cloro-6-metilpirimidin-4-il	O
+(	(	PUNCT	punct	crimidina	O
+crimidina	crimidina	NOUN	appos	2-cloro-6-metilpirimidin-4-il	O
+-	-	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	appos	crimidina	O
+)	)	PUNCT	punct	ISO	O
+
+84	84	NUM	nummod	Clorprotixeno	O
+Clorprotixeno	Clorprotixeno	PROPN	ROOT	Clorprotixeno	O
+*	*	NUM	nummod	Clorprotixeno	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Clorprotixeno	O
+
+85	85	NUM	nummod	Clofenamida	O
+Clofenamida	Clofenamida	PROPN	ROOT	Clofenamida	O
+*	*	NUM	nummod	Clofenamida	O
+
+86	86	NUM	nummod	N	O
+N	N	NOUN	ROOT	N	O
+-	-	PUNCT	punct	óxido	O
+óxido	óxido	ADJ	amod	N	O
+de	de	ADP	case	N	O
+N	N	PROPN	nmod	óxido	O
+,	,	PUNCT	punct	N	O
+N	N	PROPN	conj	óxido	O
+-	-	PUNCT	punct	óxido	O
+bis(2-cloroetil)metilamina	bis(2-cloroetil)metilamina	VERB	flat	N	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	bis(2-cloroetil)metilamina	O
+
+87	87	NUM	nummod	Clormetina	O
+Clormetina	Clormetina	PROPN	ROOT	Clormetina	O
+*	*	NUM	appos	Clormetina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Clormetina	O
+
+88	88	NUM	nummod	Ciclofosfamida	O
+Ciclofosfamida	Ciclofosfamida	PROPN	ROOT	Ciclofosfamida	O
+*	*	NUM	flat	Ciclofosfamida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Ciclofosfamida	O
+
+89	89	NUM	nummod	Manomustina	O
+Manomustina	Manomustina	PROPN	ROOT	Manomustina	O
+*	*	SYM	nummod	Manomustina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Manomustina	O
+
+90	90	NUM	nummod	Butanilicaína	O
+Butanilicaína	Butanilicaína	PROPN	ROOT	Butanilicaína	O
+*	*	NUM	flat	Butanilicaína	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Butanilicaína	O
+
+91	91	NUM	nummod	Clormezanona	O
+Clormezanona	Clormezanona	PROPN	ROOT	Clormezanona	O
+*	*	SYM	nummod	Clormezanona	O
+
+92	92	NUM	nummod	Triparanol	O
+Triparanol	Triparanol	PROPN	ROOT	Triparanol	O
+*	*	SYM	nummod	Triparanol	O
+
+93	93	NUM	nummod	2-(2-(4-clorofenil)-2-fenilacetil	O
+2-(2-(4-clorofenil)-2-fenilacetil	2-(2-(4-clorofenil)-2-fenilacetil	NUM	ROOT	2-(2-(4-clorofenil)-2-fenilacetil	O
+)	)	PUNCT	punct	2-(2-(4-clorofenil)-2-fenilacetil	O
+indano-1,3-diona	indano-1,3-diona	PROPN	conj	2-(2-(4-clorofenil)-2-fenilacetil	O
+(	(	PUNCT	punct	clorofacinona	O
+clorofacinona	clorofacinona	NOUN	appos	indano-1,3-diona	O
+-	-	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	appos	clorofacinona	O
+)	)	PUNCT	punct	ISO	O
+
+94	94	NUM	nummod	Clorfenoxamina	O
+Clorfenoxamina	Clorfenoxamina	PROPN	ROOT	Clorfenoxamina	O
+
+95	95	NUM	nummod	Fenaglicodol	O
+Fenaglicodol	Fenaglicodol	PROPN	ROOT	Fenaglicodol	O
+*	*	SYM	nummod	Fenaglicodol	O
+
+96	96	NUM	nummod	Cloroetano	O
+Cloroetano	Cloroetano	PROPN	ROOT	Cloroetano	O
+
+97	97	NUM	nummod	Cromo	O
+Cromo	Cromo	PROPN	ROOT	Cromo	O
+,	,	PUNCT	punct	ácido	O
+ácido	ácido	NOUN	appos	Cromo	O
+crómico	crómico	ADJ	amod	ácido	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	ácido	O
+
+98	98	NUM	nummod	Claviceps	O
+Claviceps	Claviceps	PROPN	ROOT	Claviceps	O
+Purpurea	Purpurea	PROPN	flat	Claviceps	O
+Tul	Tul	PROPN	flat	Claviceps	O
+y	y	CONJ	cc	alcaloides	O
+sus	su	DET	det	alcaloides	O
+alcaloides	alcaloide	NOUN	conj	Claviceps	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	alcaloides	O
+galénicas	galénico	ADJ	amod	alcaloides	O
+
+99	99	NUM	nummod	Conium	O
+Conium	Conium	PROPN	ROOT	Conium	O
+maculatum	maculatum	PROPN	flat	Conium	O
+L.	L.	PROPN	flat	Conium	O
+(	(	PUNCT	punct	fruto	O
+fruto	fruto	NOUN	appos	Conium	O
+,	,	PUNCT	punct	polvos	O
+polvos	polvo	ADJ	conj	fruto	O
+,	,	PUNCT	punct	preparaciones	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	fruto	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	fruto	O
+
+100	100	NUM	nummod	Gliciclamida	O
+Gliciclamida	Gliciclamida	PROPN	ROOT	Gliciclamida	O
+*	*	SYM	nummod	Gliciclamida	O
+
+101	101	NUM	nummod	Benceno	O
+Benceno	Benceno	PROPN	ROOT	Benceno	O
+sulfonato	sulfonato	NOUN	flat	Benceno	O
+de	de	ADP	case	cobalto	O
+cobalto	cobaltar	NOUN	nmod	Benceno	O
+
+102	102	NUM	nummod	Colchicina	O
+Colchicina	Colchicina	PROPN	ROOT	Colchicina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Colchicina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+103	103	NUM	nummod	Colchicósidos	O
+Colchicósidos	Colchicósidos	PROPN	ROOT	Colchicósidos	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	Colchicósidos	O
+
+104	104	NUM	nummod	Colchicum	O
+Colchicum	Colchicum	PROPN	nsubj	autumnale	O
+autumnale	autumnale	PROPN	ROOT	autumnale	O
+L.	L.	PROPN	obj	autumnale	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	L.	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+105	105	NUM	nummod	Convalatoxina	O
+Convalatoxina	Convalatoxina	PROPN	ROOT	Convalatoxina	O
+
+106	106	NUM	nummod	Anamirta	O
+Anamirta	Anamirta	PROPN	ROOT	Anamirta	O
+cocculus	cocculus	PROPN	flat	Anamirta	O
+L.(fruto	L.(fruto	PROPN	flat	Anamirta	O
+)	)	PUNCT	punct	Anamirta	O
+
+107	107	NUM	nummod	Aceite	O
+Aceite	Aceite	PROPN	ROOT	Aceite	O
+de	de	ADP	case	croton	O
+croton	croton	NOUN	nmod	Aceite	O
+tiglium	tiglium	VERB	amod	Aceite	O
+
+108	108	NUM	nummod	1-butil-3-(N	O
+1-butil-3-(N	1-butil-3-(N	NUM	nsubj	urea	O
+-	-	PUNCT	punct	crotonoilsulfanilil	O
+crotonoilsulfanilil	crotonoilsulfanilil	NOUN	appos	1-butil-3-(N	O
+)	)	PUNCT	punct	crotonoilsulfanilil	O
+urea	urea	VERB	ROOT	urea	O
+
+109	109	NUM	nummod	Curare	O
+Curare	Curare	PROPN	ROOT	Curare	O
+y	y	CONJ	cc	curarina	O
+curarina	curarina	VERB	conj	Curare	O
+
+110	110	NUM	nummod	Curarizantes	O
+Curarizantes	Curarizantes	NOUN	ROOT	Curarizantes	O
+sintéticos	sintético	ADJ	amod	Curarizantes	O
+
+111	111	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+cianhídrico	cianhídrico	ADJ	amod	Acido	O
+y	y	CONJ	punct	Acido	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+112	112	NUM	nummod	2-alfa	O
+2-alfa	2-alfa	NUM	ROOT	2-alfa	O
+-	-	PUNCT	punct	ciclohexilbencil(N	O
+ciclohexilbencil(N	ciclohexilbencil(N	NOUN	appos	2-alfa	O
+,	,	PUNCT	punct	N	O
+N	N	PROPN	conj	ciclohexilbencil(N	O
+,	,	PUNCT	punct	N´,N´-tetraetil	O
+N´,N´-tetraetil	N´,N´-tetraetil	NUM	conj	ciclohexilbencil(N	O
+)	)	PUNCT	punct	ciclohexilbencil(N	O
+trimetileno	trimetileno	ADJ	appos	2-alfa	O
+diamina	diamina	ADJ	amod	trimetileno	O
+(	(	PUNCT	punct	fenetamina	O
+fenetamina	fenetamina	ADJ	appos	trimetileno	O
+)	)	PUNCT	punct	fenetamina	O
+
+113	113	NUM	nummod	Ciclomenol	O
+Ciclomenol	Ciclomenol	PROPN	ROOT	Ciclomenol	O
+*	*	NUM	flat	Ciclomenol	O
+y	y	CONJ	punct	Ciclomenol	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+114	114	NUM	nummod	Hexaciclonato	O
+Hexaciclonato	Hexaciclonato	PROPN	ROOT	Hexaciclonato	O
+*	*	NUM	appos	Hexaciclonato	O
+de	de	ADP	case	sodio	O
+sodio	sodio	NOUN	nmod	*	O
+
+115	115	NUM	nummod	Hexapropimato	O
+Hexapropimato	Hexapropimato	PROPN	ROOT	Hexapropimato	O
+*	*	NUM	advmod	Hexapropimato	O
+
+116	116	NUM	nummod	Dextropropoxifeno	O
+Dextropropoxifeno	Dextropropoxifeno	NOUN	ROOT	Dextropropoxifeno	O
+*	*	NUM	nummod	Dextropropoxifeno	O
+
+117	117	NUM	nummod	alil	O
+o	o	CONJ	cc	o’-diacetil	O
+,	,	PUNCT	punct	o’-diacetil	O
+o’-diacetil	o’-diacetil	ADJ	conj	117	O
+-	-	PUNCT	punct	N	O
+N	N	NOUN	appos	o’-diacetil	O
+-	-	PUNCT	punct	N	O
+alil	alil	NOUN	ROOT	alil	O
+-	-	PUNCT	punct	N	O
+N	N	NOUN	appos	alil	O
+-	-	PUNCT	punct	N	O
+normorfina	normorfina	VERB	amod	alil	O
+
+118	118	NUM	nummod	Pipacetato	O
+Pipacetato	Pipacetato	NOUN	ROOT	Pipacetato	O
+*	*	SYM	flat	Pipacetato	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Pipacetato	O
+
+119	119	NUM	nmod	5-(alfa	O
+5-(alfa	5-(alfa	NUM	nummod	beta	O
+beta	beta	NOUN	ROOT	beta	O
+-	-	PUNCT	punct	dibromofenetil)-5-metilhidantoína	O
+dibromofenetil)-5-metilhidantoína	dibromofenetil)-5-metilhidantoína	NOUN	appos	beta	O
+
+120	120	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	N	O
+N	N	PROPN	flat	Sales	O
+,	,	PUNCT	punct	N’-pentametileno	O
+N’-pentametileno	N’-pentametileno	ADJ	appos	Sales	O
+bis(trimetilamonio	bis(trimetilamonio	NOUN	flat	N’-pentametileno	O
+)	)	PUNCT	punct	N’-pentametileno	O
+,	,	PUNCT	punct	bromuro	O
+por	por	ADP	advmod	bromuro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+bromuro	bromuro	ADJ	nmod	Sales	O
+de	de	ADP	case	pentametonium	O
+pentametonium	pentametonium	NOUN	nmod	bromuro	O
+*	*	SYM	appos	Sales	O
+
+121	121	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	N	O
+N	N	PROPN	flat	Sales	O
+,	,	PUNCT	punct	N’-((metilimino)dietileno)bis(etildimetilamonio	O
+N’-((metilimino)dietileno)bis(etildimetilamonio	N’-((metilimino)dietileno)bis(etildimetilamonio	PROPN	appos	Sales	O
+)	)	PUNCT	punct	N’-((metilimino)dietileno)bis(etildimetilamonio	O
+,	,	PUNCT	punct	bromuro	O
+por	por	ADP	advmod	bromuro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+bromuro	bromuro	ADJ	nmod	Sales	O
+de	de	ADP	case	azametonio	O
+azametonio	azametonio	NOUN	nmod	bromuro	O
+*	*	SYM	appos	Sales	O
+
+122	122	NUM	nummod	Ciclarbamato	O
+Ciclarbamato	Ciclarbamato	PROPN	ROOT	Ciclarbamato	O
+*	*	SYM	flat	Ciclarbamato	O
+
+123	123	NUM	nummod	Clofenotano	O
+"	"	PUNCT	punct	Clofenotano	O
+Clofenotano	Clofenotano	PROPN	ROOT	Clofenotano	O
+*	*	NUM	flat	Clofenotano	O
+;	;	PUNCT	punct	DDT	O
+DDT	DDT	PROPN	flat	Clofenotano	O
+(	(	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	flat	DDT	O
+)	)	PUNCT	punct	ISO	O
+"	"	PUNCT	punct	Clofenotano	O
+
+124	124	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	Hexametileno	O
+Hexametileno	Hexametileno	PROPN	flat	Sales	O
+bis(trimetilamonio	bis(trimetilamonio	PROPN	flat	Hexametileno	O
+)	)	PUNCT	punct	Sales	O
+,	,	PUNCT	punct	bromuro	O
+por	por	ADP	advmod	bromuro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+bromuro	bromuro	ADJ	appos	Sales	O
+de	de	ADP	case	Hexametonium	O
+Hexametonium	Hexametonium	PROPN	nmod	bromuro	O
+*	*	SYM	appos	Sales	O
+
+125	125	NUM	nummod	Dicloroetanos	O
+Dicloroetanos	Dicloroetanos	PROPN	ROOT	Dicloroetanos	O
+(	(	PUNCT	punct	cloruros	O
+cloruros	cloruro	NOUN	appos	Dicloroetanos	O
+de	de	ADP	case	etileno	O
+etileno	etileno	NOUN	nmod	cloruros	O
+)	)	PUNCT	punct	cloruros	O
+
+126	126	NUM	nummod	Dicloroetilenos	O
+Dicloroetilenos	Dicloroetilenos	PROPN	ROOT	Dicloroetilenos	O
+(	(	PUNCT	punct	cloruros	O
+cloruros	cloruro	NOUN	appos	Dicloroetilenos	O
+de	de	ADP	case	acetileno	O
+acetileno	acetileno	NOUN	nmod	cloruros	O
+)	)	PUNCT	punct	cloruros	O
+
+127	127	NUM	nummod	Lisergida	O
+Lisergida	Lisergida	PROPN	ROOT	Lisergida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Lisergida	O
+
+128	128	NUM	nummod	3-hidroxi-4-fenilbenzoato	O
+3-hidroxi-4-fenilbenzoato	3-hidroxi-4-fenilbenzoato	NUM	ROOT	3-hidroxi-4-fenilbenzoato	O
+de	de	ADP	case	2-dietilaminoetilo	O
+2-dietilaminoetilo	2-dietilaminoetilo	PROPN	compound	3-hidroxi-4-fenilbenzoato	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	3-hidroxi-4-fenilbenzoato	O
+
+129	129	NUM	nummod	Cinchocaína	O
+Cinchocaína	Cinchocaína	PROPN	ROOT	Cinchocaína	O
+*	*	NUM	flat	Cinchocaína	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Cinchocaína	O
+
+130	130	NUM	nummod	Cinamato	O
+Cinamato	Cinamato	PROPN	ROOT	Cinamato	O
+de	de	ADP	case	3-dietilaminopropilo	O
+3-dietilaminopropilo	3-dietilaminopropilo	NUM	nummod	Cinamato	O
+
+131	131	NUM	nummod	Fosforotioato	O
+Fosforotioato	Fosforotioato	PROPN	ROOT	Fosforotioato	O
+de	de	ADP	case	o’-dietil	O
+o	o	CONJ	cc	o’-dietil	O
+,	,	PUNCT	punct	o’-dietil	O
+o’-dietil	o’-dietil	ADJ	conj	Fosforotioato	O
+-	-	PUNCT	punct	o,4-nitrofenilo(paration	O
+o,4-nitrofenilo(paration	o,4-nitrofenilo(paration	PROPN	appos	o’-dietil	O
+-	-	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	appos	o’-dietil	O
+)	)	PUNCT	punct	ISO	O
+
+132	132	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	Oxalilbis(iminoetileno)bis[(o	O
+Oxalilbis(iminoetileno)bis[(o	Oxalilbis(iminoetileno)bis[(o	PROPN	flat	Sales	O
+-	-	PUNCT	punct	clorobencil)dietilamonio	O
+clorobencil)dietilamonio	clorobencil)dietilamonio	PROPN	appos	Sales	O
+]	]	PUNCT	flat	clorobencil)dietilamonio	O
+,	,	PUNCT	punct	cloruro	O
+por	por	ADP	advmod	cloruro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+cloruro	clorurar	ADJ	amod	Sales	O
+de	de	ADP	case	ambenonio	O
+ambenonio	ambenonio	NOUN	nmod	Sales	O
+*	*	SYM	appos	Sales	O
+
+133	133	NUM	nummod	Metiprilon	O
+Metiprilon	Metiprilon	PROPN	ROOT	Metiprilon	O
+*	*	NUM	flat	Metiprilon	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metiprilon	O
+
+134	134	NUM	nummod	Digitalina	O
+Digitalina	Digitalina	PROPN	ROOT	Digitalina	O
+y	y	CONJ	cc	heterósidos	O
+todos	todo	DET	det	los	O
+los	lo	DET	det	heterósidos	O
+heterósidos	heterósidos	NOUN	conj	Digitalina	O
+de	de	ADP	case	Digitalis	O
+Digitalis	Digitalis	PROPN	nmod	heterósidos	O
+purpurea	purpurear	ADJ	amod	heterósidos	O
+L.	L.	PROPN	appos	heterósidos	O
+
+135	135	NUM	nummod	7-{2-Hidroxi-3-[(2-hidroxietil)-N	O
+7-{2-Hidroxi-3-[(2-hidroxietil)-N	7-{2-Hidroxi-3-[(2-hidroxietil)-N	NUM	ROOT	7-{2-Hidroxi-3-[(2-hidroxietil)-N	O
+-	-	PUNCT	punct	metilamino]propil}teofilina(santinol	O
+metilamino]propil}teofilina(santinol	metilamino]propil}teofilina(santinol	NOUN	appos	7-{2-Hidroxi-3-[(2-hidroxietil)-N	O
+)	)	PUNCT	punct	metilamino]propil}teofilina(santinol	O
+
+136	136	NUM	nummod	Dioxetedrina	O
+Dioxetedrina	Dioxetedrina	PROPN	ROOT	Dioxetedrina	O
+*	*	NUM	flat	Dioxetedrina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Dioxetedrina	O
+
+137	137	NUM	nummod	Pricocurario	O
+Pricocurario	Pricocurario	PROPN	ROOT	Pricocurario	O
+*	*	NUM	appos	Pricocurario	O
+
+138	138	NUM	nummod	Propifenazona	O
+Propifenazona	Propifenazona	PROPN	ROOT	Propifenazona	O
+*	*	NUM	appos	Propifenazona	O
+
+139	139	NUM	nummod	Tetrabenazina	O
+Tetrabenazina	Tetrabenazina	PROPN	ROOT	Tetrabenazina	O
+*	*	NUM	nummod	Tetrabenazina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Tetrabenazina	O
+
+140	140	NUM	nummod	Captodiamo	O
+Captodiamo	Captodiamo	PROPN	ROOT	Captodiamo	O
+*	*	VERB	nummod	Captodiamo	O
+
+141	141	NUM	nummod	Mefeclorazina	O
+Mefeclorazina	Mefeclorazina	PROPN	ROOT	Mefeclorazina	O
+*	*	SYM	nummod	Mefeclorazina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Mefeclorazina	O
+
+142	142	NUM	nummod	Dimetilamina	O
+Dimetilamina	Dimetilamina	PROPN	ROOT	Dimetilamina	O
+
+143	143	NUM	nummod	Benzoato	O
+Benzoato	Benzoato	PROPN	ROOT	Benzoato	O
+de	de	ADP	case	1,1-Bis-(dimetilaminometil)propilo	O
+1,1-Bis-(dimetilaminometil)propilo	1,1-Bis-(dimetilaminometil)propilo	PROPN	nummod	Benzoato	O
+(	(	PUNCT	punct	amidricaina	O
+amidricaina	amidricaina	ADJ	appos	Benzoato	O
+,	,	PUNCT	punct	alipina	O
+alipina	alipina	ADJ	conj	amidricaina	O
+)	)	PUNCT	punct	amidricaina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Benzoato	O
+
+144	144	NUM	nummod	Metapirileno	O
+Metapirileno	Metapirileno	PROPN	ROOT	Metapirileno	O
+*	*	SYM	nummod	Metapirileno	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metapirileno	O
+
+145	145	NUM	nummod	Metamfepramona	O
+Metamfepramona	Metamfepramona	PROPN	ROOT	Metamfepramona	O
+*	*	NUM	flat	Metamfepramona	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metamfepramona	O
+
+146	146	NUM	nummod	Amitriptilina	O
+Amitriptilina	Amitriptilina	PROPN	ROOT	Amitriptilina	O
+*	*	NUM	flat	Amitriptilina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Amitriptilina	O
+
+147	147	NUM	nummod	Metformina	O
+Metformina	Metformina	PROPN	ROOT	Metformina	O
+*	*	SYM	flat	Metformina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metformina	O
+
+148	148	NUM	nummod	Dinitrato	O
+Dinitrato	Dinitrato	PROPN	ROOT	Dinitrato	O
+de	de	ADP	case	Isosorbida	O
+Isosorbida	Isosorbida	PROPN	flat	Dinitrato	O
+*	*	SYM	appos	Dinitrato	O
+
+149	149	NUM	nummod	Malononitrilo	O
+Malononitrilo	Malononitrilo	PROPN	ROOT	Malononitrilo	O
+
+150	150	NUM	nummod	Succinonitrilo	O
+Succinonitrilo	Succinonitrilo	PROPN	ROOT	Succinonitrilo	O
+
+151	151	NUM	nummod	Isómeros	O
+Isómeros	Isómeros	NOUN	ROOT	Isómeros	O
+de	de	ADP	case	dinitrofenol	O
+dinitrofenol	dinitrofenol	NOUN	nmod	Isómeros	O
+
+152	152	NUM	nummod	Inproquone	O
+Inproquone	Inproquone	PROPN	ROOT	Inproquone	O
+*	*	SYM	nummod	Inproquone	O
+
+153	153	NUM	nummod	Dimevamida	O
+Dimevamida	Dimevamida	PROPN	ROOT	Dimevamida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Dimevamida	O
+
+154	154	NUM	nummod	Difenilpiralina	O
+Difenilpiralina	Difenilpiralina	PROPN	ROOT	Difenilpiralina	O
+*	*	SYM	nummod	Difenilpiralina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Difenilpiralina	O
+
+155	155	NUM	nummod	Sulfinpirazona	O
+Sulfinpirazona	Sulfinpirazona	PROPN	ROOT	Sulfinpirazona	O
+*	*	SYM	appos	Sulfinpirazona	O
+
+156	156	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	N-(3-Carbamoil-3,3-difenilpropil)-N	O
+N-(3-Carbamoil-3,3-difenilpropil)-N	N-(3-Carbamoil-3,3-difenilpropil)-N	PROPN	flat	Sales	O
+,	,	PUNCT	punct	N	O
+N	N	PROPN	appos	Sales	O
+-	-	PUNCT	punct	N	O
+diisopropilmetilamonio	diisopropilmetilamonio	NOUN	amod	Sales	O
+,	,	PUNCT	punct	ioduro	O
+por	por	ADP	advmod	ioduro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+ioduro	ioduro	ADJ	amod	diisopropilmetilamonio	O
+de	de	ADP	case	*	O
+isopropamida	isopropamida	NOUN	amod	*	O
+*	*	SYM	nmod	diisopropilmetilamonio	O
+
+157	157	NUM	nummod	Benacticina	O
+Benacticina	Benacticina	PROPN	ROOT	Benacticina	O
+*	*	SYM	nummod	Benacticina	O
+
+158	158	NUM	nummod	Benzatropina	O
+Benzatropina	Benzatropina	PROPN	ROOT	Benzatropina	O
+*	*	SYM	flat	Benzatropina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Benzatropina	O
+
+159	159	NUM	nummod	Ciclicina	O
+Ciclicina	Ciclicina	PROPN	ROOT	Ciclicina	O
+*	*	SYM	nummod	Ciclicina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Ciclicina	O
+
+160	160	NUM	nummod	5,5-Difenil-4-Imidazolidona	O
+5,5-Difenil-4-Imidazolidona	5,5-Difenil-4-Imidazolidona	NUM	ROOT	5,5-Difenil-4-Imidazolidona	O
+
+161	161	NUM	nummod	Probenecida	O
+Probenecida	Probenecida	NOUN	ROOT	Probenecida	O
+*	*	SYM	nummod	Probenecida	O
+
+162	162	NUM	nummod	Disulfiram	O
+Disulfiram	Disulfiram	VERB	ROOT	Disulfiram	O
+*	*	SYM	flat	Disulfiram	O
+,	,	PUNCT	punct	Tiram	O
+Tiram	Tiram	PROPN	flat	Disulfiram	O
+(	(	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	flat	Tiram	O
+)	)	PUNCT	punct	ISO	O
+
+163	163	NUM	nummod	Emetina	O
+Emetina	Emetina	PROPN	ROOT	Emetina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Emetina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+164	164	NUM	nummod	Efedrina	O
+Efedrina	Efedrina	PROPN	ROOT	Efedrina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Efedrina	O
+
+165	165	NUM	nummod	Oxanamida	O
+Oxanamida	Oxanamida	PROPN	ROOT	Oxanamida	O
+*	*	NUM	compound	Oxanamida	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	Oxanamida	O
+
+166	166	NUM	nummod	Eserina	O
+Eserina	Eserina	PROPN	ROOT	Eserina	O
+o	o	CONJ	cc	fisostigmina	O
+fisostigmina	fisostigmina	VERB	conj	Eserina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Eserina	O
+
+167	167	NUM	nummod	Esteres	O
+Esteres	Esteres	NOUN	ROOT	Esteres	O
+del	del	ADP	case	ácido	O
+ácido	ácido	NOUN	nmod	Esteres	O
+4-aminobenzoico	4-aminobenzoico	NUM	amod	ácido	O
+,	,	PUNCT	punct	grupos	O
+con	con	ADP	case	grupos	O
+los	lo	DET	det	grupos	O
+grupos	grupo	NOUN	nmod	Esteres	O
+amino	amino	ADJ	amod	grupos	O
+libres	libre	ADJ	amod	grupos	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+la	lo	DET	det	excepción	O
+excepción	excepción	NOUN	nmod	Esteres	O
+de	de	ADP	case	mencionados	O
+los	lo	DET	det	mencionados	O
+mencionados	mencionar	ADJ	nmod	excepción	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	excepción	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+168	168	NUM	nummod	Caramifeno	O
+Caramifeno	Caramifeno	PROPN	ROOT	Caramifeno	O
+*	*	SYM	nummod	Caramifeno	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Caramifeno	O
+
+169	169	NUM	nummod	Dietil	O
+Dietil	Dietil	PROPN	ROOT	Dietil	O
+4-nitrofenil	4-nitrofenil	NUM	nummod	fosfato	O
+fosfato	fosfatar	ADJ	appos	Dietil	O
+
+170	170	NUM	nummod	Metetoheptazina	O
+Metetoheptazina	Metetoheptazina	PROPN	ROOT	Metetoheptazina	O
+*	*	NUM	nummod	Metetoheptazina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metetoheptazina	O
+
+171	171	NUM	nummod	Oxfeneridina	O
+Oxfeneridina	Oxfeneridina	PROPN	ROOT	Oxfeneridina	O
+*	*	NUM	flat	Oxfeneridina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Oxfeneridina	O
+
+172	172	NUM	nummod	Etoheptazina	O
+Etoheptazina	Etoheptazina	PROPN	ROOT	Etoheptazina	O
+*	*	NUM	appos	Etoheptazina	O
+y	y	CONJ	punct	Etoheptazina	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+173	173	NUM	nummod	Meteptazina	O
+Meteptazina	Meteptazina	PROPN	ROOT	Meteptazina	O
+*	*	SYM	nummod	Meteptazina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Meteptazina	O
+
+174	174	NUM	nummod	Metilfenidato	O
+Metilfenidato	Metilfenidato	PROPN	ROOT	Metilfenidato	O
+*	*	NUM	flat	Metilfenidato	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Metilfenidato	O
+
+175	175	NUM	nummod	Doxilamina	O
+Doxilamina	Doxilamina	PROPN	ROOT	Doxilamina	O
+*	*	SYM	appos	Doxilamina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Doxilamina	O
+
+176	176	NUM	nummod	Tolboxano	O
+Tolboxano	Tolboxano	PROPN	ROOT	Tolboxano	O
+*	*	SYM	nummod	Tolboxano	O
+
+177	177	NUM	nummod	4-benciloxifenol	O
+4-benciloxifenol	4-benciloxifenol	NUM	ROOT	4-benciloxifenol	O
+,	,	PUNCT	punct	4-metoxifenol	O
+4-metoxifenol	4-metoxifenol	NUM	appos	4-benciloxifenol	O
+y	y	CONJ	cc	4-etoxifenol	O
+4-etoxifenol	4-etoxifenol	NUM	conj	4-benciloxifenol	O
+
+178	178	NUM	nummod	Paretoxicaina	O
+Paretoxicaina	Paretoxicaina	PROPN	ROOT	Paretoxicaina	O
+*	*	SYM	flat	Paretoxicaina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Paretoxicaina	O
+
+179	179	NUM	nummod	Fenozolona	O
+Fenozolona	Fenozolona	PROPN	ROOT	Fenozolona	O
+*	*	SYM	nummod	Fenozolona	O
+
+180	180	NUM	nummod	Glutetimida	O
+Glutetimida	Glutetimida	NOUN	ROOT	Glutetimida	O
+*	*	NUM	nummod	Glutetimida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Glutetimida	O
+
+181	181	NUM	nummod	Oxido	O
+Oxido	Oxido	PROPN	ROOT	Oxido	O
+de	de	ADP	case	etileno	O
+etileno	etileno	NOUN	nmod	Oxido	O
+
+182	182	NUM	nummod	Bemegrida	O
+Bemegrida	Bemegrida	PROPN	ROOT	Bemegrida	O
+*	*	NUM	amod	Bemegrida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Bemegrida	O
+
+183	183	NUM	nummod	Valnoctamida	O
+Valnoctamida	Valnoctamida	PROPN	ROOT	Valnoctamida	O
+*	*	SYM	advmod	Valnoctamida	O
+
+184	184	NUM	nummod	Haloperidol	O
+Haloperidol	Haloperidol	PROPN	ROOT	Haloperidol	O
+*	*	SYM	nummod	Haloperidol	O
+
+185	185	NUM	nummod	Parametazona	O
+Parametazona	Parametazona	PROPN	ROOT	Parametazona	O
+*	*	NUM	nummod	Parametazona	O
+
+186	186	NUM	nummod	Fluanizona	O
+Fluanizona	Fluanizona	PROPN	ROOT	Fluanizona	O
+*	*	SYM	appos	Fluanizona	O
+
+187	187	NUM	nummod	Trifluperidol	O
+Trifluperidol	Trifluperidol	PROPN	ROOT	Trifluperidol	O
+*	*	VERB	appos	Trifluperidol	O
+
+188	188	NUM	nummod	Flueresona	O
+Flueresona	Flueresona	PROPN	ROOT	Flueresona	O
+*	*	SYM	nummod	Flueresona	O
+
+189	189	NUM	nummod	Fluorouracil	O
+Fluorouracil	Fluorouracil	ADJ	ROOT	Fluorouracil	O
+*	*	SYM	appos	Fluorouracil	O
+
+190	190	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+fluorhídrico	fluorhídrico	ADJ	amod	Acido	O
+,	,	PUNCT	punct	normales	O
+sus	su	DET	det	normales	O
+sales	salir	ADJ	amod	normales	O
+normales	normal	ADJ	appos	Acido	O
+,	,	PUNCT	punct	hidrofluoruros	O
+sus	su	DET	det	complejos	O
+complejos	complejo	NOUN	appos	Acido	O
+e	e	CONJ	cc	hidrofluoruros	O
+hidrofluoruros	hidrofluoruros	NOUN	conj	complejos	O
+con	con	ADP	case	excepción	O
+la	lo	DET	det	excepción	O
+excepción	excepción	NOUN	nmod	complejos	O
+de	de	ADP	case	mencionados	O
+los	lo	DET	det	mencionados	O
+mencionados	mencionar	ADJ	nmod	excepción	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	excepción	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+191	191	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	Furfuriltrimetilamonio	O
+Furfuriltrimetilamonio	Furfuriltrimetilamonio	PROPN	flat	Sales	O
+,	,	PUNCT	punct	ejemplo	O
+ejemplo	ejemplo	NOUN	appos	Sales	O
+ioduro	ioduro	ADJ	amod	ejemplo	O
+de	de	ADP	case	furtretonio	O
+furtretonio	furtretonio	NOUN	nmod	ejemplo	O
+*	*	SYM	appos	furtretonio	O
+
+192	192	NUM	nummod	Galantamina	O
+Galantamina	Galantamina	PROPN	ROOT	Galantamina	O
+*	*	SYM	nummod	Galantamina	O
+
+193	193	NUM	nummod	Progestágenos	O
+Progestágenos	Progestágenos	PROPN	ROOT	Progestágenos	O
+
+194	194	NUM	nummod	1,2,3,4,5,6-Hexaclorociclohexano	O
+1,2,3,4,5,6-Hexaclorociclohexano	1,2,3,4,5,6-Hexaclorociclohexano	NUM	ROOT	1,2,3,4,5,6-Hexaclorociclohexano	O
+(	(	PUNCT	punct	BHC	O
+BHC	BHC	PROPN	appos	1,2,3,4,5,6-Hexaclorociclohexano	O
+-	-	PUNCT	punct	ISO)(Lindano	O
+ISO)(Lindano	ISO)(Lindano	PROPN	flat	BHC	O
+)	)	PUNCT	punct	ISO)(Lindano	O
+
+195	195	NUM	ROOT	195	O
+(	(	PUNCT	punct	1R,4S,5R,8S)-1,2,3,4,10.10-Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a	O
+1R,4S,5R,8S)-1,2,3,4,10.10-Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a	1R,4S,5R,8S)-1,2,3,4,10.10-Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a	NUM	appos	195	O
+-	-	PUNCT	punct	1R,4S,5R,8S)-1,2,3,4,10.10-Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a	O
+octahidro-1,4:5,8-dimetanonaftaleno	octahidro-1,4:5,8-dimetanonaftaleno	ADJ	amod	1R,4S,5R,8S)-1,2,3,4,10.10-Hexacloro-6,7-epoxi-1,4,4a,5,6,7,8,8a	O
+(	(	PUNCT	punct	endrin	O
+endrin	endrin	NOUN	appos	octahidro-1,4:5,8-dimetanonaftaleno	O
+-	-	PUNCT	punct	ISO	O
+ISO	ISO	PROPN	appos	endrin	O
+)	)	PUNCT	punct	ISO	O
+
+196	196	NUM	nummod	Hexacloroetano	O
+Hexacloroetano	Hexacloroetano	PROPN	ROOT	Hexacloroetano	O
+
+197	197	NUM	ROOT	197	O
+(	(	PUNCT	punct	hexahidro-1,4:5,8,dimetanonaftaleno(isodrin	O
+1R,4S,5R,8S)-1,2,3,4,10,10-Hexacloro-1,4,4a,5,8,8a	1R,4S,5R,8S)-1,2,3,4,10,10-Hexacloro-1,4,4a,5,8,8a	NUM	nummod	hexahidro-1,4:5,8,dimetanonaftaleno(isodrin	O
+hexahidro-1,4:5,8,dimetanonaftaleno(isodrin	hexahidro-1,4:5,8,dimetanonaftaleno(isodrin	NOUN	appos	197	O
+-	-	PUNCT	punct	hexahidro-1,4:5,8,dimetanonaftaleno(isodrin	O
+ISO	ISO	PROPN	appos	197	O
+)	)	PUNCT	punct	ISO	O
+
+198	198	NUM	nummod	Hidrastina	O
+Hidrastina	Hidrastina	PROPN	ROOT	Hidrastina	O
+,	,	PUNCT	punct	hidrastinina	O
+hidrastinina	hidrastinina	NOUN	appos	Hidrastina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Hidrastina	O
+
+199	199	NUM	nummod	Hidrazidas	O
+Hidrazidas	Hidrazidas	PROPN	ROOT	Hidrazidas	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Hidrazidas	O
+
+200	200	NUM	nummod	Hidrazina	O
+Hidrazina	Hidrazina	PROPN	ROOT	Hidrazina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	appos	Hidrazina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	derivados	O
+
+201	201	NUM	nummod	Octamoxina	O
+Octamoxina	Octamoxina	PROPN	ROOT	Octamoxina	O
+*	*	SYM	flat	Octamoxina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Octamoxina	O
+
+202	202	NUM	nummod	Warfarina	O
+Warfarina	Warfarina	PROPN	ROOT	Warfarina	O
+*	*	NUM	flat	Warfarina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Warfarina	O
+
+203	203	NUM	nummod	Acetato	O
+Acetato	Acetato	PROPN	ROOT	Acetato	O
+de	de	ADP	case	Etil	O
+Etil	Etil	PROPN	flat	Acetato	O
+bis	bis	PROPN	flat	Etil	O
+(	(	PUNCT	punct	4-hidroxi-2-oxo-1-benzopiran-3-il	O
+4-hidroxi-2-oxo-1-benzopiran-3-il	4-hidroxi-2-oxo-1-benzopiran-3-il	NUM	appos	Acetato	O
+)	)	PUNCT	punct	4-hidroxi-2-oxo-1-benzopiran-3-il	O
+y	y	CONJ	cc	sales	O
+sales	salir	ADJ	conj	Acetato	O
+del	del	ADP	case	ácido	O
+ácido	ácido	NOUN	nmod	sales	O
+
+204	204	NUM	nummod	Metocarbamol	O
+Metocarbamol	Metocarbamol	PROPN	ROOT	Metocarbamol	O
+*	*	VERB	nummod	Metocarbamol	O
+
+205	205	NUM	nummod	Propasilnitrato	O
+Propasilnitrato	Propasilnitrato	PROPN	ROOT	Propasilnitrato	O
+*	*	NUM	nummod	Propasilnitrato	O
+
+206	206	NUM	nummod	4,4'-dihidroxi-3.3'-(3-metiltiopropilideno	O
+4,4'-dihidroxi-3.3'-(3-metiltiopropilideno	4,4'-dihidroxi-3.3'-(3-metiltiopropilideno	NUM	nsubj	dicumarina	O
+)	)	PUNCT	punct	4,4'-dihidroxi-3.3'-(3-metiltiopropilideno	O
+dicumarina	dicumarina	VERB	ROOT	dicumarina	O
+
+207	207	NUM	nummod	Fenadiazol	O
+Fenadiazol	Fenadiazol	PROPN	ROOT	Fenadiazol	O
+*	*	SYM	nummod	Fenadiazol	O
+
+208	208	NUM	nummod	Nitroxolina	O
+Nitroxolina	Nitroxolina	PROPN	ROOT	Nitroxolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Nitroxolina	O
+
+209	209	NUM	nummod	Hiosciamina	O
+Hiosciamina	Hiosciamina	PROPN	ROOT	Hiosciamina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Hiosciamina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+210	210	NUM	nummod	Hyoscyamus	O
+Hyoscyamus	Hyoscyamus	PROPN	nsubj	niger	O
+niger	niger	VERB	ROOT	niger	O
+L.(hojas	L.(hojas	PROPN	obj	niger	O
+,	,	PUNCT	punct	semillas	O
+semillas	semilla	NOUN	conj	L.(hojas	O
+,	,	PUNCT	punct	polvo	O
+polvo	polvo	NOUN	conj	L.(hojas	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	L.(hojas	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	niger	O
+
+211	211	NUM	nummod	Pemolina	O
+Pemolina	Pemolina	PROPN	ROOT	Pemolina	O
+*	*	NUM	nummod	Pemolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Pemolina	O
+
+212	212	NUM	nummod	Iodo	O
+Iodo	Iodo	NOUN	ROOT	Iodo	O
+
+213	213	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	Decametileno	O
+Decametileno	Decametileno	PROPN	flat	Sales	O
+bis	bis	PROPN	flat	Decametileno	O
+(	(	PUNCT	punct	trimetilamonio	O
+trimetilamonio	trimetilamonio	NOUN	appos	Sales	O
+)	)	PUNCT	punct	trimetilamonio	O
+,	,	PUNCT	punct	bromuro	O
+por	por	ADP	advmod	bromuro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+bromuro	bromuro	ADJ	nmod	Sales	O
+de	de	ADP	case	decametonio	O
+decametonio	decametonio	NOUN	nmod	bromuro	O
+
+214	214	NUM	nummod	Ipecacuana	O
+Ipecacuana	Ipecacuana	PROPN	ROOT	Ipecacuana	O
+(	(	PUNCT	punct	Cephaelis	O
+Cephaelis	Cephaelis	PROPN	appos	Ipecacuana	O
+ipecacuanha	ipecacuanha	ADJ	flat	Cephaelis	O
+Brot	Brot	PROPN	flat	Cephaelis	O
+.	.	PUNCT	punct	Cephaelis	O
+y	y	CONJ	cc	especies	O
+especies	especie	NOUN	conj	Ipecacuana	O
+relacionadas	relacionar	ADJ	amod	especies	O
+)	)	PUNCT	punct	especies	O
+(	(	PUNCT	punct	Raíces	O
+Raíces	Raíces	PROPN	appos	Ipecacuana	O
+,	,	PUNCT	punct	polvos	O
+polvos	polvo	ADJ	conj	Raíces	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	Raíces	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	Raíces	O
+
+215	215	NUM	ROOT	215	O
+(	(	PUNCT	punct	2-isopropilpenta-4-enoil)urea(apronalida	O
+2-isopropilpenta-4-enoil)urea(apronalida	2-isopropilpenta-4-enoil)urea(apronalida	NOUN	appos	215	O
+)	)	PUNCT	punct	2-isopropilpenta-4-enoil)urea(apronalida	O
+
+216	216	NUM	nummod	alfa	O
+alfa	alfa	NOUN	ROOT	alfa	O
+-	-	PUNCT	punct	santonin((3s,5aR,9bS)-3,3a,4,5,5a,,9b	O
+santonin((3s,5aR,9bS)-3,3a,4,5,5a,,9b	santonin((3s,5aR,9bS)-3,3a,4,5,5a,,9b	PRON	appos	alfa	O
+-	-	PUNCT	punct	santonin((3s,5aR,9bS)-3,3a,4,5,5a,,9b	O
+hexahidro-3,5a,9-trimetilnafto(1,2-b)furan-2,8-diona	hexahidro-3,5a,9-trimetilnafto(1,2-b)furan-2,8-diona	NOUN	appos	alfa	O
+
+217	217	NUM	nummod	Lobelia	O
+Lobelia	Lobelia	PROPN	ROOT	Lobelia	O
+inflata	inflata	VERB	flat	Lobelia	O
+L.	L.	PROPN	flat	Lobelia	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Lobelia	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+218	218	NUM	nummod	Lobelina	O
+Lobelina	Lobelina	PROPN	ROOT	Lobelina	O
+*	*	SYM	appos	Lobelina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Lobelina	O
+
+219	219	NUM	nummod	Barbitúricos	O
+Barbitúricos	Barbitúricos	PROPN	ROOT	Barbitúricos	O
+
+220	220	NUM	nummod	Mercurio	O
+Mercurio	Mercurio	PROPN	ROOT	Mercurio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Mercurio	O
+,	,	PUNCT	punct	casos	O
+excepto	excepto	ADP	case	casos	O
+aquellos	aquel	DET	det	casos	O
+casos	caso	NOUN	nmod	Mercurio	O
+especiales	especial	ADJ	amod	casos	O
+mencionados	mencionar	ADJ	amod	casos	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	obl	mencionados	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+221	221	NUM	nummod	3,4,5-Trimetoxifenetilamina	O
+3,4,5-Trimetoxifenetilamina	3,4,5-Trimetoxifenetilamina	NUM	ROOT	3,4,5-Trimetoxifenetilamina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	3,4,5-Trimetoxifenetilamina	O
+
+222	222	NUM	nummod	Metaldehído	O
+Metaldehído	Metaldehído	PROPN	ROOT	Metaldehído	O
+
+223	223	NUM	nummod	2-(4-alil-2-metoxifenoxi)-N	O
+2-(4-alil-2-metoxifenoxi)-N	2-(4-alil-2-metoxifenoxi)-N	NOUN	ROOT	2-(4-alil-2-metoxifenoxi)-N	O
+,	,	PUNCT	punct	N	O
+N	N	PROPN	appos	2-(4-alil-2-metoxifenoxi)-N	O
+-	-	PUNCT	punct	N	O
+dietilacetamida	dietilacetamida	ADJ	amod	N	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	2-(4-alil-2-metoxifenoxi)-N	O
+
+224	224	NUM	nummod	Coumetarol	O
+Coumetarol	Coumetarol	PROPN	ROOT	Coumetarol	O
+*	*	SYM	nummod	Coumetarol	O
+
+225	225	NUM	nummod	Dextrometorfano	O
+Dextrometorfano	Dextrometorfano	PROPN	ROOT	Dextrometorfano	O
+*	*	NUM	compound	Dextrometorfano	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Dextrometorfano	O
+
+226	226	NUM	nummod	2-metilheptilamina	O
+2-metilheptilamina	2-metilheptilamina	NUM	ROOT	2-metilheptilamina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	2-metilheptilamina	O
+
+227	227	NUM	nummod	Isometahepteno	O
+Isometahepteno	Isometahepteno	PROPN	ROOT	Isometahepteno	O
+*	*	NUM	amod	Isometahepteno	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Isometahepteno	O
+
+228	228	NUM	nummod	Mecamilamina	O
+Mecamilamina	Mecamilamina	PROPN	ROOT	Mecamilamina	O
+*	*	SYM	nummod	Mecamilamina	O
+
+229	229	NUM	nummod	Guaifenesina	O
+Guaifenesina	Guaifenesina	PROPN	ROOT	Guaifenesina	O
+*	*	SYM	nummod	Guaifenesina	O
+
+230	230	NUM	nummod	Dicoumarol	O
+Dicoumarol	Dicoumarol	PROPN	ROOT	Dicoumarol	O
+*	*	SYM	appos	Dicoumarol	O
+
+231	231	NUM	nummod	Fenmetrazina	O
+Fenmetrazina	Fenmetrazina	PROPN	ROOT	Fenmetrazina	O
+*	*	SYM	flat	Fenmetrazina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Fenmetrazina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+232	232	NUM	nummod	Tiamazola	O
+Tiamazola	Tiamazola	PROPN	ROOT	Tiamazola	O
+*	*	SYM	nummod	Tiamazola	O
+
+233	233	NUM	nummod	3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	O
+3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	NUM	ROOT	3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	O
+,	,	PUNCT	punct	pirano(3	O
+pirano(3	pirano(3	VERB	appos	3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	O
+)	)	PUNCT	punct	pirano(3	O
+benzopirano-5-ona	benzopirano-5-ona	PROPN	appos	3,4-dihidro-2-metoxi-2-metil-4-fenil-2H,5H	O
+(	(	PUNCT	punct	ciclocumarol	O
+ciclocumarol	ciclocumarol	NOUN	appos	benzopirano-5-ona	O
+)	)	PUNCT	punct	ciclocumarol	O
+
+234	234	NUM	nummod	Carisoprodol	O
+Carisoprodol	Carisoprodol	PROPN	ROOT	Carisoprodol	O
+*	*	SYM	nummod	Carisoprodol	O
+
+235	235	NUM	nummod	Meprobamato	O
+Meprobamato	Meprobamato	PROPN	ROOT	Meprobamato	O
+*	*	VERB	nummod	Meprobamato	O
+
+236	236	NUM	nummod	Tefazolina	O
+Tefazolina	Tefazolina	PROPN	ROOT	Tefazolina	O
+*	*	NUM	nummod	Tefazolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Tefazolina	O
+
+237	237	NUM	nummod	Arecolina	O
+Arecolina	Arecolina	PROPN	ROOT	Arecolina	O
+
+238	238	NUM	nummod	Metilsulfato	O
+Metilsulfato	Metilsulfato	PROPN	ROOT	Metilsulfato	O
+de	de	ADP	case	poldina	O
+poldina	poldina	PROPN	nmod	Metilsulfato	O
+*	*	PUNCT	appos	Metilsulfato	O
+
+239	239	NUM	nummod	Hidroxizina	O
+Hidroxizina	Hidroxizina	PROPN	ROOT	Hidroxizina	O
+*	*	SYM	nummod	Hidroxizina	O
+
+240	240	NUM	nummod	2-naftol	O
+2-naftol	2-naftol	NUM	ROOT	2-naftol	O
+
+242	242	NUM	nummod	1-y2-naftilaminas	O
+1-y2-naftilaminas	1-y2-naftilaminas	NUM	ROOT	1-y2-naftilaminas	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	1-y2-naftilaminas	O
+
+243	243	NUM	nmod	3-(1-naftil)-4-hidroxicumarina	O
+3-(1-naftil)-4-hidroxicumarina	3-(1-naftil)-4-hidroxicumarina	NUM	ROOT	3-(1-naftil)-4-hidroxicumarina	O
+
+244	244	NUM	nummod	Nafazolina	O
+Nafazolina	Nafazolina	PROPN	ROOT	Nafazolina	O
+*	*	SYM	compound	Nafazolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Nafazolina	O
+
+245	245	NUM	nummod	Neostigmina	O
+Neostigmina	Neostigmina	PROPN	ROOT	Neostigmina	O
+*	*	SYM	flat	Neostigmina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Neostigmina	O
+,	,	PUNCT	punct	bromuro	O
+por	por	ADP	advmod	bromuro	O
+ejemplo	ejemplo	NOUN	fixed	por	O
+bromuro	bromuro	ADJ	nmod	Neostigmina	O
+de	de	ADP	case	neostignina	O
+neostignina	neostignina	NOUN	nmod	bromuro	O
+
+246	246	NUM	nummod	Nicotina	O
+Nicotina	Nicotina	PROPN	ROOT	Nicotina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Nicotina	O
+
+247	247	NUM	nummod	Nitritos	O
+Nitritos	Nitritos	NOUN	ROOT	Nitritos	O
+de	de	ADP	case	amilo	O
+amilo	amilo	NOUN	nmod	Nitritos	O
+
+248	248	NUM	nummod	Nitritos	O
+Nitritos	Nitritos	NOUN	ROOT	Nitritos	O
+inorgánicos	inorgánico	ADJ	amod	Nitritos	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	Nitritos	O
+de	de	ADP	case	nitrito	O
+nitrito	nitrito	NOUN	nmod	excepción	O
+de	de	ADP	case	sodio	O
+sodio	sodio	NOUN	nmod	nitrito	O
+
+249	249	NUM	nummod	Nitrobenceno	O
+Nitrobenceno	Nitrobenceno	NOUN	ROOT	Nitrobenceno	O
+
+250	250	NUM	nummod	Nitrocresoles	O
+Nitrocresoles	Nitrocresoles	ADJ	ROOT	Nitrocresoles	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	conj	Nitrocresoles	O
+de	de	ADP	case	metales	O
+metales	metal	NOUN	nmod	sales	O
+alcalinos	alcalino	ADJ	amod	metales	O
+
+251	251	NUM	nummod	Nitrofurantoína	O
+Nitrofurantoína	Nitrofurantoína	PROPN	ROOT	Nitrofurantoína	O
+*	*	SYM	nummod	Nitrofurantoína	O
+
+252	252	NUM	nummod	Furazolidona	O
+Furazolidona	Furazolidona	PROPN	ROOT	Furazolidona	O
+*	*	SYM	nummod	Furazolidona	O
+
+253	253	NUM	nummod	1,2,3-triil	O
+1,2,3-triil	1,2,3-triil	NUM	ROOT	1,2,3-triil	O
+-	-	PUNCT	punct	trinitrato	O
+trinitrato	trinitrato	NOUN	appos	1,2,3-triil	O
+propano	propano	ADJ	amod	trinitrato	O
+
+254	254	NUM	nummod	Acenocoumarol	O
+Acenocoumarol	Acenocoumarol	PROPN	ROOT	Acenocoumarol	O
+*	*	NUM	nummod	Acenocoumarol	O
+
+255	255	NUM	nummod	Ferrato	O
+Ferrato	Ferrato	PROPN	ROOT	Ferrato	O
+alcalino	alcalino	NOUN	amod	Ferrato	O
+de	de	ADP	case	pentacianonitrosilo	O
+pentacianonitrosilo	pentacianonitrosilo	NOUN	nmod	Ferrato	O
+(	(	PUNCT	punct	-2	O
+-2	-2	NOUN	appos	Ferrato	O
+)	)	PUNCT	punct	-2	O
+
+256	256	NUM	nummod	Nitroestilbenos	O
+Nitroestilbenos	Nitroestilbenos	PROPN	ROOT	Nitroestilbenos	O
+,	,	PUNCT	punct	derivados	O
+sus	su	DET	det	homólogos	O
+homólogos	homólogo	NOUN	appos	Nitroestilbenos	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	Nitroestilbenos	O
+
+257	257	NUM	nummod	Noradrenalina	O
+Noradrenalina	Noradrenalina	PROPN	ROOT	Noradrenalina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Noradrenalina	O
+
+258	258	NUM	nummod	Noscapina	O
+Noscapina	Noscapina	PROPN	ROOT	Noscapina	O
+*	*	SYM	nummod	Noscapina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Noscapina	O
+
+259	259	NUM	nummod	Guanetidina	O
+Guanetidina	Guanetidina	PROPN	ROOT	Guanetidina	O
+*	*	SYM	nummod	Guanetidina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Guanetidina	O
+
+260	260	NUM	nummod	Estrógenos	O
+Estrógenos	Estrógenos	PROPN	ROOT	Estrógenos	O
+
+261	261	NUM	nummod	Oleandrina	O
+Oleandrina	Oleandrina	PROPN	ROOT	Oleandrina	O
+
+262	262	NUM	nummod	Clortalidona	O
+Clortalidona	Clortalidona	PROPN	ROOT	Clortalidona	O
+*	*	SYM	nummod	Clortalidona	O
+
+263	263	NUM	nummod	Peletierina	O
+Peletierina	Peletierina	PROPN	ROOT	Peletierina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Peletierina	O
+
+264	264	NUM	nummod	Pentacloroetano	O
+Pentacloroetano	Pentacloroetano	PROPN	ROOT	Pentacloroetano	O
+
+265	265	NUM	nummod	Tetranitrato	O
+Tetranitrato	Tetranitrato	PROPN	ROOT	Tetranitrato	O
+de	de	ADP	case	pentaeritritilo	O
+pentaeritritilo	pentaeritritilo	ADJ	nmod	Tetranitrato	O
+
+266	266	NUM	nummod	Petricloral	O
+Petricloral	Petricloral	PROPN	ROOT	Petricloral	O
+*	*	SYM	appos	Petricloral	O
+
+267	267	NUM	nummod	Octamilamina	O
+Octamilamina	Octamilamina	PROPN	ROOT	Octamilamina	O
+*	*	NUM	flat	Octamilamina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Octamilamina	O
+
+268	268	NUM	nummod	Acido	O
+Acido	Acido	ADJ	ROOT	Acido	O
+pícrico	pícrico	ADJ	amod	Acido	O
+
+269	269	NUM	nummod	Fenacemida	O
+Fenacemida	Fenacemida	PROPN	ROOT	Fenacemida	O
+*	*	NUM	advmod	Fenacemida	O
+
+270	270	NUM	nummod	Difencloxazina	O
+Difencloxazina	Difencloxazina	PROPN	ROOT	Difencloxazina	O
+
+271	271	NUM	nummod	2-fenilindan-1,3-diona	O
+2-fenilindan-1,3-diona	2-fenilindan-1,3-diona	NUM	ROOT	2-fenilindan-1,3-diona	O
+(	(	PUNCT	punct	fenindiona	O
+fenindiona	fenindiona	NOUN	appos	2-fenilindan-1,3-diona	O
+)	)	PUNCT	punct	fenindiona	O
+
+272	272	NUM	nummod	Etilfenacemida	O
+Etilfenacemida	Etilfenacemida	PROPN	ROOT	Etilfenacemida	O
+*	*	NUM	nummod	Etilfenacemida	O
+
+273	273	NUM	nummod	Fenprocumona	O
+Fenprocumona	Fenprocumona	PROPN	ROOT	Fenprocumona	O
+*	*	SYM	nummod	Fenprocumona	O
+
+274	274	NUM	nummod	Feniramidol	O
+Feniramidol	Feniramidol	PROPN	ROOT	Feniramidol	O
+*	*	SYM	appos	Feniramidol	O
+
+275	275	NUM	nummod	Triamtereno	O
+Triamtereno	Triamtereno	NOUN	ROOT	Triamtereno	O
+*	*	SYM	flat	Triamtereno	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Triamtereno	O
+
+276	276	NUM	nummod	Pirofosfato	O
+"	"	PUNCT	punct	Pirofosfato	O
+Pirofosfato	Pirofosfato	PROPN	ROOT	Pirofosfato	O
+de	de	ADP	case	tetraetilo	O
+tetraetilo	tetraetilo	PROPN	nmod	Pirofosfato	O
+;	;	PUNCT	punct	TEP(ISO	O
+TEP(ISO	TEP(ISO	PROPN	appos	Pirofosfato	O
+)	)	PUNCT	punct	TEP(ISO	O
+"	"	PUNCT	punct	Pirofosfato	O
+
+277	277	NUM	nummod	Fosfato	O
+Fosfato	Fosfato	PROPN	ROOT	Fosfato	O
+de	de	ADP	case	tritolilo	O
+tritolilo	tritolilo	NOUN	nmod	Fosfato	O
+
+278	278	NUM	nummod	Psilocibina	O
+Psilocibina	Psilocibina	PROPN	ROOT	Psilocibina	O
+*	*	SYM	nummod	Psilocibina	O
+
+279	279	NUM	nummod	Fósforo	O
+Fósforo	Fósforo	PROPN	ROOT	Fósforo	O
+y	y	CONJ	cc	fosfuros	O
+fosfuros	fosfuro	NOUN	conj	Fósforo	O
+metálicos	metálico	ADJ	amod	fosfuros	O
+
+280	280	NUM	nummod	Talidomida	O
+Talidomida	Talidomida	NOUN	ROOT	Talidomida	O
+*	*	NUM	nummod	Talidomida	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Talidomida	O
+
+281	281	NUM	nummod	Physostigma	O
+Physostigma	Physostigma	PROPN	nsubj	venonosum	O
+venonosum	venonosum	VERB	ROOT	venonosum	O
+Balf	Balf	PROPN	nsubj	venonosum	O
+.	.	PUNCT	punct	venonosum	O
+
+282	282	NUM	nummod	Picrotoxina	O
+Picrotoxina	Picrotoxina	PROPN	ROOT	Picrotoxina	O
+
+283	283	NUM	nummod	Acetato	O
+Acetato	Acetato	PROPN	ROOT	Acetato	O
+de	de	ADP	case	alfa	O
+alfa	alfa	NOUN	flat	Acetato	O
+piperidin-2-ilo	piperidin-2-ilo	PRON	amod	Acetato	O
+-	-	PUNCT	punct	bencilo	O
+bencilo	bencilo	NOUN	appos	Acetato	O
+la	lo	DET	det	forma	O
+forma	formar	NOUN	obj	bencilo	O
+levorotatoria	levorotatoria	ADJ	amod	forma	O
+(	(	PUNCT	punct	levofacetoperano	O
+levofacetoperano	levofacetoperano	ADJ	appos	forma	O
+)	)	PUNCT	punct	levofacetoperano	O
+y	y	CONJ	punct	Acetato	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+284	284	NUM	nummod	Pipradol	O
+Pipradol	Pipradol	PROPN	ROOT	Pipradol	O
+*	*	SYM	nummod	Pipradol	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Pipradol	O
+
+285	285	NUM	nummod	Azacyclonol	O
+Azacyclonol	Azacyclonol	PROPN	ROOT	Azacyclonol	O
+*	*	NUM	flat	Azacyclonol	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Azacyclonol	O
+
+286	286	NUM	nummod	Bietamiverina	O
+Bietamiverina	Bietamiverina	PROPN	ROOT	Bietamiverina	O
+*	*	SYM	nummod	Bietamiverina	O
+
+287	287	NUM	nummod	Butopiprina	O
+Butopiprina	Butopiprina	PROPN	ROOT	Butopiprina	O
+*	*	SYM	flat	Butopiprina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Butopiprina	O
+
+288	288	NUM	nummod	Plomo	O
+Plomo	Plomo	PROPN	ROOT	Plomo	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Plomo	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	Plomo	O
+de	de	ADP	case	mencionados	O
+aquellos	aquel	PRON	det	mencionados	O
+mencionados	mencionar	ADJ	nmod	excepción	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	excepción	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+289	289	NUM	nummod	Coniina	O
+Coniina	Coniina	PROPN	ROOT	Coniina	O
+
+290	290	NUM	nummod	Prunus	O
+Prunus	Prunus	PROPN	ROOT	Prunus	O
+laurocerasus	laurocerasus	PROPN	amod	Prunus	O
+L.	L.	PROPN	flat	Prunus	O
+(	(	PUNCT	punct	agua	O
+"	"	PUNCT	punct	agua	O
+agua	aguar	NOUN	appos	Prunus	O
+de	de	ADP	case	laurel	O
+laurel	laurel	NOUN	nmod	agua	O
+cerezo	cerezo	NOUN	amod	laurel	O
+"	"	PUNCT	punct	agua	O
+)	)	PUNCT	punct	agua	O
+
+291	291	NUM	nummod	Metyrapona	O
+Metyrapona	Metyrapona	PROPN	ROOT	Metyrapona	O
+*	*	SYM	nummod	Metyrapona	O
+
+292	292	NUM	nummod	Sustancias	O
+Sustancias	Sustancias	PROPN	nsubj	radioactivas	O
+radioactivas	radioactivo	ADJ	ROOT	radioactivas	O
+
+293	293	NUM	nummod	Juniperus	O
+Juniperus	Juniperus	PROPN	ROOT	Juniperus	O
+sabina	sabino	VERB	flat	Juniperus	O
+L.	L.	PROPN	flat	Juniperus	O
+(	(	PUNCT	punct	hojas	O
+hojas	hoja	NOUN	appos	Juniperus	O
+,	,	PUNCT	punct	aceite	O
+aceite	aceitar	NOUN	conj	hojas	O
+esencial	esencial	ADJ	amod	aceite	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	hojas	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	hojas	O
+
+294	294	NUM	nummod	Hioscina	O
+Hioscina	Hioscina	PROPN	ROOT	Hioscina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Hioscina	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+295	295	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+de	de	ADP	case	oro	O
+oro	orar	NOUN	nmod	Sales	O
+
+296	296	NUM	nummod	Selenio	O
+Selenio	Selenio	PROPN	ROOT	Selenio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Selenio	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	compuestos	O
+de	de	ADP	case	disulfuro	O
+disulfuro	disulfuro	NOUN	nmod	excepción	O
+de	de	ADP	case	selenio	O
+selenio	selenio	NOUN	nmod	disulfuro	O
+bajo	bajar	ADP	case	condiciones	O
+condiciones	condicionar	NOUN	nmod	compuestos	O
+establecidas	establecer	ADJ	amod	condiciones	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	obl	establecidas	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+297	297	NUM	nummod	Solanum	O
+Solanum	Solanum	PROPN	nsubj	nigrum	O
+nigrum	nigrum	VERB	ROOT	nigrum	O
+L.	L.	PROPN	obj	nigrum	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	L.	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+298	298	NUM	nummod	Sparteina	O
+Sparteina	Sparteina	PROPN	ROOT	Sparteina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Sparteina	O
+
+299	299	NUM	nummod	Glucocorticoides	O
+Glucocorticoides	Glucocorticoides	PROPN	ROOT	Glucocorticoides	O
+
+300	300	NUM	nummod	Datura	O
+Datura	Datura	PROPN	ROOT	Datura	O
+stramonium	stramonium	ADJ	flat	Datura	O
+L.	L.	PROPN	flat	Datura	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Datura	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+301	301	NUM	nummod	Estrofantinas	O
+Estrofantinas	Estrofantinas	PROPN	ROOT	Estrofantinas	O
+,	,	PUNCT	punct	derivados	O
+sus	su	DET	det	agluconas	O
+agluconas	agluconas	NOUN	appos	Estrofantinas	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+respectivos	respectivo	ADJ	amod	derivados	O
+derivados	derivar	ADJ	conj	Estrofantinas	O
+
+302	302	NUM	nummod	Especies	O
+Especies	Especies	PROPN	ROOT	Especies	O
+Strophantus	Strophantus	PROPN	flat	Especies	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Especies	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+303	303	NUM	nummod	Estricnina	O
+Estricnina	Estricnina	PROPN	ROOT	Estricnina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Estricnina	O
+
+304	304	NUM	nummod	Especies	O
+Especies	Especies	PROPN	ROOT	Especies	O
+Strychnos	Strychnos	PROPN	flat	Especies	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	Especies	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+305	305	NUM	nummod	Narcóticos	O
+Narcóticos	Narcóticos	PROPN	ROOT	Narcóticos	O
+,	,	PUNCT	punct	naturales	O
+naturales	natural	ADJ	amod	Narcóticos	O
+y	y	CONJ	cc	sintéticos	O
+sintéticos	sintético	ADJ	conj	naturales	O
+
+306	306	NUM	nummod	Sulfonamidas	O
+Sulfonamidas	Sulfonamidas	PROPN	ROOT	Sulfonamidas	O
+(	(	PUNCT	punct	sulfanilamida	O
+sulfanilamida	sulfanilamida	ADJ	amod	Sulfonamidas	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	sulfanilamida	O
+obtenidos	obtener	ADJ	amod	derivados	O
+por	por	ADP	case	sustitución	O
+sustitución	sustitución	NOUN	obl	obtenidos	O
+de	de	ADP	case	uno	O
+uno	unir	PRON	nmod	sustitución	O
+o	o	CONJ	cc	átomos	O
+más	más	ADV	advmod	átomos	O
+átomos	átomo	NOUN	conj	uno	O
+de	de	ADP	case	Hidrógeno	O
+Hidrógeno	Hidrógeno	PROPN	nmod	átomos	O
+de	de	ADP	case	grupos	O
+los	lo	DET	det	grupos	O
+grupos	grupo	NOUN	nmod	átomos	O
+aminos	aminos	ADJ	amod	grupos	O
+)	)	PUNCT	punct	sulfanilamida	O
+y	y	CONJ	punct	Sulfonamidas	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+307	307	NUM	nummod	Sultiamo	O
+Sultiamo	Sultiamo	PROPN	ROOT	Sultiamo	O
+*	*	VERB	nummod	Sultiamo	O
+
+308	308	NUM	nummod	Neodymium	O
+Neodymium	Neodymium	PROPN	ROOT	Neodymium	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Neodymium	O
+
+309	309	NUM	nummod	Tiotepa	O
+Tiotepa	Tiotepa	PROPN	ROOT	Tiotepa	O
+*	*	SYM	nummod	Tiotepa	O
+
+310	310	NUM	nummod	Teluro	O
+Teluro	Teluro	PROPN	ROOT	Teluro	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Teluro	O
+
+311	311	NUM	nummod	Xilometazolina	O
+Xilometazolina	Xilometazolina	NOUN	ROOT	Xilometazolina	O
+*	*	NUM	compound	Xilometazolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Xilometazolina	O
+
+312	312	NUM	nummod	Tetracloroetileno	O
+Tetracloroetileno	Tetracloroetileno	ADJ	ROOT	Tetracloroetileno	O
+
+313	313	NUM	nummod	Tetracloruro	O
+Tetracloruro	Tetracloruro	PROPN	ROOT	Tetracloruro	O
+de	de	ADP	case	carbono	O
+carbono	carbonar	NOUN	nmod	Tetracloruro	O
+
+314	314	NUM	nummod	Tetrafosfato	O
+Tetrafosfato	Tetrafosfato	PROPN	ROOT	Tetrafosfato	O
+de	de	ADP	case	hexaetilo	O
+hexaetilo	hexaetilo	NOUN	nmod	Tetrafosfato	O
+
+315	315	NUM	nummod	Talio	O
+Talio	Talio	PROPN	ROOT	Talio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Talio	O
+
+316	316	NUM	nummod	Extracto	O
+Extracto	Extracto	PROPN	ROOT	Extracto	O
+de	de	ADP	case	glicósido	O
+glicósido	glicósido	NOUN	nmod	Extracto	O
+de	de	ADP	case	Thevetia	O
+Thevetia	Thevetia	PROPN	nmod	glicósido	O
+nerifolia	nerifolia	PROPN	flat	Thevetia	O
+Juss	Juss	PROPN	flat	Thevetia	O
+.	.	PUNCT	punct	Extracto	O
+
+317	317	NUM	nummod	Etionamida	O
+Etionamida	Etionamida	PROPN	ROOT	Etionamida	O
+*	*	NUM	nummod	Etionamida	O
+
+318	318	NUM	nummod	Fenotiazina	O
+Fenotiazina	Fenotiazina	PROPN	ROOT	Fenotiazina	O
+*	*	NUM	amod	Fenotiazina	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Fenotiazina	O
+
+319	319	NUM	nummod	Tiourea	O
+Tiourea	Tiourea	PROPN	ROOT	Tiourea	O
+y	y	CONJ	cc	derivados	O
+sus	su	DET	det	derivados	O
+derivados	derivar	NOUN	conj	Tiourea	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	Tiourea	O
+de	de	ADP	case	mencionados	O
+los	lo	DET	det	mencionados	O
+mencionados	mencionar	ADJ	nmod	excepción	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	excepción	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+320	320	NUM	nummod	Mefenesina	O
+Mefenesina	Mefenesina	PROPN	ROOT	Mefenesina	O
+*	*	SYM	flat	Mefenesina	O
+y	y	CONJ	cc	ésteres	O
+sus	su	DET	det	ésteres	O
+ésteres	éster	NOUN	conj	Mefenesina	O
+
+321	321	NUM	nummod	Vacunas	O
+Vacunas	Vacunas	NOUN	ROOT	Vacunas	O
+,	,	PUNCT	punct	toxinas	O
+toxinas	toxina	NOUN	appos	Vacunas	O
+y	y	CONJ	cc	sueros	O
+sueros	suero	NOUN	conj	Vacunas	O
+
+322	322	NUM	nummod	Tranilcipromina	O
+Tranilcipromina	Tranilcipromina	PROPN	ROOT	Tranilcipromina	O
+*	*	NUM	amod	Tranilcipromina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Tranilcipromina	O
+
+323	323	NUM	ROOT	323	O
+Tricloronitrometano	Tricloronitrometano	PROPN	flat	323	O
+(	(	PUNCT	punct	cloropicrina	O
+cloropicrina	cloropicrina	NOUN	appos	323	O
+)	)	PUNCT	punct	cloropicrina	O
+
+324	324	NUM	nummod	2,2,2-tribromoetanol	O
+2,2,2-tribromoetanol	2,2,2-tribromoetanol	NUM	ROOT	2,2,2-tribromoetanol	O
+(	(	PUNCT	punct	alcohol	O
+alcohol	alcohol	NOUN	appos	2,2,2-tribromoetanol	O
+tribromoetílico	tribromoetílico	ADJ	amod	alcohol	O
+)	)	PUNCT	punct	alcohol	O
+
+325	325	NUM	nummod	Triclorometino	O
+Triclorometino	Triclorometino	PROPN	ROOT	Triclorometino	O
+*	*	NUM	flat	Triclorometino	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Triclorometino	O
+
+326	326	NUM	nummod	Tretamina	O
+Tretamina	Tretamina	PROPN	ROOT	Tretamina	O
+*	*	SYM	nummod	Tretamina	O
+
+327	327	NUM	nummod	Trietioduro	O
+Trietioduro	Trietioduro	PROPN	ROOT	Trietioduro	O
+de	de	ADP	case	Galamina	O
+Galamina	Galamina	PROPN	flat	Trietioduro	O
+*	*	SYM	appos	Trietioduro	O
+
+328	328	NUM	nummod	Urginea	O
+Urginea	Urginea	PROPN	ROOT	Urginea	O
+scilla	scilla	ADJ	amod	Urginea	O
+Stern	Stern	PROPN	flat	Urginea	O
+.	.	PUNCT	punct	Urginea	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	ROOT	preparaciones	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+329	329	NUM	nummod	Veratrina	O
+Veratrina	Veratrina	PROPN	ROOT	Veratrina	O
+,	,	PUNCT	punct	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	appos	Veratrina	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	sales	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+330	330	NUM	nummod	Schoenocaulon	O
+Schoenocaulon	Schoenocaulon	PROPN	nsubj	officinale	O
+officinale	officinale	PROPN	ROOT	officinale	O
+Lind	Lind	PROPN	obj	officinale	O
+.	.	PUNCT	punct	officinale	O
+(	(	PUNCT	punct	semillas	O
+semillas	semilla	NOUN	ROOT	semillas	O
+y	y	CONJ	cc	preparaciones	O
+preparaciones	preparación	NOUN	conj	semillas	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+)	)	PUNCT	punct	semillas	O
+
+331	331	NUM	nummod	Veratrum	O
+Veratrum	Veratrum	PROPN	ROOT	Veratrum	O
+Spp	Spp	PROPN	flat	Veratrum	O
+.	.	PUNCT	punct	Veratrum	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	ROOT	preparaciones	O
+
+332	332	NUM	nummod	Cloruro	O
+Cloruro	Cloruro	PROPN	ROOT	Cloruro	O
+de	de	ADP	case	monómero	O
+vinilo	vinilo	NOUN	amod	monómero	O
+monómero	monómero	NOUN	nmod	Cloruro	O
+
+333	333	NUM	nummod	Ergocalciferol	O
+Ergocalciferol	Ergocalciferol	PROPN	ROOT	Ergocalciferol	O
+*	*	SYM	appos	Ergocalciferol	O
+y	y	CONJ	cc	colecalciferol	O
+colecalciferol	colecalciferol	NOUN	conj	*	O
+(	(	PUNCT	punct	vitamina	O
+vitamina	vitamina	NOUN	appos	Ergocalciferol	O
+D2	D2	PROPN	appos	vitamina	O
+y	y	CONJ	cc	D3	O
+D3	D3	PROPN	conj	D2	O
+)	)	PUNCT	punct	vitamina	O
+
+334	334	NUM	nummod	Sales	O
+Sales	Sales	PROPN	ROOT	Sales	O
+del	del	ADP	case	ácido	O
+ácido	ácido	NOUN	nmod	Sales	O
+O	O	CONJ	cc	alkilditiocarbónico	O
+-	-	PUNCT	punct	alkilditiocarbónico	O
+alkilditiocarbónico	alkilditiocarbónico	ADJ	appos	Sales	O
+
+335	335	NUM	nummod	Yohimbina	O
+Yohimbina	Yohimbina	PROPN	ROOT	Yohimbina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Yohimbina	O
+
+336	336	NUM	nummod	Dimetil	O
+Dimetil	Dimetil	ADJ	nsubj	sulfóxido	O
+sulfóxido	sulfóxido	ADJ	ROOT	sulfóxido	O
+*	*	PUNCT	advmod	sulfóxido	O
+
+337	337	NUM	nummod	Difenhidramina	O
+Difenhidramina	Difenhidramina	PROPN	ROOT	Difenhidramina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Difenhidramina	O
+
+338	338	NUM	nummod	4-ter	O
+4-ter	4-ter	NUM	ROOT	4-ter	O
+-	-	PUNCT	punct	butilfenol	O
+butilfenol	butilfenol	NOUN	appos	4-ter	O
+
+339	339	NUM	nummod	4-ter	O
+4-ter	4-ter	NUM	ROOT	4-ter	O
+-	-	PUNCT	punct	butilpirocatecol	O
+butilpirocatecol	butilpirocatecol	VERB	appos	4-ter	O
+
+340	340	NUM	nummod	Dihidrotaquisterol	O
+Dihidrotaquisterol	Dihidrotaquisterol	PROPN	ROOT	Dihidrotaquisterol	O
+*	*	SYM	appos	Dihidrotaquisterol	O
+
+341	341	NUM	nummod	Dioxano	O
+Dioxano	Dioxano	PROPN	ROOT	Dioxano	O
+
+342	342	NUM	nummod	Morfolina	O
+Morfolina	Morfolina	PROPN	ROOT	Morfolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Morfolina	O
+
+343	343	NUM	nummod	Pyrethrum	O
+Pyrethrum	Pyrethrum	PROPN	nsubj	album	O
+album	album	VERB	ROOT	album	O
+L.	L.	PROPN	obj	album	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	conj	L.	O
+galénicas	galénico	ADJ	amod	preparaciones	O
+
+344	344	NUM	nummod	Maleato	O
+Maleato	Maleato	PROPN	ROOT	Maleato	O
+de	de	ADP	case	2-(4-metoxibencil	O
+2-(4-metoxibencil	2-(4-metoxibencil	NUM	nummod	Maleato	O
+-	-	PUNCT	punct	N-(2-piridil)amino)etildimetilamina	O
+N-(2-piridil)amino)etildimetilamina	N-(2-piridil)amino)etildimetilamina	NOUN	appos	Maleato	O
+
+345	345	NUM	nummod	Tripelenamina	O
+Tripelenamina	Tripelenamina	PROPN	ROOT	Tripelenamina	O
+*	*	SYM	nummod	Tripelenamina	O
+
+346	346	NUM	nummod	Tetraclorosalicilanílidas	O
+Tetraclorosalicilanílidas	Tetraclorosalicilanílidas	ADJ	ROOT	Tetraclorosalicilanílidas	O
+
+347	347	NUM	nummod	Diclorosalicilanílidas	O
+Diclorosalicilanílidas	Diclorosalicilanílidas	NOUN	ROOT	Diclorosalicilanílidas	O
+
+348	348	NUM	nummod	Tetrabromosalicilanílidas	O
+Tetrabromosalicilanílidas	Tetrabromosalicilanílidas	PROPN	ROOT	Tetrabromosalicilanílidas	O
+
+349	349	NUM	nummod	Dibromosalicilanílidas	O
+Dibromosalicilanílidas	Dibromosalicilanílidas	NOUN	ROOT	Dibromosalicilanílidas	O
+
+350	350	NUM	nummod	Bitionol	O
+Bitionol	Bitionol	PROPN	ROOT	Bitionol	O
+*	*	SYM	nummod	Bitionol	O
+
+351	351	NUM	nummod	Monosulfuros	O
+Monosulfuros	Monosulfuros	NOUN	ROOT	Monosulfuros	O
+de	de	ADP	mark	tiuram	O
+tiuram	tiuram	VERB	nmod	Monosulfuros	O
+
+352	352	NUM	nummod	Disulfuros	O
+Disulfuros	Disulfuros	PROPN	ROOT	Disulfuros	O
+de	de	ADP	mark	tiuram	O
+tiuram	tiuram	VERB	nmod	Disulfuros	O
+
+353	353	NUM	nummod	Dimetilformamida	O
+Dimetilformamida	Dimetilformamida	PROPN	ROOT	Dimetilformamida	O
+
+354	354	NUM	nummod	4-fenilbut-3-en-2-ona	O
+4-fenilbut-3-en-2-ona	4-fenilbut-3-en-2-ona	NUM	ROOT	4-fenilbut-3-en-2-ona	O
+
+355	355	NUM	nummod	Benzoatos	O
+Benzoatos	Benzoatos	PROPN	ROOT	Benzoatos	O
+del	del	ADP	case	alcohol	O
+alcohol	alcohol	NOUN	nmod	Benzoatos	O
+4-hidroxi-3-metoxicinamílico	4-hidroxi-3-metoxicinamílico	NUM	nummod	alcohol	O
+,	,	PUNCT	punct	contenidos	O
+excepto	excepto	ADP	case	contenidos	O
+para	parir	ADP	case	contenidos	O
+los	lo	DET	det	contenidos	O
+contenidos	contenido	NOUN	nmod	Benzoatos	O
+normales	normal	ADJ	amod	contenidos	O
+en	en	ADP	case	esencias	O
+esencias	esencia	NOUN	nmod	contenidos	O
+naturales	natural	ADJ	amod	esencias	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	nmod	esencias	O
+
+356	356	NUM	nummod	Furocumarinas	O
+Furocumarinas	Furocumarinas	PROPN	ROOT	Furocumarinas	O
+(	(	PUNCT	punct	ej	O
+por	por	ADP	case	ej	O
+ej	ej	NOUN	nmod	Furocumarinas	O
+.	.	PUNCT	punct	Furocumarinas	O
+trioxisalano	trioxisalano	NOUN	ROOT	trioxisalano	O
+*	*	SYM	appos	trioxisalano	O
+,	,	PUNCT	punct	8-metoxipsoraleno	O
+8-metoxipsoraleno	8-metoxipsoraleno	NUM	appos	trioxisalano	O
+,	,	PUNCT	punct	5-metoxipsoraleno	O
+5-metoxipsoraleno	5-metoxipsoraleno	NUM	appos	8-metoxipsoraleno	O
+)	)	PUNCT	punct	8-metoxipsoraleno	O
+,	,	PUNCT	punct	contenidos	O
+excepto	excepto	ADP	case	contenidos	O
+para	parir	ADP	case	contenidos	O
+los	lo	DET	det	contenidos	O
+contenidos	contenido	NOUN	nmod	trioxisalano	O
+normales	normal	ADJ	amod	contenidos	O
+en	en	ADP	case	esencias	O
+esencias	esencia	NOUN	nmod	contenidos	O
+naturales	natural	ADJ	amod	esencias	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	nmod	esencias	O
+.	.	PUNCT	punct	trioxisalano	O
+En	En	ADP	case	solares	O
+protectores	protector	NOUN	amod	solares	O
+solares	solar	NOUN	obl	menor	O
+y	y	CONJ	cc	productos	O
+productos	producto	NOUN	conj	solares	O
+para	parir	ADP	mark	broncear	O
+broncear	broncear	VERB	acl	solares	O
+el	el	DET	det	contenido	O
+contenido	contener	NOUN	obj	broncear	O
+de	de	ADP	case	furocumarinas	O
+furocumarinas	furocumarinas	NOUN	nmod	contenido	O
+debe	deber	AUX	aux	menor	O
+ser	ser	AUX	cop	menor	O
+menor	menor	ADJ	ROOT	menor	O
+que	que	SCONJ	mark	1mg	O
+1mg	1mg	NUM	nummod	kg	O
+/	/	PUNCT	punct	1mg	O
+kg	kilogramo	NOUN	nsubj	menor	O
+
+357	357	NUM	nummod	Aceite	O
+Aceite	Aceite	PROPN	ROOT	Aceite	O
+de	de	ADP	case	semillas	O
+semillas	semilla	NOUN	nmod	Aceite	O
+de	de	ADP	case	Laurus	O
+Laurus	Laurus	PROPN	nmod	Aceite	O
+nobilis	nobilis	NOUN	flat	Laurus	O
+L.	L.	PROPN	appos	Aceite	O
+
+358	358	NUM	nummod	Safrol	O
+Safrol	Safrol	PROPN	ROOT	Safrol	O
+,	,	PUNCT	punct	excepto	O
+excepto	excepto	ADP	advmod	Safrol	O
+cuando	cuando	SCONJ	fixed	excepto	O
+los	lo	DET	det	contenidos	O
+contenidos	contenido	NOUN	punct	excepto	O
+normales	normal	ADJ	amod	contenidos	O
+en	en	ADP	case	esencias	O
+esencias	esencia	NOUN	nmod	contenidos	O
+naturales	natural	ADJ	amod	esencias	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	nmod	esencias	O
+no	no	ADV	advmod	exceda	O
+exceda	exceder	VERB	amod	uso	O
+:	:	PUNCT	punct	ppm	O
+100	100	NUM	nummod	ppm	O
+ppm	ppm	VERB	appos	contenidos	O
+en	en	ADP	case	productos	O
+productos	producto	NOUN	nmod	ppm	O
+terminados	terminar	ADJ	amod	productos	O
+y	y	CONJ	cc	ppm	O
+50	50	NUM	nummod	ppm	O
+ppm	ppm	VERB	conj	ppm	O
+en	en	ADP	case	productos	O
+productos	producto	NOUN	nmod	ppm	O
+para	parir	ADP	case	higiene	O
+la	lo	DET	det	higiene	O
+higiene	higiene	NOUN	nmod	productos	O
+oral	oral	ADJ	amod	higiene	O
+y	y	CONJ	cc	dental	O
+dental	dental	ADJ	conj	oral	O
+.	.	PUNCT	punct	Safrol	O
+No	No	ADV	advmod	presente	O
+debe	deber	AUX	aux	presente	O
+estar	estar	AUX	cop	presente	O
+presente	presentar	ADJ	ROOT	presente	O
+en	en	ADP	case	cremas	O
+cremas	crema	NOUN	nmod	presente	O
+dentales	dental	ADJ	amod	cremas	O
+específicas	específico	ADJ	amod	cremas	O
+para	parir	ADP	case	niños	O
+niños	niño	NOUN	nmod	cremas	O
+
+359	359	NUM	nummod	5,5'-di	O
+5,5'-di	5,5'-di	PROPN	nsubj	isopropil-2,2'-dimetilbifenil-4,4'-diil	O
+-	-	PUNCT	punct	5,5'-di	O
+isopropil-2,2'-dimetilbifenil-4,4'-diil	isopropil-2,2'-dimetilbifenil-4,4'-diil	VERB	ROOT	isopropil-2,2'-dimetilbifenil-4,4'-diil	O
+dihipoiodito	dihipoiodito	NOUN	obj	isopropil-2,2'-dimetilbifenil-4,4'-diil	O
+
+360	360	NUM	nummod	3'-etil-5',6',7,8'-tetrahidro-5	O
+3'-etil-5',6',7,8'-tetrahidro-5	3'-etil-5',6',7,8'-tetrahidro-5	NUM	ROOT	3'-etil-5',6',7,8'-tetrahidro-5	O
+'	'	SYM	nmod	3'-etil-5',6',7,8'-tetrahidro-5	O
+,	,	PUNCT	punct	6',8',8'-tetrametil-2'-acetonaftaleno	O
+6',8',8'-tetrametil-2'-acetonaftaleno	6',8',8'-tetrametil-2'-acetonaftaleno	NUM	appos	3'-etil-5',6',7,8'-tetrahidro-5	O
+(	(	PUNCT	punct	acetil	O
+acetil	acetil	ADJ	appos	6',8',8'-tetrametil-2'-acetonaftaleno	O
+etil	etil	NOUN	amod	acetil	O
+tetrametil	tetrametil	ADJ	amod	acetil	O
+tetralina	tetralina	ADJ	amod	acetil	O
+,	,	PUNCT	punct	AETT	O
+AETT	AETT	PROPN	conj	acetil	O
+)	)	PUNCT	punct	AETT	O
+
+361	361	NUM	ROOT	361	O
+O	O	CONJ	compound	361	O
+-	-	PUNCT	punct	fenilendiamina	O
+fenilendiamina	fenilendiamina	NOUN	appos	361	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	fenilendiamina	O
+
+362	362	NUM	nummod	4-metil	O
+4-metil	4-metil	NUM	ROOT	4-metil	O
+-	-	PUNCT	punct	m	O
+m	metro	NOUN	appos	4-metil	O
+-	-	PUNCT	punct	fenilendiamina	O
+fenilendiamina	fenilendiamina	NOUN	amod	m	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	m	O
+
+363	363	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+aristolóquico	aristolóquico	ADJ	amod	Acido	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Acido	O
+
+364	364	NUM	nummod	Cloroformo	O
+Cloroformo	Cloroformo	PROPN	ROOT	Cloroformo	O
+
+365	365	NUM	nummod	2,3,7,8-Tetraclorodibenzo	O
+2,3,7,8-Tetraclorodibenzo	2,3,7,8-Tetraclorodibenzo	NUM	ROOT	2,3,7,8-Tetraclorodibenzo	O
+-	-	PUNCT	punct	dioxina	O
+dioxina	dioxina	VERB	appos	2,3,7,8-Tetraclorodibenzo	O
+
+366	366	NUM	nummod	Acetato	O
+Acetato	Acetato	PROPN	ROOT	Acetato	O
+de	de	ADP	case	2,6-dimetil-1,3-dioxano-4-ilo	O
+2,6-dimetil-1,3-dioxano-4-ilo	2,6-dimetil-1,3-dioxano-4-ilo	NUM	nummod	Acetato	O
+(	(	PUNCT	punct	dimetoxano	O
+dimetoxano	dimetoxano	NOUN	appos	Acetato	O
+)	)	PUNCT	punct	dimetoxano	O
+
+367	367	NUM	nummod	Piritionato	O
+Piritionato	Piritionato	PROPN	ROOT	Piritionato	O
+de	de	ADP	case	sodio	O
+sodio	sodio	NOUN	flat	Piritionato	O
+(	(	PUNCT	punct	INNM	O
+INNM	INNM	PROPN	flat	Piritionato	O
+)	)	PUNCT	punct	INNM	O
+
+368	368	NUM	nummod	N-(triclorometiltio)-4-ciclohexeno-1,2-dicarboximida	O
+N-(triclorometiltio)-4-ciclohexeno-1,2-dicarboximida	N-(triclorometiltio)-4-ciclohexeno-1,2-dicarboximida	ADJ	ROOT	N-(triclorometiltio)-4-ciclohexeno-1,2-dicarboximida	O
+(	(	PUNCT	punct	captan	O
+captan	captar	VERB	appos	N-(triclorometiltio)-4-ciclohexeno-1,2-dicarboximida	O
+)	)	PUNCT	punct	captan	O
+
+369	369	NUM	nummod	2,2'-dihidroxi-3,3',5,5'.6.6'-hexaclorodifenilmetano	O
+2,2'-dihidroxi-3,3',5,5'.6.6'-hexaclorodifenilmetano	2,2'-dihidroxi-3,3',5,5'.6.6'-hexaclorodifenilmetano	NUM	ROOT	2,2'-dihidroxi-3,3',5,5'.6.6'-hexaclorodifenilmetano	O
+(	(	PUNCT	punct	hexaclorofeno	O
+hexaclorofeno	hexaclorofeno	NOUN	appos	2,2'-dihidroxi-3,3',5,5'.6.6'-hexaclorodifenilmetano	O
+)	)	PUNCT	punct	hexaclorofeno	O
+
+370	370	NUM	nummod	6-(piperidinilo	O
+6-(piperidinilo	6-(piperidinilo	NUM	ROOT	6-(piperidinilo	O
+-2,4-pirimidinodiamina-3-óxido	-2,4-pirimidinodiamina-3-óxido	PROPN	compound	6-(piperidinilo	O
+(	(	PUNCT	punct	minoxidil	O
+minoxidil	minoxidil	NOUN	appos	6-(piperidinilo	O
+)	)	PUNCT	punct	minoxidil	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	6-(piperidinilo	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	ADJ	conj	sales	O
+
+371	371	NUM	nummod	3,4',5-tribromosalicilanílida	O
+3,4',5-tribromosalicilanílida	3,4',5-tribromosalicilanílida	NUM	ROOT	3,4',5-tribromosalicilanílida	O
+(	(	PUNCT	punct	tribromsalano	O
+tribromsalano	tribromsalano	NOUN	appos	3,4',5-tribromosalicilanílida	O
+)	)	PUNCT	punct	tribromsalano	O
+
+372	372	NUM	nummod	Fitolacca	O
+Fitolacca	Fitolacca	PROPN	ROOT	Fitolacca	O
+Spp	Spp	PROPN	flat	Fitolacca	O
+.	.	PUNCT	punct	Fitolacca	O
+y	y	CONJ	cc	preparaciones	O
+sus	su	DET	det	preparaciones	O
+preparaciones	preparación	NOUN	ROOT	preparaciones	O
+
+373	373	NUM	nummod	Tretinoina	O
+Tretinoina	Tretinoina	PROPN	ROOT	Tretinoina	O
+*	*	SYM	flat	Tretinoina	O
+(	(	PUNCT	punct	ácido	O
+ácido	ácido	NOUN	appos	Tretinoina	O
+retinoico	retinoico	ADJ	amod	ácido	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	NOUN	conj	ácido	O
+)	)	PUNCT	punct	ácido	O
+
+374	374	NUM	nummod	1-metoxi-2,4-diaminobenceno	O
+1-metoxi-2,4-diaminobenceno	1-metoxi-2,4-diaminobenceno	NUM	ROOT	1-metoxi-2,4-diaminobenceno	O
+(	(	PUNCT	punct	2,4-diaminoanisol	O
+2,4-diaminoanisol	2,4-diaminoanisol	NUM	appos	1-metoxi-2,4-diaminobenceno	O
+-	-	PUNCT	punct	2,4-diaminoanisol	O
+CI76050	CI76050	PROPN	appos	2,4-diaminoanisol	O
+)	)	PUNCT	punct	2,4-diaminoanisol	O
+y	y	CONJ	punct	1-metoxi-2,4-diaminobenceno	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+375	375	NUM	nummod	1-metoxi-2,5-diaminobenceno	O
+1-metoxi-2,5-diaminobenceno	1-metoxi-2,5-diaminobenceno	NUM	ROOT	1-metoxi-2,5-diaminobenceno	O
+(	(	PUNCT	punct	2,5-diaminoanisol	O
+2,5-diaminoanisol	2,5-diaminoanisol	NUM	appos	1-metoxi-2,5-diaminobenceno	O
+)	)	PUNCT	punct	2,5-diaminoanisol	O
+y	y	CONJ	punct	1-metoxi-2,5-diaminobenceno	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+376	376	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+12140	12140	NOUN	nummod	CI	O
+
+377	377	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+26105	26105	NOUN	nummod	CI	O
+
+378	378	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+42555	42555	NOUN	nummod	CI	O
+
+Sustancia	Sustancia	NOUN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+42555	42555	NOUN	nummod	CI	O
+-	-	PUNCT	punct	1	O
+1	1	NUM	appos	Sustancia	O
+
+Sustancia	Sustancia	NOUN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+42555	42555	NOUN	nummod	CI	O
+-	-	PUNCT	punct	2	O
+2	2	NUM	appos	Sustancia	O
+
+379	379	NUM	nummod	Benzoato	O
+Benzoato	Benzoato	PROPN	ROOT	Benzoato	O
+de	de	ADP	case	amil	O
+amil	amil	PROPN	nmod	Benzoato	O
+4-dimetilamino	4-dimetilamino	NUM	nummod	Benzoato	O
+,	,	PUNCT	punct	mezcla	O
+mezcla	mezclar	NOUN	appos	Benzoato	O
+de	de	ADP	case	isómeros	O
+isómeros	isómero	NOUN	nmod	mezcla	O
+(	(	PUNCT	punct	padimato	O
+padimato	padimato	NOUN	appos	isómeros	O
+A	A	ADP	appos	padimato	O
+(	(	PUNCT	punct	INN	O
+INN	INN	PROPN	appos	padimato	O
+)	)	PUNCT	punct	INN	O
+)	)	PUNCT	punct	padimato	O
+
+380	380	NUM	nummod	11-alfa	O
+11-alfa	11-alfa	NUM	ROOT	11-alfa	O
+-	-	PUNCT	punct	hidroxipregn-4-eno-3,20-diona	O
+hidroxipregn-4-eno-3,20-diona	hidroxipregn-4-eno-3,20-diona	NOUN	appos	11-alfa	O
+y	y	CONJ	cc	ésteres	O
+sus	su	DET	det	ésteres	O
+ésteres	éster	NOUN	conj	11-alfa	O
+
+381	381	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+42640	42640	NOUN	nummod	CI	O
+
+382	382	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+13065	13065	NOUN	nummod	CI	O
+
+383	383	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	flat	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+42535	42535	NOUN	nummod	CI	O
+
+384	384	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	flat	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+61554	61554	NUM	nummod	CI	O
+
+385	385	NUM	nummod	Antiandrogénicos	O
+Antiandrogénicos	Antiandrogénicos	NOUN	ROOT	Antiandrogénicos	O
+con	con	ADP	case	estructura	O
+estructura	estructurar	NOUN	nmod	Antiandrogénicos	O
+esteroidal	esteroidal	ADJ	amod	estructura	O
+
+386	386	NUM	nummod	Zirconio	O
+Zirconio	Zirconio	PROPN	ROOT	Zirconio	O
+y	y	CONJ	cc	compuestos	O
+sus	su	DET	det	compuestos	O
+compuestos	compuesto	NOUN	conj	Zirconio	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+la	lo	DET	det	excepción	O
+excepción	excepción	NOUN	nmod	Zirconio	O
+de	de	ADP	case	complejos	O
+los	lo	DET	det	complejos	O
+complejos	complejo	NOUN	nmod	excepción	O
+mencionados	mencionar	ADJ	amod	complejos	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	obl	mencionados	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+387	387	NUM	nummod	Tirotricina	O
+Tirotricina	Tirotricina	PROPN	ROOT	Tirotricina	O
+
+388	388	NUM	nummod	Acetonitrilo	O
+Acetonitrilo	Acetonitrilo	PROPN	ROOT	Acetonitrilo	O
+
+389	389	NUM	nummod	Tetrahidrozolina	O
+Tetrahidrozolina	Tetrahidrozolina	PROPN	ROOT	Tetrahidrozolina	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	Tetrahidrozolina	O
+
+390	390	NUM	nummod	Hidroxi-8-quinolina	O
+Hidroxi-8-quinolina	Hidroxi-8-quinolina	NOUN	ROOT	Hidroxi-8-quinolina	O
+y	y	CONJ	cc	sulfatos	O
+sus	su	DET	det	sulfatos	O
+sulfatos	sulfato	NOUN	conj	Hidroxi-8-quinolina	O
+,	,	PUNCT	punct	mencionados	O
+excepto	excepto	ADP	case	mencionados	O
+los	lo	DET	det	mencionados	O
+mencionados	mencionar	ADJ	conj	Hidroxi-8-quinolina	O
+en	en	ADP	case	listas	O
+otras	otro	DET	det	listas	O
+listas	listo	NOUN	nmod	mencionados	O
+de	de	ADP	case	sustancias	O
+sustancias	sustanciar	NOUN	nmod	listas	O
+
+391	391	NUM	nummod	Ditio-2,2'-bispiridina	O
+Ditio-2,2'-bispiridina	Ditio-2,2'-bispiridina	NOUN	ROOT	Ditio-2,2'-bispiridina	O
+-	-	PUNCT	punct	dióxido	O
+dióxido	dióxido	ADJ	amod	Ditio-2,2'-bispiridina	O
+1,1	1,1	NUM	obj	dióxido	O
+'	'	SYM	nmod	1,1	O
+(	(	PUNCT	punct	aditivo	O
+aditivo	aditivo	NOUN	obj	dióxido	O
+con	con	ADP	case	sulfato	O
+sulfato	sulfatar	NOUN	nmod	aditivo	O
+de	de	ADP	case	magnesio	O
+magnesio	magnesio	NOUN	nmod	sulfato	O
+trihidratado)-(disulfito	trihidratado)-(disulfito	NOUN	appos	sulfato	O
+de	de	ADP	case	piriditiona	O
+piriditiona	piriditiona	NOUN	nmod	trihidratado)-(disulfito	O
++	+	PROPN	appos	trihidratado)-(disulfito	O
+sulfato	sulfatar	NOUN	flat	+	O
+de	de	ADP	case	magnesio	O
+magnesio	magnesio	NOUN	nmod	trihidratado)-(disulfito	O
+)	)	PUNCT	punct	aditivo	O
+
+392	392	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+12075	12075	NOUN	nummod	CI	O
+y	y	CONJ	cc	lacas	O
+sus	su	DET	det	lacas	O
+lacas	laca	NOUN	conj	CI	O
+,	,	PUNCT	punct	pigmentos	O
+pigmentos	pigmento	NOUN	conj	lacas	O
+y	y	CONJ	cc	sales	O
+sales	salir	ADJ	conj	lacas	O
+
+393	393	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+45170	45170	NUM	nummod	CI	O
+y	y	CONJ	cc	CI	O
+CI	CI	PROPN	conj	CI	O
+45170:1	45170:1	NUM	nummod	Sustancia	O
+
+394	394	NUM	nummod	Lidocaína	O
+Lidocaína	Lidocaína	NOUN	ROOT	Lidocaína	O
+
+395	395	NUM	nmod	1,2-epoxibutano	O
+1,2-epoxibutano	1,2-epoxibutano	NUM	ROOT	1,2-epoxibutano	O
+
+396	396	NUM	nummod	Sustancia	O
+Sustancia	Sustancia	PROPN	ROOT	Sustancia	O
+colorante	colorante	ADJ	amod	Sustancia	O
+CI	CI	PROPN	appos	Sustancia	O
+15585	15585	NOUN	nummod	CI	O
+
+397	397	NUM	nummod	Lactato	O
+Lactato	Lactato	NOUN	ROOT	Lactato	O
+de	de	ADP	case	estroncio	O
+estroncio	estroncio	NOUN	nmod	Lactato	O
+
+398	398	NUM	nummod	Nitrato	O
+Nitrato	Nitrato	PROPN	ROOT	Nitrato	O
+de	de	ADP	case	estroncio	O
+estroncio	estroncio	NOUN	nmod	Nitrato	O
+
+399	399	NUM	nummod	Policarboxilato	O
+Policarboxilato	Policarboxilato	PROPN	ROOT	Policarboxilato	O
+de	de	ADP	case	estroncio	O
+estroncio	estroncio	NOUN	nmod	Policarboxilato	O
+
+400	400	NUM	nummod	Pramocaína	O
+Pramocaína	Pramocaína	PROPN	ROOT	Pramocaína	O
+
+401	401	NUM	ROOT	401	O
+2	2	NUM	compound	401	O
+-	-	PUNCT	punct	diamino	O
+4-	4-	NUM	nummod	diamino	O
+diamino	diamino	NOUN	appos	401	O
+fenil	fenil	ADJ	amod	diamino	O
+etanol	etanol	NOUN	amod	diamino	O
+y	y	CONJ	cc	sales	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	conj	diamino	O
+
+402	402	NUM	nummod	Nitrosaminas	O
+Nitrosaminas	Nitrosaminas	NOUN	ROOT	Nitrosaminas	O
+
+403	403	NUM	nummod	Dialcanolaminas	O
+Dialcanolaminas	Dialcanolaminas	PROPN	ROOT	Dialcanolaminas	O
+secundarias	secundario	ADJ	amod	Dialcanolaminas	O
+
+404	404	NUM	nmod	4-Amino-2-nitrofenol	O
+4-Amino-2-nitrofenol	4-Amino-2-nitrofenol	NUM	ROOT	4-Amino-2-nitrofenol	O
+
+405	405	NUM	nummod	2-Metil	O
+2-Metil	2-Metil	NUM	ROOT	2-Metil	O
+-	-	PUNCT	punct	m	O
+m	metro	NOUN	appos	2-Metil	O
+-	-	PUNCT	punct	fenilendiamina	O
+fenilendiamina	fenilendiamina	VERB	appos	2-Metil	O
+
+406	406	NUM	nummod	Musk	O
+Musk	Musk	PROPN	nsubj	ambrette	O
+ambrette	ambrette	VERB	ROOT	ambrette	O
+
+407	407	NUM	nummod	Células	O
+Células	Células	NOUN	ROOT	Células	O
+,	,	PUNCT	punct	tejidos	O
+tejidos	tejido	NOUN	appos	Células	O
+y	y	CONJ	cc	productos	O
+productos	producto	NOUN	conj	Células	O
+de	de	ADP	case	origen	O
+origen	origen	NOUN	nmod	productos	O
+humano	humanar	ADJ	amod	origen	O
+
+408	408	NUM	nummod	3,3-Bis	O
+3,3-Bis	3,3-Bis	NUM	ROOT	3,3-Bis	O
+(	(	PUNCT	punct	4-hidroxifenil	O
+4-hidroxifenil	4-hidroxifenil	PROPN	appos	3,3-Bis	O
+)	)	PUNCT	punct	4-hidroxifenil	O
+ftalida	ftalida	ADJ	amod	3,3-Bis	O
+(	(	PUNCT	punct	Fenolftaleína	O
+Fenolftaleína	Fenolftaleína	PROPN	obj	ftalida	O
+*	*	SYM	flat	Fenolftaleína	O
+)	)	PUNCT	punct	Fenolftaleína	O
+
+409	409	NUM	nummod	Peróxido	O
+Peróxido	Peróxido	NOUN	ROOT	Peróxido	O
+de	de	ADP	case	benzoilo	O
+benzoilo	benzoilo	NOUN	nmod	Peróxido	O
+
+410	410	NUM	nummod	Acido	O
+Acido	Acido	PROPN	ROOT	Acido	O
+Urocánico	Urocánico	PROPN	flat	Acido	O
+y	y	CONJ	cc	éster	O
+su	su	DET	det	éster	O
+éster	éster	NOUN	conj	Acido	O
+etílico	etílico	ADJ	amod	éster	O
+
+411	411	NUM	nummod	6-metil	O
+6-metil	6-metil	NUM	ROOT	6-metil	O
+-	-	PUNCT	punct	cumarina	O
+cumarina	cumarina	VERB	appos	6-metil	O
+
+412	412	NUM	nummod	Propelentes	O
+Propelentes	Propelentes	NOUN	nsubj	cloroflurocarbonados	O
+cloroflurocarbonados	cloroflurocarbonados	ADJ	ROOT	cloroflurocarbonados	O
+
+A001	A001	PROPN	ROOT	A001	O
+Catecol	Catecol	PROPN	flat	A001	O
+/	/	PUNCT	punct	Pirocatecol	O
+Pirocatecol	Pirocatecol	PROPN	appos	A001	O
+
+A002	A002	PROPN	ROOT	A002	O
+Pirogalol	Pirogalol	PROPN	flat	A002	O
+
+A003	A003	PROPN	ROOT	A003	O
+Pilocarpina	Pilocarpina	PROPN	flat	A003	O
+
+A004	A004	PROPN	ROOT	A004	O
+Pilocarpus	Pilocarpus	PROPN	flat	A004	O
+Jaborandi	Jaborandi	PROPN	flat	A004	O
+
+A005	A005	PROPN	ROOT	A005	O
+Sales	Sales	PROPN	flat	A005	O
+de	de	ADP	case	colina	O
+colina	colín	NOUN	nmod	A005	O
+
+A006	A006	PROPN	nmod	–	O
+2	2	NUM	nummod	A006	O
+–	–	PROPN	ROOT	–	O
+Amino	Amino	PROPN	flat	–	O
+–	–	PROPN	nummod	–	O
+4	4	NUM	nummod	Nitrofenol	O
+Nitrofenol	Nitrofenol	PROPN	flat	–	O
+
+A007	A007	PROPN	ROOT	A007	O
+2	2	NUM	nummod	A007	O
+–	–	PROPN	flat	A007	O
+Amino	Amino	PROPN	flat	–	O
+–	–	PROPN	flat	A007	O
+5	5	NUM	nummod	A007	O
+Nitrofenol	Nitrofenol	PROPN	flat	A007	O
+
+A008	A008	PROPN	ROOT	A008	O
+4	4	NUM	nummod	–etoxi	O
+–etoxi	–etoxi	PROPN	obj	A008	O
+–	–	PROPN	obj	A008	O
+m	metro	ADP	obl	A008	O
+–	–	PROPN	nummod	fenilendiamina	O
+fenilendiamina	fenilendiamina	NOUN	obj	A008	O
+y	y	CONJ	punct	A008	O
+sus	su	DET	det	sales	O
+sales	salir	ADJ	punct	y	O
+
+A009	A009	PROPN	ROOT	A009	O
+Tejidos	Tejidos	PROPN	flat	A009	O
+y	y	CONJ	cc	fluidos	O
+fluidos	fluir	ADJ	conj	A009	O
+bovinos	bovino	ADJ	amod	fluidos	O
+,	,	PUNCT	punct	ovinos	O
+ovinos	ovino	NOUN	conj	bovinos	O
+,	,	PUNCT	punct	caprinos	O
+caprinos	caprino	NOUN	appos	A009	O
+provenientes	proveniente	ADJ	amod	caprinos	O
+del	del	ADP	case	encéfalo	O
+encéfalo	encéfalo	NOUN	nmod	caprinos	O
+,	,	PUNCT	punct	médula	O
+de	de	ADP	case	médula	O
+la	lo	DET	det	médula	O
+médula	médula	NOUN	conj	encéfalo	O
+espinal	espinal	ADJ	amod	médula	O
+y	y	CONJ	cc	ojos	O
+de	de	ADP	case	ojos	O
+los	lo	DET	det	ojos	O
+ojos	ojo	NOUN	conj	médula	O
+y	y	CONJ	cc	derivados	O
+derivados	derivar	NOUN	conj	médula	O
+de	de	ADP	case	mismos	O
+los	lo	DET	det	mismos	O
+mismos	mismo	PRON	nmod	derivados	O
+.	.	PUNCT	punct	A009	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+II	II	ADJ	flat	ANEXO	O
+
+(	(	PUNCT	punct	Anexo	O
+Anexo	Anexo	PROPN	ROOT	Anexo	O
+derogado	derogar	ADJ	amod	Anexo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	derogado	O
+.	.	PUNCT	punct	Anexo	O
+3º	3º	NUM	ROOT	3º	O
+de	de	ADP	case	Disposición	O
+la	lo	DET	det	Disposición	O
+Disposición	Disposición	PROPN	nmod	3º	Disposición
+Nº	Nº	PROPN	flat	Disposición	Disposición
+2160/2011	2160/2011	PROPN	nummod	Disposición	Disposición
+de	de	ADP	case	Administración	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	nmod	Disposición	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Administración	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Administración	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Administración	O
+Médica	Médica	PROPN	flat	Administración	O
+B.O.	B.O.	PROPN	flat	Administración	O
+05/04/2011	05/04/2011	NUM	nummod	Administración	O
+)	)	PUNCT	punct	3º	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+III	III	PROPN	flat	ANEXO	O
+
+(	(	PUNCT	punct	Anexo	O
+Anexo	Anexo	PROPN	ROOT	Anexo	O
+derogado	derogar	ADJ	amod	Anexo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	derogado	O
+.	.	PUNCT	punct	Anexo	O
+3º	3º	NUM	ROOT	3º	O
+de	de	ADP	case	Disposición	O
+la	lo	DET	det	Disposición	O
+Disposición	Disposición	PROPN	nmod	3º	Disposición
+Nº	Nº	PROPN	flat	Disposición	Disposición
+2162/2011	2162/2011	PROPN	flat	Disposición	Disposición
+de	de	ADP	case	Administración	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	nmod	Disposición	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Administración	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Disposición	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Disposición	O
+Médica	Médica	PROPN	flat	Tecnología	O
+B.O.	B.O.	PROPN	flat	Tecnología	O
+05/04/2011	05/04/2011	NUM	nummod	Tecnología	O
+)	)	PUNCT	punct	3º	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+IV	IV	VERB	flat	ANEXO	O
+
+(	(	PUNCT	punct	Anexo	O
+Anexo	Anexo	PROPN	ROOT	Anexo	O
+derogado	derogar	ADJ	amod	Anexo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	derogado	O
+.	.	PUNCT	punct	Anexo	O
+4º	4º	NUM	ROOT	4º	O
+de	de	ADP	case	Disposición	O
+la	lo	DET	det	Disposición	O
+Disposición	Disposición	PROPN	nmod	4º	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	4º	Disposición
+2035/2012	2035/2012	PROPN	compound	°	Disposición
+de	de	ADP	case	Administración	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	nmod	4º	O
+Nacional	Nacional	PROPN	flat	Administración	O
+de	de	ADP	case	Medicamentos	O
+Medicamentos	Medicamentos	PROPN	flat	Administración	O
+,	,	PUNCT	punct	Alimentos	O
+Alimentos	Alimentos	PROPN	conj	Administración	O
+y	y	CONJ	cc	Tecnología	O
+Tecnología	Tecnología	PROPN	conj	Administración	O
+Médica	Médica	PROPN	flat	Tecnología	O
+B.O.	B.O.	PROPN	flat	Tecnología	O
+18/04/2012	18/04/2012	NUM	nummod	Tecnología	O
+)	)	PUNCT	punct	4º	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+V	V	VERB	flat	ANEXO	O
+
+LISTA	LISTA	NOUN	ROOT	LISTA	O
+DE	DE	ADP	case	FILTROS	O
+FILTROS	FILTROS	NOUN	nmod	LISTA	O
+SOLARES	SOLARES	PROPN	flat	FILTROS	O
+Y	Y	CONJ	cc	ABSORBEDORES	O
+ABSORBEDORES	ABSORBEDORES	PROPN	conj	FILTROS	O
+DE	DE	ADP	case	RADIACION	O
+RADIACION	RADIACION	NOUN	flat	ABSORBEDORES	O
+UV	UV	PROPN	flat	RADIACION	O
+
+1	1	NUM	ROOT	1	O
+.	.	PUNCT	punct	1	O
+Para	Para	ADP	case	propósito	O
+el	el	DET	det	propósito	O
+propósito	propósito	NOUN	obl	sustancias	O
+de	de	ADP	case	listado	O
+este	este	DET	det	listado	O
+listado	listar	NOUN	nmod	propósito	O
+,	,	PUNCT	punct	propósito	O
+los	lo	DET	det	filtros	O
+filtros	filtro	NOUN	nsubj	sustancias	O
+ultravioletas	ultravioleta	ADJ	amod	filtros	O
+son	ser	AUX	cop	sustancias	O
+sustancias	sustanciar	NOUN	ROOT	sustancias	O
+que	que	PRON	nsubj	tienen	O
+,	,	PUNCT	punct	adicionan	O
+cuando	cuando	SCONJ	mark	adicionan	O
+se	se	PRON	obj	adicionan	O
+adicionan	adicionar	VERB	advcl	tienen	O
+a	a	ADP	case	productos	O
+los	lo	DET	det	productos	O
+productos	producto	NOUN	obj	adicionan	O
+para	parir	ADP	case	protección	O
+la	lo	DET	det	protección	O
+protección	protección	NOUN	obl	adicionan	O
+solar	solar	ADJ	amod	protección	O
+,	,	PUNCT	punct	adicionan	O
+tienen	tener	VERB	acl	sustancias	O
+la	lo	DET	det	finalidad	O
+finalidad	finalidad	NOUN	obj	tienen	O
+de	de	ADP	mark	filtrar	O
+filtrar	filtrar	VERB	acl	finalidad	O
+ciertos	cierto	DET	det	rayos	O
+rayos	rayo	NOUN	obj	filtrar	O
+ultravioletas	ultravioleta	ADJ	amod	rayos	O
+con	con	ADP	case	fin	O
+el	el	DET	fixed	con	O
+fin	fin	NOUN	obl	filtrar	O
+de	de	ADP	mark	proteger	O
+proteger	proteger	VERB	acl	fin	O
+la	lo	DET	det	piel	O
+piel	piel	NOUN	obj	proteger	O
+de	de	ADP	case	efectos	O
+ciertos	cierto	DET	det	efectos	O
+efectos	efecto	NOUN	nmod	piel	O
+dañinos	dañino	ADJ	amod	efectos	O
+causados	causar	ADJ	amod	efectos	O
+por	por	ADP	case	rayos	O
+estos	este	DET	det	rayos	O
+rayos	rayo	NOUN	obj	causados	O
+.	.	PUNCT	punct	sustancias	O
+
+2	2	NUM	ROOT	2	O
+.	.	PUNCT	punct	2	O
+Estos	Estos	DET	det	filtros	O
+filtros	filtro	NOUN	nsubj	adicionados	O
+ultravioletas	ultravioleta	ADJ	amod	filtros	O
+pueden	poder	AUX	aux	adicionados	O
+ser	ser	AUX	aux	adicionados	O
+adicionados	adicionar	VERB	ROOT	adicionados	O
+en	en	ADP	case	formulaciones	O
+las	los	DET	det	formulaciones	O
+formulaciones	formulación	NOUN	obl	adicionados	O
+de	de	ADP	case	productos	O
+productos	producto	NOUN	nmod	formulaciones	O
+dentro	dentro	ADV	advmod	adicionados	O
+de	de	ADP	case	límites	O
+los	lo	DET	det	límites	O
+límites	límite	NOUN	obl	dentro	O
+y	y	CONJ	cc	condiciones	O
+condiciones	condicionar	NOUN	conj	límites	O
+abajo	abajar	ADV	advmod	detalladas	O
+detalladas	detallar	ADJ	amod	condiciones	O
+.	.	PUNCT	punct	adicionados	O
+
+3	3	NUM	ROOT	3	O
+.	.	PUNCT	punct	3	O
+Otros	Otros	DET	det	filtros	O
+filtros	filtro	NOUN	nsubj	incluidos	O
+de	de	ADP	case	radiación	O
+radiación	radiación	NOUN	nmod	filtros	O
+ultravioleta	ultravioleta	ADJ	amod	radiación	O
+utilizados	utilizar	ADJ	amod	filtros	O
+en	en	ADP	case	productos	O
+productos	producto	NOUN	obl	utilizados	O
+de	de	ADP	case	higiene	O
+higiene	higiene	NOUN	nmod	productos	O
+Personal	Personal	PROPN	appos	productos	O
+,	,	PUNCT	punct	perfumes	O
+perfumes	perfume	NOUN	conj	productos	O
+y	y	CONJ	cc	cosméticos	O
+cosméticos	cosmético	ADJ	conj	perfumes	O
+solamente	solamente	ADV	advmod	utilizados	O
+con	con	ADP	case	solamente	O
+la	lo	DET	det	finalidad	O
+finalidad	finalidad	NOUN	nmod	solamente	O
+de	de	ADP	mark	evitar	O
+evitar	evitar	VERB	acl	finalidad	O
+la	lo	DET	det	degradación	O
+degradación	degradación	NOUN	obj	evitar	O
+fotoquímica	fotoquímico	ADJ	amod	degradación	O
+,	,	PUNCT	punct	filtros	O
+no	no	ADV	advmod	incluidos	O
+están	estar	AUX	cop	incluidos	O
+incluidos	incluir	ADJ	ROOT	incluidos	O
+en	en	ADP	case	lista	O
+esta	este	DET	det	lista	O
+lista	listo	NOUN	obl	incluidos	O
+.	.	PUNCT	punct	incluidos	O
+
+

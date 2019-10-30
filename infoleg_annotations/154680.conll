@@ -1,0 +1,1292 @@
+VINOS	VINOS	NOUN	ROOT	VINOS	O
+
+Res	Res	NOUN	ROOT	Res	O
+.	.	PUNCT	punct	Res	O
+C.	C.	PROPN	nsubj	-INV	O
+82/87	82/87	NUM	nummod	C.	O
+-INV	-INV	VERB	ROOT	-INV	O
+
+Adecuación	Adecuación	NOUN	ROOT	Adecuación	O
+del	del	ADP	case	listado	O
+listado	listar	NOUN	nmod	Adecuación	O
+de	de	ADP	case	variedades	O
+las	los	DET	det	variedades	O
+variedades	variedad	NOUN	nmod	listado	O
+de	de	ADP	case	Vitis	O
+Vitis	Vitis	PROPN	nmod	variedades	O
+vinífera	vinífero	PROPN	flat	Vitis	O
+L.	L.	PROPN	flat	Vitis	O
+que	que	PRON	nsubj	figuran	O
+figuran	figurar	VERB	acl	listado	O
+en	en	ADP	case	punto	O
+el	el	DET	det	punto	O
+punto	punto	NOUN	obl	figuran	O
+22	22	NUM	compound	punto	O
+del	del	ADP	case	capítulo	O
+capítulo	capítulo	NOUN	nmod	punto	O
+IV	IV	PROPN	appos	capítulo	O
+-	-	PUNCT	punct	Variedades	O
+De	De	ADP	case	Variedades	O
+las	los	DET	det	Variedades	O
+Variedades	Variedades	PROPN	obl	figuran	O
+-	-	PUNCT	punct	anexo	O
+del	del	ADP	case	anexo	O
+anexo	anexar	NOUN	nmod	Variedades	O
+II	II	PROPN	appos	anexo	O
+-	-	PUNCT	punct	Vino	O
+Vino	Vino	PROPN	appos	anexo	O
+Fino	Fino	PROPN	flat	Vino	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Vino	O
+Nº	Nº	PROPN	flat	Vino	O
+200/85	200/85	PROPN	flat	Vino	O
+.	.	PUNCT	punct	Adecuación	O
+
+Mendoza	Mendoza	PROPN	ROOT	Mendoza	O
+,	,	PUNCT	punct	15/10/87	O
+15/10/87	15/10/87	NUM	appos	Mendoza	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nsubj	VISTO	O
+Nº	Nº	PROPN	flat	Resolución	O
+200/85	200/85	PROPN	flat	Resolución	O
+,	,	PUNCT	punct	VISTO	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	necesario	O
+es	ser	AUX	cop	necesario	O
+necesario	necesario	ADJ	ROOT	necesario	O
+adecuar	adecuar	VERB	csubj	necesario	O
+el	el	DET	det	listado	O
+listado	listar	NOUN	obj	adecuar	O
+de	de	ADP	case	variedades	O
+las	los	DET	det	variedades	O
+variedades	variedad	NOUN	nmod	listado	O
+de	de	ADP	case	Vitís	O
+Vitís	Vitís	PROPN	nmod	variedades	O
+vinífera	vinífero	PROPN	amod	variedades	O
+L.	L.	PROPN	appos	variedades	O
+que	que	PRON	nsubj	figuran	O
+figuran	figurar	VERB	acl	variedades	O
+en	en	ADP	case	punto	O
+el	el	DET	det	punto	O
+punto	punto	NOUN	obl	figuran	O
+22	22	NUM	compound	punto	O
+del	del	ADP	case	capítulo	O
+capítulo	capítulo	NOUN	nmod	punto	O
+IV	IV	PROPN	appos	capítulo	O
+-	-	PUNCT	punct	figuran	O
+DE	DE	ADP	case	VARIEDADES	O
+LAS	LAS	DET	det	VARIEDADES	O
+VARIEDADES	VARIEDADES	PROPN	obl	figuran	O
+del	del	ADP	case	anexo	O
+anexo	anexar	NOUN	nmod	VARIEDADES	O
+II	II	PROPN	appos	anexo	O
+-	-	PUNCT	punct	VINO	O
+VINO	VINO	NOUN	appos	anexo	O
+FINO	FINO	ADJ	amod	VINO	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	VINO	O
+Nº	Nº	PROPN	flat	Resolución	O
+200/85	200/85	PROPN	flat	Resolución	O
+a	a	ADP	case	existencia	O
+la	lo	DET	det	existencia	O
+real	real	ADJ	amod	existencia	O
+existencia	existencia	NOUN	obj	figuran	O
+de	de	ADP	case	algunas	O
+algunas	alguno	PRON	nmod	existencia	O
+de	de	ADP	case	ellas	O
+ellas	ellos	PRON	nmod	algunas	O
+en	en	ADP	case	parque	O
+el	el	DET	det	parque	O
+parque	parque	NOUN	nmod	existencia	O
+vitícola	vitícola	VERB	amod	parque	O
+argentino	argentino	ADJ	amod	vitícola	O
+.	.	PUNCT	punct	necesario	O
+
+Que	Que	SCONJ	mark	configurarse	O
+asimismo	asimismo	ADV	advmod	configurarse	O
+deben	deber	AUX	aux	configurarse	O
+configurarse	configurarse	VERB	ROOT	configurarse	O
+ciertas	cierto	DET	det	sinonimias	O
+sinonimias	sinonimia	NOUN	nsubj	configurarse	O
+de	de	ADP	case	importancia	O
+reconocida	reconocer	ADJ	amod	importancia	O
+importancia	importancia	NOUN	nmod	sinonimias	O
+comercial	comercial	ADJ	amod	importancia	O
+.	.	PUNCT	punct	configurarse	O
+
+Que	Que	SCONJ	mark	resulta	O
+también	también	ADV	advmod	resulta	O
+resulta	resultar	VERB	ROOT	resulta	O
+imprescindible	imprescindible	ADJ	obj	resulta	O
+denominar	denominar	VERB	csubj	resulta	O
+a	a	ADP	case	variedades	O
+las	los	DET	det	variedades	O
+variedades	variedad	NOUN	obj	denominar	O
+con	con	ADP	case	nombre	O
+el	el	DET	det	nombre	O
+correcto	correcto	ADJ	amod	nombre	O
+nombre	nombrar	NOUN	obl	denominar	O
+,	,	PUNCT	punct	resulta	O
+acorde	acorde	VERB	advcl	resulta	O
+a	a	ADP	case	características	O
+sus	su	DET	det	características	O
+características	característico	NOUN	obj	acorde	O
+ampelográficas	ampelográfico	ADJ	amod	características	O
+.	.	PUNCT	punct	resulta	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+,	,	PUNCT	punct	ello	O
+y	y	CONJ	cc	uso	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	conj	ello	O
+de	de	ADP	case	facultades	O
+las	los	DET	det	facultades	O
+facultades	facultad	NOUN	nmod	uso	O
+conferidas	conferir	ADJ	amod	facultades	O
+por	por	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obj	conferidas	O
+14.878	14.878	NUM	nummod	Ley	O
+y	y	CONJ	cc	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	conj	Ley	O
+3561/84	3561/84	NUM	nummod	Decreto	O
+,	,	PUNCT	punct	uso	O
+
+EL	EL	DET	det	CONSEJO	O
+CONSEJO	CONSEJO	PROPN	ROOT	CONSEJO	O
+DIRECTIVO	DIRECTIVO	ADJ	amod	CONSEJO	O
+DEL	DEL	ADP	case	INSTITUTO	O
+INSTITUTO	INSTITUTO	PROPN	nmod	CONSEJO	O
+NACIONAL	NACIONAL	PROPN	flat	INSTITUTO	O
+DE	DE	ADP	case	VITIVINICULTURA	O
+VITIVINICULTURA	VITIVINICULTURA	NOUN	nmod	CONSEJO	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	NOUN	ROOT	Artículo	O
+1º	1º	NUM	nummod	Artículo	O
+—	—	PROPN	flat	Artículo	O
+Modificar	Modificar	PROPN	flat	—	O
+el	el	DET	det	punto	O
+punto	punto	NOUN	appos	Artículo	O
+22	22	NUM	compound	punto	O
+del	del	ADP	case	Capítulo	O
+Capítulo	Capítulo	PROPN	nmod	punto	O
+IV	IV	PROPN	flat	Capítulo	O
+-	-	PUNCT	punct	VARIEDADES	O
+DE	DE	ADP	case	VARIEDADES	O
+LAS	LAS	DET	det	VARIEDADES	O
+VARIEDADES	VARIEDADES	PROPN	nmod	Artículo	O
+,	,	PUNCT	punct	anexo	O
+del	del	ADP	case	anexo	O
+anexo	anexar	NOUN	nmod	Artículo	O
+II	II	PROPN	appos	anexo	O
+-	-	PUNCT	punct	VINO	O
+VINO	VINO	NOUN	appos	anexo	O
+FINO	FINO	PROPN	amod	VINO	O
+-	-	PUNCT	punct	VINO	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	anexo	O
+Nº	Nº	PROPN	flat	Resolución	O
+200/85	200/85	PROPN	flat	Resolución	O
+,	,	PUNCT	punct	anexo	O
+el	el	DET	det	quedará	O
+que	que	PRON	nsubj	quedará	O
+quedará	quedar	VERB	acl	Artículo	O
+redactado	redactar	ADJ	obj	quedará	O
+de	de	ADP	case	manera	O
+la	lo	DET	det	manera	O
+siguiente	siguiente	ADJ	amod	manera	O
+manera	manera	NOUN	obl	redactado	O
+:	:	PUNCT	punct	Artículo	O
+
+Apruébanse	Apruébanse	PROPN	ROOT	Apruébanse	O
+y	y	CONJ	cc	decláranse	O
+decláranse	decláranse	VERB	conj	Apruébanse	O
+aptas	apto	NOUN	amod	Apruébanse	O
+para	parir	ADP	mark	elaborar	O
+elaborar	elaborar	VERB	acl	aptas	O
+vino	venir	NOUN	obj	elaborar	O
+fino	finar	ADJ	amod	vino	O
+las	los	DET	det	variedades	O
+variedades	variedad	NOUN	obj	elaborar	O
+que	que	PRON	nsubj	indican	O
+se	se	PRON	obj	indican	O
+indican	indicar	VERB	acl	variedades	O
+a	a	ADP	advmod	indican	O
+continuación	continuación	NOUN	fixed	a	O
+,	,	PUNCT	punct	una	O
+para	parir	ADP	case	una	O
+cada	cada	DET	det	una	O
+una	uno	PRON	nmod	Apruébanse	O
+de	de	ADP	case	provincias	O
+las	los	DET	det	provincias	O
+provincias	provincia	NOUN	nmod	una	O
+o	o	CONJ	cc	zonas	O
+zonas	zona	NOUN	conj	provincias	O
+vitivinícolas	vitivinícola	ADJ	amod	provincias	O
+interprovinciales	interprovincial	ADJ	amod	provincias	O
+reconocidas	reconocer	ADJ	amod	provincias	O
+por	por	ADP	case	Instituto	O
+el	el	DET	det	Instituto	O
+Instituto	Instituto	PROPN	obj	reconocidas	O
+Nacional	Nacional	PROPN	flat	Instituto	O
+de	de	ADP	case	Vitivinicultura	O
+Vitivinicultura	Vitivinicultura	PROPN	flat	Instituto	O
+.	.	PUNCT	punct	Apruébanse	O
+Se	Se	PRON	obj	eliminar	O
+podrá	poder	AUX	aux	eliminar	O
+eliminar	eliminar	VERB	ROOT	eliminar	O
+o	o	CONJ	cc	agregar	O
+agregar	agregar	VERB	conj	eliminar	O
+variedades	variedad	NOUN	obj	agregar	O
+en	en	ADP	case	listados	O
+los	lo	DET	det	listados	O
+listados	listar	NOUN	obl	agregar	O
+correspondientes	correspondiente	ADJ	amod	listados	O
+o	o	CONJ	cc	bien	O
+bien	bien	ADV	conj	correspondientes	O
+cambiarse	cambiarse	VERB	advcl	eliminar	O
+su	su	DET	det	clasificación	O
+clasificación	clasificación	NOUN	obj	cambiarse	O
+,	,	PUNCT	punct	estudio	O
+previo	previo	ADJ	amod	estudio	O
+estudio	estudiar	NOUN	appos	clasificación	O
+técnico	técnico	ADJ	amod	estudio	O
+sobre	sobrar	ADP	case	aptitud	O
+la	lo	DET	det	aptitud	O
+aptitud	aptitud	NOUN	nmod	estudio	O
+enológico	enológico	ADJ	amod	aptitud	O
+-	-	PUNCT	punct	cultural	O
+cultural	cultural	ADJ	amod	aptitud	O
+en	en	ADP	case	provincia	O
+la	lo	DET	det	provincia	O
+provincia	provincia	NOUN	nmod	cultural	O
+o	o	CONJ	cc	zona	O
+zona	zona	NOUN	conj	provincia	O
+vitivinícola	vitivinícola	ADJ	amod	zona	O
+respectiva	respectivo	ADJ	amod	provincia	O
+
+A	A	ADP	case	—	O
+—	—	PROPN	ROOT	—	O
+PROVINCIA	PROVINCIA	PROPN	flat	—	O
+DE	DE	ADP	case	MENDOZA	O
+MENDOZA	MENDOZA	PROPN	nmod	—	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+TINTOS	TINTOS	NOUN	nsubj	CEPAJES	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Merlot	Merlot	NOUN	ROOT	Merlot	O
+
+Cabernet	Cabernet	PROPN	nsubj	sauvignon	O
+sauvignon	sauvignon	VERB	ROOT	sauvignon	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Cabernet	Cabernet	PROPN	amod	franc	O
+franc	franc	VERB	ROOT	franc	O
+
+Dolcetto	Dolcetto	PROPN	ROOT	Dolcetto	O
+nero	nero	NOUN	flat	Dolcetto	O
+
+Canari	Canari	PROPN	ROOT	Canari	O
+
+Nebbiolo	Nebbiolo	NOUN	ROOT	Nebbiolo	O
+
+Tannat	Tannat	VERB	ROOT	Tannat	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+Lambrusco	Lambrusco	PROPN	ROOT	Lambrusco	O
+Maestri	Maestri	PROPN	flat	Lambrusco	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Caberinta	Caberinta	VERB	ROOT	Caberinta	O
+
+Sangiovesse	Sangiovesse	VERB	ROOT	Sangiovesse	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Chardonnay	Chardonnay	PROPN	ROOT	Chardonnay	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimos	Sinónimos	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	PROPN	flat	Chenin	O
+—	—	PROPN	appos	Chenin	O
+Pinot	Pinot	PROPN	flat	—	O
+de	de	ADP	case	Loire	O
+la	lo	DET	det	Loire	O
+Loire	Loire	PROPN	nmod	Chenin	O
+
+Sauvignon	Sauvignon	VERB	ROOT	Sauvignon	O
+
+Semillón	Semillón	VERB	ROOT	Semillón	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+—	—	PROPN	flat	Tocai	O
+Sinónimo	Sinónimo	PROPN	flat	Tocai	O
+:	:	PUNCT	punct	Sauvignonasse	O
+Sauvignonasse	Sauvignonasse	PROPN	appos	Tocai	O
+
+Riesling	Riesling	NOUN	ROOT	Riesling	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+sanjuanino	sanjuanino	ADJ	obj	Torrontés	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Saint	Saint	PROPN	ROOT	Saint	O
+Jeannet	Jeannet	PROPN	flat	Saint	O
+
+Moscato	Moscato	PROPN	nsubj	d'Asti	O
+bianco	bianco	NOUN	flat	Moscato	O
+—	—	PROPN	flat	Moscato	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	nsubj	d'Asti	O
+Canelli	Canelli	PROPN	flat	Moscato	O
+,	,	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	conj	Moscato	O
+d'Asti	d'Asti	PROPN	ROOT	d'Asti	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+Ugni	Ugni	VERB	ROOT	Ugni	O
+blanc	blanc	NOUN	obj	Ugni	O
+
+Rieslina	Rieslina	VERB	ROOT	Rieslina	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+ROSADOS	ROSADOS	ADJ	nsubj	CEPAJES	O
+
+Gewürztraminer	Gewürztraminer	PROPN	ROOT	Gewürztraminer	O
+—	—	PROPN	flat	Gewürztraminer	O
+Sinónimo	Sinónimo	PROPN	flat	Gewürztraminer	O
+:	:	PUNCT	punct	Traminer	O
+Traminer	Traminer	VERB	acl	Gewürztraminer	O
+
+B	B	NOUN	nsubj	JUAN	O
+-	-	PUNCT	punct	PROVINCIA	O
+PROVINCIA	PROVINCIA	PROPN	appos	B	O
+DE	DE	ADP	case	SAN	O
+SAN	SAN	PROPN	flat	PROVINCIA	O
+JUAN	JUAN	PROPN	ROOT	JUAN	O
+
+Cepajes	Cepajes	NOUN	ROOT	Cepajes	O
+tintos	tinto	ADJ	amod	Cepajes	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Cabernet	Cabernet	PROPN	ROOT	Cabernet	O
+Sauvignon	Sauvignon	PROPN	flat	Cabernet	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Merlot	Merlot	NOUN	ROOT	Merlot	O
+
+Cabernet	Cabernet	PROPN	amod	franc	O
+franc	franc	VERB	ROOT	franc	O
+
+Dolcetto	Dolcetto	PROPN	ROOT	Dolcetto	O
+nero	nero	NOUN	flat	Dolcetto	O
+
+Lambrusco	Lambrusco	PROPN	ROOT	Lambrusco	O
+Maestri	Maestri	PROPN	flat	Lambrusco	O
+
+Canari	Canari	PROPN	ROOT	Canari	O
+
+Nebbiolo	Nebbiolo	NOUN	ROOT	Nebbiolo	O
+
+Greco	Greco	PROPN	ROOT	Greco	O
+nero	nero	VERB	amod	Greco	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+Tannat	Tannat	VERB	ROOT	Tannat	O
+
+Caberinta	Caberinta	VERB	ROOT	Caberinta	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Chardonnay	Chardonnay	PROPN	ROOT	Chardonnay	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimo	Sinónimo	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	PROPN	flat	Chenin	O
+—	—	PROPN	appos	Chenin	O
+Pinot	Pinot	PROPN	flat	—	O
+de	de	ADP	case	Loire	O
+la	lo	DET	det	Loire	O
+Loire	Loire	PROPN	nmod	Chenin	O
+
+Riesling	Riesling	NOUN	ROOT	Riesling	O
+
+Ugni	Ugni	VERB	ROOT	Ugni	O
+blanc	blanc	NOUN	obj	Ugni	O
+—	—	PROPN	obj	Ugni	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Trebbiano	O
+Trebbiano	Trebbiano	PROPN	obj	Ugni	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+Moscato	Moscato	PROPN	ROOT	Moscato	O
+Bianco	Bianco	PROPN	flat	Moscato	O
+—	—	PROPN	flat	Moscato	O
+Sinónimo	Sinónimo	PROPN	flat	Moscato	O
+:	:	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	appos	Moscato	O
+d'Asti	d'Asti	PROPN	flat	Moscato	O
+,	,	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	conj	Moscato	O
+Canelli	Canelli	PROPN	flat	Moscato	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+Sanjuanino	Sanjuanino	PROPN	flat	Torrontés	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Sauvignon	Sauvignon	VERB	ROOT	Sauvignon	O
+
+Semillón	Semillón	VERB	ROOT	Semillón	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+—	—	PROPN	flat	Tocai	O
+Sinónimo	Sinónimo	PROPN	flat	Tocai	O
+:	:	PUNCT	punct	Sauvignonasse	O
+Sauvignonasse	Sauvignonasse	PROPN	appos	Tocai	O
+
+Cereza	Cereza	NOUN	ROOT	Cereza	O
+
+C	C	NOUN	ROOT	C	O
+-	-	PUNCT	punct	PROVINCIA	O
+PROVINCIA	PROVINCIA	PROPN	appos	C	O
+DE	DE	ADP	case	RIO	O
+RIO	RIO	PROPN	nmod	PROVINCIA	O
+NEGRO	NEGRO	PROPN	flat	RIO	O
+:	:	PUNCT	punct	PROVINCIA	O
+(	(	PUNCT	punct	localidades	O
+Excepto	Excepto	ADP	case	localidades	O
+las	los	DET	det	localidades	O
+localidades	localidad	NOUN	nmod	C	O
+comprendidas	comprender	ADJ	amod	localidades	O
+en	en	ADP	case	zona	O
+la	lo	DET	det	zona	O
+zona	zona	NOUN	obl	comprendidas	O
+del	del	ADP	case	Alto	O
+Alto	Alto	PROPN	nmod	zona	O
+Colorado	Colorado	PROPN	flat	Alto	O
+)	)	PUNCT	punct	localidades	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+TINTOS	TINTOS	NOUN	nsubj	CEPAJES	O
+
+Cabernet	Cabernet	PROPN	ROOT	Cabernet	O
+Sauvignon	Sauvignon	PROPN	flat	Cabernet	O
+
+Merlot	Merlot	NOUN	ROOT	Merlot	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Cabernet	Cabernet	PROPN	amod	franc	O
+franc	franc	VERB	ROOT	franc	O
+
+Balsamina	Balsamina	NOUN	ROOT	Balsamina	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+Joubertin	Joubertin	PROPN	flat	Pinot	O
+
+Bastardo	Bastardo	INTJ	ROOT	Bastardo	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Sangiovesse	Sangiovesse	VERB	ROOT	Sangiovesse	O
+
+Petit	Petit	VERB	ROOT	Petit	O
+verdot	verdot	VERB	obj	Petit	O
+
+Dolcetto	Dolcetto	PROPN	ROOT	Dolcetto	O
+Nero	Nero	PROPN	flat	Dolcetto	O
+
+Caberinta	Caberinta	VERB	ROOT	Caberinta	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Semillón	Semillón	VERB	ROOT	Semillón	O
+
+Sauvignon	Sauvignon	VERB	ROOT	Sauvignon	O
+
+Chardonnay	Chardonnay	PROPN	ROOT	Chardonnay	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+—	—	PROPN	flat	Tocai	O
+Sinónimo	Sinónimo	PROPN	flat	Tocai	O
+:	:	PUNCT	punct	Sauvignonasse	O
+Sauvignonasse	Sauvignonasse	PROPN	appos	Tocai	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Riesling	Riesling	NOUN	ROOT	Riesling	O
+
+Ugni	Ugni	VERB	ROOT	Ugni	O
+blanc	blanc	NOUN	obj	Ugni	O
+—	—	PROPN	obj	Ugni	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Trebbiano	O
+Trebbiano	Trebbiano	PROPN	obj	Ugni	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+Río	Río	PROPN	flat	Pedro	O
+Colorado	Colorado	PROPN	flat	Pedro	O
+
+Sauvignon	Sauvignon	PROPN	ROOT	Sauvignon	O
+Río	Río	PROPN	flat	Sauvignon	O
+Colorado	Colorado	PROPN	flat	Sauvignon	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+Sanjuanino	Sanjuanino	PROPN	flat	Torrontés	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Rieslina	Rieslina	VERB	ROOT	Rieslina	O
+
+Torrontés	Torrontés	PROPN	nsubj	mendocino	O
+mendocino	mendocino	NOUN	ROOT	mendocino	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimo	Sinónimo	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	PROPN	flat	Chenin	O
+,	,	PUNCT	punct	Pinot	O
+Pinot	Pinot	PROPN	conj	Chenin	O
+de	de	ADP	case	Loire	O
+la	lo	DET	det	Loire	O
+Loire	Loire	PROPN	flat	Pinot	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+ROSADOS	ROSADOS	ADJ	nsubj	CEPAJES	O
+
+Gewürztraminer	Gewürztraminer	PROPN	ROOT	Gewürztraminer	O
+—	—	PROPN	flat	Gewürztraminer	O
+Sinónimo	Sinónimo	PROPN	flat	Gewürztraminer	O
+:	:	PUNCT	punct	Traminer	O
+Traminer	Traminer	VERB	acl	Gewürztraminer	O
+
+D	D	NOUN	ROOT	D	O
+-	-	PUNCT	punct	Provincia	O
+Provincia	Provincia	PROPN	appos	D	O
+de	de	ADP	case	Neuquén	O
+Neuquén	Neuquén	PROPN	flat	Provincia	O
+
+Las	Las	DET	det	variedades	O
+mismas	mismo	DET	det	Las	O
+variedades	variedad	NOUN	ROOT	variedades	O
+que	que	PRON	mark	Provincia	O
+para	parir	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	nmod	variedades	O
+de	de	ADP	case	Río	O
+Río	Río	PROPN	flat	Provincia	O
+Negro	Negro	PROPN	flat	Río	O
+
+E	E	CONJ	cc	PROVINCIA	O
+-	-	PUNCT	punct	PROVINCIA	O
+PROVINCIA	PROVINCIA	PROPN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	RIOJA	O
+LA	LA	DET	det	RIOJA	O
+RIOJA	RIOJA	PROPN	nmod	PROVINCIA	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+TINTOS	TINTOS	NOUN	nsubj	CEPAJES	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Merlot	Merlot	NOUN	ROOT	Merlot	O
+
+Cabernet	Cabernet	PROPN	ROOT	Cabernet	O
+Sauvignon	Sauvignon	PROPN	flat	Cabernet	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Cabernet	Cabernet	PROPN	amod	franc	O
+franc	franc	VERB	ROOT	franc	O
+
+Dolcetto	Dolcetto	PROPN	ROOT	Dolcetto	O
+Nero	Nero	PROPN	flat	Dolcetto	O
+
+Tannat	Tannat	VERB	ROOT	Tannat	O
+
+Greco	Greco	PROPN	ROOT	Greco	O
+Nero	Nero	PROPN	flat	Greco	O
+
+Refosco	Refosco	VERB	ROOT	Refosco	O
+
+Sangiovesse	Sangiovesse	VERB	ROOT	Sangiovesse	O
+
+Nebbiolo	Nebbiolo	NOUN	ROOT	Nebbiolo	O
+
+Canari	Canari	PROPN	ROOT	Canari	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+Caberinta	Caberinta	VERB	ROOT	Caberinta	O
+
+Lambrusco	Lambrusco	PROPN	ROOT	Lambrusco	O
+Maestri	Maestri	PROPN	flat	Lambrusco	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+Ugni	Ugni	VERB	ROOT	Ugni	O
+blanc	blanc	NOUN	obj	Ugni	O
+—	—	PROPN	obj	Ugni	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Trebbiano	O
+Trebbiano	Trebbiano	PROPN	obj	Ugni	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimo	Sinónimo	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	PROPN	flat	Chenin	O
+,	,	PUNCT	punct	Pinot	O
+Pinot	Pinot	PROPN	conj	Chenin	O
+de	de	ADP	case	Loire	O
+la	lo	DET	det	Loire	O
+Loire	Loire	PROPN	flat	Pinot	O
+
+Semillón	Semillón	VERB	ROOT	Semillón	O
+
+Moscato	Moscato	PROPN	ROOT	Moscato	O
+bianco	bianco	NOUN	flat	Moscato	O
+—	—	PROPN	flat	Moscato	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	appos	Moscato	O
+Canelli	Canelli	PROPN	flat	Moscato	O
+,	,	PUNCT	punct	Moscato	O
+
+Moscato	Moscato	PROPN	ROOT	Moscato	O
+D'Asti	D'Asti	PROPN	flat	Moscato	O
+
+Riesling	Riesling	NOUN	ROOT	Riesling	O
+
+Chardonnay	Chardonnay	PROPN	ROOT	Chardonnay	O
+
+Sauvignon	Sauvignon	VERB	ROOT	Sauvignon	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+—	—	PROPN	flat	Tocai	O
+Sinónimo	Sinónimo	PROPN	flat	Tocai	O
+:	:	PUNCT	punct	Sauvignonasse	O
+Sauvignonasse	Sauvignonasse	PROPN	appos	Tocai	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+sanjuanino	sanjuanino	NOUN	amod	Torrontés	O
+—	—	PROPN	appos	Torrontés	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Torrontés	O
+Torrontés	Torrontés	PROPN	appos	Torrontés	O
+sanjuanino	sanjuanino	ADJ	flat	Torrontés	O
+
+Saint	Saint	PROPN	ROOT	Saint	O
+Jeannet	Jeannet	PROPN	flat	Saint	O
+
+Rieslina	Rieslina	VERB	ROOT	Rieslina	O
+
+F	F	PROPN	ROOT	F	O
+-	-	PUNCT	punct	PROVINCIA	O
+PROVINCIA	PROVINCIA	PROPN	appos	F	O
+DE	DE	ADP	case	CATAMARCA	O
+CATAMARCA	CATAMARCA	PROPN	flat	PROVINCIA	O
+(	(	PUNCT	punct	localidades	O
+Excepto	Excepto	ADP	case	localidades	O
+las	los	DET	det	localidades	O
+localidades	localidad	NOUN	nmod	F	O
+comprendidas	comprender	ADJ	amod	localidades	O
+en	en	ADP	case	zona	O
+la	lo	DET	det	zona	O
+zona	zona	NOUN	obl	comprendidas	O
+de	de	ADP	case	Valles	O
+los	lo	DET	det	Valles	O
+Valles	Valles	PROPN	nmod	zona	O
+Calchaquíes	Calchaquíes	PROPN	flat	Valles	O
+)	)	PUNCT	punct	localidades	O
+
+Las	Las	DET	det	variedadas	O
+mismas	mismo	DET	det	Las	O
+variedadas	variedadas	ADJ	ROOT	variedadas	O
+que	que	PRON	mark	provincia	O
+para	parir	ADP	case	provincia	O
+la	lo	DET	det	provincia	O
+provincia	provincia	NOUN	nmod	variedadas	O
+de	de	ADP	case	Rioja	O
+La	La	DET	det	Rioja	O
+Rioja	Rioja	PROPN	nmod	provincia	O
+
+G	G	NOUN	ROOT	G	O
+-	-	PUNCT	punct	ZONA	O
+ZONA	ZONA	PROPN	appos	G	O
+DE	DE	ADP	case	VALLES	O
+LOS	LOS	DET	det	VALLES	O
+VALLES	VALLES	PROPN	flat	ZONA	O
+CALCHAQUIES	CALCHAQUIES	ADJ	appos	G	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+TINTOS	TINTOS	NOUN	nsubj	CEPAJES	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+Cabernet	Cabernet	PROPN	ROOT	Cabernet	O
+Sauvignon	Sauvignon	PROPN	flat	Cabernet	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Merlot	Merlot	NOUN	ROOT	Merlot	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Cabernet	Cabernet	PROPN	amod	franc	O
+franc	franc	VERB	ROOT	franc	O
+
+Dolcetto	Dolcetto	PROPN	ROOT	Dolcetto	O
+Nero	Nero	PROPN	flat	Dolcetto	O
+
+Canari	Canari	PROPN	ROOT	Canari	O
+
+Lambrusco	Lambrusco	PROPN	ROOT	Lambrusco	O
+Maestri	Maestri	PROPN	flat	Lambrusco	O
+
+Caberinta	Caberinta	VERB	ROOT	Caberinta	O
+
+Nebbiolo	Nebbiolo	NOUN	ROOT	Nebbiolo	O
+
+Tannat	Tannat	VERB	ROOT	Tannat	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Chardonnay	Chardonnay	PROPN	ROOT	Chardonnay	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimo	Sinónimo	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	VERB	flat	Chenin	O
+
+Riesling	Riesling	NOUN	ROOT	Riesling	O
+
+Ugni	Ugni	VERB	ROOT	Ugni	O
+blanc	blanc	NOUN	obj	Ugni	O
+—	—	PROPN	obj	Ugni	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Trebbiano	O
+Trebbiano	Trebbiano	PROPN	obj	Ugni	O
+
+Moscato	Moscato	PROPN	ROOT	Moscato	O
+bianco	bianco	NOUN	flat	Moscato	O
+—	—	PROPN	flat	Moscato	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Moscato	O
+Moscato	Moscato	PROPN	appos	Moscato	O
+Canelli	Canelli	PROPN	flat	Moscato	O
+,	,	PUNCT	punct	Moscato	O
+
+Moscato	Moscato	PROPN	nsubj	d'Asti	O
+d'Asti	d'Asti	PROPN	ROOT	d'Asti	O
+
+Semillón	Semillón	VERB	ROOT	Semillón	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+—	—	PROPN	flat	Tocai	O
+Sinónimo	Sinónimo	PROPN	flat	Tocai	O
+:	:	PUNCT	punct	Sauvignonasse	O
+Sauvignonasse	Sauvignonasse	PROPN	appos	Tocai	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+sanjuanino	sanjuanino	NOUN	amod	Torrontés	O
+—	—	PROPN	appos	Torrontés	O
+Sinónimo	Sinónimo	PROPN	flat	—	O
+:	:	PUNCT	punct	Torrontés	O
+Torrontés	Torrontés	PROPN	appos	Torrontés	O
+sanjuanino	sanjuanino	ADJ	flat	Torrontés	O
+
+Saint	Saint	PROPN	ROOT	Saint	O
+Jeannet	Jeannet	PROPN	flat	Saint	O
+
+Rieslina	Rieslina	VERB	ROOT	Rieslina	O
+
+Cepajes	Cepajes	NOUN	nsubj	rosados	O
+rosados	rosado	ADJ	ROOT	rosados	O
+
+Gewürztraminer	Gewürztraminer	PROPN	ROOT	Gewürztraminer	O
+—	—	PROPN	flat	Gewürztraminer	O
+Sinónimo	Sinónimo	PROPN	flat	Gewürztraminer	O
+:	:	PUNCT	punct	Traminera	O
+Traminera	Traminera	PROPN	appos	Gewürztraminer	O
+
+H	H	CONJ	dep	ZONA	O
+-	-	PUNCT	punct	ZONA	O
+ZONA	ZONA	PROPN	ROOT	ZONA	O
+DEL	DEL	ADP	case	ALTO	O
+ALTO	ALTO	PROPN	flat	ZONA	O
+COLORADO	COLORADO	ADJ	obj	ZONA	O
+
+Las	Las	DET	det	variedades	O
+mismas	mismo	DET	det	Las	O
+variedades	variedad	NOUN	ROOT	variedades	O
+que	que	SCONJ	mark	provincia	O
+para	parir	ADP	case	provincia	O
+la	lo	DET	det	provincia	O
+provincia	provincia	NOUN	nmod	variedades	O
+de	de	ADP	case	Río	O
+Río	Río	PROPN	nmod	provincia	O
+Negro	Negro	PROPN	flat	Río	O
+.	.	PUNCT	punct	variedades	O
+
+I	I	CONJ	ROOT	I	O
+-PROVINCIA	-PROVINCIA	PRON	flat	I	O
+DE	DE	ADP	case	CORDOBA	O
+CORDOBA	CORDOBA	PROPN	nmod	I	O
+(	(	PUNCT	punct	departamentos	O
+únicamente	únicamente	ADV	advmod	departamentos	O
+departamentos	departamento	ADJ	appos	I	O
+:	:	PUNCT	punct	San	O
+San	San	PROPN	appos	I	O
+Javier	Javier	PROPN	flat	San	O
+,	,	PUNCT	punct	San	O
+San	San	PROPN	conj	San	O
+Alberto	Alberto	PROPN	flat	San	O
+,	,	PUNCT	punct	Ischilin	O
+Ischilin	Ischilin	PROPN	conj	San	O
+y	y	CONJ	cc	Cruz	O
+Cruz	Cruz	PROPN	conj	San	O
+del	del	ADP	case	Eje	O
+Eje	Eje	PROPN	flat	Cruz	O
+)	)	PUNCT	punct	San	O
+y	y	CONJ	cc	SAN	O
+SAN	SAN	PROPN	conj	San	O
+LUIS	LUIS	PROPN	flat	SAN	O
+(	(	PUNCT	punct	departamento	O
+únicamente	únicamente	ADV	advmod	departamento	O
+departamento	departamento	NOUN	dep	San	O
+Ayacucho	Ayacucho	PROPN	appos	departamento	O
+)	)	PUNCT	punct	departamento	O
+
+CEPAJES	CEPAJES	NOUN	ROOT	CEPAJES	O
+TINTOS	TINTOS	NOUN	nsubj	CEPAJES	O
+
+Malbeck	Malbeck	PROPN	ROOT	Malbeck	O
+
+Bonarda	Bonarda	VERB	ROOT	Bonarda	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+—	—	PROPN	flat	Barbera	O
+Sinónimo	Sinónimo	PROPN	flat	Barbera	O
+:	:	PUNCT	punct	Barbera	O
+Barbera	Barbera	PROPN	appos	Barbera	O
+D'Asti	D'Asti	PROPN	flat	Barbera	O
+
+Pinot	Pinot	PROPN	ROOT	Pinot	O
+negro	negro	ADJ	nsubj	Pinot	O
+
+Syrah	Syrah	PROPN	ROOT	Syrah	O
+
+Cabernet	Cabernet	PROPN	ROOT	Cabernet	O
+Sauvignon	Sauvignon	PROPN	flat	Cabernet	O
+
+CEPAJES	CEPAJES	PROPN	ROOT	CEPAJES	O
+BLANCOS	BLANCOS	NOUN	flat	CEPAJES	O
+
+Chenin	Chenin	PROPN	ROOT	Chenin	O
+—	—	PROPN	flat	Chenin	O
+Sinónimo	Sinónimo	PROPN	flat	Chenin	O
+:	:	PUNCT	punct	Chenin	O
+Chenin	Chenin	PROPN	appos	Chenin	O
+blanc	blanc	PROPN	flat	Chenin	O
+,	,	PUNCT	punct	Pinot	O
+Pinot	Pinot	PROPN	conj	Chenin	O
+de	de	ADP	case	Loire	O
+la	lo	DET	det	Loire	O
+Loire	Loire	PROPN	flat	Pinot	O
+
+Pedro	Pedro	PROPN	ROOT	Pedro	O
+Ximenez	Ximenez	PROPN	flat	Pedro	O
+
+Torrontés	Torrontés	ADJ	ROOT	Torrontés	O
+riojano	riojano	NOUN	obj	Torrontés	O
+
+Moscatel	Moscatel	PROPN	ROOT	Moscatel	O
+de	de	ADP	case	Alejandría	O
+Alejandría	Alejandría	PROPN	nmod	Moscatel	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+Sanjuanino	Sanjuanino	PROPN	flat	Torrontés	O
+
+(	(	PUNCT	punct	Nota	O
+Nota	Nota	PROPN	ROOT	Nota	O
+Infoleg	Infoleg	PROPN	flat	Nota	O
+:	:	PUNCT	punct	por	O
+por	por	ADP	advmod	Nota	O
+art	artículo	NOUN	fixed	por	O
+.	.	PUNCT	punct	Nota	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	nsubj	establece	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+C.	C.	PROPN	flat	Resolución	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+87/1987	87/1987	NUM	nummod	8/8/1988	Resolución
+B.O.	B.O.	PROPN	flat	87/1987	O
+8/8/1988	8/8/1988	NUM	appos	°	O
+se	se	PRON	obj	establece	O
+establece	establecer	VERB	ROOT	establece	O
+:	:	PUNCT	punct	Inclúyese	O
+Inclúyese	Inclúyese	PROPN	ccomp	establece	O
+en	en	ADP	case	punto	O
+el	el	DET	det	punto	O
+punto	punto	NOUN	nmod	Inclúyese	O
+1º	1º	NUM	nummod	punto	O
+-	-	PUNCT	punct	apartados	O
+apartados	apartar	ADJ	amod	punto	O
+A	A	ADP	case	I	O
+al	al	ADP	case	I	O
+I	I	CONJ	obj	apartados	O
+,	,	PUNCT	punct	dentro	O
+dentro	dentro	ADV	advmod	apartados	O
+del	del	ADP	case	subtítulo	O
+subtítulo	subtítulo	ADJ	obl	dentro	O
+Cepajes	Cepajes	PROPN	appos	subtítulo	O
+Blancos	Blancos	PROPN	flat	Cepajes	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Cepajes	O
+Nº	Nº	PROPN	flat	Cepajes	O
+C.	C.	PROPN	flat	Cepajes	O
+82/87	82/87	NUM	flat	Cepajes	O
+a	a	ADP	case	variedad	O
+la	lo	DET	det	variedad	O
+variedad	variedad	NOUN	obl	dentro	O
+"	"	PUNCT	punct	TORRONTES	O
+TORRONTES	TORRONTES	NOUN	appos	variedad	O
+"	"	PUNCT	punct	TORRONTES	O
+.	.	PUNCT	punct	establece	O
+)	)	PUNCT	ROOT	)	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2º	2º	PUNCT	punct	—	O
+—	—	NOUN	nsubj	corresponde	O
+A	A	ADP	case	efectos	O
+los	lo	DET	det	efectos	O
+efectos	efecto	NOUN	nmod	—	O
+de	de	ADP	case	interpretación	O
+una	uno	DET	det	interpretación	O
+correcta	correcto	ADJ	amod	interpretación	O
+interpretación	interpretación	NOUN	nmod	efectos	O
+y	y	CONJ	cc	aplicación	O
+aplicación	aplicación	NOUN	conj	interpretación	O
+de	de	ADP	case	modificaciones	O
+las	los	DET	det	modificaciones	O
+modificaciones	modificación	NOUN	nmod	aplicación	O
+interpuestas	interponer	ADJ	amod	modificaciones	O
+en	en	ADP	case	listado	O
+el	el	DET	det	listado	O
+listado	listar	NOUN	nmod	interpretación	O
+de	de	ADP	case	variedades	O
+las	los	DET	det	variedades	O
+variedades	variedad	NOUN	nmod	listado	O
+del	del	ADP	case	punto	O
+punto	punto	NOUN	nmod	variedades	O
+anterior	anterior	ADJ	amod	punto	O
+corresponde	corresponder	VERB	ROOT	corresponde	O
+hacer	hacer	VERB	xcomp	corresponde	O
+las	los	DET	det	aclaraciones	O
+siguientes	siguiente	ADJ	amod	aclaraciones	O
+aclaraciones	aclaración	NOUN	obj	hacer	O
+:	:	PUNCT	punct	corresponde	O
+
+Lambrusco	Lambrusco	PROPN	ROOT	Lambrusco	O
+maestri	maestri	VERB	flat	Lambrusco	O
+,	,	PUNCT	punct	Lambrusco	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Lambrusco	O
+Refosco	Refosco	PROPN	appos	denominación	O
+.	.	PUNCT	punct	denominación	O
+
+Sangiovesse	Sangiovesse	PROPN	ROOT	Sangiovesse	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Sangiovesse	O
+Lambrusco	Lambrusco	PROPN	appos	denominación	O
+.	.	PUNCT	punct	Sangiovesse	O
+
+Tocai	Tocai	PROPN	ROOT	Tocai	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Tocai	O
+Tocai	Tocai	PROPN	appos	denominación	O
+friulano	friulano	ADJ	amod	Tocai	O
+.	.	PUNCT	punct	Tocai	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+riojano	riojano	ADJ	amod	Torrontés	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Torrontés	O
+Torrontés	Torrontés	PROPN	appos	denominación	O
+.	.	PUNCT	punct	Torrontés	O
+
+Barbera	Barbera	PROPN	ROOT	Barbera	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Barbera	O
+Baubera	Baubera	PROPN	appos	denominación	O
+D'Asti	D'Asti	PROPN	flat	Baubera	O
+.	.	PUNCT	punct	Barbera	O
+
+Greco	Greco	PROPN	ROOT	Greco	O
+nero	nero	NOUN	flat	Greco	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Greco	O
+Grignolino	Grignolino	PROPN	appos	denominación	O
+.	.	PUNCT	punct	Greco	O
+
+Torrontés	Torrontés	PROPN	ROOT	Torrontés	O
+sanjuanino	sanjuanino	ADJ	flat	Torrontés	O
+,	,	PUNCT	punct	denominación	O
+anterior	anterior	ADJ	amod	denominación	O
+denominación	denominación	NOUN	appos	Torrontés	O
+Torrontés	Torrontés	PROPN	appos	denominación	O
+o	o	CONJ	cc	Turrontés	O
+Turrontés	Turrontés	PROPN	conj	Torrontés	O
+.	.	PUNCT	punct	Torrontés	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3º	3º	NUM	nsubj	eliminadas	O
+—	—	VERB	flat	3º	O
+Los	Los	DET	det	nombres	O
+nombres	nombre	NOUN	obj	—	O
+,	,	PUNCT	punct	tales	O
+tales	talar	DET	nsubj	eliminadas	O
+como	comer	SCONJ	advmod	tales	O
+:	:	PUNCT	punct	Verdot	O
+Verdot	Verdot	PROPN	nmod	tales	O
+y	y	CONJ	cc	Pinot	O
+Pinot	Pinot	PROPN	conj	Verdot	O
+gris	gris	ADJ	amod	Verdot	O
+,	,	PUNCT	punct	correspondientes	O
+correspondientes	correspondiente	ADJ	conj	Verdot	O
+a	a	ADP	case	cepajes	O
+cepajes	cepajes	NOUN	nmod	correspondientes	O
+inexistentes	inexistente	ADJ	amod	cepajes	O
+en	en	ADP	case	Argentina	O
+la	lo	DET	det	Argentina	O
+Argentina	Argentina	PROPN	nmod	cepajes	O
+y	y	CONJ	cc	utilizados	O
+utilizados	utilizar	ADJ	conj	Verdot	O
+hasta	hasta	ADP	case	ahora	O
+ahora	ahora	ADV	advmod	utilizados	O
+para	parir	ADP	mark	denominar	O
+denominar	denominar	VERB	advcl	utilizados	O
+,	,	PUNCT	punct	Verdot	O
+otras	otro	DET	det	variedades	O
+variedades	variedad	NOUN	nsubj	eliminadas	O
+han	haber	AUX	aux	eliminadas	O
+sido	ser	AUX	aux	eliminadas	O
+eliminadas	eliminar	VERB	ROOT	eliminadas	O
+del	del	ADP	case	listado	O
+listado	listar	NOUN	obl	eliminadas	O
+que	que	PRON	nsubj	figura	O
+figura	figurar	VERB	acl	listado	O
+en	en	ADP	case	punto	O
+el	el	DET	det	punto	O
+punto	punto	NOUN	obl	figura	O
+1º	1º	NUM	punct	punto	O
+anterior	anterior	ADJ	amod	punto	O
+.	.	PUNCT	punct	eliminadas	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4º	4º	NUM	punct	publíquese	O
+—	—	ADJ	nsubj	publíquese	O
+Regístrese	Regístrese	PROPN	flat	—	O
+,	,	PUNCT	punct	comuníquese	O
+comuníquese	comuníquese	NOUN	appos	—	O
+,	,	PUNCT	punct	comuníquese	O
+publíquese	publíquese	ADV	ROOT	publíquese	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADV	advmod	publíquese	O
+a	a	ADP	case	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	nmod	dése	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	flat	Dirección	O
+Oficial	Oficial	PROPN	flat	Dirección	O
+para	parir	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	nmod	dése	O
+y	y	CONJ	cc	cumplido	O
+cumplido	cumplir	ADJ	conj	publicación	O
+,	,	PUNCT	punct	archívese	O
+archívese	archívese	VERB	advmod	publíquese	O
+.	.	PUNCT	punct	publíquese	O
+Julio	Julio	PROPN	ROOT	Julio	O
+V.	V.	PROPN	flat	Julio	O
+O.	O.	PROPN	flat	Julio	O
+Rousselle	Rousselle	PROPN	flat	Julio	O
+.	.	PUNCT	punct	Julio	O
+—	—	PROPN	ROOT	—	O
+Atilio	Atilio	PROPN	flat	—	O
+Luis	Luis	PROPN	flat	—	O
+Meardi	Meardi	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+—	—	PROPN	ROOT	—	O
+Alberto	Alberto	PROPN	flat	—	O
+Escartín	Escartín	PROPN	flat	—	O
+Villacampa	Villacampa	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+—	—	PROPN	ROOT	—	O
+Ramón	Ramón	PROPN	flat	—	O
+Arturo	Arturo	PROPN	flat	Ramón	O
+Díaz	Díaz	PROPN	flat	Ramón	O
+.	.	PUNCT	punct	—	O
+—	—	PROPN	ROOT	—	O
+Jorge	Jorge	PROPN	flat	—	O
+Alberto	Alberto	PROPN	flat	Jorge	O
+Marsano	Marsano	PROPN	flat	Jorge	O
+.	.	PUNCT	punct	—	O
+—	—	PROPN	ROOT	—	O
+Miguel	Miguel	PROPN	flat	—	O
+Antonio	Antonio	PROPN	flat	Miguel	O
+L.	L.	PROPN	flat	Miguel	O
+Rull	Rull	PROPN	flat	Miguel	O
+.	.	PUNCT	punct	—	O
+—	—	PROPN	ROOT	—	O
+Amadeo	Amadeo	PROPN	flat	—	O
+Vilomara	Vilomara	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+
+

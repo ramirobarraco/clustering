@@ -1,0 +1,79 @@
+Decreto	Decreto	PROPN	nsubj	13.610/45	O
+Ley	Ley	PROPN	flat	Decreto	O
+13.610/45	13.610/45	NUM	ROOT	13.610/45	O
+
+FRANQUICIAS	FRANQUICIAS	PROPN	ROOT	FRANQUICIAS	O
+ADUANERAS	ADUANERAS	ADJ	flat	FRANQUICIAS	O
+PARA	PARA	ADP	case	PRODUCTOS	O
+PRODUCTOS	PRODUCTOS	NOUN	nmod	FRANQUICIAS	O
+QUIMICOS	QUIMICOS	ADJ	amod	PRODUCTOS	O
+.	.	PUNCT	punct	FRANQUICIAS	O
+
+BUENOS	BUENOS	PROPN	ROOT	BUENOS	O
+AIRES	AIRES	PROPN	flat	BUENOS	O
+,	,	PUNCT	punct	27	O
+27	27	NUM	appos	BUENOS	O
+de	de	ADP	case	junio	O
+junio	junio	NOUN	compound	27	O
+de	de	ADP	case	1945	O
+1945	1945	NUM	compound	27	O
+
+ARTICULO	ARTICULO	PROPN	ROOT	ARTICULO	O
+1	1	NUM	nummod	ARTICULO	O
+.	.	PUNCT	punct	ARTICULO	O
+-	-	PUNCT	punct	Inclúyese	O
+Inclúyese	Inclúyese	VERB	ROOT	Inclúyese	O
+en	en	ADP	case	franquicia	O
+la	lo	DET	det	franquicia	O
+franquicia	franquicia	NOUN	obl	Inclúyese	O
+acordada	acordar	ADJ	amod	franquicia	O
+por	por	ADP	case	decreto	O
+decreto	decretar	NOUN	obj	acordada	Decreto
+29	29	NUM	nummod	147	Decreto
+147	147	NUM	obj	acordada	Decreto
+de	de	ADP	case	26	Decreto
+26	26	NUM	compound	147	Decreto
+de	de	ADP	case	octubre	Decreto
+octubre	octubre	NOUN	compound	147	Decreto
+próximo	próximo	ADJ	amod	147	O
+pasado	pasar	ADJ	amod	147	O
+al	al	ADP	case	producto	O
+producto	producto	NOUN	obl	acordada	O
+denominado	denominar	ADJ	amod	producto	O
+diclorodifenil	diclorodifenil	NOUN	amod	producto	O
+tricloroetano	tricloroetano	ADJ	amod	diclorodifenil	O
+que	que	PRON	nsubj	importe	O
+se	se	PRON	obj	importe	O
+importe	importar	VERB	acl	producto	O
+en	en	ADP	case	estado	O
+estado	estar	NOUN	obl	importe	O
+técnicamente	técnicamente	ADV	advmod	puro	O
+puro	puro	ADJ	amod	estado	O
+.	.	PUNCT	punct	Inclúyese	O
+
+ARTICULO	ARTICULO	PROPN	ROOT	ARTICULO	O
+2	2	NUM	nummod	ARTICULO	O
+.	.	PUNCT	punct	ARTICULO	O
+-	-	PUNCT	punct	Comuníquese	O
+Comuníquese	Comuníquese	PROPN	ROOT	Comuníquese	O
+,	,	PUNCT	punct	Comuníquese	O
+etc.	etcétera	NOUN	dep	Comuníquese	O
+
+FARRELL	FARRELL	PROPN	ROOT	FARRELL	O
+-	-	PUNCT	punct	Irigoyen	O
+Irigoyen	Irigoyen	PROPN	appos	FARRELL	O
+-	-	PUNCT	punct	Perón	O
+Perón	Perón	PROPN	flat	Irigoyen	O
+-	-	PUNCT	punct	Teisaire	O
+Teisaire	Teisaire	PROPN	conj	Irigoyen	O
+-	-	PUNCT	punct	Avalos	O
+Avalos	Avalos	PROPN	flat	Irigoyen	O
+-	-	PUNCT	punct	Pistarini	O
+Pistarini	Pistarini	PROPN	conj	Irigoyen	O
+-	-	PUNCT	punct	Ameghino	O
+Ameghino	Ameghino	PROPN	flat	Pistarini	O
+-	-	PUNCT	punct	Ameghino	O
+Benitez	Benitez	PROPN	flat	Irigoyen	O
+.	.	PUNCT	punct	FARRELL	O
+
+

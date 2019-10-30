@@ -1,0 +1,4242 @@
+Ministerio	Ministerio	NOUN	ROOT	Ministerio	O
+de	de	ADP	case	Justicia	O
+Justicia	Justicia	PROPN	flat	Ministerio	O
+,	,	PUNCT	punct	Seguridad	O
+Seguridad	Seguridad	PROPN	conj	Justicia	O
+y	y	CONJ	cc	Derechos	O
+Derechos	Derechos	PROPN	conj	Justicia	O
+Humanos	Humanos	PROPN	flat	Derechos	O
+
+SUBSIDIOS	SUBSIDIOS	NOUN	ROOT	SUBSIDIOS	O
+
+Resolución	Resolución	PROPN	ROOT	Resolución	O
+133/2002	133/2002	NUM	nummod	Resolución	O
+
+Destínanse	Destínanse	NUM	ROOT	Destínanse	O
+fondos	fondo	NOUN	obj	Destínanse	O
+en	en	ADP	case	concepto	O
+concepto	concepto	NOUN	nmod	fondos	O
+de	de	ADP	case	subsidio	O
+subsidio	subsidiar	NOUN	nmod	concepto	O
+anual	anual	ADJ	amod	subsidio	O
+a	a	ADP	case	Entidades	O
+Entidades	Entidades	PROPN	obl	Destínanse	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Entidades	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+,	,	PUNCT	punct	previstos	O
+previstos	prever	ADJ	amod	Entidades	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	previstos	O
+13	13	NUM	appos	artículo	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	artículo	O
+N	N	PROPN	flat	Ley	O
+°	°	PROPN	flat	Ley	O
+25.054	25.054	NUM	nummod	Ley	O
+.	.	PUNCT	punct	Destínanse	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	26/9/2002	O
+26/9/2002	26/9/2002	NUM	ROOT	26/9/2002	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+el	el	DET	det	expediente	O
+expediente	expedientar	NOUN	obj	VISTO	O
+0539/2002	0539/2002	NUM	appos	expediente	O
+del	del	ADP	case	registro	O
+registro	registrar	NOUN	nmod	expediente	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+ex	ex	ADJ	amod	SECRETARIA	O
+-	-	PUNCT	punct	SECRETARIA	O
+SECRETARIA	SECRETARIA	NOUN	nmod	registro	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	VERB	nmod	SECRETARIA	O
+INTERIOR	INTERIOR	NOUN	flat	SECRETARIA	O
+DE	DE	ADP	case	PRESIDENCIA	O
+LA	LA	DET	det	PRESIDENCIA	O
+PRESIDENCIA	PRESIDENCIA	PROPN	nmod	SECRETARIA	O
+DE	DE	ADP	case	NACION	O
+LA	LA	DET	det	NACION	O
+NACION	NACION	PROPN	nmod	SECRETARIA	O
+;	;	PUNCT	punct	VISTO	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obj	VISTO	O
+N	N	PROPN	flat	Ley	O
+°	°	PROPN	flat	Ley	O
+25.054	25.054	NUM	nummod	°	O
+;	;	PUNCT	punct	VISTO	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	VISTO	O
+Ley	Ley	PROPN	flat	Decreto	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+6711	6711	NOUN	flat	Decreto	O
+del	del	ADP	case	12	O
+12	12	NUM	nummod	Decreto	O
+de	de	ADP	case	agosto	O
+agosto	agostar	NOUN	compound	12	O
+de	de	ADP	case	1963	O
+1963	1963	NUM	compound	12	O
+,	,	PUNCT	punct	convalidado	O
+convalidado	convalidar	ADJ	amod	Decreto	O
+por	por	ADP	case	Ley	O
+Ley	Ley	PROPN	obj	convalidado	O
+N	N	PROPN	flat	Ley	O
+°	°	PROPN	flat	Ley	O
+16.478	16.478	NUM	nummod	°	O
+;	;	PUNCT	punct	convalidado	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	flat	Decreto	O
+Reglamentario	Reglamentario	PROPN	flat	Decreto	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+4686	4686	NOUN	appos	Decreto	O
+del	del	ADP	case	15	O
+15	15	NUM	nmod	Decreto	O
+de	de	ADP	case	junio	O
+junio	junio	NOUN	compound	15	O
+de	de	ADP	case	1965	O
+1965	1965	NUM	compound	15	O
+,	,	PUNCT	punct	modificado	O
+modificado	modificar	ADJ	amod	Decreto	O
+por	por	ADP	case	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obj	modificado	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+1178	1178	NOUN	flat	Decreto	O
+del	del	ADP	case	15	O
+15	15	NUM	obl	modificado	O
+de	de	ADP	case	julio	O
+julio	julio	NOUN	compound	15	O
+de	de	ADP	case	1994	O
+1994	1994	NUM	compound	15	O
+;	;	PUNCT	punct	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	flat	Decreto	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+1045	1045	NOUN	nmod	Decreto	O
+del	del	ADP	case	16	O
+16	16	NUM	nummod	Decreto	O
+de	de	ADP	case	agosto	O
+agosto	agostar	NOUN	compound	16	O
+de	de	ADP	case	2001	O
+2001	2001	NUM	compound	16	O
+;	;	PUNCT	punct	VISTO	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	VISTO	O
+357	357	NUM	nummod	Decreto	O
+del	del	ADP	case	21	O
+21	21	NUM	nummod	Decreto	O
+de	de	ADP	case	febrero	O
+febrero	febrero	NOUN	compound	21	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	21	O
+;	;	PUNCT	punct	VISTO	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	VISTO	O
+1210	1210	NUM	nummod	Decreto	O
+del	del	ADP	case	10	O
+10	10	NUM	nmod	Decreto	O
+de	de	ADP	case	julio	O
+julio	julio	NOUN	compound	10	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	10	O
+;	;	PUNCT	punct	VISTO	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	VISTO	O
+1418	1418	NUM	nummod	Decreto	O
+del	del	ADP	case	8	O
+8	8	NUM	nummod	Decreto	O
+de	de	ADP	case	Agosto	O
+Agosto	Agosto	PROPN	compound	8	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	8	O
+,	,	PUNCT	punct	Decreto	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	corresponde	O
+de	de	ADP	case	misiones	O
+acuerdo	acordar	NOUN	fixed	de	O
+a	a	ADP	fixed	de	O
+las	los	DET	det	misiones	O
+misiones	misionar	NOUN	obl	corresponde	O
+y	y	CONJ	cc	funciones	O
+funciones	funcionar	NOUN	conj	misiones	O
+aprobadas	aprobar	ADJ	amod	misiones	O
+en	en	ADP	case	estructura	O
+la	lo	DET	det	estructura	O
+estructura	estructurar	NOUN	obl	aprobadas	O
+organizativa	organizativo	ADJ	amod	estructura	O
+contemplada	contemplar	ADJ	amod	estructura	O
+en	en	ADP	case	Decreto	O
+el	el	DET	det	Decreto	O
+Decreto	Decreto	PROPN	obl	contemplada	O
+1045/2001	1045/2001	NUM	nummod	Decreto	O
+,	,	PUNCT	punct	misiones	O
+corresponde	corresponder	VERB	ROOT	corresponde	O
+a	a	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	obj	corresponde	O
+NACIONAL	NACIONAL	ADJ	amod	DIRECCION	O
+DE	DE	ADP	case	POLITICAS	O
+POLITICAS	POLITICAS	PROPN	nmod	DIRECCION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	nmod	DIRECCION	O
+Y	Y	CONJ	cc	PROTECCION	O
+PROTECCION	PROTECCION	PROPN	conj	SEGURIDAD	O
+CIVIL	CIVIL	PROPN	flat	PROTECCION	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	nmod	DIRECCION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	NOUN	nmod	SECRETARIA	O
+INTERIOR	INTERIOR	PROPN	flat	SEGURIDAD	O
+,	,	PUNCT	punct	corresponde	O
+asumir	asumir	VERB	advcl	corresponde	O
+la	lo	DET	det	responsabilidad	O
+responsabilidad	responsabilidad	NOUN	obj	asumir	O
+de	de	ADP	mark	efectuar	O
+efectuar	efectuar	VERB	acl	responsabilidad	O
+los	lo	DET	det	procedimientos	O
+procedimientos	procedimiento	NOUN	obj	efectuar	O
+conducentes	conducente	ADJ	amod	procedimientos	O
+para	parir	ADP	mark	hacer	O
+hacer	hacer	AUX	advcl	efectuar	O
+efectivo	efectivo	ADJ	obj	hacer	O
+el	el	DET	det	pago	O
+pago	pagar	NOUN	obj	hacer	O
+de	de	ADP	case	subsidios	O
+subsidios	subsidio	NOUN	nmod	pago	O
+a	a	ADP	case	Asociaciones	O
+las	los	DET	det	Asociaciones	O
+Asociaciones	Asociaciones	PROPN	nmod	pago	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Asociaciones	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+,	,	PUNCT	punct	dispuesto	O
+según	según	ADP	case	dispuesto	O
+lo	el	DET	det	dispuesto	O
+dispuesto	disponer	ADJ	advcl	corresponde	O
+por	por	ADP	case	normativa	O
+la	lo	DET	det	normativa	O
+normativa	normativo	NOUN	obj	dispuesto	O
+citada	citar	ADJ	amod	normativa	O
+en	en	ADP	case	Visto	O
+el	el	DET	det	Visto	O
+"	"	PUNCT	punct	Visto	O
+Visto	Visto	PROPN	obl	citada	O
+"	"	PUNCT	punct	Visto	O
+.	.	PUNCT	punct	corresponde	O
+
+Que	Que	SCONJ	mark	transferidas	O
+por	por	ADP	case	disposición	O
+disposición	disposición	NOUN	obl	transferidas	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	disposición	O
+1418/2002	1418/2002	NUM	nummod	Decreto	O
+,	,	PUNCT	punct	disposición	O
+fueron	ser	AUX	aux	transferidas	O
+transferidas	transferir	VERB	ROOT	transferidas	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+ex	ex	ADJ	amod	SECRETARIA	O
+-	-	PUNCT	punct	SECRETARIA	O
+SECRETARIA	SECRETARIA	NOUN	nmod	transferidas	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	VERB	nmod	SECRETARIA	O
+INTERIOR	INTERIOR	PROPN	amod	SECRETARIA	O
+de	de	ADP	case	PRESIDENCIA	O
+la	lo	DET	det	PRESIDENCIA	O
+PRESIDENCIA	PRESIDENCIA	PROPN	nmod	SECRETARIA	O
+DE	DE	ADP	case	NACION	O
+LA	LA	DET	det	NACION	O
+NACION	NACION	PROPN	flat	PRESIDENCIA	O
+a	a	ADP	case	órbita	O
+la	lo	DET	det	órbita	O
+órbita	órbita	NOUN	nmod	SECRETARIA	O
+de	de	ADP	case	MINISTERIO	O
+este	este	DET	det	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	nmod	órbita	O
+DE	DE	ADP	case	JUSTICIA	O
+JUSTICIA	JUSTICIA	PROPN	flat	MINISTERIO	O
+,	,	PUNCT	punct	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	appos	órbita	O
+Y	Y	CONJ	cc	DERECHOS	O
+DERECHOS	DERECHOS	NOUN	conj	órbita	O
+HUMANOS	HUMANOS	PROPN	flat	DERECHOS	O
+,	,	PUNCT	punct	DERECHOS	O
+las	los	DET	det	unidades	O
+unidades	unidad	NOUN	appos	SECRETARIA	O
+organizativas	organizativo	ADJ	amod	unidades	O
+inferiores	inferior	ADJ	amod	unidades	O
+a	a	ADP	case	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	nmod	inferiores	O
+y	y	CONJ	cc	funciones	O
+sus	su	DET	det	funciones	O
+funciones	funcionar	NOUN	conj	Subsecretaría	O
+.	.	PUNCT	punct	transferidas	O
+
+Que	Que	SCONJ	mark	tomado	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nsubj	tomado	O
+DE	DE	ADP	case	POLITICAS	O
+POLITICAS	POLITICAS	PROPN	nmod	DIRECCION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	nmod	DIRECCION	O
+Y	Y	CONJ	cc	PROTECCION	O
+PROTECCION	PROTECCION	PROPN	conj	SEGURIDAD	O
+CIVIL	CIVIL	PROPN	flat	PROTECCION	O
+,	,	PUNCT	punct	COORDINACION	O
+a	a	ADP	case	COORDINACION	O
+través	través	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+la	lo	DET	det	COORDINACION	O
+COORDINACION	COORDINACION	PROPN	obl	tomado	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	flat	COORDINACION	O
+,	,	PUNCT	punct	COORDINACION	O
+ha	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+los	lo	DET	det	pertinentes	O
+recaudos	recaudo	ADJ	amod	pertinentes	O
+pertinentes	pertinente	NOUN	obj	tomado	O
+,	,	PUNCT	punct	establecer	O
+a	a	ADP	mark	establecer	O
+fin	fin	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+establecer	establecer	VERB	advcl	tomado	O
+una	uno	DET	det	nómina	O
+nómina	nómina	NOUN	obj	establecer	O
+de	de	ADP	case	Asociaciones	O
+Asociaciones	Asociaciones	PROPN	nmod	nómina	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Asociaciones	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+habilitados	habilitar	ADJ	amod	nómina	O
+para	parir	ADP	mark	percibir	O
+percibir	percibir	VERB	advcl	habilitados	O
+dichas	dicha	ADJ	amod	contribuciones	O
+contribuciones	contribución	NOUN	obj	percibir	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	corresponde	O
+de	de	ADP	case	cuota	O
+acuerdo	acordar	NOUN	fixed	de	O
+a	a	ADP	fixed	de	O
+la	lo	DET	det	cuota	O
+cuota	cuota	NOUN	obl	corresponde	O
+de	de	ADP	case	compromiso	O
+compromiso	compromiso	NOUN	nmod	cuota	O
+y	y	CONJ	cc	devengado	O
+devengado	devengar	ADJ	conj	compromiso	O
+otorgada	otorgar	ADJ	amod	cuota	O
+para	parir	ADP	case	III	O
+el	el	DET	det	III	O
+III	III	PROPN	obl	otorgada	O
+trimestre	trimestre	VERB	amod	cuota	O
+por	por	ADP	case	suma	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	obl	trimestre	O
+de	de	ADP	case	seiscientos	O
+seiscientos	seiscientos	NOUN	nmod	suma	O
+un	uno	DET	det	pesos	O
+mil	mil	NUM	nummod	un	O
+cincuenta	cincuenta	NUM	compound	mil	O
+pesos	peso	NOUN	obj	trimestre	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	pesos	O
+601.050	601.050	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	cuota	O
+corresponde	corresponder	VERB	ROOT	corresponde	O
+la	lo	DET	det	ejecución	O
+ejecución	ejecución	NOUN	nsubj	corresponde	O
+parcial	parcial	ADJ	amod	ejecución	O
+de	de	ADP	case	erogación	O
+la	lo	DET	det	erogación	O
+erogación	erogación	NOUN	nmod	ejecución	O
+prevista	prever	ADJ	amod	erogación	O
+oportunamente	oportunamente	ADV	advmod	prevista	O
+en	en	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obl	prevista	O
+25.565	25.565	NUM	nummod	Ley	O
+del	del	ADP	case	Presupuesto	O
+Presupuesto	Presupuesto	PROPN	nmod	Ley	O
+General	General	PROPN	flat	Presupuesto	O
+de	de	ADP	case	Administración	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	flat	Presupuesto	O
+Nacional	Nacional	PROPN	flat	Administración	O
+para	parir	ADP	case	corriente	O
+el	el	DET	det	corriente	O
+corriente	corriente	ADJ	nmod	ejecución	O
+ejercicio	ejercicio	NOUN	amod	corriente	O
+.	.	PUNCT	punct	corresponde	O
+
+Que	Que	SCONJ	mark	percibirán	O
+las	los	DET	det	instituciones	O
+instituciones	institución	NOUN	nsubj	percibirán	O
+respecto	respectar	NOUN	case	cuales	O
+a	a	ADP	fixed	respecto	O
+las	los	DET	det	cuales	O
+cuales	cual	PRON	obl	verifiquen	O
+se	se	PRON	obj	verifiquen	O
+verifiquen	verificar	VERB	acl	instituciones	O
+incumplimientos	incumplimiento	NOUN	obj	verifiquen	O
+administrativos	administrativo	ADJ	amod	incumplimientos	O
+,	,	PUNCT	punct	verifiquen	O
+no	no	ADV	advmod	percibirán	O
+percibirán	percibir	VERB	ROOT	percibirán	O
+dicho	decir	ADJ	amod	aporte	O
+aporte	aportar	NOUN	obj	percibirán	O
+,	,	PUNCT	punct	razón	O
+en	en	ADP	case	razón	O
+razón	razón	NOUN	obl	percibirán	O
+de	de	ADP	mark	cumplimentado	O
+no	no	ADV	advmod	cumplimentado	O
+haber	haber	AUX	aux	cumplimentado	O
+cumplimentado	cumplimentar	VERB	acl	razón	O
+las	los	DET	det	disposiciones	O
+disposiciones	disposición	NOUN	obj	cumplimentado	O
+vigentes	vigente	ADJ	amod	disposiciones	O
+.	.	PUNCT	punct	percibirán	O
+
+Que	Que	SCONJ	mark	encuentran	O
+en	en	ADP	case	requisitos	O
+función	función	NOUN	fixed	en	O
+de	de	ADP	fixed	en	O
+los	lo	DET	det	requisitos	O
+requisitos	requisito	NOUN	obl	encuentran	O
+impuestos	impuesto	NOUN	amod	requisitos	O
+,	,	PUNCT	punct	requisitos	O
+no	no	ADV	advmod	encuentran	O
+se	se	PRON	obj	encuentran	O
+encuentran	encontrar	VERB	ROOT	encuentran	O
+en	en	ADP	case	condiciones	O
+condiciones	condicionar	NOUN	obl	encuentran	O
+de	de	ADP	mark	percibir	O
+percibir	percibir	VERB	aux	cumplimentado	O
+subsidio	subsidiar	NOUN	obj	percibir	O
+alguno	alguno	DET	obj	subsidio	O
+la	lo	DET	det	Federación	O
+Federación	Federación	PROPN	obj	percibir	O
+Metropolitana	Metropolitana	PROPN	flat	Federación	O
+de	de	ADP	case	Entidades	O
+Entidades	Entidades	PROPN	flat	Federación	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Federación	O
+Voluntarios	Voluntarios	PROPN	flat	Federación	O
+de	de	ADP	case	Ciudad	O
+la	lo	DET	det	Ciudad	O
+Ciudad	Ciudad	PROPN	flat	Federación	O
+de	de	ADP	case	Buenos	O
+Buenos	Buenos	PROPN	flat	Federación	O
+Aires	Aires	PROPN	flat	Buenos	O
+y	y	CONJ	cc	Asociaciones	O
+las	los	DET	det	Asociaciones	O
+Asociaciones	Asociaciones	PROPN	conj	Federación	O
+de	de	ADP	mark	cumplimentado	O
+:	:	PUNCT	punct	cumplimentado	O
+La	La	DET	det	Matanza	O
+Matanza	Matanza	PROPN	punct	:	O
+y	y	CONJ	cc	Polvorines	O
+Los	Los	DET	det	Polvorines	O
+Polvorines	Polvorines	PROPN	conj	Matanza	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Matanza	O
+de	de	ADP	case	Buenos	O
+Buenos	Buenos	PROPN	flat	Matanza	O
+Aires	Aires	PROPN	flat	Buenos	O
+;	;	PUNCT	punct	San	O
+San	San	PROPN	conj	Matanza	O
+Telmo	Telmo	PROPN	flat	San	O
+de	de	ADP	case	Ciudad	O
+la	lo	DET	det	Ciudad	O
+Ciudad	Ciudad	PROPN	flat	San	O
+de	de	ADP	case	Buenos	O
+Buenos	Buenos	PROPN	flat	San	O
+Aires	Aires	PROPN	flat	San	O
+;	;	PUNCT	punct	Fray	O
+Fray	Fray	PROPN	conj	Matanza	O
+Mamerto	Mamerto	PROPN	flat	Fray	O
+Esquiú	Esquiú	PROPN	flat	Fray	O
+y	y	CONJ	cc	Tinogasta	O
+Tinogasta	Tinogasta	PROPN	conj	Matanza	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Matanza	O
+de	de	ADP	case	Catamarca	O
+Catamarca	Catamarca	PROPN	flat	Matanza	O
+;	;	PUNCT	punct	José	O
+José	José	PROPN	appos	Matanza	O
+de	de	ADP	case	San	O
+San	San	PROPN	flat	José	O
+Martín	Martín	PROPN	flat	San	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	José	O
+de	de	ADP	case	Chubut	O
+Chubut	Chubut	PROPN	flat	José	O
+;	;	PUNCT	punct	Libertador	O
+Libertador	Libertador	PROPN	conj	Matanza	O
+General	General	PROPN	flat	Libertador	O
+San	San	PROPN	flat	Libertador	O
+Martín	Martín	PROPN	flat	Libertador	O
+y	y	CONJ	cc	Tacita	O
+Tacita	Tacita	PROPN	conj	Matanza	O
+de	de	ADP	case	Plata	O
+Plata	Plata	PROPN	flat	Tacita	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	nmod	Matanza	O
+de	de	ADP	case	Jujuy	O
+Jujuy	Jujuy	PROPN	flat	Matanza	O
+;	;	PUNCT	punct	Chamical	O
+Chamical	Chamical	PROPN	appos	Matanza	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Chamical	O
+de	de	ADP	case	Rioja	O
+La	La	DET	det	Rioja	O
+Rioja	Rioja	PROPN	flat	Chamical	O
+;	;	PUNCT	punct	Picún	O
+Picún	Picún	PROPN	appos	Matanza	O
+Leufú	Leufú	PROPN	flat	Picún	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Picún	O
+del	del	ADP	case	Neuquén	O
+Neuquén	Neuquén	PROPN	flat	Picún	O
+;	;	PUNCT	punct	San	O
+San	San	PROPN	conj	Matanza	O
+Javier	Javier	PROPN	flat	San	O
+y	y	CONJ	cc	Lagartos	O
+Los	Los	DET	det	Lagartos	O
+Lagartos	Lagartos	PROPN	conj	Matanza	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	nmod	Matanza	O
+de	de	ADP	case	Río	O
+Río	Río	PROPN	flat	Matanza	O
+Negro	Negro	PROPN	flat	Río	O
+;	;	PUNCT	punct	Caleta	O
+Caleta	Caleta	PROPN	appos	Matanza	O
+Olivia	Olivia	PROPN	flat	Caleta	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Caleta	O
+de	de	ADP	case	Santa	O
+Santa	Santa	PROPN	flat	Caleta	O
+Cruz	Cruz	PROPN	flat	Santa	O
+;	;	PUNCT	punct	Clodomira	O
+Clodomira	Clodomira	PROPN	appos	Matanza	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	Clodomira	O
+de	de	ADP	case	Santiago	O
+Santiago	Santiago	PROPN	flat	Clodomira	O
+del	del	ADP	case	Estero	O
+Estero	Estero	PROPN	flat	Clodomira	O
+;	;	PUNCT	punct	General	O
+General	General	PROPN	appos	Matanza	O
+Mosconi	Mosconi	PROPN	flat	General	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	General	O
+de	de	ADP	case	Salta	O
+Salta	Salta	PROPN	flat	General	O
+;	;	PUNCT	punct	San	O
+San	San	PROPN	conj	Matanza	O
+Miguel	Miguel	PROPN	flat	San	O
+de	de	ADP	case	Tucumán	O
+Tucumán	Tucumán	PROPN	flat	San	O
+y	y	CONJ	cc	Río	O
+Río	Río	PROPN	conj	San	O
+Salí	Salí	PROPN	flat	Río	O
+de	de	ADP	case	Provincia	O
+la	lo	DET	det	Provincia	O
+Provincia	Provincia	PROPN	flat	San	O
+de	de	ADP	case	Tucumán	O
+Tucumán	Tucumán	PROPN	flat	San	O
+,	,	PUNCT	punct	San	O
+en	en	ADP	case	razón	O
+razón	razón	NOUN	obl	cumplimentado	O
+de	de	ADP	mark	cumplimentado	O
+no	no	ADV	advmod	cumplimentado	O
+haber	haber	AUX	aux	cumplimentado	O
+cumplimentado	cumplimentar	VERB	advcl	encuentran	O
+las	los	DET	det	disposiciones	O
+disposiciones	disposición	NOUN	obj	cumplimentado	O
+contenidas	contener	ADJ	amod	disposiciones	O
+en	en	ADP	case	legislación	O
+la	lo	DET	det	legislación	O
+legislación	legislación	NOUN	obl	contenidas	O
+nacional	nacional	ADJ	amod	legislación	O
+vigente	vigente	ADJ	amod	legislación	O
+.	.	PUNCT	punct	encuentran	O
+
+Que	Que	SCONJ	mark	prevista	O
+la	lo	DET	det	erogación	O
+erogación	erogación	NOUN	nsubj	prevista	O
+que	que	PRON	obj	demanda	O
+demanda	demandar	VERB	acl	erogación	O
+la	lo	DET	det	aplicación	O
+aplicación	aplicación	NOUN	obj	demanda	O
+de	de	ADP	case	presente	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	nmod	aplicación	O
+,	,	PUNCT	punct	erogación	O
+fue	ser	AUX	aux	prevista	O
+prevista	prever	VERB	ROOT	prevista	O
+oportunamente	oportunamente	ADV	advmod	prevista	O
+en	en	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	obl	prevista	O
+N	N	PROPN	flat	Ley	O
+°	°	PROPN	flat	Ley	O
+25.565	25.565	NUM	nummod	Ley	O
+del	del	ADP	case	Presupuesto	O
+Presupuesto	Presupuesto	PROPN	flat	Ley	O
+General	General	PROPN	flat	Presupuesto	O
+de	de	ADP	case	Administración	O
+la	lo	DET	det	Administración	O
+Administración	Administración	PROPN	flat	Presupuesto	O
+Nacional	Nacional	PROPN	flat	Administración	O
+para	parir	ADP	case	ejercicio	O
+el	el	DET	det	ejercicio	O
+ejercicio	ejercicio	NOUN	obl	prevista	O
+2002	2002	NUM	compound	ejercicio	O
+,	,	PUNCT	punct	resulta	O
+en	en	ADP	advmod	resulta	O
+consecuencia	consecuencia	NOUN	fixed	en	O
+resulta	resultar	VERB	advcl	prevista	O
+procedente	procedente	ADJ	obj	resulta	O
+arbitrar	arbitrar	VERB	csubj	resulta	O
+con	con	ADP	case	celeridad	O
+celeridad	celeridad	NOUN	obl	arbitrar	O
+los	lo	DET	det	mecanismos	O
+mecanismos	mecanismo	NOUN	obj	arbitrar	O
+necesarios	necesario	ADJ	amod	mecanismos	O
+para	parir	ADP	case	ejecución	O
+su	su	DET	det	ejecución	O
+ejecución	ejecución	NOUN	nmod	mecanismos	O
+.	.	PUNCT	punct	prevista	O
+
+Que	Que	SCONJ	mark	tomado	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	nsubj	tomado	O
+General	General	PROPN	flat	Dirección	O
+de	de	ADP	case	Asuntos	O
+Asuntos	Asuntos	PROPN	flat	Dirección	O
+Jurídicos	Jurídicos	PROPN	flat	Dirección	O
+ha	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+que	que	PRON	nsubj	compete	O
+le	le	PRON	obj	compete	O
+compete	competer	VERB	acl	intervención	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	encuadra	O
+la	lo	DET	det	medida	O
+medida	medir	NOUN	nsubj	encuadra	O
+que	que	PRON	nsubj	dispone	O
+se	se	PRON	obj	dispone	O
+dispone	disponer	VERB	acl	medida	O
+,	,	PUNCT	punct	medida	O
+encuadra	encuadrar	VERB	ROOT	encuadra	O
+en	en	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obl	encuadra	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+,	,	PUNCT	punct	encuadra	O
+inc	inc	NOUN	obl	encuadra	O
+.	.	PUNCT	punct	encuadra	O
+g	gramo	CONJ	ROOT	g	O
+)	)	PUNCT	punct	g	O
+,	,	PUNCT	punct	Decreto	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	g	O
+N	N	PROPN	flat	Decreto	O
+°	°	PROPN	flat	Decreto	O
+101/85	101/85	NUM	nummod	Decreto	O
+.	.	PUNCT	punct	g	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+,	,	PUNCT	punct	ello	O
+
+EL	EL	DET	det	MINISTRO	O
+MINISTRO	MINISTRO	PROPN	ROOT	MINISTRO	O
+DE	DE	ADP	case	JUSTICIA	O
+JUSTICIA	JUSTICIA	PROPN	flat	MINISTRO	O
+,	,	PUNCT	punct	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	appos	MINISTRO	O
+Y	Y	CONJ	cc	DERECHOS	O
+DERECHOS	DERECHOS	NOUN	conj	MINISTRO	O
+HUMANOS	HUMANOS	ADJ	flat	DERECHOS	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	PROPN	ROOT	Artículo	O
+1	1	NUM	nummod	Artículo	O
+°	°	PROPN	flat	Artículo	O
+—	—	PROPN	appos	Artículo	O
+Destínase	Destínase	PROPN	flat	—	O
+los	lo	DET	det	fondos	O
+fondos	fondo	NOUN	nmod	Artículo	O
+en	en	ADP	case	concepto	O
+concepto	concepto	NOUN	nmod	Artículo	O
+de	de	ADP	case	subsidio	O
+subsidio	subsidiar	NOUN	nmod	concepto	O
+anual	anual	ADJ	amod	subsidio	O
+a	a	ADP	case	Entidades	O
+las	los	DET	det	Entidades	O
+Entidades	Entidades	PROPN	nmod	Artículo	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Entidades	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+,	,	PUNCT	punct	previstos	O
+previstos	prever	ADJ	amod	Entidades	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	previstos	O
+13	13	NUM	appos	artículo	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	artículo	O
+N	N	PROPN	flat	Ley	O
+°	°	PROPN	flat	Ley	O
+25.054	25.054	NUM	nummod	°	O
+,	,	PUNCT	punct	distribución	O
+de	de	ADP	case	distribución	O
+acuerdo	acordar	NOUN	fixed	de	O
+a	a	ADP	fixed	de	O
+la	lo	DET	det	distribución	O
+siguiente	siguiente	ADJ	amod	distribución	O
+distribución	distribución	NOUN	obl	previstos	O
+:	:	PUNCT	punct	distribución	O
+
+a	a	ADP	case	CONSEJO	O
+)	)	PUNCT	fixed	a	O
+CONSEJO	CONSEJO	PROPN	ROOT	CONSEJO	O
+NACIONAL	NACIONAL	PROPN	flat	CONSEJO	O
+DE	DE	ADP	case	FEDERACIONES	O
+FEDERACIONES	FEDERACIONES	NOUN	flat	CONSEJO	O
+DE	DE	ADP	case	ASOCIACIONES	O
+ASOCIACIONES	ASOCIACIONES	NOUN	nmod	CONSEJO	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	nmod	CONSEJO	O
+VOLUNTARIOS	VOLUNTARIOS	VERB	flat	BOMBEROS	O
+DE	DE	ADP	case	REPUBLICA	O
+LA	LA	DET	det	REPUBLICA	O
+REPUBLICA	REPUBLICA	PROPN	nmod	CONSEJO	O
+ARGENTINA	ARGENTINA	PROPN	flat	CONSEJO	O
+,	,	PUNCT	punct	CONSEJO	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	appos	CONSEJO	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+DIEZ	DIEZ	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	suma	O
+10.000	10.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	destinados	O
+para	parir	ADP	mark	destinados	O
+ser	ser	AUX	aux	destinados	O
+destinados	destinar	VERB	acl	CONSEJO	O
+exclusivamente	exclusivamente	ADV	obj	destinados	O
+a	a	ADP	case	exclusivamente	O
+la	lo	DET	det	ACADEMIA	O
+ACADEMIA	ACADEMIA	PROPN	nmod	exclusivamente	O
+NACIONAL	NACIONAL	PROPN	flat	ACADEMIA	O
+DE	DE	ADP	case	CAPACITACION	O
+CAPACITACION	CAPACITACION	NOUN	flat	ACADEMIA	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	flat	ACADEMIA	O
+VOLUNTARIOS	VOLUNTARIOS	PROPN	flat	ACADEMIA	O
+.	.	PUNCT	punct	CONSEJO	O
+
+b	b	NOUN	ROOT	b	O
+)	)	PUNCT	punct	b	O
+CONSEJO	CONSEJO	PROPN	nsubj	b	O
+NACIONAL	NACIONAL	PROPN	flat	CONSEJO	O
+DE	DE	ADP	case	FEDERACIONES	O
+FEDERACIONES	FEDERACIONES	NOUN	flat	CONSEJO	O
+DE	DE	ADP	case	ASOCIACIONES	O
+ASOCIACIONES	ASOCIACIONES	NOUN	nmod	CONSEJO	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	nmod	CONSEJO	O
+VOLUNTARIOS	VOLUNTARIOS	VERB	flat	BOMBEROS	O
+DE	DE	ADP	case	REPUBLICA	O
+LA	LA	DET	det	REPUBLICA	O
+REPUBLICA	REPUBLICA	PROPN	nmod	CONSEJO	O
+ARGENTINA	ARGENTINA	PROPN	flat	CONSEJO	O
+,	,	PUNCT	punct	b	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	appos	b	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+DOCE	DOCE	PROPN	appos	suma	O
+MIL	MIL	ADJ	flat	DOCE	O
+QUINIENTOS	QUINIENTOS	NOUN	amod	suma	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	suma	O
+12.500	12.500	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	destinados	O
+destinados	destinar	ADJ	amod	suma	O
+para	parir	ADP	case	gastos	O
+gastos	gasto	NOUN	obl	destinados	O
+de	de	ADP	case	funcionamiento	O
+funcionamiento	funcionamiento	NOUN	nmod	gastos	O
+,	,	PUNCT	punct	representación	O
+representación	representación	NOUN	appos	suma	O
+de	de	ADP	case	entidad	O
+la	lo	DET	det	entidad	O
+entidad	entidad	NOUN	nmod	representación	O
+y	y	CONJ	cc	cumplimiento	O
+de	de	ADP	case	cumplimiento	O
+cumplimiento	cumplimiento	NOUN	conj	entidad	O
+de	de	ADP	case	obligaciones	O
+las	los	DET	det	obligaciones	O
+obligaciones	obligación	NOUN	nmod	cumplimiento	O
+emanadas	emanar	ADJ	amod	obligaciones	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	obligaciones	O
+Nº	Nº	PROPN	flat	Ley	O
+25.054	25.054	PROPN	nummod	Ley	O
+.	.	PUNCT	punct	b	O
+
+c	c	CONJ	ROOT	c	O
+)	)	PUNCT	punct	c	O
+Federaciones	Federaciones	PROPN	nsubj	c	O
+Provinciales	Provinciales	PROPN	flat	Federaciones	O
+reconocidas	reconocer	ADJ	amod	Federaciones	O
+,	,	PUNCT	punct	c	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	appos	c	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+CUARENTA	CUARENTA	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	suma	O
+40.000	40.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	asignados	O
+asignados	asignar	ADJ	amod	suma	O
+en	en	ADP	case	forma	O
+forma	formar	NOUN	obl	asignados	O
+proporcional	proporcional	ADJ	amod	forma	O
+a	a	ADP	case	afiliados	O
+sus	su	DET	det	afiliados	O
+afiliados	afiliar	NOUN	obj	asignados	O
+y	y	CONJ	cc	miembros	O
+de	de	ADP	case	miembros	O
+los	lo	DET	det	miembros	O
+cuerpos	cuerpo	NOUN	amod	miembros	O
+miembros	miembro	NOUN	conj	afiliados	O
+correspondientes	correspondiente	ADJ	amod	miembros	O
+,	,	PUNCT	punct	destinados	O
+destinados	destinar	ADJ	amod	miembros	O
+en	en	ADP	case	forma	O
+forma	formar	NOUN	obl	destinados	O
+exclusiva	exclusivo	ADJ	amod	forma	O
+al	al	ADP	case	Fondo	O
+Fondo	Fondo	PROPN	obj	destinados	O
+de	de	ADP	case	Equipamiento	O
+Equipamiento	Equipamiento	PROPN	flat	Fondo	O
+Comunitario	Comunitario	PROPN	flat	Equipamiento	O
+de	de	ADP	case	mismos	O
+los	lo	DET	det	mismos	O
+mismos	mismo	PRON	flat	Fondo	O
+.	.	PUNCT	punct	c	O
+
+d	d	NOUN	advmod	VEINTISIETE	O
+)	)	PUNCT	punct	d	O
+Federaciones	Federaciones	PROPN	nsubj	d	O
+Provinciales	Provinciales	PROPN	flat	Federaciones	O
+reconocidas	reconocer	ADJ	amod	Federaciones	O
+,	,	PUNCT	punct	d	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	nsubj	VEINTISIETE	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+VEINTISIETE	VEINTISIETE	PROPN	ROOT	VEINTISIETE	O
+MIL	MIL	PROPN	obj	VEINTISIETE	O
+QUINIENTOS	QUINIENTOS	NOUN	amod	MIL	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	MIL	O
+27.500	27.500	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	destinados	O
+destinados	destinar	ADJ	amod	MIL	O
+en	en	ADP	case	forma	O
+forma	formar	NOUN	obl	destinados	O
+proporcional	proporcional	ADJ	amod	forma	O
+a	a	ADP	case	afiliados	O
+sus	su	DET	det	afiliados	O
+afiliados	afiliar	NOUN	obj	destinados	O
+y	y	CONJ	cc	miembros	O
+de	de	ADP	case	miembros	O
+los	lo	DET	det	miembros	O
+cuerpos	cuerpo	NOUN	amod	miembros	O
+miembros	miembro	NOUN	conj	afiliados	O
+correspondientes	correspondiente	ADJ	amod	miembros	O
+.	.	PUNCT	punct	VEINTISIETE	O
+De	De	ADP	case	fondos	O
+estos	este	DET	det	fondos	O
+fondos	fondo	NOUN	obl	destinará	O
+,	,	PUNCT	punct	fondos	O
+se	se	PRON	obj	destinará	O
+destinará	destinar	VERB	ROOT	destinará	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	nsubj	destinará	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+DIEZ	DIEZ	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	suma	O
+10.000	10.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	gastos	O
+para	parir	ADP	case	gastos	O
+gastos	gasto	NOUN	obl	destinará	O
+de	de	ADP	case	funcionamiento	O
+funcionamiento	funcionamiento	NOUN	nmod	gastos	O
+,	,	PUNCT	punct	representación	O
+representación	representación	NOUN	conj	funcionamiento	O
+y	y	CONJ	cc	cumplimiento	O
+de	de	ADP	case	cumplimiento	O
+cumplimiento	cumplimiento	NOUN	conj	funcionamiento	O
+de	de	ADP	case	obligaciones	O
+las	los	DET	det	obligaciones	O
+obligaciones	obligación	NOUN	nmod	cumplimiento	O
+emanadas	emanar	ADJ	amod	obligaciones	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	obligaciones	O
+Nº	Nº	PROPN	flat	Ley	O
+25.054	25.054	NUM	nummod	Ley	O
+y	y	CONJ	cc	suma	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	conj	gastos	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+DIECISIETE	DIECISIETE	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	appos	suma	O
+QUINIENTOS	QUINIENTOS	NOUN	flat	MIL	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	MIL	O
+17.500	17.500	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	gastos	O
+para	parir	ADP	case	gastos	O
+gastos	gasto	NOUN	nmod	suma	O
+de	de	ADP	case	capacitación	O
+capacitación	capacitación	NOUN	nmod	gastos	O
+de	de	ADP	case	cuadros	O
+los	lo	DET	det	cuadros	O
+cuadros	cuadro	NOUN	nmod	capacitación	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	nmod	cuadros	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+y	y	CONJ	cc	Directivos	O
+Directivos	Directivos	PROPN	conj	Bomberos	O
+.	.	PUNCT	punct	destinará	O
+
+e	e	CONJ	cc	ASOCIACIONES	O
+)	)	PUNCT	punct	ASOCIACIONES	O
+ASOCIACIONES	ASOCIACIONES	NOUN	obl	correspondiéndole	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	nmod	ASOCIACIONES	O
+VOLUNTARIOS	VOLUNTARIOS	PROPN	flat	BOMBEROS	O
+,	,	PUNCT	punct	ASOCIACIONES	O
+la	lo	DET	det	cantidad	O
+cantidad	cantidad	NOUN	nsubj	correspondiéndole	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	cantidad	O
+CUATROCIENTOS	CUATROCIENTOS	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	AUX	appos	cantidad	O
+400.000	400.000	NUM	compound	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	distribuidos	O
+distribuidos	distribuir	ADJ	amod	cantidad	O
+entre	entrar	ADP	case	SEISCIENTOS	O
+los	lo	DET	det	SEISCIENTOS	O
+SEISCIENTOS	SEISCIENTOS	NOUN	obl	distribuidos	O
+CINCUENTA	CINCUENTA	PROPN	amod	SEISCIENTOS	O
+Y	Y	CONJ	cc	TRES	O
+TRES	TRES	NUM	conj	SEISCIENTOS	O
+(	(	PUNCT	punct	653	O
+653	653	NUM	appos	TRES	O
+)	)	PUNCT	punct	653	O
+cuerpos	cuerpo	NOUN	obj	distribuidos	O
+que	que	PRON	nsubj	figuran	O
+figuran	figurar	VERB	acl	cuerpos	O
+en	en	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	obl	figuran	O
+I	I	CONJ	flat	Anexo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Anexo	O
+Nº	Nº	PROPN	flat	Anexo	O
+133/02	133/02	PROPN	flat	Anexo	O
+,	,	PUNCT	punct	distribuidos	O
+correspondiéndole	correspondiéndole	ADJ	ROOT	correspondiéndole	O
+a	a	ADP	case	uno	O
+cada	cada	DET	det	uno	O
+uno	unir	PRON	obj	correspondiéndole	O
+la	lo	DET	det	suma	O
+suma	sumo	NOUN	obj	correspondiéndole	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	suma	O
+SEISCIENTOS	SEISCIENTOS	PROPN	nmod	suma	O
+DOCE	DOCE	NUM	appos	suma	O
+CON	CON	ADP	case	CINCUENTA	O
+CINCUENTA	CINCUENTA	PROPN	nmod	DOCE	O
+Y	Y	CONJ	cc	OCHO	O
+OCHO	OCHO	PROPN	conj	CINCUENTA	O
+CENTAVOS	CENTAVOS	PROPN	flat	OCHO	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	DOCE	O
+612,58	612,58	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+.	.	PUNCT	punct	correspondiéndole	O
+
+f	f	CONJ	advmod	DIRECCION	O
+)	)	PUNCT	punct	f	O
+DIRECCION	DIRECCION	PROPN	ROOT	DIRECCION	O
+NACIONAL	NACIONAL	PROPN	flat	DIRECCION	O
+DE	DE	ADP	case	POLITICAS	O
+POLITICAS	POLITICAS	PROPN	flat	DIRECCION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	nmod	DIRECCION	O
+Y	Y	CONJ	cc	PROTECCION	O
+PROTECCION	PROTECCION	PROPN	conj	DIRECCION	O
+CIVIL	CIVIL	PROPN	flat	PROTECCION	O
+,	,	PUNCT	punct	DIRECCION	O
+la	lo	DET	det	cantidad	O
+cantidad	cantidad	NOUN	appos	DIRECCION	O
+de	de	ADP	case	PESOS	O
+PESOS	PESOS	PROPN	nmod	cantidad	O
+DIEZ	DIEZ	PROPN	flat	PESOS	O
+MIL	MIL	PROPN	flat	PESOS	O
+(	(	PUNCT	punct	$	O
+$	$	PUNCT	appos	cantidad	O
+10.000	10.000	NUM	appos	$	O
+)	)	PUNCT	punct	$	O
+,	,	PUNCT	punct	asignados	O
+asignados	asignar	ADJ	amod	cantidad	O
+para	parir	ADP	mark	atender	O
+atender	atender	VERB	advcl	asignados	O
+a	a	ADP	case	COORDINACION	O
+través	través	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+la	lo	DET	det	COORDINACION	O
+COORDINACION	COORDINACION	PROPN	obl	atender	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	flat	COORDINACION	O
+,	,	PUNCT	punct	DIRECCION	O
+los	lo	DET	det	gastos	O
+gastos	gasto	NOUN	appos	DIRECCION	O
+administrativos	administrativo	ADJ	amod	gastos	O
+,	,	PUNCT	punct	equipamiento	O
+de	de	ADP	case	equipamiento	O
+equipamiento	equipamiento	NOUN	nmod	gastos	O
+,	,	PUNCT	punct	inspección	O
+inspección	inspección	NOUN	conj	equipamiento	O
+,	,	PUNCT	punct	control	O
+control	control	NOUN	conj	equipamiento	O
+y	y	CONJ	cc	cumplimiento	O
+cumplimiento	cumplimiento	NOUN	conj	equipamiento	O
+de	de	ADP	case	obligaciones	O
+las	los	DET	det	obligaciones	O
+demás	demás	DET	det	las	O
+obligaciones	obligación	NOUN	nmod	equipamiento	O
+que	que	PRON	nsubj	impone	O
+le	le	PRON	obj	impone	O
+impone	imponer	VERB	acl	obligaciones	O
+la	lo	DET	det	normativa	O
+normativa	normativo	NOUN	nsubj	impone	O
+en	en	ADP	case	vigor	O
+vigor	vigor	NOUN	nmod	normativa	O
+.	.	PUNCT	punct	DIRECCION	O
+
+(	(	PUNCT	punct	Artículo	O
+Artículo	Artículo	PROPN	ROOT	Artículo	O
+sustituido	sustituir	ADJ	amod	Artículo	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obl	sustituido	O
+.	.	PUNCT	punct	Artículo	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+325/2002	325/2002	PROPN	nummod	Resolución	Resolución
+del	del	ADP	case	Ministerio	O
+Ministerio	Ministerio	PROPN	flat	Resolución	O
+de	de	ADP	case	Justicia	O
+Justicia	Justicia	PROPN	flat	Ministerio	O
+,	,	PUNCT	punct	Seguridad	O
+Seguridad	Seguridad	PROPN	conj	Resolución	O
+y	y	CONJ	cc	Derechos	O
+Derechos	Derechos	PROPN	conj	Resolución	O
+Humanos	Humanos	PROPN	flat	Derechos	O
+,	,	PUNCT	punct	B.O.	O
+B.O.	B.O.	PROPN	appos	°	O
+28/11/2002	28/11/2002	NUM	nummod	B.O.	O
+)	)	PUNCT	punct	B.O.	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	nsubj	—	O
+—	—	PROPN	advcl	destinarán	O
+Las	Las	DET	det	Entidades	O
+Entidades	Entidades	PROPN	obj	—	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Entidades	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+que	que	PRON	nsubj	reciben	O
+reciben	recibir	VERB	acl	—	O
+el	el	DET	det	subsidio	O
+subsidio	subsidiar	NOUN	obj	reciben	O
+,	,	PUNCT	punct	—	O
+lo	el	PRON	obj	destinarán	O
+destinarán	destinar	VERB	ROOT	destinarán	O
+al	al	ADP	case	equipamiento	O
+equipamiento	equipamiento	NOUN	iobj	destinarán	O
+institucional	institucional	ADJ	amod	equipamiento	O
+,	,	PUNCT	punct	adquisición	O
+adquisición	adquisición	NOUN	appos	equipamiento	O
+de	de	ADP	case	materiales	O
+materiales	material	NOUN	nmod	adquisición	O
+,	,	PUNCT	punct	equipos	O
+equipos	equipo	NOUN	conj	equipamiento	O
+de	de	ADP	case	vestuarios	O
+vestuarios	vestuario	NOUN	nmod	equipos	O
+y	y	CONJ	cc	elementos	O
+demás	demás	DET	det	elementos	O
+elementos	elemento	NOUN	conj	equipamiento	O
+destinados	destinar	ADJ	amod	elementos	O
+a	a	ADP	case	lucha	O
+la	lo	DET	det	lucha	O
+lucha	luchar	NOUN	obj	destinados	O
+contra	contra	ADP	case	fuego	O
+el	el	DET	det	fuego	O
+fuego	fuego	NOUN	nmod	lucha	O
+y	y	CONJ	cc	protección	O
+la	lo	DET	det	protección	O
+protección	protección	NOUN	conj	fuego	O
+civil	civil	ADJ	amod	protección	O
+de	de	ADP	case	población	O
+la	lo	DET	det	población	O
+población	población	NOUN	nmod	protección	O
+,	,	PUNCT	punct	así	O
+como	comer	SCONJ	mark	así	O
+así	asir	ADV	advmod	destinarán	O
+también	también	ADV	advmod	así	O
+a	a	ADP	case	conservación	O
+la	lo	DET	det	conservación	O
+conservación	conservación	NOUN	nmod	así	O
+y	y	CONJ	cc	mantenimiento	O
+mantenimiento	mantenimiento	NOUN	conj	conservación	O
+en	en	ADP	case	estado	O
+perfecto	perfecto	ADJ	amod	estado	O
+estado	estar	NOUN	nmod	conservación	O
+operativo	operativo	ADJ	amod	estado	O
+y	y	CONJ	cc	condiciones	O
+condiciones	condicionar	NOUN	conj	operativo	O
+de	de	ADP	case	uso	O
+uso	usar	NOUN	nmod	condiciones	O
+de	de	ADP	case	mismos	O
+los	lo	DET	det	mismos	O
+mismos	mismo	PRON	nmod	uso	O
+,	,	PUNCT	punct	asignando	O
+asignando	asignar	VERB	advcl	destinarán	O
+,	,	PUNCT	punct	excepcionalmente	O
+excepcionalmente	excepcionalmente	ADV	advmod	asignando	O
+,	,	PUNCT	punct	excepcionalmente	O
+en	en	ADP	case	monto	O
+un	uno	DET	det	monto	O
+monto	montar	NOUN	obl	asignando	O
+que	que	PRON	nsubj	exceda	O
+no	no	ADV	advmod	exceda	O
+exceda	exceder	VERB	acl	monto	O
+el	el	DET	det	veinte	O
+veinte	veinte	NUM	obj	exceda	O
+por	por	ADP	case	ciento	O
+ciento	ciento	NUM	compound	veinte	O
+(	(	PUNCT	punct	20	O
+20	20	NUM	appos	veinte	O
+%	%	SYM	nmod	20	O
+)	)	PUNCT	punct	20	O
+del	del	ADP	case	beneficio	O
+beneficio	beneficiar	NOUN	nmod	veinte	O
+,	,	PUNCT	punct	gastos	O
+a	a	ADP	case	gastos	O
+gastos	gasto	NOUN	obl	asignando	O
+de	de	ADP	case	combustibles	O
+combustibles	combustible	NOUN	nmod	gastos	O
+y	y	CONJ	cc	lubricantes	O
+lubricantes	lubricante	NOUN	conj	combustibles	O
+derivados	derivar	ADJ	amod	lubricantes	O
+del	del	ADP	case	funcionamiento	O
+funcionamiento	funcionamiento	NOUN	nmod	lubricantes	O
+de	de	ADP	case	equipos	O
+los	lo	DET	det	equipos	O
+equipos	equipo	NOUN	nmod	funcionamiento	O
+mencionados	mencionar	ADJ	amod	equipos	O
+.	.	PUNCT	punct	destinarán	O
+Los	Los	DET	det	fondos	O
+fondos	fondo	NOUN	ROOT	fondos	O
+de	de	ADP	case	capacitación	O
+capacitación	capacitación	NOUN	nmod	fondos	O
+previstos	prever	ADJ	amod	fondos	O
+en	en	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obl	previstos	O
+13	13	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+,	,	PUNCT	punct	fondos	O
+inc	inc	NOUN	appos	fondos	O
+.	.	PUNCT	punct	fondos	O
+4	4	NUM	nummod	°	O
+°	°	PROPN	nsubj	aplicar	O
+y	y	CONJ	cc	°	O
+6	6	NUM	nummod	°	O
+°	°	PROPN	conj	°	O
+,	,	PUNCT	punct	Ley	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	°	O
+25.054	25.054	NUM	nummod	Ley	O
+,	,	PUNCT	punct	Ley	O
+se	se	PRON	obj	aplicar	O
+podrán	poder	AUX	aux	aplicar	O
+aplicar	aplicar	VERB	ROOT	aplicar	O
+a	a	ADP	case	material	O
+material	material	NOUN	obj	aplicar	O
+didáctico	didáctico	ADJ	amod	material	O
+;	;	PUNCT	punct	equipamiento	O
+equipamiento	equipamiento	NOUN	appos	material	O
+para	parir	ADP	case	capacitación	O
+capacitación	capacitación	NOUN	nmod	equipamiento	O
+;	;	PUNCT	punct	elementos	O
+elementos	elemento	NOUN	conj	material	O
+de	de	ADP	case	construcción	O
+construcción	construcción	NOUN	nmod	elementos	O
+destinados	destinar	ADJ	amod	construcción	O
+a	a	ADP	advmod	destinados	O
+tal	tal	DET	fixed	a	O
+fin	fin	NOUN	fixed	a	O
+;	;	PUNCT	punct	elementos	O
+becas	becar	NOUN	appos	material	O
+;	;	PUNCT	punct	traslados	O
+traslados	traslado	ADJ	conj	becas	O
+,	,	PUNCT	punct	alojamiento	O
+alojamiento	alojamiento	NOUN	conj	becas	O
+e	e	CONJ	cc	instructores	O
+instructores	instructor	NOUN	conj	becas	O
+.	.	PUNCT	punct	aplicar	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	nsubj	efectuar	O
+—	—	PROPN	appos	°	O
+Las	Las	DET	det	Entidades	O
+Entidades	Entidades	PROPN	appos	°	O
+de	de	ADP	case	Bomberos	O
+Bomberos	Bomberos	PROPN	flat	Las	O
+Voluntarios	Voluntarios	PROPN	flat	Bomberos	O
+que	que	PRON	nsubj	reciben	O
+reciben	recibir	VERB	acl	°	O
+el	el	DET	det	subsidio	O
+subsidio	subsidiar	NOUN	obj	reciben	O
+,	,	PUNCT	punct	reciben	O
+deberán	deber	AUX	aux	efectuar	O
+efectuar	efectuar	VERB	ROOT	efectuar	O
+la	lo	DET	det	contabilización	O
+contabilización	contabilización	NOUN	obj	efectuar	O
+y	y	CONJ	cc	rendición	O
+rendición	rendición	NOUN	conj	contabilización	O
+de	de	ADP	case	cuentas	O
+cuentas	cuenta	NOUN	nmod	rendición	O
+dentro	dentro	ADV	advmod	contados	O
+de	de	ADP	case	CIENTO	O
+los	lo	DET	det	CIENTO	O
+CIENTO	CIENTO	PROPN	obl	dentro	O
+OCHENTA	OCHENTA	PROPN	flat	CIENTO	O
+(	(	PUNCT	punct	180	O
+180	180	NUM	obl	dentro	O
+)	)	PUNCT	punct	180	O
+días	día	NOUN	obl	contados	O
+contados	contar	ADJ	advcl	efectuar	O
+a	a	ADP	case	acreditación	O
+partir	partir	NOUN	fixed	a	O
+de	de	ADP	fixed	a	O
+la	lo	DET	det	acreditación	O
+acreditación	acreditación	NOUN	obl	contados	O
+de	de	ADP	case	fondos	O
+los	lo	DET	det	fondos	O
+fondos	fondo	NOUN	nmod	acreditación	O
+en	en	ADP	case	cuenta	O
+cuenta	contar	NOUN	nmod	acreditación	O
+bancaria	bancario	ADJ	amod	cuenta	O
+,	,	PUNCT	punct	excepción	O
+con	con	ADP	case	excepción	O
+excepción	excepción	NOUN	nmod	acreditación	O
+de	de	ADP	case	prórroga	O
+la	lo	DET	det	prórroga	O
+prórroga	prórroga	NOUN	nmod	excepción	O
+del	del	ADP	case	plazo	O
+plazo	plazo	NOUN	nmod	prórroga	O
+que	que	PRON	nsubj	otorgarse	O
+podrá	poder	AUX	aux	otorgarse	O
+otorgarse	otorgarse	VERB	acl	plazo	O
+,	,	PUNCT	punct	excepción	O
+justificándose	justificándose	VERB	advcl	efectuar	O
+la	lo	DET	det	vigencia	O
+vigencia	vigencia	NOUN	obj	justificándose	O
+del	del	ADP	case	depósito	O
+depósito	depósito	NOUN	nmod	vigencia	O
+bancario	bancario	ADJ	amod	depósito	O
+,	,	PUNCT	punct	casos	O
+en	en	ADP	case	casos	O
+los	lo	DET	det	casos	O
+casos	caso	NOUN	obl	justificándose	O
+que	que	SCONJ	mark	supere	O
+la	lo	DET	det	adquisición	O
+adquisición	adquisición	NOUN	nsubj	supere	O
+de	de	ADP	case	bienes	O
+bienes	bien	NOUN	nmod	adquisición	O
+de	de	ADP	case	capital	O
+capital	capital	NOUN	nmod	bienes	O
+supere	superar	VERB	acl	casos	O
+el	el	DET	det	monto	O
+monto	montar	NOUN	obj	supere	O
+del	del	ADP	case	beneficio	O
+beneficio	beneficiar	NOUN	nmod	monto	O
+.	.	PUNCT	punct	efectuar	O
+Las	Las	DET	det	instituciones	O
+instituciones	institución	NOUN	nsubj	remitirán	O
+beneficiarias	beneficiario	ADJ	amod	instituciones	O
+remitirán	remitir	VERB	ROOT	remitirán	O
+a	a	ADP	case	COORDINACION	O
+la	lo	DET	det	COORDINACION	O
+COORDINACION	COORDINACION	PROPN	obj	remitirán	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	flat	COORDINACION	O
+de	de	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nmod	COORDINACION	O
+NACIONAL	NACIONAL	ADJ	flat	DIRECCION	O
+DE	DE	ADP	case	POLITICAS	O
+POLITICAS	POLITICAS	PROPN	flat	DIRECCION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	nmod	DIRECCION	O
+Y	Y	CONJ	cc	PROTECCION	O
+PROTECCION	PROTECCION	PROPN	conj	DIRECCION	O
+CIVIL	CIVIL	PROPN	flat	PROTECCION	O
+las	los	DET	det	facturas	O
+facturas	facturar	NOUN	obj	remitirán	O
+pertinentes	pertinente	ADJ	amod	facturas	O
+,	,	PUNCT	punct	originales	O
+en	en	ADP	case	originales	O
+originales	original	NOUN	nmod	facturas	O
+conformadas	conformar	ADJ	amod	originales	O
+por	por	ADP	case	Presidente	O
+el	el	DET	det	Presidente	O
+Presidente	Presidente	PROPN	obj	conformadas	O
+y	y	CONJ	cc	Secretario	O
+el	el	DET	det	Secretario	O
+Secretario	Secretario	PROPN	conj	Presidente	O
+o	o	CONJ	cc	Tesorero	O
+Tesorero	Tesorero	PROPN	conj	Secretario	O
+de	de	ADP	case	entidad	O
+la	lo	DET	det	entidad	O
+entidad	entidad	NOUN	nmod	Presidente	O
+que	que	PRON	nsubj	corresponda	O
+corresponda	corresponder	VERB	acl	entidad	O
+y	y	CONJ	cc	excepcionalmente	O
+,	,	PUNCT	punct	excepcionalmente	O
+excepcionalmente	excepcionalmente	ADV	conj	corresponda	O
+,	,	PUNCT	punct	excepcionalmente	O
+en	en	ADP	case	copias	O
+copias	copiar	NOUN	obl	corresponda	O
+certificadas	certificar	ADJ	amod	copias	O
+por	por	ADP	case	escribano	O
+escribano	escribano	NOUN	obj	certificadas	O
+público	público	ADJ	amod	escribano	O
+o	o	CONJ	cc	juez	O
+juez	juez	NOUN	conj	escribano	O
+de	de	ADP	case	paz	O
+paz	paz	NOUN	nmod	juez	O
+con	con	ADP	case	competencia	O
+competencia	competencia	NOUN	obl	certificadas	O
+en	en	ADP	case	localidad	O
+la	lo	DET	det	localidad	O
+localidad	localidad	NOUN	obl	certificadas	O
+,	,	PUNCT	punct	requeridos	O
+cuando	cuando	SCONJ	mark	requeridos	O
+los	lo	DET	det	comprobantes	O
+comprobantes	comprobante	NOUN	nsubj	requeridos	O
+hayan	haber	AUX	aux	requeridos	O
+sido	ser	AUX	aux	requeridos	O
+requeridos	requerir	VERB	acl	facturas	O
+por	por	ADP	case	autoridad	O
+alguna	alguno	DET	det	autoridad	O
+autoridad	autoridad	NOUN	obl	requeridos	O
+provincial	provincial	ADJ	amod	autoridad	O
+para	parir	ADP	case	aprobación	O
+la	lo	DET	det	aprobación	O
+aprobación	aprobación	NOUN	nmod	autoridad	O
+de	de	ADP	case	balances	O
+los	lo	DET	det	balances	O
+balances	balance	NOUN	nmod	aprobación	O
+.	.	PUNCT	punct	remitirán	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4	4	NUM	nummod	°	O
+°	°	PROPN	nsubj	realizará	O
+—	—	PROPN	appos	°	O
+La	La	DET	det	COORDINACION	O
+COORDINACION	COORDINACION	PROPN	appos	°	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	flat	La	O
+de	de	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nmod	COORDINACION	O
+NACIONAL	NACIONAL	ADJ	flat	COORDINACION	O
+DE	DE	ADP	case	POLITICAS	O
+POLITICAS	POLITICAS	PROPN	flat	COORDINACION	O
+DE	DE	ADP	case	SEGURIDAD	O
+SEGURIDAD	SEGURIDAD	PROPN	flat	La	O
+Y	Y	CONJ	cc	PROTECCION	O
+PROTECCION	PROTECCION	PROPN	conj	COORDINACION	O
+CIVIL	CIVIL	PROPN	flat	PROTECCION	O
+realizará	realizar	VERB	ROOT	realizará	O
+las	los	DET	det	inspecciones	O
+inspecciones	inspeccionar	NOUN	obj	realizará	O
+pertinentes	pertinente	ADJ	amod	inspecciones	O
+con	con	ADP	case	objeto	O
+el	el	DET	det	objeto	O
+objeto	objetar	NOUN	obl	realizará	O
+de	de	ADP	mark	efectuado	O
+verificar	verificar	AUX	aux	efectuado	O
+que	que	SCONJ	mark	efectuado	O
+las	los	DET	det	inversiones	O
+inversiones	inversión	NOUN	nsubj	efectuado	O
+realizadas	realizar	ADJ	amod	inversiones	O
+con	con	ADP	case	fondos	O
+los	lo	DET	det	fondos	O
+fondos	fondo	NOUN	obj	realizadas	O
+provenientes	proveniente	ADJ	amod	fondos	O
+del	del	ADP	case	subsidio	O
+subsidio	subsidiar	NOUN	nmod	fondos	O
+,	,	PUNCT	punct	inversiones	O
+se	se	PRON	obj	efectuado	O
+hayan	haber	AUX	aux	efectuado	O
+efectuado	efectuar	VERB	acl	objeto	O
+de	de	ADP	case	fines	O
+acuerdo	acordar	NOUN	fixed	de	O
+a	a	ADP	fixed	de	O
+los	lo	DET	det	fines	O
+fines	finar	NOUN	obl	efectuado	O
+para	parir	ADP	case	cuales	O
+los	lo	DET	det	cuales	O
+cuales	cual	PRON	nmod	fines	O
+fueron	ser	AUX	aux	otorgados	O
+otorgados	otorgar	VERB	advcl	realizará	O
+y	y	CONJ	cc	confirmará	O
+confirmará	confirmar	VERB	conj	otorgados	O
+el	el	DET	det	uso	O
+correcto	correcto	ADJ	amod	uso	O
+uso	usar	NOUN	obj	confirmará	O
+,	,	PUNCT	punct	mantenimiento	O
+mantenimiento	mantenimiento	NOUN	conj	uso	O
+,	,	PUNCT	punct	conservación	O
+conservación	conservación	NOUN	conj	uso	O
+,	,	PUNCT	punct	guarda	O
+guarda	guardar	VERB	conj	uso	O
+,	,	PUNCT	punct	reparación	O
+reparación	reparación	NOUN	conj	uso	O
+y	y	CONJ	cc	baja	O
+baja	bajo	NOUN	conj	uso	O
+de	de	ADP	case	adquisiciones	O
+las	los	DET	det	adquisiciones	O
+adquisiciones	adquisición	NOUN	nmod	uso	O
+,	,	PUNCT	punct	contando	O
+contando	contar	VERB	advcl	confirmará	O
+para	parir	ADP	case	ello	O
+ello	él	PRON	obl	contando	O
+con	con	ADP	case	fondos	O
+los	lo	DET	det	fondos	O
+fondos	fondo	NOUN	obl	contando	O
+asignados	asignar	ADJ	amod	fondos	O
+en	en	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obl	asignados	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+inciso	inciso	ADJ	advcl	contando	O
+f	f	CONJ	obj	inciso	O
+)	)	PUNCT	punct	contando	O
+de	de	ADP	case	presente	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	obl	contando	O
+.	.	PUNCT	punct	realizará	O
+En	En	ADP	mark	verificarse	O
+caso	casar	NOUN	fixed	En	O
+de	de	ADP	fixed	En	O
+verificarse	verificarse	VERB	advcl	efectuarán	O
+incumplimientos	incumplimiento	NOUN	obj	verificarse	O
+administrativos	administrativo	ADJ	amod	incumplimientos	O
+con	con	ADP	case	posterioridad	O
+posterioridad	posterioridad	NOUN	nmod	incumplimientos	O
+a	a	ADP	case	presente	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	obj	verificarse	O
+o	o	CONJ	cc	inversión	O
+en	en	ADP	case	inversión	O
+la	lo	DET	det	inversión	O
+inversión	inversión	NOUN	conj	presente	O
+del	del	ADP	case	subsidio	O
+subsidio	subsidiar	NOUN	nmod	inversión	O
+,	,	PUNCT	punct	verificarse	O
+se	se	PRON	obj	efectuarán	O
+efectuarán	efectuar	VERB	ROOT	efectuarán	O
+las	los	DET	det	comunicaciones	O
+comunicaciones	comunicación	NOUN	nsubj	efectuarán	O
+pertinentes	pertinente	ADJ	amod	comunicaciones	O
+para	parir	ADP	mark	excluir	O
+excluir	excluir	VERB	acl	comunicaciones	O
+como	comer	SCONJ	mark	beneficiaria	O
+beneficiaria	beneficiario	ADJ	obl	excluir	O
+a	a	ADP	case	entidad	O
+la	lo	DET	det	entidad	O
+entidad	entidad	NOUN	obj	excluir	O
+responsable	responsable	ADJ	amod	entidad	O
+,	,	PUNCT	punct	iniciar	O
+sin	sin	ADP	mark	iniciar	O
+perjuicio	perjuicio	NOUN	fixed	sin	O
+de	de	ADP	fixed	sin	O
+iniciar	iniciar	VERB	advcl	efectuarán	O
+,	,	PUNCT	punct	correspondan	O
+en	en	ADP	mark	correspondan	O
+caso	casar	NOUN	fixed	en	O
+de	de	ADP	fixed	en	O
+que	que	SCONJ	mark	correspondan	O
+correspondan	corresponder	VERB	advcl	iniciar	O
+,	,	PUNCT	punct	acciones	O
+acciones	accionar	NOUN	nsubj	correspondan	O
+legales	legal	ADJ	amod	acciones	O
+.	.	PUNCT	punct	efectuarán	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+5	5	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Notifíquese	Notifíquese	PROPN	flat	—	O
+al	al	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	nmod	°	O
+DE	DE	ADP	case	DESARROLLO	O
+DESARROLLO	DESARROLLO	PROPN	flat	MINISTERIO	O
+SOCIAL	SOCIAL	PROPN	flat	DESARROLLO	O
+,	,	PUNCT	punct	medida	O
+de	de	ADP	case	medida	O
+la	lo	DET	det	medida	O
+presente	presentar	ADJ	amod	medida	O
+medida	medir	NOUN	nmod	°	O
+para	parir	ADP	case	conocimiento	O
+su	su	DET	det	conocimiento	O
+conocimiento	conocimiento	NOUN	nmod	medida	O
+.	.	PUNCT	punct	°	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+6	6	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Impútanse	Impútanse	PROPN	flat	—	O
+las	los	DET	det	erogaciones	O
+erogaciones	erogación	NOUN	appos	°	O
+aprobadas	aprobar	ADJ	amod	erogaciones	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	aprobadas	O
+1	1	NUM	nummod	°	O
+°	°	PROPN	appos	artículo	O
+,	,	PUNCT	punct	Resolución	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+presente	presentar	ADJ	amod	Resolución	O
+Resolución	Resolución	PROPN	nmod	artículo	O
+a	a	ADP	case	partida	O
+la	lo	DET	det	partida	O
+partida	partir	NOUN	obj	aprobadas	O
+5.1.7.2071	5.1.7.2071	NUM	appos	partida	O
+,	,	PUNCT	punct	Transferencias	O
+Transferencias	Transferencias	PROPN	appos	partida	O
+a	a	ADP	case	Instituciones	O
+otras	otro	DET	det	Instituciones	O
+Instituciones	Instituciones	PROPN	nmod	Transferencias	O
+Culturales	Culturales	PROPN	flat	Instituciones	O
+y	y	CONJ	cc	Sociedades	O
+Sociedades	Sociedades	PROPN	conj	Instituciones	O
+sin	sin	ADP	case	fines	O
+fines	finar	NOUN	nmod	Transferencias	O
+de	de	ADP	case	lucro	O
+lucro	lucrar	NOUN	nmod	fines	O
+,	,	PUNCT	punct	subparcial	O
+subparcial	subparcial	ADJ	appos	partida	O
+bomberos	bombero	NOUN	amod	subparcial	O
+.	.	PUNCT	punct	°	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+7	7	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+—	—	PROPN	appos	°	O
+Comuníquese	Comuníquese	PROPN	flat	—	O
+,	,	PUNCT	punct	publíquese	O
+publíquese	publíquese	VERB	acl	°	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADV	advmod	publíquese	O
+a	a	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nmod	dése	O
+NACIONAL	NACIONAL	PROPN	flat	DIRECCION	O
+DEL	DEL	ADP	case	REGISTRO	O
+REGISTRO	REGISTRO	PROPN	nmod	DIRECCION	O
+OFICIAL	OFICIAL	PROPN	flat	DIRECCION	O
+y	y	CONJ	cc	archívese	O
+archívese	archívese	VERB	conj	publíquese	O
+.	.	PUNCT	punct	publíquese	O
+—	—	PROPN	ROOT	—	O
+Juan	Juan	PROPN	flat	—	O
+J.	J.	PROPN	flat	Juan	O
+Alvarez	Alvarez	PROPN	flat	Juan	O
+.	.	PUNCT	punct	—	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+I	I	CONJ	flat	ANEXO	O
+
+NOMINA	NOMINA	NOUN	ROOT	NOMINA	O
+DE	DE	ADP	case	ASOCIACIONES	O
+ASOCIACIONES	ASOCIACIONES	NOUN	nmod	NOMINA	O
+DE	DE	ADP	case	BOMBEROS	O
+BOMBEROS	BOMBEROS	PROPN	nmod	NOMINA	O
+VOLUNTARIOS	VOLUNTARIOS	VERB	amod	NOMINA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	BUENOS	O
+BUENOS	BUENOS	PROPN	nmod	PROVINCIA	O
+AIRES	AIRES	DET	appos	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	ALBERTI	O
+ALBERTI	ALBERTI	NOUN	ROOT	ALBERTI	O
+
+2.-	2.-	NUM	nummod	ALMIRANTE	O
+ALMIRANTE	ALMIRANTE	NOUN	ROOT	ALMIRANTE	O
+BROWN	BROWN	NOUN	flat	ALMIRANTE	O
+
+3.-	3.-	NUM	nummod	ARENAZA	O
+ARENAZA	ARENAZA	NUM	ROOT	ARENAZA	O
+
+4.-	4.-	NUM	nummod	ARRECIFES	O
+ARRECIFES	ARRECIFES	PROPN	ROOT	ARRECIFES	O
+
+5.-	5.-	NUM	nummod	ARRIBEÑOS	O
+ARRIBEÑOS	ARRIBEÑOS	NOUN	ROOT	ARRIBEÑOS	O
+
+6.-	6.-	NUM	nummod	ARROYO	O
+ARROYO	ARROYO	NOUN	ROOT	ARROYO	O
+DULCE	DULCE	ADV	amod	ARROYO	O
+
+7.-	7.-	NUM	nummod	ASCENSION	O
+ASCENSION	ASCENSION	VERB	ROOT	ASCENSION	O
+
+8.-	8.-	NUM	det	AVELLANEDA	O
+AVELLANEDA	AVELLANEDA	NOUN	ROOT	AVELLANEDA	O
+
+9.-	9.-	NUM	nummod	AYACUCHO	O
+AYACUCHO	AYACUCHO	VERB	ROOT	AYACUCHO	O
+
+10.-	10.-	NUM	nummod	BAHIA	O
+BAHIA	BAHIA	PROPN	ROOT	BAHIA	O
+SAN	SAN	PROPN	flat	BAHIA	O
+BLAS	BLAS	NOUN	flat	BAHIA	O
+
+11.-	11.-	NUM	nummod	BALCARCE	O
+BALCARCE	BALCARCE	NOUN	ROOT	BALCARCE	O
+
+12.-	12.-	NUM	nummod	BARADERO	O
+BARADERO	BARADERO	NOUN	ROOT	BARADERO	O
+
+13.-	13.-	NUM	nummod	BARKER	O
+BARKER	BARKER	PROPN	ROOT	BARKER	O
+
+14.-	14.-	NUM	nummod	BENAVIDEZ	O
+BENAVIDEZ	BENAVIDEZ	NOUN	ROOT	BENAVIDEZ	O
+
+15.-	15.-	NUM	nummod	BENITO	O
+BENITO	BENITO	PROPN	ROOT	BENITO	O
+JUAREZ	JUAREZ	PROPN	appos	BENITO	O
+
+16.-	16.-	NUM	nummod	BERAZATEGUI	O
+BERAZATEGUI	BERAZATEGUI	NOUN	ROOT	BERAZATEGUI	O
+
+17.-	17.-	NUM	nummod	BERISSO	O
+BERISSO	BERISSO	PROPN	ROOT	BERISSO	O
+
+18.-	18.-	NUM	nummod	BERNAL	O
+BERNAL	BERNAL	NOUN	ROOT	BERNAL	O
+
+19.-	19.-	NUM	nummod	BOLIVAR	O
+BOLIVAR	BOLIVAR	PROPN	ROOT	BOLIVAR	O
+
+20.-	20.-	NOUN	nummod	BONIFACIO	O
+BONIFACIO	BONIFACIO	PROPN	ROOT	BONIFACIO	O
+
+21.-	21.-	NUM	nummod	BORDENAVE	O
+BORDENAVE	BORDENAVE	NOUN	ROOT	BORDENAVE	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+BRAGADO	BRAGADO	ADJ	nsubj	22.-	O
+
+23.-	23.-	NOUN	nummod	CABILDO	O
+CABILDO	CABILDO	NOUN	ROOT	CABILDO	O
+
+24.-	24.-	NUM	nummod	CACHARI	O
+CACHARI	CACHARI	NOUN	ROOT	CACHARI	O
+
+25.-	25.-	NUM	nummod	CAMPANA	O
+CAMPANA	CAMPANA	NOUN	ROOT	CAMPANA	O
+
+26.-	26.-	NUM	nummod	CAÑUELAS	O
+CAÑUELAS	CAÑUELAS	NOUN	ROOT	CAÑUELAS	O
+
+27.-	27.-	NUM	nummod	CAPITAN	O
+CAPITAN	CAPITAN	PROPN	nsubj	SARMIENTO	O
+SARMIENTO	SARMIENTO	NOUN	ROOT	SARMIENTO	O
+
+28.-	28.-	NOUN	nummod	CARABELAS	O
+CARABELAS	CARABELAS	NOUN	ROOT	CARABELAS	O
+
+29.-	29.-	NUM	nummod	CARHUE	O
+CARHUE	CARHUE	PROPN	ROOT	CARHUE	O
+
+30.-	30.-	NUM	nummod	CARLOS	O
+CARLOS	CARLOS	NOUN	ROOT	CARLOS	O
+CASARES	CASARES	NOUN	amod	CARLOS	O
+
+31.-	31.-	NUM	nummod	CARLOS	O
+CARLOS	CARLOS	NOUN	ROOT	CARLOS	O
+TEJEDOR	TEJEDOR	NOUN	flat	CARLOS	O
+
+32.-	32.-	NUM	nummod	CARMEN	O
+CARMEN	CARMEN	NOUN	ROOT	CARMEN	O
+DE	DE	ADP	case	ARECO	O
+ARECO	ARECO	NOUN	nmod	CARMEN	O
+
+33.-	33.-	NUM	nummod	CARMEN	O
+CARMEN	CARMEN	NOUN	ROOT	CARMEN	O
+DE	DE	ADP	case	PATAGONES	O
+PATAGONES	PATAGONES	NOUN	nmod	CARMEN	O
+
+34.-	34.-	NUM	nummod	CASBAS	O
+CASBAS	CASBAS	NOUN	ROOT	CASBAS	O
+
+35.-	35.-	NUM	nummod	CASTELLI	O
+CASTELLI	CASTELLI	PROPN	ROOT	CASTELLI	O
+
+36.-	36.-	NUM	nummod	CENTRO	O
+CENTRO	CENTRO	PROPN	ROOT	CENTRO	O
+AGRICOLA	AGRICOLA	VERB	flat	CENTRO	O
+EL	EL	DET	det	PATO	O
+PATO	PATO	NOUN	flat	CENTRO	O
+
+37.-	37.-	NUM	nummod	CHACABUCO	O
+CHACABUCO	CHACABUCO	PROPN	ROOT	CHACABUCO	O
+
+38.-	38.-	NUM	nummod	CHASCOMUS	O
+CHASCOMUS	CHASCOMUS	PROPN	ROOT	CHASCOMUS	O
+
+39.-	39.-	NUM	nsubj	CHIVILCOY	O
+CHIVILCOY	CHIVILCOY	PROPN	ROOT	CHIVILCOY	O
+
+40.-	40.-	NUM	nummod	CLAROMECO	O
+CLAROMECO	CLAROMECO	PROPN	ROOT	CLAROMECO	O
+
+41.-	41.-	NUM	nummod	COLON	O
+COLON	COLON	PROPN	ROOT	COLON	O
+
+42.-	42.-	NUM	nummod	COPETONAS	O
+COPETONAS	COPETONAS	NOUN	ROOT	COPETONAS	O
+
+43.-	43.-	NUM	nummod	CORONEL	O
+CORONEL	CORONEL	PROPN	ROOT	CORONEL	O
+BRANDSEN	BRANDSEN	PROPN	flat	CORONEL	O
+
+44.-	44.-	NUM	nummod	CORONEL	O
+CORONEL	CORONEL	PROPN	nsubj	DORREGO	O
+DORREGO	DORREGO	PROPN	ROOT	DORREGO	O
+
+45.-	45.-	NUM	nummod	CORONEL	O
+CORONEL	CORONEL	NOUN	ROOT	CORONEL	O
+PRINGLES	PRINGLES	ADJ	amod	CORONEL	O
+
+46.-	46.-	NUM	nummod	CORONEL	O
+CORONEL	CORONEL	PROPN	nsubj	SUAREZ	O
+SUAREZ	SUAREZ	PROPN	ROOT	SUAREZ	O
+
+47.-	47.-	NUM	nummod	DAIREAUX	O
+DAIREAUX	DAIREAUX	VERB	ROOT	DAIREAUX	O
+
+48.-	48.-	NUM	nummod	DARREGUEIRA	O
+DARREGUEIRA	DARREGUEIRA	PROPN	ROOT	DARREGUEIRA	O
+
+49.-	49.-	NUM	ROOT	49.-	O
+DEL	DEL	ADP	case	CARRIL	O
+CARRIL	CARRIL	NOUN	nmod	49.-	O
+
+50.-	50.-	NUM	ROOT	50.-	O
+DEL	DEL	ADP	case	VISO	O
+VISO	VISO	PROPN	nmod	50.-	O
+
+51.-	51.-	NUM	nummod	DIECISIETEE	O
+DIECISIETEE	DIECISIETEE	NOUN	ROOT	DIECISIETEE	O
+DE	DE	ADP	case	AGOSTO	O
+AGOSTO	AGOSTO	NOUN	nmod	DIECISIETEE	O
+
+52.-	52.-	NUM	nummod	DOCK	O
+DOCK	DOCK	PROPN	ROOT	DOCK	O
+SUD	SUD	PROPN	appos	DOCK	O
+
+53.-	53.-	NUM	nummod	DON	O
+DON	DON	PROPN	ROOT	DON	O
+TORCUATO	TORCUATO	NOUN	flat	DON	O
+
+54.-	54.-	NUM	nummod	DUDIGNAC	O
+DUDIGNAC	DUDIGNAC	NOUN	ROOT	DUDIGNAC	O
+
+55.-	55.-	NUM	nummod	ECHENAGUCIA	O
+ECHENAGUCIA	ECHENAGUCIA	PROPN	ROOT	ECHENAGUCIA	O
+GERLI	GERLI	VERB	flat	ECHENAGUCIA	O
+
+56.-	56.-	NUM	ROOT	56.-	O
+EL	EL	DET	det	TRIUNFO	O
+TRIUNFO	TRIUNFO	NOUN	nsubj	56.-	O
+
+57.-	57.-	NUM	nummod	ENSENADA	O
+ENSENADA	ENSENADA	PROPN	ROOT	ENSENADA	O
+
+58.-	58.-	NUM	nummod	ESCOBAR	O
+ESCOBAR	ESCOBAR	NOUN	ROOT	ESCOBAR	O
+
+59.-	59.-	NUM	nummod	ESPARTILLAR	O
+ESPARTILLAR	ESPARTILLAR	PROPN	ROOT	ESPARTILLAR	O
+
+60.-	60.-	NOUN	nummod	ESTEBAN	O
+ESTEBAN	ESTEBAN	PROPN	ROOT	ESTEBAN	O
+ECHEVERRIA	ECHEVERRIA	NOUN	flat	ESTEBAN	O
+
+61.-	61.-	NUM	nummod	EXALTACION	O
+EXALTACION	EXALTACION	PROPN	ROOT	EXALTACION	O
+DE	DE	ADP	case	CRUZ	O
+LA	LA	DET	det	CRUZ	O
+CRUZ	CRUZ	PROPN	flat	EXALTACION	O
+
+62.-	62.-	VERB	nummod	EZEIZA	O
+EZEIZA	EZEIZA	NOUN	ROOT	EZEIZA	O
+
+63.-	63.-	NUM	nummod	FELIPE	O
+FELIPE	FELIPE	PROPN	ROOT	FELIPE	O
+SOLA	SOLA	PROPN	flat	FELIPE	O
+
+64.-	64.-	NUM	nummod	FLORENCIO	O
+FLORENCIO	FLORENCIO	PROPN	ROOT	FLORENCIO	O
+VARELA	VARELA	PROPN	flat	FLORENCIO	O
+
+65.-	65.-	NUM	nummod	FLORENTINO	O
+FLORENTINO	FLORENTINO	ADJ	ROOT	FLORENTINO	O
+AMEGHINO	AMEGHINO	NOUN	amod	FLORENTINO	O
+
+66.-	66.-	NUM	nummod	GARIN	O
+GARIN	GARIN	NOUN	ROOT	GARIN	O
+
+67.-	67.-	NUM	nummod	GARRE	O
+GARRE	GARRE	PROPN	ROOT	GARRE	O
+
+68.-	68.-	NUM	det	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+ALVEAR	ALVEAR	NOUN	amod	GENERAL	O
+
+69.-	69.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+ARENALES	ARENALES	ADV	advmod	GENERAL	O
+
+70.-	70.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+BELGRANO	BELGRANO	NOUN	flat	GENERAL	O
+
+71.-	71.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+DANIEL	DANIEL	PROPN	flat	GENERAL	O
+CERRI	CERRI	VERB	flat	GENERAL	O
+
+72.-	72.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+LAMADRID	LAMADRID	VERB	flat	GENERAL	O
+
+73.-	73.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+LAS	LAS	DET	det	HERAS	O
+HERAS	HERAS	PROPN	appos	GENERAL	O
+
+74.-	74.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	nsubj	MADARIAGA	O
+MADARIAGA	MADARIAGA	VERB	ROOT	MADARIAGA	O
+
+75.-	75.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+PACHECO	PACHECO	NOUN	appos	GENERAL	O
+
+76.-	76.-	NUM	ROOT	76.-	O
+GENERAL	GENERAL	PROPN	appos	76.-	O
+PAZ	PAZ	ADV	flat	GENERAL	O
+
+77.-	77.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+PINTO	PINTO	ADJ	flat	GENERAL	O
+
+78.-	78.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+PIRAN	PIRAN	PROPN	appos	GENERAL	O
+
+79.-	79.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	nsubj	RODRIGUEZ	O
+RODRIGUEZ	RODRIGUEZ	ADJ	ROOT	RODRIGUEZ	O
+
+80.-	80.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+SAN	SAN	PROPN	flat	GENERAL	O
+MARTIN	MARTIN	VERB	flat	GENERAL	O
+
+81.-	81.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+SARMIENTO	SARMIENTO	ADJ	flat	GENERAL	O
+
+82.-	82.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+VIAMONTE	VIAMONTE	VERB	flat	GENERAL	O
+
+83.-	83.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+VILLEGAS	VILLEGAS	VERB	flat	GENERAL	O
+
+84.-	84.-	NUM	nummod	GERMANIA	O
+GERMANIA	GERMANIA	PROPN	ROOT	GERMANIA	O
+
+85.-	85.-	NUM	nummod	GLEW	O
+GLEW	GLEW	NOUN	ROOT	GLEW	O
+
+86.-	86.-	NUM	nummod	GONZALEZ	O
+GONZALEZ	GONZALEZ	PROPN	ROOT	GONZALEZ	O
+CHAVES	CHAVES	VERB	flat	GONZALEZ	O
+
+87.-	87.-	NUM	nummod	GUAMINI	O
+GUAMINI	GUAMINI	NOUN	ROOT	GUAMINI	O
+
+88.-	88.-	NOUN	nummod	GUERNICA	O
+GUERNICA	GUERNICA	PROPN	ROOT	GUERNICA	O
+
+89.-	89.-	NUM	nummod	HENDERSON	O
+HENDERSON	HENDERSON	NOUN	ROOT	HENDERSON	O
+
+90.-	90.-	NUM	nummod	HILARIO	O
+HILARIO	HILARIO	NOUN	ROOT	HILARIO	O
+ASCASUBI	ASCASUBI	ADJ	flat	HILARIO	O
+
+91.-	91.-	NUM	nummod	HUANGUELEN	O
+HUANGUELEN	HUANGUELEN	PROPN	ROOT	HUANGUELEN	O
+
+92.-	92.-	NUM	ROOT	92.-	O
+HURLINGHAM	HURLINGHAM	NOUN	nsubj	92.-	O
+
+93.-	93.-	NUM	nummod	INDIO	O
+INDIO	INDIO	NOUN	ROOT	INDIO	O
+RICO	RICO	VERB	amod	INDIO	O
+
+94.-	94.-	NUM	nummod	INES	O
+INES	INES	NOUN	ROOT	INES	O
+INDART	INDART	ADJ	appos	INES	O
+
+95.-	95.-	NUM	nummod	INGENIERO	O
+INGENIERO	INGENIERO	PROPN	ROOT	INGENIERO	O
+MASCHWITZ	MASCHWITZ	NOUN	flat	INGENIERO	O
+
+96.-	96.-	NUM	nummod	INGENIERO	O
+INGENIERO	INGENIERO	PROPN	ROOT	INGENIERO	O
+WHITE	WHITE	ADJ	flat	INGENIERO	O
+
+97.-	97.-	NUM	nummod	ITUZAINGO	O
+ITUZAINGO	ITUZAINGO	NOUN	ROOT	ITUZAINGO	O
+
+98.-	98.-	NUM	nummod	JUAN	O
+JUAN	JUAN	PROPN	ROOT	JUAN	O
+BAUTISTA	BAUTISTA	PROPN	flat	JUAN	O
+ALBERDI	ALBERDI	VERB	flat	JUAN	O
+
+99.-	99.-	NUM	nummod	LANUS	O
+LANUS	LANUS	NOUN	ROOT	LANUS	O
+ESTE	ESTE	DET	amod	LANUS	O
+
+100.-	100.-	VERB	nummod	LANUS	O
+LANUS	LANUS	NOUN	ROOT	LANUS	O
+OESTE	OESTE	PROPN	amod	LANUS	O
+
+101.-	101.-	NOUN	nummod	LAPRIDA	O
+LAPRIDA	LAPRIDA	VERB	ROOT	LAPRIDA	O
+
+102.-	102.-	VERB	ROOT	102.-	O
+LAS	LAS	DET	det	FLORES	O
+FLORES	FLORES	NOUN	nsubj	102.-	O
+
+103.-	103.-	NOUN	nummod	LEZAMA	O
+LEZAMA	LEZAMA	VERB	ROOT	LEZAMA	O
+
+104.-	104.-	SYM	nummod	LIMA	O
+LIMA	LIMA	PROPN	ROOT	LIMA	O
+
+105.-	105.-	AUX	nummod	LINCOLN	O
+LINCOLN	LINCOLN	NOUN	ROOT	LINCOLN	O
+
+106.-	106.-	NUM	nummod	LOBOS	O
+LOBOS	LOBOS	VERB	ROOT	LOBOS	O
+
+107.-	107.-	DET	nummod	LOMAS	O
+LOMAS	LOMAS	NOUN	ROOT	LOMAS	O
+DE	DE	ADP	case	ZAMORA	O
+ZAMORA	ZAMORA	PROPN	nmod	LOMAS	O
+
+108.-	108.-	NOUN	nummod	LUJAN	O
+LUJAN	LUJAN	NOUN	ROOT	LUJAN	O
+
+109.-	109.-	NUM	nummod	MAGDALENA	O
+MAGDALENA	MAGDALENA	NOUN	ROOT	MAGDALENA	O
+
+110.-	110.-	NUM	nummod	MAIPU	O
+MAIPU	MAIPU	NOUN	ROOT	MAIPU	O
+
+111.-	111.-	SYM	nummod	MAQUINISTA	O
+MAQUINISTA	MAQUINISTA	NOUN	ROOT	MAQUINISTA	O
+SAVIO	SAVIO	ADJ	appos	MAQUINISTA	O
+
+112.-	112.-	ADJ	ROOT	112.-	O
+MAR	MAR	NUM	nsubj	112.-	O
+CHIQUITA	CHIQUITA	NOUN	flat	MAR	O
+
+113.-	113.-	NUM	nummod	MAR	O
+MAR	MAR	NOUN	ROOT	MAR	O
+DE	DE	ADP	case	AJO	O
+AJO	AJO	PROPN	flat	MAR	O
+
+114.-	114.-	NUM	nummod	MARCOS	O
+MARCOS	MARCOS	NOUN	ROOT	MARCOS	O
+PAZ	PAZ	PROPN	flat	MARCOS	O
+
+115.-	115.-	NUM	nummod	MECHONGUE	O
+MECHONGUE	MECHONGUE	NOUN	ROOT	MECHONGUE	O
+
+116.-	116.-	NUM	nummod	MEDANOS	O
+MEDANOS	MEDANOS	NOUN	ROOT	MEDANOS	O
+
+117	117	NUM	ROOT	117	O
+.	.	PUNCT	punct	117	O
+-	-	PUNCT	punct	MERCEDES	O
+MERCEDES	MERCEDES	NOUN	ROOT	MERCEDES	O
+
+118.-	118.-	NUM	nummod	MERLO	O
+MERLO	MERLO	VERB	ROOT	MERLO	O
+
+119.-	119.-	NUM	nummod	MONTE	O
+MONTE	MONTE	NOUN	ROOT	MONTE	O
+
+120.-	120.-	NUM	nummod	MONTE	O
+MONTE	MONTE	PROPN	ROOT	MONTE	O
+HERMOSO	HERMOSO	VERB	amod	MONTE	O
+
+121.-	121.-	NUM	nummod	MOQUEHUA	O
+MOQUEHUA	MOQUEHUA	NOUN	ROOT	MOQUEHUA	O
+
+122.-	122.-	PUNCT	nummod	MORENO	O
+MORENO	MORENO	PROPN	ROOT	MORENO	O
+
+123.-	123.-	NUM	nummod	MORON	O
+MORON	MORON	NOUN	ROOT	MORON	O
+
+124.-	124.-	AUX	ROOT	124.-	O
+NAVARRO	NAVARRO	NOUN	nsubj	124.-	O
+
+125.-	125.-	NUM	nummod	NICANOR	O
+NICANOR	NICANOR	PROPN	nsubj	DULCE—	O
+OLIVERA	OLIVERA	ADJ	flat	NICANOR	O
+—LA	—LA	VERB	amod	NICANOR	O
+DULCE—	DULCE—	NUM	ROOT	DULCE—	O
+
+126.-	126.-	NUM	nummod	NORBERTO	O
+NORBERTO	NORBERTO	NOUN	ROOT	NORBERTO	O
+DE	DE	ADP	case	RIESTRA	O
+LA	LA	DET	det	RIESTRA	O
+RIESTRA	RIESTRA	NOUN	nmod	NORBERTO	O
+
+127.-	127.-	NUM	nummod	NUEVE	O
+NUEVE	NUEVE	NUM	ROOT	NUEVE	O
+DE	DE	ADP	case	JULIO	O
+JULIO	JULIO	PROPN	nmod	NUEVE	O
+
+128.-	128.-	NUM	nummod	O’HIGGINS	O
+O’HIGGINS	O’HIGGINS	VERB	ROOT	O’HIGGINS	O
+
+129.-	129.-	NUM	ROOT	129.-	O
+OLAVARRIA	OLAVARRIA	NOUN	nsubj	129.-	O
+
+130.-	130.-	NUM	nummod	ORENSE	O
+ORENSE	ORENSE	PROPN	ROOT	ORENSE	O
+
+131.-	131.-	NUM	ROOT	131.-	O
+ORIENTE	ORIENTE	NOUN	appos	131.-	O
+
+132.-	132.-	NUM	ROOT	132.-	O
+PASTEUR	PASTEUR	NOUN	nsubj	132.-	O
+
+133.-	133.-	NUM	nummod	PEDERNALES	O
+PEDERNALES	PEDERNALES	NOUN	ROOT	PEDERNALES	O
+
+134.-	134.-	NUM	nummod	PEDRO	O
+PEDRO	PEDRO	NOUN	ROOT	PEDRO	O
+LURO	LURO	ADJ	flat	PEDRO	O
+
+135.-	135.-	NUM	nummod	PEHUAJO	O
+PEHUAJO	PEHUAJO	NOUN	ROOT	PEHUAJO	O
+
+136.-	136.-	NUM	nummod	PELLEGRINI	O
+PELLEGRINI	PELLEGRINI	NOUN	ROOT	PELLEGRINI	O
+
+137.-	137.-	NUM	nummod	PEREZ	O
+PEREZ	PEREZ	AUX	ROOT	PEREZ	O
+MILLAN	MILLAN	NOUN	flat	PEREZ	O
+
+138.-	138.-	NOUN	nummod	PERGAMINO	O
+PERGAMINO	PERGAMINO	NOUN	ROOT	PERGAMINO	O
+
+139.-	139.-	NUM	nummod	PIEDRITAS	O
+PIEDRITAS	PIEDRITAS	NOUN	ROOT	PIEDRITAS	O
+
+140.-	140.-	NUM	nummod	PIGUE	O
+PIGUE	PIGUE	NOUN	ROOT	PIGUE	O
+
+141.-	141.-	NUM	nummod	PILA	O
+PILA	PILA	NOUN	ROOT	PILA	O
+
+142.-	142.-	NUM	ROOT	142.-	O
+PILAR	PILAR	NOUN	nsubj	142.-	O
+
+143.-	143.-	NUM	nummod	PINAMAR	O
+PINAMAR	PINAMAR	NOUN	ROOT	PINAMAR	O
+
+144.-	144.-	NUM	nummod	PRESIDENTE	O
+PRESIDENTE	PRESIDENTE	PROPN	ROOT	PRESIDENTE	O
+DERQUI	DERQUI	NOUN	amod	PRESIDENTE	O
+
+145.-	145.-	NUM	nsubj	PUAN	O
+PUAN	PUAN	PROPN	ROOT	PUAN	O
+
+146.-	146.-	NUM	nummod	PUNTA	O
+PUNTA	PUNTA	PROPN	ROOT	PUNTA	O
+ALTA	ALTA	VERB	amod	PUNTA	O
+
+147.-	147.-	NUM	nummod	QUILMES	O
+QUILMES	QUILMES	NOUN	ROOT	QUILMES	O
+
+148.-	148.-	NUM	advmod	QUIROGA	O
+QUIROGA	QUIROGA	VERB	ROOT	QUIROGA	O
+
+149.-	149.-	NOUN	nummod	RAMALLO	O
+RAMALLO	RAMALLO	ADV	ROOT	RAMALLO	O
+
+150.-	150.-	NUM	nummod	RAUCH	O
+RAUCH	RAUCH	NOUN	ROOT	RAUCH	O
+
+151.-	151.-	NUM	nummod	RAWSON	O
+RAWSON	RAWSON	VERB	ROOT	RAWSON	O
+
+152.-	152.-	NUM	ROOT	152.-	O
+RIVADAVIA	RIVADAVIA	NOUN	nsubj	152.-	O
+
+153.-	153.-	NUM	nummod	RIVERA	O
+RIVERA	RIVERA	NOUN	ROOT	RIVERA	O
+
+154.-	154.-	NUM	nummod	ROBERTS	O
+ROBERTS	ROBERTS	NOUN	ROOT	ROBERTS	O
+
+155.-	155.-	NOUN	nummod	ROJAS	O
+ROJAS	ROJAS	NOUN	ROOT	ROJAS	O
+
+156.-	156.-	NUM	nummod	ROQUE	O
+ROQUE	ROQUE	PROPN	ROOT	ROQUE	O
+PEREZ	PEREZ	PROPN	flat	ROQUE	O
+
+157.-	157.-	NUM	nummod	SAAVEDRA	O
+SAAVEDRA	SAAVEDRA	VERB	ROOT	SAAVEDRA	O
+
+158.-	158.-	NOUN	nummod	SALADILLO	O
+SALADILLO	SALADILLO	ADV	ROOT	SALADILLO	O
+
+159.-	159.-	NUM	advmod	SALLIQUELO	O
+SALLIQUELO	SALLIQUELO	NOUN	ROOT	SALLIQUELO	O
+
+160.-	160.-	NUM	nummod	SALTO	O
+SALTO	SALTO	VERB	ROOT	SALTO	O
+
+161	161	NUM	ROOT	161	O
+.	.	PUNCT	punct	161	O
+-	-	PUNCT	punct	SAN	O
+SAN	SAN	VERB	ROOT	SAN	O
+ANDRES	ANDRES	NOUN	flat	SAN	O
+DE	DE	ADP	case	GILES	O
+GILES	GILES	NOUN	flat	SAN	O
+
+162.-	162.-	NUM	ROOT	162.-	O
+SAN	SAN	PROPN	appos	162.-	O
+ANTONIO	ANTONIO	PROPN	flat	SAN	O
+DE	DE	ADP	case	ARECO	O
+ARECO	ARECO	NOUN	nmod	162.-	O
+
+163.-	163.-	NUM	nummod	SAN	O
+SAN	SAN	NOUN	ROOT	SAN	O
+CAYETANO	CAYETANO	VERB	flat	SAN	O
+
+164.-	164.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+CLEMENTE	CLEMENTE	PROPN	flat	SAN	O
+DEL	DEL	ADP	case	TUYU	O
+TUYU	TUYU	NOUN	flat	SAN	O
+
+165.-	165.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+FERNANDO	FERNANDO	VERB	flat	SAN	O
+
+166.-	166.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+FRANCISCO	FRANCISCO	PROPN	flat	SAN	O
+SOLANO	SOLANO	PROPN	flat	SAN	O
+
+167.-	167.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+ISIDRO	ISIDRO	PROPN	flat	SAN	O
+
+168.-	168.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+PEDRO	PEDRO	ADJ	flat	SAN	O
+
+169.-	169.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+VICENTE	VICENTE	PROPN	flat	SAN	O
+
+170.-	170.-	NUM	det	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+CLARA	CLARA	NOUN	flat	SANTA	O
+DEL	DEL	ADP	case	MAR	O
+MAR	MAR	PROPN	nmod	SANTA	O
+Y	Y	CONJ	cc	COS-	O
+DE	DE	ADP	case	COS-	O
+LA	LA	DET	det	COS-	O
+COS-	COS-	VERB	conj	SANTA	O
+
+TA	TA	ADV	ROOT	TA	O
+
+171.-	171.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+LUCIA	LUCIA	ADJ	flat	SANTA	O
+
+172.-	172.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+TERESITA	TERESITA	ADJ	appos	SANTA	O
+
+173.-	173.-	NUM	nummod	SARANDI	O
+SARANDI	SARANDI	NOUN	ROOT	SARANDI	O
+
+174.-	174.-	NUM	nummod	SIERRA	O
+SIERRA	SIERRA	NOUN	ROOT	SIERRA	O
+DE	DE	ADP	case	VENTANA	O
+LA	LA	DET	det	VENTANA	O
+VENTANA	VENTANA	NOUN	nmod	SIERRA	O
+
+175.-	175.-	NUM	nummod	SIERRA	O
+SIERRA	SIERRA	PROPN	ROOT	SIERRA	O
+DE	DE	ADP	case	PADRES	O
+LOS	LOS	DET	det	PADRES	O
+PADRES	PADRES	PROPN	nmod	SIERRA	O
+
+176.-	176.-	NUM	nummod	STROEDER	O
+STROEDER	STROEDER	NOUN	ROOT	STROEDER	O
+
+177.-	177.-	NUM	nummod	SUIPACHA	O
+SUIPACHA	SUIPACHA	VERB	ROOT	SUIPACHA	O
+
+178.-	178.-	NUM	nummod	TAPALQUE	O
+TAPALQUE	TAPALQUE	NOUN	ROOT	TAPALQUE	O
+
+179.-	179.-	NUM	nummod	TIGRE	O
+TIGRE	TIGRE	NOUN	ROOT	TIGRE	O
+
+180.-	180.-	NUM	nummod	TORNQUIST	O
+TORNQUIST	TORNQUIST	NOUN	ROOT	TORNQUIST	O
+
+181.-	181.-	NOUN	nummod	TORTUGUITAS	O
+TORTUGUITAS	TORTUGUITAS	ADJ	ROOT	TORTUGUITAS	O
+
+182.-	182.-	NUM	nummod	TREINTA	O
+TREINTA	TREINTA	NOUN	ROOT	TREINTA	O
+DE	DE	ADP	case	AGOSTO	O
+AGOSTO	AGOSTO	NOUN	nmod	TREINTA	O
+
+183.-	183.-	NUM	ROOT	183.-	O
+TRENQUE	TRENQUE	NOUN	appos	183.-	O
+LAUQUEN	LAUQUEN	ADJ	advmod	183.-	O
+
+184.-	184.-	NUM	ROOT	184.-	O
+TRES	TRES	NUM	nummod	ALGARROBOS	O
+ALGARROBOS	ALGARROBOS	NOUN	obj	184.-	O
+
+185.-	185.-	VERB	ROOT	185.-	O
+TRES	TRES	NUM	nummod	ARROYOS	O
+ARROYOS	ARROYOS	VERB	nsubj	185.-	O
+
+186.-	186.-	NUM	ROOT	186.-	O
+TRES	TRES	NOUN	appos	186.-	O
+DE	DE	ADP	case	FEBRERO	O
+FEBRERO	FEBRERO	NOUN	nmod	TRES	O
+
+187.-	187.-	NUM	ROOT	187.-	O
+TRES	TRES	NUM	nummod	LOMAS	O
+LOMAS	LOMAS	NOUN	nsubj	187.-	O
+
+188.-	188.-	PUNCT	nsubj	SUAREZ	O
+TRISTAN	TRISTAN	NOUN	appos	188.-	O
+SUAREZ	SUAREZ	PROPN	ROOT	SUAREZ	O
+
+189.-	189.-	NUM	nummod	VALDES	O
+VALDES	VALDES	NOUN	ROOT	VALDES	O
+
+190.-	190.-	NOUN	nummod	VEDIA	O
+VEDIA	VEDIA	PROPN	ROOT	VEDIA	O
+
+191.-	191.-	NUM	nummod	VENTICINCO	O
+VENTICINCO	VENTICINCO	PROPN	ROOT	VENTICINCO	O
+DE	DE	ADP	case	MAYO	O
+MAYO	MAYO	NOUN	nmod	VENTICINCO	O
+
+192	192	NUM	ROOT	192	O
+.	.	PUNCT	punct	192	O
+-	-	PUNCT	punct	VELA	O
+VELA	VELA	NOUN	ROOT	VELA	O
+
+193.-	193.-	NUM	ROOT	193.-	O
+VERONICA	VERONICA	PROPN	nsubj	193.-	O
+
+194.-	194.-	DET	nmod	VICENTE	O
+VICENTE	VICENTE	PROPN	ROOT	VICENTE	O
+LOPEZ	LOPEZ	NOUN	obj	VICENTE	O
+
+195	195	NUM	ROOT	195	O
+.	.	PUNCT	punct	195	O
+-	-	PUNCT	punct	VILLA	O
+VILLA	VILLA	NOUN	ROOT	VILLA	O
+BALLESTER	BALLESTER	ADJ	obj	VILLA	O
+
+196.-	196.-	SYM	nummod	VILLA	O
+VILLA	VILLA	ADJ	ROOT	VILLA	O
+DOMINICO	DOMINICO	NOUN	amod	VILLA	O
+
+197.-	197.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+GESELL	GESELL	NOUN	appos	VILLA	O
+
+198.-	198.-	NUM	det	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+IRIS	IRIS	ADJ	amod	VILLA	O
+
+199.-	199.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+LA	LA	DET	det	FLORIDA	O
+FLORIDA	FLORIDA	PROPN	appos	VILLA	O
+
+200.-	200.-	NOUN	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+MASA	MASA	NOUN	amod	VILLA	O
+
+201.-	201.-	VERB	ROOT	201.-	O
+VILLALONGA	VILLALONGA	NOUN	nsubj	201.-	O
+
+202.-	202.-	NUM	nsubj	ZARATE	O
+ZARATE	ZARATE	NOUN	ROOT	ZARATE	O
+
+CAPITAL	CAPITAL	NOUN	ROOT	CAPITAL	O
+FEDERAL	FEDERAL	PROPN	flat	CAPITAL	O
+
+1.-	1.-	NUM	ROOT	1.-	O
+LA	LA	DET	det	BOCA	O
+BOCA	BOCA	NOUN	nsubj	1.-	O
+
+2.-	2.-	NUM	nummod	VUELTA	O
+VUELTA	VUELTA	PROPN	ROOT	VUELTA	O
+DE	DE	ADP	case	ROCHA	O
+ROCHA	ROCHA	NOUN	nmod	VUELTA	O
+
+3.-	3.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+SOLDATI	SOLDATI	ADJ	flat	VILLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	CATAMARCA	O
+CATAMARCA	CATAMARCA	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	ANDALGALA	O
+ANDALGALA	ANDALGALA	AUX	ROOT	ANDALGALA	O
+
+2.-	2.-	NUM	nummod	BELEN	O
+BELEN	BELEN	PROPN	ROOT	BELEN	O
+
+3.-	3.-	PROPN	nummod	POMAN	O
+POMAN	POMAN	VERB	ROOT	POMAN	O
+
+4.-	4.-	NUM	nummod	RECREO	O
+RECREO	RECREO	NOUN	ROOT	RECREO	O
+
+5.-	5.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+MARIA	MARIA	ADJ	flat	SANTA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	CHACO	O
+CHACO	CHACO	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	BARRANQUERAS	O
+BARRANQUERAS	BARRANQUERAS	PROPN	ROOT	BARRANQUERAS	O
+
+2.-	2.-	NUM	nummod	JUAN	O
+JUAN	JUAN	PROPN	ROOT	JUAN	O
+JOSE	JOSE	PROPN	flat	JUAN	O
+CASTELLI	CASTELLI	VERB	flat	JUAN	O
+
+3.-	3.-	NUM	nummod	RESISTENCIA	O
+RESISTENCIA	RESISTENCIA	NOUN	ROOT	RESISTENCIA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	CHUBUT	O
+CHUBUT	CHUBUT	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	ALTO	O
+ALTO	ALTO	PROPN	ROOT	ALTO	O
+RIO	RIO	PROPN	flat	ALTO	O
+SENGER	SENGER	NOUN	flat	ALTO	O
+
+2.-	2.-	NUM	nummod	COMODORO	O
+COMODORO	COMODORO	NOUN	ROOT	COMODORO	O
+RIVADAVIA	RIVADAVIA	NOUN	amod	COMODORO	O
+
+3.-	3.-	NUM	nummod	CORCOVADO	O
+CORCOVADO	CORCOVADO	ADJ	ROOT	CORCOVADO	O
+
+4.-	4.-	NUM	nummod	DOLAVON	O
+DOLAVON	DOLAVON	NOUN	ROOT	DOLAVON	O
+
+5.-	5.-	VERB	ROOT	5.-	O
+EL	EL	DET	det	HOYO	O
+HOYO	HOYO	NOUN	appos	5.-	O
+
+6.-	6.-	VERB	ROOT	6.-	O
+EL	EL	DET	det	MAITEN	O
+MAITEN	MAITEN	PROPN	nsubj	6.-	O
+
+7.-	7.-	NUM	nummod	ESQUEL	O
+ESQUEL	ESQUEL	NOUN	ROOT	ESQUEL	O
+
+8.-	8.-	NUM	nummod	GAIMAN	O
+GAIMAN	GAIMAN	NOUN	ROOT	GAIMAN	O
+
+9.-	9.-	NUM	nummod	GOBERNADOR	O
+GOBERNADOR	GOBERNADOR	NOUN	ROOT	GOBERNADOR	O
+COSTA	COSTA	VERB	flat	GOBERNADOR	O
+
+10.-	10.-	NUM	nummod	LAGO	O
+LAGO	LAGO	NOUN	nsubj	PUELO	O
+PUELO	PUELO	ADJ	ROOT	PUELO	O
+
+11.-	11.-	NUM	nummod	PUERTO	O
+PUERTO	PUERTO	NOUN	ROOT	PUERTO	O
+MADRYN	MADRYN	ADJ	flat	PUERTO	O
+
+12.-	12.-	NUM	nummod	PUERTO	O
+PUERTO	PUERTO	PROPN	ROOT	PUERTO	O
+PIRAMIDES	PIRAMIDES	PROPN	amod	PUERTO	O
+
+13.-	13.-	NUM	nummod	RADA	O
+RADA	RADA	NOUN	ROOT	RADA	O
+TILLY	TILLY	VERB	amod	RADA	O
+
+14.-	14.-	NUM	nummod	RAWSON	O
+RAWSON	RAWSON	NOUN	ROOT	RAWSON	O
+
+15.-	15.-	NUM	nmod	RIO	O
+RIO	RIO	PROPN	ROOT	RIO	O
+MAYO	MAYO	NOUN	flat	RIO	O
+
+16.-	16.-	NUM	nummod	PICO	O
+RIO	RIO	PROPN	appos	16.-	O
+PICO	PICO	VERB	ROOT	PICO	O
+
+17.-	17.-	NUM	nummod	SARMIENTO	O
+SARMIENTO	SARMIENTO	NOUN	ROOT	SARMIENTO	O
+
+18.-	18.-	NUM	nummod	TRELEW	O
+TRELEW	TRELEW	VERB	ROOT	TRELEW	O
+
+19.-	19.-	NUM	nummod	TREVELIN	O
+TREVELIN	TREVELIN	NOUN	ROOT	TREVELIN	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	CORDOBA	O
+CORDOBA	CORDOBA	VERB	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	ACHIRAS	O
+ACHIRAS	ACHIRAS	PROPN	ROOT	ACHIRAS	O
+
+2.-	2.-	NUM	nummod	ADELIA	O
+ADELIA	ADELIA	NOUN	ROOT	ADELIA	O
+MARIA	MARIA	ADJ	flat	ADELIA	O
+
+3.-	3.-	PROPN	nummod	ALCIRA	O
+ALCIRA	ALCIRA	PROPN	ROOT	ALCIRA	O
+
+4.-	4.-	NUM	nummod	ALEJANDRO	O
+ALEJANDRO	ALEJANDRO	NOUN	ROOT	ALEJANDRO	O
+ROCA	ROCA	ADJ	flat	ALEJANDRO	O
+
+5.-	5.-	NUM	nummod	ALEJO	O
+ALEJO	ALEJO	NOUN	ROOT	ALEJO	O
+LEDESMA	LEDESMA	NOUN	flat	ALEJO	O
+
+6.-	6.-	NUM	nummod	ALMAFUERTE	O
+ALMAFUERTE	ALMAFUERTE	PROPN	ROOT	ALMAFUERTE	O
+
+7.-	7.-	NUM	nummod	ALTA	O
+ALTA	ALTA	PROPN	ROOT	ALTA	O
+GRACIA	GRACIA	PROPN	flat	ALTA	O
+
+8.-	8.-	NUM	nummod	ARIAS	O
+ARIAS	ARIAS	PROPN	ROOT	ARIAS	O
+
+9.-	9.-	NUM	nummod	ARROYITO	O
+ARROYITO	ARROYITO	PROPN	ROOT	ARROYITO	O
+
+10.-	10.-	NUM	nummod	ARROYO	O
+ARROYO	ARROYO	NOUN	ROOT	ARROYO	O
+ALGODON	ALGODON	ADJ	flat	ARROYO	O
+
+11.-	11.-	ADJ	nummod	ARROYO	O
+ARROYO	ARROYO	NOUN	ROOT	ARROYO	O
+CABRAL	CABRAL	ADJ	appos	ARROYO	O
+
+12.-	12.-	NUM	nummod	BALLESTEROS	O
+BALLESTEROS	BALLESTEROS	PROPN	ROOT	BALLESTEROS	O
+
+13.-	13.-	NUM	nummod	BALNEARIA	O
+BALNEARIA	BALNEARIA	NOUN	ROOT	BALNEARIA	O
+
+14.-	14.-	NUM	nummod	BELL	O
+BELL	BELL	PROPN	nsubj	VILLE	O
+VILLE	VILLE	PROPN	ROOT	VILLE	O
+
+15.-	15.-	NUM	nummod	BERROTARAN	O
+BERROTARAN	BERROTARAN	PROPN	ROOT	BERROTARAN	O
+
+16.-	16.-	NUM	nummod	BIALET	O
+BIALET	BIALET	PROPN	ROOT	BIALET	O
+MASSE	MASSE	VERB	appos	BIALET	O
+
+17.-	17.-	NUM	nummod	BRINKMAN	O
+BRINKMAN	BRINKMAN	PROPN	ROOT	BRINKMAN	O
+
+18.-	18.-	NUM	nummod	BUCHARDO	O
+BUCHARDO	BUCHARDO	PROPN	ROOT	BUCHARDO	O
+
+19.-	19.-	NUM	nummod	CAMILO	O
+CAMILO	CAMILO	NOUN	ROOT	CAMILO	O
+ALDAO	ALDAO	VERB	flat	CAMILO	O
+
+90.-	90.-	NUM	nummod	CANALS	O
+CANALS	CANALS	PROPN	ROOT	CANALS	O
+
+21.-	21.-	NUM	nummod	CAPILLA	O
+CAPILLA	CAPILLA	PROPN	ROOT	CAPILLA	O
+DEL	DEL	ADP	case	MONTE	O
+MONTE	MONTE	NOUN	nmod	CAPILLA	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+CORONEL	CORONEL	PROPN	nsubj	22.-	O
+MOLDES	MOLDES	ADJ	flat	CORONEL	O
+
+23.-	23.-	NUM	nummod	CORRAL	O
+CORRAL	CORRAL	NOUN	ROOT	CORRAL	O
+DE	DE	ADP	case	BUSTOS	O
+BUSTOS	BUSTOS	NOUN	nmod	CORRAL	O
+
+24.-	24.-	NUM	nummod	COSQUIN	O
+COSQUIN	COSQUIN	PROPN	ROOT	COSQUIN	O
+
+25.-	25.-	NUM	nummod	CRUZ	O
+CRUZ	CRUZ	PROPN	ROOT	CRUZ	O
+ALTA	ALTA	VERB	amod	CRUZ	O
+
+26.-	26.-	NUM	nummod	CRUZ	O
+CRUZ	CRUZ	PROPN	ROOT	CRUZ	O
+DEL	DEL	ADP	case	EJE	O
+EJE	EJE	PROPN	nmod	CRUZ	O
+
+27.-	27.-	NUM	nummod	DEAN	O
+DEAN	DEAN	ADJ	ROOT	DEAN	O
+FUNES	FUNES	NOUN	amod	DEAN	O
+
+98.-	98.-	NUM	nummod	DESPEÑADEROS	O
+DESPEÑADEROS	DESPEÑADEROS	NOUN	ROOT	DESPEÑADEROS	O
+
+29.-	29.-	NUM	nmod	DON	O
+DON	DON	PROPN	ROOT	DON	O
+PASCUAL	PASCUAL	PROPN	flat	DON	O
+LENCINAS	LENCINAS	NOUN	flat	DON	O
+
+30.-	30.-	NUM	nummod	EMBALSE	O
+EMBALSE	EMBALSE	PROPN	ROOT	EMBALSE	O
+
+31.-	31.-	NUM	nummod	ETRURIA	O
+ETRURIA	ETRURIA	NOUN	ROOT	ETRURIA	O
+
+32.-	32.-	NUM	nummod	FREYRE	O
+FREYRE	FREYRE	PROPN	ROOT	FREYRE	O
+
+33.-	33.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+BALDISSERA	BALDISSERA	VERB	flat	GENERAL	O
+
+34.-	34.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+CABRERA	CABRERA	VERB	amod	GENERAL	O
+
+35.-	35.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+DEHEZA	DEHEZA	ADJ	flat	GENERAL	O
+
+36.-	36.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+LEVALLE	LEVALLE	PROPN	flat	GENERAL	O
+
+37.-	37.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+ROCA	ROCA	NOUN	appos	GENERAL	O
+
+38.-	38.-	NUM	nummod	HERNANDO	O
+HERNANDO	HERNANDO	PROPN	ROOT	HERNANDO	O
+
+39.-	39.-	NUM	nummod	HUANCHILLA	O
+HUANCHILLA	HUANCHILLA	NOUN	ROOT	HUANCHILLA	O
+
+40.-	40.-	NUM	nummod	HUINCA	O
+HUINCA	HUINCA	NOUN	ROOT	HUINCA	O
+RENANCO	RENANCO	ADJ	flat	HUINCA	O
+
+41.-	41.-	NUM	nummod	INRIVILLE	O
+INRIVILLE	INRIVILLE	PROPN	ROOT	INRIVILLE	O
+
+42.-	42.-	NUM	nummod	ISLA	O
+ISLA	ISLA	PROPN	ROOT	ISLA	O
+VERDE	VERDE	VERB	amod	ISLA	O
+
+43.-	43.-	NUM	nummod	JAMES	O
+JAMES	JAMES	NOUN	ROOT	JAMES	O
+CRAIK	CRAIK	VERB	flat	JAMES	O
+
+44.-	44.-	ADJ	nummod	JESUS	O
+JESUS	JESUS	NOUN	ROOT	JESUS	O
+MARIA	MARIA	ADJ	flat	JESUS	O
+
+45.-	45.-	NUM	nummod	JOVITA	O
+JOVITA	JOVITA	PROPN	ROOT	JOVITA	O
+
+46.-	46.-	NUM	nummod	JUSTINIANO	O
+JUSTINIANO	JUSTINIANO	PROPN	ROOT	JUSTINIANO	O
+POSSE	POSSE	ADV	flat	JUSTINIANO	O
+
+47.-	47.-	NUM	ROOT	47.-	O
+LA	LA	DET	det	CALERA	O
+CALERA	CALERA	NOUN	nsubj	47.-	O
+
+48.-	48.-	NUM	ROOT	48.-	O
+LA	LA	DET	det	CARLOTA	O
+CARLOTA	CARLOTA	PROPN	appos	48.-	O
+
+49.-	49.-	NUM	nummod	CUMBRE	O
+LA	LA	DET	det	CUMBRE	O
+CUMBRE	CUMBRE	NOUN	ROOT	CUMBRE	O
+
+50.-	50.-	NUM	ROOT	50.-	O
+LA	LA	DET	det	CUMBRECITA	O
+CUMBRECITA	CUMBRECITA	PROPN	appos	50.-	O
+
+51.-	51.-	NUM	ROOT	51.-	O
+LA	LA	DET	det	FALDA	O
+FALDA	FALDA	NOUN	appos	51.-	O
+
+52.-	52.-	NUM	ROOT	52.-	O
+LA	LA	DET	det	GRANJA	O
+GRANJA	GRANJA	NOUN	nsubj	52.-	O
+
+53.-	53.-	NUM	ROOT	53.-	O
+LA	LA	DET	det	PLAYOSA	O
+PLAYOSA	PLAYOSA	PROPN	nsubj	53.-	O
+
+54.-	54.-	NUM	nummod	LABORDE	O
+LABORDE	LABORDE	NOUN	ROOT	LABORDE	O
+
+55.-	55.-	NUM	nummod	LABOULAYE	O
+LABOULAYE	LABOULAYE	NOUN	ROOT	LABOULAYE	O
+
+56.-	56.-	NUM	advmod	LARGA	O
+LAGUNA	LAGUNA	PROPN	appos	56.-	O
+LARGA	LARGA	ADJ	ROOT	LARGA	O
+
+57.-	57.-	NUM	ROOT	57.-	O
+LAS	LAS	DET	det	JUNTURAS	O
+JUNTURAS	JUNTURAS	PROPN	nsubj	57.-	O
+
+58.-	58.-	NUM	nummod	PERDICES	O
+LAS	LAS	DET	det	PERDICES	O
+PERDICES	PERDICES	NOUN	ROOT	PERDICES	O
+
+59.-	59.-	NUM	ROOT	59.-	O
+LAS	LAS	DET	det	VARILLAS	O
+VARILLAS	VARILLAS	NOUN	nsubj	59.-	O
+
+60.-	60.-	NOUN	nummod	LEONES	O
+LEONES	LEONES	NOUN	ROOT	LEONES	O
+
+61.-	61.-	NOUN	ROOT	61.-	O
+LOS	LOS	DET	det	COCOS	O
+COCOS	COCOS	PROPN	nsubj	61.-	O
+
+62.-	62.-	VERB	ROOT	62.-	O
+LOS	LOS	DET	det	HORNILLOS	O
+HORNILLOS	HORNILLOS	NOUN	nsubj	62.-	O
+
+63.-	63.-	NUM	ROOT	63.-	O
+LOS	LOS	DET	det	SURGENTES	O
+SURGENTES	SURGENTES	NOUN	nsubj	63.-	O
+
+64.-	64.-	NUM	nummod	LUQUE	O
+LUQUE	LUQUE	NOUN	ROOT	LUQUE	O
+
+65.-	65.-	NUM	nummod	MALAGUEÑO	O
+MALAGUEÑO	MALAGUEÑO	NOUN	ROOT	MALAGUEÑO	O
+
+66.-	66.-	NUM	nummod	MARCOS	O
+MARCOS	MARCOS	PROPN	ROOT	MARCOS	O
+JUAREZ	JUAREZ	PROPN	flat	MARCOS	O
+
+67.-	67.-	NUM	nummod	MATTALDI	O
+MATTALDI	MATTALDI	PROPN	ROOT	MATTALDI	O
+
+68.-	68.-	NUM	det	MENDIOLAZA	O
+MENDIOLAZA	MENDIOLAZA	NOUN	ROOT	MENDIOLAZA	O
+
+69.-	69.-	NUM	nummod	MINA	O
+MINA	MINA	NOUN	ROOT	MINA	O
+CLAVERO	CLAVERO	VERB	flat	MINA	O
+
+70.-	70.-	NUM	nummod	MONTE	O
+MONTE	MONTE	PROPN	ROOT	MONTE	O
+BUEY	BUEY	PROPN	flat	MONTE	O
+
+71.-	71.-	NUM	nummod	MONTECRISTO	O
+MONTECRISTO	MONTECRISTO	NOUN	ROOT	MONTECRISTO	O
+
+72.-	72.-	NUM	ROOT	72.-	O
+MONTE	MONTE	PROPN	nsubj	72.-	O
+MAIZ	MAIZ	PROPN	flat	MONTE	O
+
+73.-	73.-	NUM	nummod	MORRISON	O
+MORRISON	MORRISON	VERB	ROOT	MORRISON	O
+
+74.-	74.-	NUM	nummod	MORTEROS	O
+MORTEROS	MORTEROS	NOUN	ROOT	MORTEROS	O
+
+75.-	75.-	NUM	nummod	NOETINGER	O
+NOETINGER	NOETINGER	NOUN	ROOT	NOETINGER	O
+
+76.-	76.-	VERB	ROOT	76.-	O
+OLIVA	OLIVA	NOUN	nsubj	76.-	O
+
+77.-	77.-	NUM	nummod	ONCATIVO	O
+ONCATIVO	ONCATIVO	PROPN	ROOT	ONCATIVO	O
+
+78.-	78.-	NUM	nummod	ORDOÑEZ	O
+ORDOÑEZ	ORDOÑEZ	NOUN	ROOT	ORDOÑEZ	O
+
+79.-	79.-	NUM	nummod	PASCANAS	O
+PASCANAS	PASCANAS	NOUN	ROOT	PASCANAS	O
+
+80.-	80.-	NUM	nummod	PASCO	O
+PASCO	PASCO	NOUN	ROOT	PASCO	O
+
+81.-	81.-	NUM	nummod	PILAR	O
+PILAR	PILAR	PROPN	ROOT	PILAR	O
+
+82.-	82.-	NOUN	nummod	PORTERA	O
+PORTERA	PORTERA	NOUN	ROOT	PORTERA	O
+
+83.-	83.-	NUM	nummod	POZO	O
+POZO	POZO	PROPN	ROOT	POZO	O
+DEL	DEL	ADP	case	MOLLE	O
+MOLLE	MOLLE	PROPN	nmod	POZO	O
+
+84.-	84.-	NUM	nummod	QUILINO	O
+QUILINO	QUILINO	NOUN	ROOT	QUILINO	O
+
+85.-	85.-	NUM	nummod	RIO	O
+RIO	RIO	PROPN	ROOT	RIO	O
+CEBALLOS	CEBALLOS	NOUN	flat	RIO	O
+
+86.-	86.-	NUM	ROOT	86.-	O
+RIO	RIO	PROPN	appos	86.-	O
+CUARTO	CUARTO	ADJ	appos	86.-	O
+
+87.-	87.-	NUM	nummod	RIO	O
+RIO	RIO	PROPN	ROOT	RIO	O
+PRIMERO	PRIMERO	ADJ	flat	RIO	O
+
+88.-	88.-	NOUN	ROOT	88.-	O
+RIO	RIO	PROPN	appos	88.-	O
+SEGUNDO	SEGUNDO	VERB	flat	RIO	O
+
+89.-	89.-	NUM	ROOT	89.-	O
+RIO	RIO	PROPN	flat	89.-	O
+TERCERO	TERCERO	ADJ	appos	89.-	O
+
+90.-	90.-	NUM	nummod	SALDAN	O
+SALDAN	SALDAN	PROPN	ROOT	SALDAN	O
+
+91.-	91.-	NUM	nummod	SAMPACHO	O
+SAMPACHO	SAMPACHO	PROPN	ROOT	SAMPACHO	O
+
+92.-	92.-	NUM	ROOT	92.-	O
+SAN	SAN	PROPN	nsubj	92.-	O
+BASILIO	BASILIO	PROPN	flat	SAN	O
+
+93.-	93.-	NUM	nummod	SAN	O
+SAN	SAN	NOUN	ROOT	SAN	O
+CARLOS	CARLOS	PROPN	flat	SAN	O
+MINAS	MINAS	VERB	amod	SAN	O
+
+94.-	94.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+FRANCISCO	FRANCISCO	PROPN	flat	SAN	O
+
+95.-	95.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JAVIER	JAVIER	NOUN	flat	SAN	O
+Y	Y	CONJ	cc	YACANTO	O
+YACANTO	YACANTO	PROPN	conj	SAN	O
+
+96.-	96.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JOSE	JOSE	PROPN	flat	SAN	O
+DE	DE	ADP	case	DORMIDA	O
+LA	LA	DET	det	DORMIDA	O
+DORMIDA	DORMIDA	NOUN	flat	SAN	O
+
+97.-	97.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JUAN	JUAN	PROPN	flat	SAN	O
+DE	DE	ADP	case	TALAS	O
+LOS	LOS	DET	det	TALAS	O
+TALAS	TALAS	NOUN	nmod	SAN	O
+
+98.-	98.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+MARCOS	MARCOS	PROPN	flat	SAN	O
+SIERRAS	SIERRAS	PROPN	flat	SAN	O
+
+99.-	99.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+MARCOS	MARCOS	PROPN	flat	SAN	O
+SUD	SUD	PROPN	flat	SAN	O
+
+100.-	100.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+CATALINA	CATALINA	NOUN	appos	SANTA	O
+
+101.-	101.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	nsubj	EUFEMIA	O
+EUFEMIA	EUFEMIA	VERB	ROOT	EUFEMIA	O
+
+102.-	102.-	VERB	ROOT	102.-	O
+SANTA	SANTA	PROPN	nsubj	102.-	O
+MARIA	MARIA	NOUN	flat	SANTA	O
+DE	DE	ADP	case	PUNILLA	O
+PUNILLA	PUNILLA	NOUN	nmod	SANTA	O
+
+103.-	103.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	nsubj	ROSA	O
+ROSA	ROSA	NOUN	ROOT	ROSA	O
+DE	DE	ADP	case	CALAMUCHITA	O
+CALAMUCHITA	CALAMUCHITA	PROPN	nmod	ROSA	O
+
+104.-	104.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	nsubj	ROSA	O
+ROSA	ROSA	NOUN	ROOT	ROSA	O
+DE	DE	ADP	case	RIO	O
+RIO	RIO	PROPN	nmod	ROSA	O
+PRIMERO	PRIMERO	ADJ	flat	RIO	O
+
+105.-	105.-	NUM	nummod	SERRANO	O
+SERRANO	SERRANO	NOUN	ROOT	SERRANO	O
+
+106.-	106.-	NUM	nummod	TANCACHA	O
+TANCACHA	TANCACHA	NOUN	ROOT	TANCACHA	O
+
+107.-	107.-	PUNCT	nummod	TANTI	O
+TANTI	TANTI	NOUN	ROOT	TANTI	O
+
+108.-	108.-	NUM	nummod	TIO	O
+TIO	TIO	PROPN	ROOT	TIO	O
+PUJIO	PUJIO	VERB	amod	TIO	O
+
+109.-	109.-	NUM	nummod	UCACHA	O
+UCACHA	UCACHA	NOUN	ROOT	UCACHA	O
+
+110.-	110.-	PRON	nummod	UNQUILLO	O
+UNQUILLO	UNQUILLO	NOUN	ROOT	UNQUILLO	O
+
+111.-	111.-	NUM	nummod	VICUÑA	O
+VICUÑA	VICUÑA	PROPN	ROOT	VICUÑA	O
+MACKENNA	MACKENNA	ADJ	flat	VICUÑA	O
+
+112.-	112.-	NUM	ROOT	112.-	O
+VILLA	VILLA	AUX	nsubj	112.-	O
+ASCASUBI	ASCASUBI	NOUN	nsubj	112.-	O
+
+113.-	113.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+CARLOS	CARLOS	NOUN	flat	VILLA	O
+PAZ	PAZ	PROPN	flat	CARLOS	O
+
+114.-	114.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+CIUDAD	CIUDAD	NOUN	flat	VILLA	O
+DE	DE	ADP	case	AMERICA	O
+AMERICA	AMERICA	NOUN	nmod	VILLA	O
+
+115.-	115.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+DE	DE	ADP	case	SOTO	O
+SOTO	SOTO	PROPN	nmod	VILLA	O
+
+116.-	116.-	DET	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+DEL	DEL	ADP	case	DIQUE	O
+DIQUE	DIQUE	PROPN	nmod	VILLA	O
+
+117	117	NUM	ROOT	117	O
+.	.	PUNCT	punct	117	O
+-	-	PUNCT	punct	VILLA	O
+VILLA	VILLA	NOUN	ROOT	VILLA	O
+DEL	DEL	ADP	case	ROSARIO	O
+ROSARIO	ROSARIO	PROPN	nmod	VILLA	O
+
+118.-	118.-	NUM	nummod	VILLA	O
+VILLA	VILLA	VERB	ROOT	VILLA	O
+DEL	DEL	ADP	case	TOTORAL	O
+TOTORAL	TOTORAL	NOUN	nmod	VILLA	O
+
+119.-	119.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+DOLORES	DOLORES	NOUN	appos	VILLA	O
+
+120.-	120.-	VERB	nummod	VILLA	O
+VILLA	VILLA	ADJ	ROOT	VILLA	O
+GENERAL	GENERAL	ADJ	flat	VILLA	O
+BELGRANO	BELGRANO	VERB	flat	VILLA	O
+
+121	121	NUM	ROOT	121	O
+.	.	PUNCT	punct	121	O
+-	-	PUNCT	punct	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+GIARDINO	GIARDINO	NOUN	flat	VILLA	O
+
+122.-	122.-	PUNCT	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+HUIDOBRO	HUIDOBRO	ADJ	appos	VILLA	O
+
+123.-	123.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+RIO	RIO	PROPN	flat	VILLA	O
+ICHO	ICHO	NOUN	flat	VILLA	O
+CRUZ	CRUZ	ADJ	amod	VILLA	O
+
+124.-	124.-	SYM	ROOT	124.-	O
+VILLA	VILLA	PROPN	nsubj	124.-	O
+LAS	LAS	DET	det	ROSAS	O
+ROSAS	ROSAS	PROPN	nsubj	124.-	O
+
+125.-	125.-	NUM	nummod	VILLA	O
+VILLA	VILLA	ADJ	ROOT	VILLA	O
+MARIA	MARIA	NOUN	amod	VILLA	O
+
+126.-	126.-	NUM	nummod	VILLA	O
+VILLA	VILLA	NOUN	nsubj	TULUMBA	O
+TULUMBA	TULUMBA	ADJ	ROOT	TULUMBA	O
+
+127.-	127.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+YACANTO	YACANTO	NOUN	flat	VILLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	CORRIENTES	O
+CORRIENTES	CORRIENTES	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	ALVEAR	O
+ALVEAR	ALVEAR	NOUN	ROOT	ALVEAR	O
+
+2.-	2.-	NUM	nummod	BELLA	O
+BELLA	BELLA	PROPN	ROOT	BELLA	O
+VISTA	VISTA	NOUN	amod	BELLA	O
+
+3.-	3.-	PROPN	nummod	CAA	O
+CAA	CAA	PROPN	ROOT	CAA	O
+-	-	PUNCT	punct	CATI	O
+CATI	CATI	PROPN	appos	CAA	O
+
+4.-	4.-	NUM	nummod	CORRIENTES	O
+CORRIENTES	CORRIENTES	NOUN	ROOT	CORRIENTES	O
+
+5.-	5.-	NUM	nummod	CURUZU	O
+CURUZU	CURUZU	NOUN	nsubj	CUATIA	O
+CUATIA	CUATIA	ADJ	ROOT	CUATIA	O
+
+6.-	6.-	NUM	nummod	EMPEDRADO	O
+EMPEDRADO	EMPEDRADO	NOUN	ROOT	EMPEDRADO	O
+
+7.-	7.-	NUM	nummod	ESQUINA	O
+ESQUINA	ESQUINA	NOUN	ROOT	ESQUINA	O
+
+8.-	8.-	NUM	nummod	GOBERNADOR	O
+GOBERNADOR	GOBERNADOR	NOUN	ROOT	GOBERNADOR	O
+VIRASORO	VIRASORO	PROPN	flat	GOBERNADOR	O
+
+9.-	9.-	NUM	nummod	GOYA	O
+GOYA	GOYA	NOUN	ROOT	GOYA	O
+
+10.-	10.-	NUM	nummod	ITATI	O
+ITATI	ITATI	VERB	ROOT	ITATI	O
+
+11.-	11.-	NUM	nummod	ITUZAINGO	O
+ITUZAINGO	ITUZAINGO	NOUN	ROOT	ITUZAINGO	O
+
+12.-	12.-	NUM	ROOT	12.-	O
+LA	LA	DET	det	CRUZ	O
+CRUZ	CRUZ	NOUN	nsubj	12.-	O
+
+13.-	13.-	NUM	nummod	MBURUCUYA	O
+MBURUCUYA	MBURUCUYA	NOUN	ROOT	MBURUCUYA	O
+
+14.-	14.-	NUM	nummod	MERCEDES	O
+MERCEDES	MERCEDES	NOUN	ROOT	MERCEDES	O
+
+15.-	15.-	NUM	nummod	MOCORETA	O
+MOCORETA	MOCORETA	PROPN	ROOT	MOCORETA	O
+
+16.-	16.-	NUM	nummod	MONTE	O
+MONTE	MONTE	PROPN	ROOT	MONTE	O
+CASEROS	CASEROS	NOUN	flat	MONTE	O
+
+17.-	17.-	NUM	nummod	PASO	O
+PASO	PASO	PROPN	ROOT	PASO	O
+DE	DE	ADP	case	PATRIA	O
+LA	LA	DET	det	PATRIA	O
+PATRIA	PATRIA	NOUN	nmod	PASO	O
+
+18.-	18.-	NUM	nummod	PASO	O
+PASO	PASO	NOUN	ROOT	PASO	O
+DE	DE	ADP	case	LIBRES	O
+LOS	LOS	DET	det	LIBRES	O
+LIBRES	LIBRES	PROPN	nmod	PASO	O
+
+19.-	19.-	NUM	nummod	PERUGORRIA	O
+PERUGORRIA	PERUGORRIA	NOUN	ROOT	PERUGORRIA	O
+
+20.-	20.-	NUM	nummod	SALADAS	O
+SALADAS	SALADAS	NOUN	ROOT	SALADAS	O
+
+21.-	21.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+ROQUE	ROQUE	PROPN	flat	SAN	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+SANTA	SANTA	PROPN	nsubj	22.-	O
+LUCIA	LUCIA	VERB	flat	SANTA	O
+
+23.-	23.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	nsubj	ROSA	O
+ROSA	ROSA	VERB	ROOT	ROSA	O
+
+24.-	24.-	NUM	nummod	SANTO	O
+SANTO	SANTO	NOUN	ROOT	SANTO	O
+TOME	TOME	ADJ	appos	SANTO	O
+
+25.-	25.-	NUM	nummod	SAUCE	O
+SAUCE	SAUCE	PROPN	ROOT	SAUCE	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	RIOS	O
+ENTRE	ENTRE	DET	case	RIOS	O
+RIOS	RIOS	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	PROPN	nummod	ALDEA	O
+ALDEA	ALDEA	PROPN	ROOT	ALDEA	O
+BRASILERA	BRASILERA	ADJ	amod	ALDEA	O
+
+2.-	2.-	NUM	nummod	BASAVILBASO	O
+BASAVILBASO	BASAVILBASO	ADJ	ROOT	BASAVILBASO	O
+
+3.-	3.-	NUM	nummod	CEIBAS	O
+CEIBAS	CEIBAS	NOUN	ROOT	CEIBAS	O
+
+4.-	4.-	NUM	nummod	CENTENARIO	O
+CENTENARIO	CENTENARIO	NOUN	ROOT	CENTENARIO	O
+DE	DE	ADP	case	CRESPO	O
+CRESPO	CRESPO	NOUN	flat	CENTENARIO	O
+
+5.-	5.-	NUM	nummod	CHAJARI	O
+CHAJARI	CHAJARI	PROPN	ROOT	CHAJARI	O
+
+6.-	6.-	NUM	nummod	COLON	O
+COLON	COLON	PROPN	ROOT	COLON	O
+
+7.-	7.-	NUM	nummod	CONCORDIA	O
+CONCORDIA	CONCORDIA	PROPN	ROOT	CONCORDIA	O
+
+8.-	8.-	NUM	nummod	DIAMANTE	O
+DIAMANTE	DIAMANTE	NOUN	ROOT	DIAMANTE	O
+
+9.-	9.-	NUM	nummod	DOCTOR	O
+DOCTOR	DOCTOR	NOUN	nsubj	SAIEG	O
+ANTONIO	ANTONIO	PROPN	appos	DOCTOR	O
+SAIEG	SAIEG	ADJ	ROOT	SAIEG	O
+
+10.-	10.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+CAMPOS	CAMPOS	NOUN	appos	GENERAL	O
+
+11.-	11.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+RAMIREZ	RAMIREZ	VERB	appos	GENERAL	O
+
+12.-	12.-	NUM	nummod	GOBERNADOR	O
+GOBERNADOR	GOBERNADOR	NOUN	ROOT	GOBERNADOR	O
+MACIA	MACIA	ADJ	flat	GOBERNADOR	O
+
+13.-	13.-	NUM	nummod	GUALEGUAY	O
+GUALEGUAY	GUALEGUAY	NOUN	ROOT	GUALEGUAY	O
+
+14.-	14.-	NUM	nummod	GUALEGUAYCHU	O
+GUALEGUAYCHU	GUALEGUAYCHU	NOUN	ROOT	GUALEGUAYCHU	O
+
+15.-	15.-	NUM	nsubj	IBICUY	O
+IBICUY	IBICUY	PROPN	ROOT	IBICUY	O
+
+16.-	16.-	NUM	nummod	LARROQUE	O
+LARROQUE	LARROQUE	NOUN	ROOT	LARROQUE	O
+
+17.-	17.-	NUM	nummod	MARIA	O
+MARIA	MARIA	NOUN	ROOT	MARIA	O
+GRANDE	GRANDE	ADJ	appos	MARIA	O
+
+18.-	18.-	NUM	nummod	NOGOYA	O
+NOGOYA	NOGOYA	VERB	ROOT	NOGOYA	O
+
+19.-	19.-	NUM	nummod	PARANA	O
+PARANA	PARANA	NOUN	ROOT	PARANA	O
+
+20.-	20.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JOSE	JOSE	VERB	flat	SAN	O
+
+21.-	21.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+SALVADOR	SALVADOR	NOUN	flat	SAN	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+SAN	SAN	PROPN	nsubj	22.-	O
+JOSE	JOSE	PROPN	flat	SAN	O
+DE	DE	ADP	case	FELICIANO	O
+FELICIANO	FELICIANO	NOUN	flat	SAN	O
+
+23.-	23.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+ELENA	ELENA	PROPN	amod	SANTA	O
+
+24.-	24.-	NUM	nummod	SEGUI	O
+SEGUI	SEGUI	NOUN	ROOT	SEGUI	O
+
+25.-	25.-	NUM	nummod	URDINARRAIN	O
+URDINARRAIN	URDINARRAIN	PROPN	ROOT	URDINARRAIN	O
+
+26.-	26.-	NUM	nummod	VICTORIA	O
+VICTORIA	VICTORIA	NOUN	ROOT	VICTORIA	O
+
+27.-	27.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+ELISA	ELISA	NOUN	appos	VILLA	O
+
+28.-	28.-	NOUN	nummod	VILLAGUAY	O
+VILLAGUAY	VILLAGUAY	NOUN	ROOT	VILLAGUAY	O
+
+PROVINCIA	PROVINCIA	PROPN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	FORMOSA	O
+FORMOSA	FORMOSA	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	PROPN	nsubj	FORMOSA	O
+FORMOSA	FORMOSA	VERB	ROOT	FORMOSA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	JUJUY	O
+JUJUY	JUJUY	VERB	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	MAIMARA	O
+MAIMARA	MAIMARA	NOUN	ROOT	MAIMARA	O
+
+2.-	2.-	NUM	nummod	PALPALA	O
+PALPALA	PALPALA	NOUN	ROOT	PALPALA	O
+
+3.-	3.-	PROPN	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+PEDRO	PEDRO	ADJ	flat	SAN	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	PAMPA	O
+LA	LA	DET	det	PAMPA	O
+PAMPA	PAMPA	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NOUN	nummod	BERNARDO	O
+BERNARDO	BERNARDO	NOUN	ROOT	BERNARDO	O
+LARRAUDE	LARRAUDE	NOUN	appos	BERNARDO	O
+
+2.-	2.-	NUM	nummod	CATRILO	O
+CATRILO	CATRILO	NOUN	ROOT	CATRILO	O
+
+3.-	3.-	NUM	nummod	COLONIA	O
+COLONIA	COLONIA	NOUN	ROOT	COLONIA	O
+BARON	BARON	ADJ	amod	COLONIA	O
+
+4.-	4.-	NUM	nummod	EDUARDO	O
+EDUARDO	EDUARDO	NOUN	amod	CASTEX	O
+CASTEX	CASTEX	NOUN	ROOT	CASTEX	O
+
+5.-	5.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+PICO	PICO	VERB	amod	GENERAL	O
+
+6.-	6.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+MANUEL	MANUEL	NOUN	appos	GENERAL	O
+CAMPOS	CAMPOS	ADJ	appos	GENERAL	O
+
+7.-	7.-	NUM	nummod	GUATRACHE	O
+GUATRACHE	GUATRACHE	PROPN	ROOT	GUATRACHE	O
+
+8.-	8.-	NUM	nummod	INGENIERO	O
+INGENIERO	INGENIERO	NOUN	ROOT	INGENIERO	O
+LUIGGI	LUIGGI	ADJ	flat	INGENIERO	O
+
+9.-	9.-	NUM	nummod	INTENDENTE	O
+INTENDENTE	INTENDENTE	NOUN	ROOT	INTENDENTE	O
+ALVEAR	ALVEAR	NOUN	flat	INTENDENTE	O
+
+10.-	10.-	NUM	nummod	JACINTO	O
+JACINTO	JACINTO	PROPN	ROOT	JACINTO	O
+ARAUZ	ARAUZ	VERB	flat	JACINTO	O
+
+11.-	11.-	NUM	nummod	LONQUIMAY	O
+LONQUIMAY	LONQUIMAY	VERB	ROOT	LONQUIMAY	O
+
+12.-	12.-	NUM	ROOT	12.-	O
+MACACHIN	MACACHIN	NOUN	nsubj	12.-	O
+
+13.-	13.-	NUM	nummod	QUEMU	O
+QUEMU	QUEMU	NOUN	ROOT	QUEMU	O
+-	-	PUNCT	punct	QUEMU	O
+QUEMU	QUEMU	NOUN	appos	QUEMU	O
+
+14.-	14.-	NUM	nummod	REALICO	O
+REALICO	REALICO	NOUN	ROOT	REALICO	O
+
+15.-	15.-	NUM	nummod	TOAY	O
+TOAY	TOAY	NOUN	ROOT	TOAY	O
+
+16.-	16.-	NUM	nummod	TRENEL	O
+TRENEL	TRENEL	NOUN	ROOT	TRENEL	O
+
+17.-	17.-	NUM	nummod	VICTORICA	O
+VICTORICA	VICTORICA	NOUN	ROOT	VICTORICA	O
+
+18.-	18.-	NUM	nummod	WINIFREDA	O
+WINIFREDA	WINIFREDA	NOUN	ROOT	WINIFREDA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	RIOJA	O
+LA	LA	DET	det	RIOJA	O
+RIOJA	RIOJA	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	CHILECITO	O
+CHILECITO	CHILECITO	PROPN	ROOT	CHILECITO	O
+
+2.-	2.-	NUM	nummod	CIUDAD	O
+CIUDAD	CIUDAD	NOUN	ROOT	CIUDAD	O
+DE	DE	ADP	case	RIOJA	O
+LA	LA	DET	det	RIOJA	O
+RIOJA	RIOJA	PROPN	nmod	CIUDAD	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	MENDOZA	O
+MENDOZA	MENDOZA	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NOUN	nummod	FORESTALES	O
+FORESTALES	FORESTALES	ADV	ROOT	FORESTALES	O
+
+2.-	2.-	NUM	nummod	GODOY	O
+GODOY	GODOY	NOUN	ROOT	GODOY	O
+CRUZ	CRUZ	NOUN	flat	GODOY	O
+
+3.-	3.-	PROPN	nummod	GUAYMALLEN	O
+GUAYMALLEN	GUAYMALLEN	NOUN	ROOT	GUAYMALLEN	O
+
+4.-	4.-	NUM	ROOT	4.-	O
+LAS	LAS	DET	det	HERAS	O
+HERAS	HERAS	NOUN	appos	4.-	O
+
+5.-	5.-	NUM	nummod	LAVALLE	O
+LAVALLE	LAVALLE	PROPN	ROOT	LAVALLE	O
+
+6.-	6.-	NUM	nummod	LUJAN	O
+LUJAN	LUJAN	NOUN	ROOT	LUJAN	O
+DE	DE	ADP	case	CUYO	O
+CUYO	CUYO	NOUN	nmod	LUJAN	O
+
+7.-	7.-	NUM	nummod	MAIPU	O
+MAIPU	MAIPU	NOUN	ROOT	MAIPU	O
+
+8.-	8.-	NUM	nummod	PALMIRA	O
+PALMIRA	PALMIRA	NOUN	ROOT	PALMIRA	O
+
+9.-	9.-	NUM	nummod	USPALLATA	O
+USPALLATA	USPALLATA	NOUN	ROOT	USPALLATA	O
+
+10.-	10.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+ATUEL	ATUEL	NOUN	flat	VILLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	MISIONES	O
+MISIONES	MISIONES	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	NOUN	nummod	APOSTOLES	O
+APOSTOLES	APOSTOLES	PROPN	ROOT	APOSTOLES	O
+
+2.-	2.-	NUM	nummod	ARISTOBULO	O
+ARISTOBULO	ARISTOBULO	NOUN	ROOT	ARISTOBULO	O
+DEL	DEL	ADP	case	VALLE	O
+VALLE	VALLE	PROPN	nmod	ARISTOBULO	O
+
+3.-	3.-	NUM	nummod	CANDELARIA	O
+CANDELARIA	CANDELARIA	NOUN	ROOT	CANDELARIA	O
+
+4.-	4.-	NUM	nummod	CERRO	O
+CERRO	CERRO	PROPN	amod	AZUL	O
+AZUL	AZUL	VERB	ROOT	AZUL	O
+
+5.-	5.-	NUM	nummod	DOS	O
+DOS	DOS	PROPN	ROOT	DOS	O
+DE	DE	ADP	case	MAYO-	O
+MAYO-	MAYO-	VERB	flat	DOS	O
+EL	EL	DET	det	ALCAZAR	O
+ALCAZAR	ALCAZAR	PROPN	appos	DOS	O
+
+6.-	6.-	VERB	ROOT	6.-	O
+EL	EL	DET	det	ALCAZAR	O
+ALCAZAR	ALCAZAR	PROPN	nsubj	6.-	O
+
+7.-	7.-	VERB	ROOT	7.-	O
+EL	EL	DET	det	DORADO	O
+DORADO	DORADO	NOUN	nsubj	7.-	O
+
+8.-	8.-	NUM	nummod	LEANDRO	O
+LEANDRO	LEANDRO	NOUN	ROOT	LEANDRO	O
+N.	N.	PROPN	flat	LEANDRO	O
+ALEM	ALEM	NOUN	flat	LEANDRO	O
+
+9.-	9.-	NUM	nummod	MONTECARLO	O
+MONTECARLO	MONTECARLO	NOUN	ROOT	MONTECARLO	O
+
+10.-	10.-	NUM	nummod	PUERTO	O
+PUERTO	PUERTO	NOUN	ROOT	PUERTO	O
+ESPERANZA	ESPERANZA	ADJ	appos	PUERTO	O
+
+11.-	11.-	NUM	nummod	PUERTO	O
+PUERTO	PUERTO	NOUN	ROOT	PUERTO	O
+IGUAZU	IGUAZU	NOUN	appos	PUERTO	O
+
+12.-	12.-	NUM	ROOT	12.-	O
+PUERTO	PUERTO	PROPN	nsubj	12.-	O
+LIBERTAD	LIBERTAD	ADJ	nsubj	12.-	O
+
+13.-	13.-	NUM	nummod	PUERTO	O
+PUERTO	PUERTO	NOUN	ROOT	PUERTO	O
+PIRAY	PIRAY	NOUN	amod	PUERTO	O
+
+14.-	14.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+IGNACIO	IGNACIO	VERB	flat	SAN	O
+
+15.-	15.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JAVIER	JAVIER	NOUN	flat	SAN	O
+
+16.-	16.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+PEDRO	PEDRO	NOUN	flat	SAN	O
+
+17.-	17.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+VICENTE	VICENTE	PROPN	flat	SAN	O
+
+18.-	18.-	NUM	nummod	WANDA	O
+WANDA	WANDA	PROPN	ROOT	WANDA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	NEUQUEN	O
+NEUQUEN	NEUQUEN	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	PROPN	nummod	ALUMINE	O
+ALUMINE	ALUMINE	VERB	ROOT	ALUMINE	O
+
+2.-	2.-	VERB	nummod	ANDACOLLO	O
+ANDACOLLO	ANDACOLLO	ADV	ROOT	ANDACOLLO	O
+
+3.-	3.-	NUM	nummod	CENTENARIO	O
+CENTENARIO	CENTENARIO	NOUN	ROOT	CENTENARIO	O
+
+4.-	4.-	NUM	nummod	CHOS	O
+CHOS	CHOS	PROPN	ROOT	CHOS	O
+MALAL	MALAL	VERB	flat	CHOS	O
+
+5.-	5.-	NUM	nummod	CUTRAL	O
+CUTRAL	CUTRAL	PROPN	ROOT	CUTRAL	O
+-	-	PUNCT	punct	CO	O
+CO	CO	VERB	appos	CUTRAL	O
+
+6.-	6.-	NUM	nummod	JUNIN	O
+JUNIN	JUNIN	NOUN	ROOT	JUNIN	O
+DE	DE	ADP	case	ANDES	O
+LOS	LOS	DET	det	ANDES	O
+ANDES	ANDES	NOUN	nmod	JUNIN	O
+
+7.-	7.-	NUM	ROOT	7.-	O
+LAS	LAS	DET	det	LAJAS	O
+LAJAS	LAJAS	NOUN	nsubj	7.-	O
+
+8.-	8.-	NUM	det	LONCOPUE	O
+LONCOPUE	LONCOPUE	NOUN	ROOT	LONCOPUE	O
+
+9.-	9.-	NUM	nummod	PIEDRA	O
+PIEDRA	PIEDRA	NOUN	ROOT	PIEDRA	O
+DEL	DEL	ADP	case	AGUILA	O
+AGUILA	AGUILA	NOUN	nmod	PIEDRA	O
+
+10.-	10.-	NUM	nummod	PLAZA	O
+PLAZA	PLAZA	PROPN	ROOT	PLAZA	O
+HUINCUL	HUINCUL	PROPN	amod	PLAZA	O
+
+11.-	11.-	NUM	nummod	PLOTTIER	O
+PLOTTIER	PLOTTIER	NOUN	ROOT	PLOTTIER	O
+
+12.-	12.-	NUM	nummod	RINCON	O
+RINCON	RINCON	NOUN	ROOT	RINCON	O
+DE	DE	ADP	case	SAUCES	O
+LOS	LOS	DET	det	SAUCES	O
+SAUCES	SAUCES	NOUN	nmod	RINCON	O
+
+13.-	13.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+MARTIN	MARTIN	PROPN	flat	SAN	O
+DE	DE	ADP	case	ANDES	O
+LOS	LOS	DET	det	ANDES	O
+ANDES	ANDES	NOUN	nmod	SAN	O
+
+14.-	14.-	NUM	nsubj	SENILLOSA	O
+SENILLOSA	SENILLOSA	NOUN	ROOT	SENILLOSA	O
+
+15.-	15.-	NUM	nummod	TAQUIMILAN	O
+TAQUIMILAN	TAQUIMILAN	NOUN	ROOT	TAQUIMILAN	O
+
+16.-	16.-	NUM	nummod	VILLA	O
+VILLA	VILLA	VERB	ROOT	VILLA	O
+LA	LA	DET	det	ANGOSTURA	O
+ANGOSTURA	ANGOSTURA	NOUN	appos	VILLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	RIO	O
+RIO	RIO	PROPN	nmod	PROVINCIA	O
+NEGRO	NEGRO	VERB	flat	RIO	O
+
+1.-	1.-	NUM	nummod	ALLEN	O
+ALLEN	ALLEN	PROPN	ROOT	ALLEN	O
+
+2.-	2.-	NUM	nummod	CATRIEL	O
+CATRIEL	CATRIEL	PROPN	ROOT	CATRIEL	O
+
+3.-	3.-	NUM	nummod	CERRO	O
+CERRO	CERRO	PROPN	ROOT	CERRO	O
+CAMPANARIO	CAMPANARIO	ADV	advmod	CERRO	O
+
+4.-	4.-	NUM	nummod	CERVANTES	O
+CERVANTES	CERVANTES	NOUN	ROOT	CERVANTES	O
+
+5.-	5.-	NUM	nummod	CHICHINALES	O
+CHICHINALES	CHICHINALES	NOUN	ROOT	CHICHINALES	O
+
+6.-	6.-	NUM	nummod	CHIMPAY	O
+CHIMPAY	CHIMPAY	PROPN	ROOT	CHIMPAY	O
+
+7.-	7.-	NUM	nummod	CINCO	O
+CINCO	CINCO	NUM	ROOT	CINCO	O
+SALTOS	SALTOS	NOUN	appos	CINCO	O
+
+8.-	8.-	NUM	nsubj	CIPOLETTI	O
+CIPOLETTI	CIPOLETTI	NOUN	ROOT	CIPOLETTI	O
+
+9.-	9.-	NUM	nummod	DINA	O
+DINA	DINA	NOUN	ROOT	DINA	O
+HUAPI	HUAPI	NOUN	flat	DINA	O
+
+10.-	10.-	NUM	ROOT	10.-	O
+EL	EL	DET	det	BOLSON	O
+BOLSON	BOLSON	PROPN	appos	10.-	O
+
+11.-	11.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+CONESA	CONESA	VERB	appos	GENERAL	O
+
+12.-	12.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+ENRIQUE	ENRIQUE	PROPN	appos	GENERAL	O
+GODOY	GODOY	NOUN	appos	GENERAL	O
+
+13.-	13.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+FERNANDEZ	FERNANDEZ	PROPN	appos	GENERAL	O
+ORO	ORO	ADJ	flat	GENERAL	O
+
+14.-	14.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	NOUN	ROOT	GENERAL	O
+ROCA	ROCA	NOUN	appos	GENERAL	O
+
+15.-	15.-	NUM	nummod	GUARDIA	O
+GUARDIA	GUARDIA	NOUN	ROOT	GUARDIA	O
+MITRE	MITRE	VERB	flat	GUARDIA	O
+
+16.-	16.-	NUM	nummod	INGENIERO	O
+INGENIERO	INGENIERO	NOUN	nsubj	HUERGO	O
+HUERGO	HUERGO	ADJ	ROOT	HUERGO	O
+
+17.-	17.-	NUM	nummod	INGENIERO	O
+INGENIERO	INGENIERO	PROPN	ROOT	INGENIERO	O
+JACOBACCI	JACOBACCI	PROPN	flat	INGENIERO	O
+
+18.-	18.-	NUM	nummod	LAMARQUE	O
+LAMARQUE	LAMARQUE	NOUN	ROOT	LAMARQUE	O
+
+19.-	19.-	NOUN	ROOT	19.-	O
+LAS	LAS	DET	det	GRUTAS	O
+GRUTAS	GRUTAS	NOUN	nsubj	19.-	O
+
+20.-	20.-	NUM	nummod	LUIS	O
+LUIS	LUIS	PROPN	ROOT	LUIS	O
+BELTRAN	BELTRAN	PROPN	flat	LUIS	O
+
+21.-	21.-	NUM	nummod	MAINQUE	O
+MAINQUE	MAINQUE	NOUN	ROOT	MAINQUE	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+MELIPAL	MELIPAL	NOUN	nsubj	22.-	O
+
+23.-	23.-	NUM	nummod	RINCONADA	O
+RINCONADA	RINCONADA	PROPN	ROOT	RINCONADA	O
+DEL	DEL	ADP	case	MALLIN	O
+MALLIN	MALLIN	PROPN	nmod	RINCONADA	O
+
+24.-	24.-	NUM	nummod	RIO	O
+RIO	RIO	PROPN	ROOT	RIO	O
+COLORADO	COLORADO	VERB	flat	RIO	O
+
+25.-	25.-	NUM	nummod	RUCA	O
+RUCA	RUCA	NOUN	ROOT	RUCA	O
+CURA	CURA	NOUN	amod	RUCA	O
+
+26.-	26.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+ANTONIO	ANTONIO	PROPN	flat	SAN	O
+OESTE	OESTE	NOUN	flat	SAN	O
+
+27.-	27.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+CARLOS	CARLOS	NOUN	flat	SAN	O
+DE	DE	ADP	case	BARILOCHE	O
+BARILOCHE	BARILOCHE	PROPN	nmod	SAN	O
+
+28.-	28.-	NOUN	nummod	SIERRA	O
+SIERRA	SIERRA	PROPN	ROOT	SIERRA	O
+GRANDE	GRANDE	ADJ	amod	SIERRA	O
+
+29.-	29.-	NUM	ROOT	29.-	O
+VALCHETA	VALCHETA	PROPN	appos	29.-	O
+
+30.-	30.-	NUM	nummod	VALLE	O
+VALLE	VALLE	PROPN	ROOT	VALLE	O
+MEDIO	MEDIO	NOUN	flat	VALLE	O
+
+31.-	31.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+REGINA	REGINA	ADJ	amod	VILLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	SALTA	O
+SALTA	SALTA	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	AGUARAY	O
+AGUARAY	AGUARAY	NOUN	ROOT	AGUARAY	O
+
+2.-	2.-	VERB	nummod	AGUAS	O
+AGUAS	AGUAS	PROPN	ROOT	AGUAS	O
+BLANCAS	BLANCAS	NOUN	amod	AGUAS	O
+
+3.-	3.-	NUM	nummod	COLONIA	O
+COLONIA	COLONIA	NOUN	nsubj	ROSA	O
+SANTA	SANTA	PROPN	flat	COLONIA	O
+ROSA	ROSA	VERB	ROOT	ROSA	O
+
+4.-	4.-	NUM	nummod	EMBARCACION	O
+EMBARCACION	EMBARCACION	NOUN	ROOT	EMBARCACION	O
+
+5.-	5.-	NUM	nummod	GENERAL	O
+GENERAL	GENERAL	PROPN	ROOT	GENERAL	O
+GUEMES	GUEMES	ADJ	flat	GENERAL	O
+
+6.-	6.-	NUM	nummod	MARTIN	O
+MARTIN	MARTIN	PROPN	ROOT	MARTIN	O
+MIGUEL	MIGUEL	NOUN	flat	MARTIN	O
+DE	DE	ADP	case	GUEMES	O
+GUEMES	GUEMES	NOUN	nmod	MARTIN	O
+
+7.-	7.-	NUM	nummod	ORAN	O
+ORAN	ORAN	VERB	ROOT	ORAN	O
+
+8.-	8.-	NUM	nummod	POSTA	O
+POSTA	POSTA	NOUN	ROOT	POSTA	O
+DE	DE	ADP	case	YATASTO	O
+YATASTO	YATASTO	NOUN	nmod	POSTA	O
+
+9.-	9.-	NUM	nummod	ROSARIO	O
+ROSARIO	ROSARIO	PROPN	ROOT	ROSARIO	O
+DE	DE	ADP	case	FRONTERA	O
+LA	LA	DET	det	FRONTERA	O
+FRONTERA	FRONTERA	NOUN	flat	ROSARIO	O
+
+10.-	10.-	NUM	nummod	SALVADOR	O
+SALVADOR	SALVADOR	NOUN	ROOT	SALVADOR	O
+MAZZA	MAZZA	NOUN	flat	SALVADOR	O
+
+11.-	11.-	NUM	nummod	TARTAGAL	O
+TARTAGAL	TARTAGAL	NOUN	ROOT	TARTAGAL	O
+
+12.-	12.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+ANTONIO	ANTONIO	PROPN	flat	SAN	O
+DE	DE	ADP	case	COBRES	O
+LOS	LOS	DET	det	COBRES	O
+COBRES	COBRES	NOUN	flat	SAN	O
+
+PROVINCIA	PROVINCIA	PROPN	nsubj	JUAN	O
+DE	DE	ADP	case	SAN	O
+SAN	SAN	PROPN	nmod	PROVINCIA	O
+JUAN	JUAN	PROPN	ROOT	JUAN	O
+
+1.-	1.-	NUM	nummod	CAUCETE	O
+CAUCETE	CAUCETE	NOUN	ROOT	CAUCETE	O
+
+2.-	2.-	PROPN	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JUAN	JUAN	PROPN	flat	SAN	O
+
+PROVINCIA	PROVINCIA	PROPN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	SAN	O
+SAN	SAN	PROPN	nmod	PROVINCIA	O
+LUIS	LUIS	PROPN	flat	SAN	O
+
+1.-	1.-	VERB	ROOT	1.-	O
+EL	EL	DET	det	FORTIN	O
+FORTIN	FORTIN	NOUN	nsubj	1.-	O
+
+2.-	2.-	VERB	ROOT	2.-	O
+EL	EL	DET	det	TRAPICHE	O
+TRAPICHE	TRAPICHE	PROPN	nsubj	2.-	O
+
+3.-	3.-	NUM	nummod	JUANA	O
+JUANA	JUANA	PROPN	ROOT	JUANA	O
+KOSLAY	KOSLAY	NOUN	flat	JUANA	O
+
+4.-	4.-	NUM	nummod	JUSTO	O
+JUSTO	JUSTO	NOUN	ROOT	JUSTO	O
+DARACT	DARACT	VERB	flat	JUSTO	O
+
+5.-	5.-	VERB	nummod	VOLCAN	O
+EL	EL	DET	det	VOLCAN	O
+VOLCAN	VOLCAN	PROPN	ROOT	VOLCAN	O
+
+6.-	6.-	NUM	ROOT	6.-	O
+LA	LA	DET	det	TOMA	O
+TOMA	TOMA	NOUN	nsubj	6.-	O
+
+7.-	7.-	NUM	nummod	MERLO	O
+MERLO	MERLO	VERB	ROOT	MERLO	O
+
+8.-	8.-	NUM	nummod	NASCHEL	O
+NASCHEL	NASCHEL	NOUN	ROOT	NASCHEL	O
+
+9.-	9.-	NUM	nummod	QUINES	O
+QUINES	QUINES	NOUN	ROOT	QUINES	O
+
+10.-	10.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+FRANCISCO	FRANCISCO	PROPN	flat	SAN	O
+DEL	DEL	ADP	case	MONTE	O
+MONTE	MONTE	NOUN	flat	SAN	O
+DE	DE	ADP	case	ORO	O
+ORO	ORO	NOUN	flat	SAN	O
+
+11.-	11.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+LUIS	LUIS	PROPN	flat	SAN	O
+
+12.-	12.-	NUM	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+ROSA	ROSA	NOUN	flat	SANTA	O
+DEL	DEL	ADP	case	CONLARA	O
+CONLARA	CONLARA	PROPN	nmod	SANTA	O
+
+13.-	13.-	NUM	nummod	TILISARAO	O
+TILISARAO	TILISARAO	ADJ	ROOT	TILISARAO	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	SANTA	O
+SANTA	SANTA	PROPN	nmod	PROVINCIA	O
+FE	FE	ADV	flat	SANTA	O
+
+1.-	1.-	NUM	nummod	ALCORTA	O
+ALCORTA	ALCORTA	NOUN	ROOT	ALCORTA	O
+
+2.-	2.-	PROPN	nummod	ALEJANDRA	O
+ALEJANDRA	ALEJANDRA	NOUN	ROOT	ALEJANDRA	O
+
+3.-	3.-	NUM	nummod	ALVAREZ	O
+ALVAREZ	ALVAREZ	VERB	ROOT	ALVAREZ	O
+
+4.-	4.-	NUM	nummod	AREQUITO	O
+AREQUITO	AREQUITO	NOUN	ROOT	AREQUITO	O
+
+5.-	5.-	NUM	nummod	ARMSTONG	O
+ARMSTONG	ARMSTONG	NOUN	ROOT	ARMSTONG	O
+
+6.-	6.-	DET	nummod	ARROYO	O
+ARROYO	ARROYO	NOUN	ROOT	ARROYO	O
+SECO	SECO	ADJ	flat	ARROYO	O
+
+7.-	7.-	NUM	nummod	AVELLANEDA	O
+AVELLANEDA	AVELLANEDA	NOUN	ROOT	AVELLANEDA	O
+
+8.-	8.-	NUM	det	BARRANCAS	O
+BARRANCAS	BARRANCAS	NOUN	ROOT	BARRANCAS	O
+
+9.-	9.-	NUM	nummod	BERAVEBU	O
+BERAVEBU	BERAVEBU	NOUN	ROOT	BERAVEBU	O
+
+10.-	10.-	NUM	nummod	BIGAND	O
+BIGAND	BIGAND	NOUN	ROOT	BIGAND	O
+
+11.-	11.-	NUM	nummod	BOMBAL	O
+BOMBAL	BOMBAL	PROPN	ROOT	BOMBAL	O
+
+12.-	12.-	NUM	nummod	BOUQUET	O
+BOUQUET	BOUQUET	NOUN	ROOT	BOUQUET	O
+
+13.-	13.-	NUM	nummod	BUSTINZA	O
+BUSTINZA	BUSTINZA	NOUN	ROOT	BUSTINZA	O
+
+14.-	14.-	NUM	nummod	CANADA	O
+CANADA	CANADA	PROPN	nsubj	ROSQUIN	O
+ROSQUIN	ROSQUIN	PROPN	ROOT	ROSQUIN	O
+
+15.-	15.-	NUM	nmod	CAPITAN	O
+CAPITAN	CAPITAN	PROPN	ROOT	CAPITAN	O
+BERMUDEZ	BERMUDEZ	PROPN	flat	CAPITAN	O
+
+16.-	16.-	NUM	nummod	CARCARAÑA	O
+CARCARAÑA	CARCARAÑA	PROPN	ROOT	CARCARAÑA	O
+
+17.-	17.-	NUM	nummod	CARLOS	O
+CARLOS	CARLOS	NOUN	ROOT	CARLOS	O
+PELLEGRINI	PELLEGRINI	PROPN	amod	CARLOS	O
+
+18.-	18.-	NUM	nummod	CARRERAS	O
+CARRERAS	CARRERAS	PROPN	ROOT	CARRERAS	O
+
+19.-	19.-	NUM	nummod	CASILDA	O
+CASILDA	CASILDA	NOUN	ROOT	CASILDA	O
+
+20.-	20.-	NOUN	nummod	CENTENO	O
+CENTENO	CENTENO	PROPN	ROOT	CENTENO	O
+
+21.-	21.-	NUM	nummod	CERES	O
+CERES	CERES	PROPN	ROOT	CERES	O
+
+22.-	22.-	NUM	ROOT	22.-	O
+CHABAS	CHABAS	NOUN	nsubj	22.-	O
+
+23.-	23.-	NUM	nummod	CHANAR	O
+CHANAR	CHANAR	NOUN	ROOT	CHANAR	O
+LADEADO	LADEADO	ADJ	amod	CHANAR	O
+
+24.-	24.-	NUM	nummod	CHOVET	O
+CHOVET	CHOVET	NOUN	ROOT	CHOVET	O
+
+25.-	25.-	NUM	nmod	CIUDAD	O
+CIUDAD	CIUDAD	NOUN	nsubj	PEREZ	O
+PEREZ	PEREZ	NOUN	ROOT	PEREZ	O
+
+26.-	26.-	NOUN	nummod	CORONDA	O
+CORONDA	CORONDA	PROPN	ROOT	CORONDA	O
+
+27.-	27.-	NUM	nummod	CORREA	O
+CORREA	CORREA	NOUN	ROOT	CORREA	O
+
+28.-	28.-	NOUN	ROOT	28.-	O
+EL	EL	DET	det	TREBOL	O
+TREBOL	TREBOL	NOUN	nsubj	28.-	O
+
+29.-	29.-	NUM	nummod	ELORTONDO	O
+ELORTONDO	ELORTONDO	PROPN	ROOT	ELORTONDO	O
+
+30.-	30.-	NUM	nummod	ESPERANZA	O
+ESPERANZA	ESPERANZA	PROPN	ROOT	ESPERANZA	O
+
+31.-	31.-	NUM	nummod	FELICIA	O
+FELICIA	FELICIA	PROPN	ROOT	FELICIA	O
+
+32.-	32.-	PRON	nummod	FIRMAT	O
+FIRMAT	FIRMAT	PROPN	ROOT	FIRMAT	O
+
+33.-	33.-	NUM	nummod	FRANCK	O
+FRANCK	FRANCK	NOUN	ROOT	FRANCK	O
+
+34.-	34.-	NUM	nummod	FUNES	O
+FUNES	FUNES	NOUN	ROOT	FUNES	O
+
+35.-	35.-	NUM	nummod	GALVEZ	O
+GALVEZ	GALVEZ	PROPN	ROOT	GALVEZ	O
+
+36.-	36.-	NUM	nummod	GRANADERO	O
+GRANADERO	GRANADERO	NOUN	ROOT	GRANADERO	O
+BAIGORRIA	BAIGORRIA	NOUN	flat	GRANADERO	O
+
+37.-	37.-	NUM	nummod	GUARDIA	O
+GUARDIA	GUARDIA	PROPN	ROOT	GUARDIA	O
+DE	DE	ADP	case	ESQUINA	O
+LA	LA	DET	det	ESQUINA	O
+ESQUINA	ESQUINA	NOUN	flat	GUARDIA	O
+
+38.-	38.-	NUM	nsubj	HUGHES	O
+HUGHES	HUGHES	PROPN	ROOT	HUGHES	O
+
+39.-	39.-	NUM	ROOT	39.-	O
+HUMBERTO	HUMBERTO	PROPN	appos	39.-	O
+1	1	NUM	nummod	°	O
+°	°	NOUN	appos	39.-	O
+
+40.-	40.-	NUM	nummod	HUMBOLT	O
+HUMBOLT	HUMBOLT	ADV	ROOT	HUMBOLT	O
+
+41.-	41.-	NUM	nummod	JUNCAL	O
+JUNCAL	JUNCAL	PROPN	ROOT	JUNCAL	O
+
+42.-	42.-	NUM	nummod	LABORDEBOY	O
+LABORDEBOY	LABORDEBOY	NOUN	ROOT	LABORDEBOY	O
+
+43.-	43.-	NUM	nummod	LAGUNA	O
+LAGUNA	LAGUNA	NOUN	ROOT	LAGUNA	O
+PAIVA	PAIVA	ADJ	amod	LAGUNA	O
+
+44.-	44.-	NUM	ROOT	44.-	O
+LAS	LAS	DET	det	FLORES	O
+FLORES	FLORES	NOUN	nsubj	44.-	O
+
+45.-	45.-	NUM	nummod	PAREJAS	O
+LAS	LAS	DET	det	PAREJAS	O
+PAREJAS	PAREJAS	PROPN	ROOT	PAREJAS	O
+
+46.-	46.-	NUM	ROOT	46.-	O
+LAS	LAS	DET	det	ROSAS	O
+ROSAS	ROSAS	PROPN	nsubj	46.-	O
+
+47.-	47.-	NUM	ROOT	47.-	O
+LAS	LAS	DET	det	TOSCAS	O
+TOSCAS	TOSCAS	PROPN	nsubj	47.-	O
+
+48.-	48.-	NUM	ROOT	48.-	O
+LOS	LOS	DET	det	CARDOS	O
+CARDOS	CARDOS	NOUN	appos	48.-	O
+
+49.-	49.-	NUM	nummod	QUIRQUINCHOS	O
+LOS	LOS	DET	det	QUIRQUINCHOS	O
+QUIRQUINCHOS	QUIRQUINCHOS	NOUN	ROOT	QUIRQUINCHOS	O
+
+50.-	50.-	NUM	nummod	MALABRIGO	O
+MALABRIGO	MALABRIGO	PROPN	ROOT	MALABRIGO	O
+
+51.-	51.-	NUM	nummod	MARIA	O
+MARIA	MARIA	NOUN	ROOT	MARIA	O
+JUANA	JUANA	PROPN	appos	MARIA	O
+
+52.-	52.-	NUM	ROOT	52.-	O
+MARIA	MARIA	NOUN	amod	SUSANA	O
+SUSANA	SUSANA	NOUN	nsubj	52.-	O
+
+53.-	53.-	NUM	nummod	MARIA	O
+MARIA	MARIA	NOUN	ROOT	MARIA	O
+TERESA	TERESA	VERB	flat	MARIA	O
+
+54.-	54.-	NUM	nummod	MAXIMO	O
+MAXIMO	MAXIMO	PROPN	ROOT	MAXIMO	O
+PAZ	PAZ	PROPN	flat	MAXIMO	O
+
+55.-	55.-	NUM	nummod	MELINCUE	O
+MELINCUE	MELINCUE	NOUN	ROOT	MELINCUE	O
+
+56.-	56.-	NUM	nummod	MONTES	O
+MONTES	MONTES	NOUN	ROOT	MONTES	O
+DE	DE	ADP	case	OCA	O
+OCA	OCA	PROPN	nmod	MONTES	O
+
+57.-	57.-	NUM	nummod	MURPHY	O
+MURPHY	MURPHY	PROPN	ROOT	MURPHY	O
+
+58.-	58.-	NUM	nummod	PAVON	O
+PAVON	PAVON	NOUN	ROOT	PAVON	O
+
+59.-	59.-	NUM	nummod	PAVON	O
+PAVON	PAVON	NOUN	ROOT	PAVON	O
+ARRIBA	ARRIBA	ADV	amod	PAVON	O
+
+60.-	60.-	NOUN	nummod	PEYRANO	O
+PEYRANO	PEYRANO	PROPN	ROOT	PEYRANO	O
+
+61.-	61.-	NUM	nummod	PIAMONTE	O
+PIAMONTE	PIAMONTE	PROPN	ROOT	PIAMONTE	O
+
+62.-	62.-	VERB	nummod	PILAR	O
+PILAR	PILAR	PROPN	ROOT	PILAR	O
+
+63.-	63.-	NUM	nummod	RECONQUISTA	O
+RECONQUISTA	RECONQUISTA	ADV	ROOT	RECONQUISTA	O
+
+64.-	64.-	NUM	nummod	ROLDAN	O
+ROLDAN	ROLDAN	NOUN	ROOT	ROLDAN	O
+
+65.-	65.-	NUM	nummod	ROMANG	O
+ROMANG	ROMANG	PROPN	ROOT	ROMANG	O
+
+66	66	NUM	ROOT	66	O
+-	-	PUNCT	punct	ROSARIO	O
+ROSARIO	ROSARIO	PROPN	appos	66	O
+
+67.-	67.-	NUM	nummod	RUFINO	O
+RUFINO	RUFINO	NOUN	ROOT	RUFINO	O
+
+68.-	68.-	NUM	det	SA	O
+SA	SA	PROPN	ROOT	SA	O
+PEREIRA	PEREIRA	PROPN	flat	SA	O
+
+69.-	69.-	NUM	nummod	SALTO	O
+SALTO	SALTO	VERB	ROOT	SALTO	O
+GRANDE	GRANDE	ADJ	amod	SALTO	O
+
+70.-	70.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+CARLOS	CARLOS	PROPN	flat	SAN	O
+CENTRO	CENTRO	VERB	flat	SAN	O
+
+71.-	71.-	NOUN	ROOT	71.-	O
+SAN	SAN	PROPN	appos	71.-	O
+CRISTOBAL	CRISTOBAL	NOUN	flat	SAN	O
+
+72.-	72.-	NUM	ROOT	72.-	O
+SAN	SAN	PROPN	nsubj	72.-	O
+GREGORIO	GREGORIO	NOUN	flat	SAN	O
+
+73.-	73.-	NUM	ROOT	73.-	O
+SAN	SAN	PROPN	appos	73.-	O
+GENARO	GENARO	PROPN	appos	73.-	O
+NORTE	NORTE	ADJ	appos	73.-	O
+
+74.-	74.-	DET	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+GERONIMO	GERONIMO	NOUN	flat	SAN	O
+DEL	DEL	ADP	case	NORTE	O
+NORTE	NORTE	PROPN	flat	SAN	O
+
+75.-	75.-	NUM	nmod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+GUILLERMO	GUILLERMO	NOUN	flat	SAN	O
+
+76.-	76.-	PROPN	ROOT	76.-	O
+SAN	SAN	PROPN	appos	76.-	O
+JAVIER	JAVIER	NOUN	flat	SAN	O
+
+77.-	77.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+JORGE	JORGE	PROPN	flat	SAN	O
+
+78.-	78.-	NUM	ROOT	78.-	O
+SAN	SAN	PROPN	appos	78.-	O
+JUSTO	JUSTO	ADJ	flat	SAN	O
+
+79.-	79.-	NUM	ROOT	79.-	O
+SAN	SAN	PROPN	appos	79.-	O
+VICENTE	VICENTE	PROPN	flat	SAN	O
+
+80.-	80.-	NUM	nummod	SANCTI	O
+SANCTI	SANCTI	NOUN	ROOT	SANCTI	O
+SPIRITU	SPIRITU	NOUN	appos	SANCTI	O
+
+81.-	81.-	NOUN	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+ISABEL	ISABEL	PROPN	flat	SANTA	O
+
+82.-	82.-	NOUN	nummod	SANTA	O
+SANTA	SANTA	PROPN	ROOT	SANTA	O
+TERESA	TERESA	VERB	appos	SANTA	O
+
+83.-	83.-	NUM	nummod	SASTRE	O
+SASTRE	SASTRE	PROPN	ROOT	SASTRE	O
+ORTIZ	ORTIZ	PROPN	appos	SASTRE	O
+
+84.-	84.-	NUM	det	SUARDI	O
+SUARDI	SUARDI	NOUN	ROOT	SUARDI	O
+
+85.-	85.-	NUM	nummod	SUNCHALES	O
+SUNCHALES	SUNCHALES	NOUN	ROOT	SUNCHALES	O
+
+86.-	86.-	NUM	nummod	TEODELINA	O
+TEODELINA	TEODELINA	ADJ	ROOT	TEODELINA	O
+
+87.-	87.-	NUM	nummod	TORTUGAS	O
+TORTUGAS	TORTUGAS	NOUN	ROOT	TORTUGAS	O
+
+88.-	88.-	NOUN	nummod	TOSTADO	O
+TOSTADO	TOSTADO	ADJ	ROOT	TOSTADO	O
+
+89.-	89.-	NUM	nummod	TOTORAS	O
+TOTORAS	TOTORAS	NOUN	ROOT	TOTORAS	O
+
+90.-	90.-	NUM	advmod	VENADO	O
+VENADO	VENADO	ADJ	ROOT	VENADO	O
+TUERTO	TUERTO	ADJ	obj	VENADO	O
+
+91.-	91.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+CANAS	CANAS	PROPN	amod	VILLA	O
+
+92.-	92.-	NUM	ROOT	92.-	O
+VILLA	VILLA	PROPN	nsubj	92.-	O
+CONSTITUCION	CONSTITUCION	ADJ	flat	VILLA	O
+
+93.-	93.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	nsubj	ELOISA	O
+ELOISA	ELOISA	PROPN	ROOT	ELOISA	O
+
+94.-	94.-	NUM	nummod	VILLA	O
+VILLA	VILLA	ADJ	ROOT	VILLA	O
+GOBERNADOR	GOBERNADOR	NOUN	appos	VILLA	O
+GALVEZ	GALVEZ	NOUN	appos	VILLA	O
+
+95.-	95.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+MINETTI	MINETTI	NOUN	flat	VILLA	O
+
+96.-	96.-	NUM	nummod	VILLA	O
+VILLA	VILLA	PROPN	ROOT	VILLA	O
+MUGUETA	MUGUETA	ADJ	appos	VILLA	O
+
+97.-	97.-	NUM	nummod	VILLA	O
+VILLA	VILLA	AUX	ROOT	VILLA	O
+OCAMPO	OCAMPO	PROPN	appos	VILLA	O
+
+98.-	98.-	NUM	nummod	WHEELWRIGHT	O
+WHEELWRIGHT	WHEELWRIGHT	NOUN	ROOT	WHEELWRIGHT	O
+
+99.-	99.-	NUM	nummod	ZAVALLA	O
+ZAVALLA	ZAVALLA	PROPN	ROOT	ZAVALLA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	SANTIAGO	O
+SANTIAGO	SANTIAGO	PROPN	nmod	PROVINCIA	O
+DEL	DEL	ADP	case	ESTERO	O
+ESTERO	ESTERO	NOUN	nmod	PROVINCIA	O
+
+1	1	NUM	ROOT	1	O
+.	.	PUNCT	punct	1	O
+-	-	PUNCT	punct	AÑATUYA	O
+AÑATUYA	AÑATUYA	VERB	ROOT	AÑATUYA	O
+
+2.-	2.-	NUM	nummod	FRIAS	O
+FRIAS	FRIAS	PROPN	ROOT	FRIAS	O
+
+3	3	NUM	ROOT	3	O
+.	.	PUNCT	punct	3	O
+-	-	PUNCT	punct	BANDA	O
+LA	LA	DET	det	BANDA	O
+BANDA	BANDA	NOUN	ROOT	BANDA	O
+
+4	4	NUM	ROOT	4	O
+.	.	PUNCT	punct	4	O
+-	-	PUNCT	punct	SANTIAGO	O
+SANTIAGO	SANTIAGO	NOUN	ROOT	SANTIAGO	O
+DEL	DEL	ADP	case	ESTERO	O
+ESTERO	ESTERO	NOUN	flat	SANTIAGO	O
+
+5	5	NUM	ROOT	5	O
+.	.	PUNCT	punct	5	O
+-	-	PUNCT	punct	TERMAS	O
+TERMAS	TERMAS	NOUN	nsubj	HONDO	O
+DE	DE	ADP	case	RIO	O
+RIO	RIO	PROPN	flat	TERMAS	O
+HONDO	HONDO	ADJ	ROOT	HONDO	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	TIERRA	O
+TIERRA	TIERRA	PROPN	nmod	PROVINCIA	O
+DEL	DEL	ADP	case	FUEGO	O
+FUEGO	FUEGO	PROPN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	RIO	O
+RIO	RIO	PROPN	ROOT	RIO	O
+GRANDE	GRANDE	ADJ	flat	RIO	O
+
+2.-	2.-	NUM	nummod	UNIDOS	O
+UNIDOS	UNIDOS	PROPN	ROOT	UNIDOS	O
+POR	POR	ADP	case	SIEMPRE	O
+SIEMPRE	SIEMPRE	NOUN	nmod	UNIDOS	O
+
+3.-	3.-	NUM	nummod	USHUAIA	O
+USHUAIA	USHUAIA	NOUN	ROOT	USHUAIA	O
+
+4.-	4.-	NUM	nummod	ZONA	O
+ZONA	ZONA	PROPN	ROOT	ZONA	O
+NORTE	NORTE	ADJ	flat	ZONA	O
+
+PROVINCIA	PROVINCIA	NOUN	ROOT	PROVINCIA	O
+DE	DE	ADP	case	TUCUMAN	O
+TUCUMAN	TUCUMAN	NOUN	nmod	PROVINCIA	O
+
+1.-	1.-	NUM	nummod	AGUILARES	O
+AGUILARES	AGUILARES	NOUN	ROOT	AGUILARES	O
+
+2.-	2.-	VERB	nummod	ALDERTES	O
+ALDERTES	ALDERTES	NOUN	ROOT	ALDERTES	O
+
+3.-	3.-	NUM	nummod	INGENIO	O
+INGENIO	INGENIO	ADJ	ROOT	INGENIO	O
+LA	LA	DET	det	FLORIDA	O
+FLORIDA	FLORIDA	PROPN	appos	INGENIO	O
+
+4.-	4.-	NUM	nummod	JUAN	O
+JUAN	JUAN	PROPN	ROOT	JUAN	O
+BAUTISTA	BAUTISTA	PROPN	flat	JUAN	O
+ALBERDI	ALBERDI	VERB	flat	JUAN	O
+
+5.-	5.-	NUM	nummod	MONTEROS	O
+MONTEROS	MONTEROS	NOUN	ROOT	MONTEROS	O
+
+6.-	6.-	NUM	nummod	SAN	O
+SAN	SAN	PROPN	ROOT	SAN	O
+ISIDRO	ISIDRO	NOUN	flat	SAN	O
+LABRADOR	LABRADOR	NOUN	flat	SAN	O
+
+7.-	7.-	NUM	nummod	TAFI	O
+TAFI	TAFI	PROPN	nsubj	VIEJO	O
+VIEJO	VIEJO	VERB	ROOT	VIEJO	O
+
+

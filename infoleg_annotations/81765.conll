@@ -1,0 +1,637 @@
+(	(	PUNCT	punct	Nota	O
+Nota	Nota	PROPN	ROOT	Nota	O
+Infoleg	Infoleg	PROPN	flat	Nota	O
+:	:	PUNCT	punct	Norma	O
+Norma	Norma	PROPN	flat	Nota	O
+abrogada	abrogar	ADJ	amod	Norma	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obj	abrogada	O
+.	.	PUNCT	punct	Nota	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+General	General	PROPN	flat	Resolución	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+1585/2003	1585/2003	NUM	nummod	B.O.	Resolución
+B.O.	B.O.	PROPN	appos	°	O
+30/10/2003	30/10/2003	NUM	nummod	B.O.	O
+)	)	PUNCT	punct	°	O
+.	.	PUNCT	punct	°	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Federal	Federal	PROPN	flat	Administración	O
+de	de	ADP	case	Ingresos	O
+Ingresos	Ingresos	PROPN	flat	Administración	O
+Públicos	Públicos	PROPN	flat	Ingresos	O
+
+METROLOGIA	METROLOGIA	NOUN	ROOT	METROLOGIA	O
+LEGAL	LEGAL	ADJ	amod	METROLOGIA	O
+
+Resolución	Resolución	PROPN	ROOT	Resolución	O
+General	General	PROPN	flat	Resolución	O
+1425	1425	NUM	nummod	Resolución	O
+
+Actualización	Actualización	NOUN	ROOT	Actualización	O
+de	de	ADP	case	Anexos	O
+los	lo	DET	det	Anexos	O
+Anexos	Anexos	PROPN	nmod	Actualización	O
+II	II	PROPN	flat	Anexos	O
+y	y	CONJ	cc	III	O
+III	III	PROPN	conj	Anexos	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Anexos	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Resolución	O
+268/98-AFIP	268/98-AFIP	PROPN	nummod	Resolución	O
+.	.	PUNCT	punct	Actualización	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	21/1/2003	O
+21/1/2003	21/1/2003	NUM	ROOT	21/1/2003	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nsubj	VISTO	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Resolución	O
+268	268	NUM	nummod	Resolución	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Resolución	O
+16	16	NUM	appos	Resolución	O
+de	de	ADP	case	noviembre	O
+noviembre	noviembre	NOUN	compound	16	O
+de	de	ADP	case	1998	O
+1998	1998	NUM	compound	16	O
+de	de	ADP	case	ADMINISTRACION	O
+la	lo	DET	det	ADMINISTRACION	O
+ADMINISTRACION	ADMINISTRACION	PROPN	flat	Resolución	O
+FEDERAL	FEDERAL	PROPN	flat	ADMINISTRACION	O
+DE	DE	ADP	case	INGRESOS	O
+INGRESOS	INGRESOS	PROPN	flat	Resolución	O
+PUBLICOS	PUBLICOS	PROPN	flat	Resolución	O
+,	,	PUNCT	punct	reglamenta	O
+la	lo	DET	det	cual	O
+cual	cual	PRON	nsubj	reglamenta	O
+reglamenta	reglamentar	VERB	acl	Resolución	O
+en	en	ADP	case	Sede	O
+Sede	Sede	PROPN	obl	reglamenta	O
+Aduanera	Aduanera	PROPN	flat	Sede	O
+los	lo	DET	det	términos	O
+términos	término	NOUN	obj	reglamenta	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	términos	O
+19.511	19.511	NUM	nummod	Ley	O
+,	,	PUNCT	punct	relativa	O
+relativa	relativo	ADJ	amod	términos	O
+a	a	ADP	case	graduación	O
+la	lo	DET	det	graduación	O
+graduación	graduación	NOUN	nmod	relativa	O
+de	de	ADP	case	instrumentos	O
+instrumentos	instrumento	NOUN	nmod	graduación	O
+de	de	ADP	case	medición	O
+medición	medición	NOUN	nmod	instrumentos	O
+en	en	ADP	case	unidades	O
+unidades	unidad	NOUN	nmod	instrumentos	O
+pertenecientes	perteneciente	ADJ	amod	unidades	O
+al	al	ADP	case	SI.ME.L.A.	O
+SI.ME.L.A.	SI.ME.L.A.	PROPN	nmod	pertenecientes	O
+(	(	PUNCT	punct	Sistema	O
+Sistema	Sistema	PROPN	appos	graduación	O
+Métrico	Métrico	PROPN	flat	Sistema	O
+Legal	Legal	PROPN	flat	Sistema	O
+Argentino	Argentino	PROPN	flat	Sistema	O
+)	)	PUNCT	punct	Sistema	O
+,	,	PUNCT	punct	relativa	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	solicita	O
+con	con	ADP	case	nota	O
+motivo	motivar	NOUN	fixed	con	O
+de	de	ADP	fixed	con	O
+la	lo	DET	det	nota	O
+nota	noto	NOUN	obl	solicita	O
+sin	sin	ADP	case	número	O
+número	número	NOUN	nmod	nota	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	número	O
+10	10	NUM	appos	fecha	O
+de	de	ADP	case	diciembre	O
+diciembre	diciembre	NOUN	compound	10	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	10	O
+,	,	PUNCT	punct	nota	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	appos	nota	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Dirección	O
+Interior	Interior	PROPN	flat	Dirección	O
+de	de	ADP	case	Secretaría	O
+la	lo	DET	det	Secretaría	O
+Secretaría	Secretaría	PROPN	flat	Dirección	O
+de	de	ADP	case	Competencia	O
+la	lo	DET	det	Competencia	O
+Competencia	Competencia	PROPN	flat	Dirección	O
+,	,	PUNCT	punct	Desregulación	O
+Desregulación	Desregulación	PROPN	flat	Dirección	O
+y	y	CONJ	cc	Defensa	O
+Defensa	Defensa	PROPN	conj	Dirección	O
+del	del	ADP	case	Consumidor	O
+Consumidor	Consumidor	PROPN	flat	Dirección	O
+del	del	ADP	case	Ministerio	O
+Ministerio	Ministerio	PROPN	flat	Dirección	O
+de	de	ADP	case	Producción	O
+la	lo	DET	det	Producción	O
+Producción	Producción	PROPN	flat	Dirección	O
+,	,	PUNCT	punct	carácter	O
+en	en	ADP	case	carácter	O
+su	su	DET	det	carácter	O
+carácter	carácter	NOUN	obl	solicita	O
+de	de	ADP	case	autoridad	O
+autoridad	autoridad	NOUN	nmod	carácter	O
+de	de	ADP	case	aplicación	O
+aplicación	aplicación	NOUN	nmod	autoridad	O
+de	de	ADP	case	Ley	O
+la	lo	DET	det	Ley	O
+Ley	Ley	PROPN	nmod	aplicación	O
+19.511	19.511	NUM	nummod	Ley	O
+y	y	CONJ	cc	Decretos	O
+sus	su	DET	det	Decretos	O
+Decretos	Decretos	PROPN	conj	Ley	O
+reglamentarios	reglamentario	ADJ	amod	Decretos	O
+Nº	Nº	PROPN	appos	aplicación	O
+878	878	NUM	nummod	Nº	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Nº	O
+27	27	NUM	nummod	Nº	O
+de	de	ADP	case	junio	O
+junio	junio	NOUN	compound	27	O
+de	de	ADP	case	1989	O
+1989	1989	NUM	compound	27	O
+y	y	CONJ	cc	Nº	O
+Nº	Nº	PROPN	conj	Nº	O
+829	829	NUM	nummod	Nº	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Nº	O
+27	27	NUM	appos	fecha	O
+de	de	ADP	case	mayo	O
+mayo	mayar	NOUN	compound	27	O
+de	de	ADP	case	1994	O
+1994	1994	NUM	compound	27	O
+,	,	PUNCT	punct	carácter	O
+solicita	solicitar	VERB	advcl	modifiquen	O
+se	se	PRON	obj	modifiquen	O
+modifiquen	modificar	VERB	ROOT	modifiquen	O
+los	lo	DET	det	anexos	O
+anexos	anexo	NOUN	nsubj	modifiquen	O
+II	II	PROPN	appos	anexos	O
+y	y	CONJ	cc	III	O
+III	III	PROPN	conj	II	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	anexos	O
+citada	citar	ADJ	amod	Resolución	O
+en	en	ADP	case	Visto	O
+el	el	DET	det	Visto	O
+Visto	Visto	PROPN	obl	citada	O
+,	,	PUNCT	punct	corresponde	O
+por	por	ADP	mark	corresponde	O
+lo	el	DET	det	corresponde	O
+que	que	PRON	obl	corresponde	O
+corresponde	corresponder	VERB	advcl	modifiquen	O
+su	su	DET	det	adecuación	O
+adecuación	adecuación	NOUN	nsubj	corresponde	O
+.	.	PUNCT	punct	modifiquen	O
+
+Que	Que	SCONJ	advmod	tomado	O
+han	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+que	que	PRON	obj	compete	O
+les	les	PRON	obj	compete	O
+compete	competer	VERB	acl	intervención	O
+la	lo	DET	det	División	O
+División	División	PROPN	nsubj	compete	O
+Arancel	Arancel	PROPN	flat	División	O
+Informático	Informático	PROPN	flat	División	O
+,	,	PUNCT	punct	Dirección	O
+el	el	DET	det	Departamento	O
+Departamento	Departamento	PROPN	flat	División	O
+Técnica	Técnica	PROPN	flat	Departamento	O
+de	de	ADP	case	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	flat	Departamento	O
+y	y	CONJ	cc	Clasificación	O
+Clasificación	Clasificación	PROPN	conj	Departamento	O
+Arancelaria	Arancelaria	PROPN	flat	Clasificación	O
+y	y	CONJ	cc	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	conj	División	O
+de	de	ADP	case	Técnica	O
+Técnica	Técnica	PROPN	flat	Dirección	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	dicta	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	nsubj	dicta	O
+se	se	PRON	obj	dicta	O
+dicta	dictar	VERB	ROOT	dicta	O
+en	en	ADP	case	uso	O
+uso	usar	NOUN	obl	dicta	O
+de	de	ADP	case	facultades	O
+las	los	DET	det	facultades	O
+facultades	facultad	NOUN	nmod	uso	O
+conferidas	conferir	ADJ	amod	facultades	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	conferidas	O
+7º	7º	NUM	punct	artículo	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	artículo	O
+Nº	Nº	PROPN	flat	Decreto	O
+618	618	NUM	appos	artículo	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	artículo	O
+10	10	NUM	appos	fecha	O
+de	de	ADP	case	Julio	O
+Julio	Julio	PROPN	nmod	artículo	O
+de	de	ADP	case	1997	O
+1997	1997	NOUN	nmod	artículo	O
+.	.	PUNCT	punct	dicta	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+:	:	PUNCT	punct	ello	O
+
+EL	EL	DET	det	ADMINISTRADOR	O
+ADMINISTRADOR	ADMINISTRADOR	NOUN	ROOT	ADMINISTRADOR	O
+FEDERAL	FEDERAL	ADJ	amod	ADMINISTRADOR	O
+DE	DE	ADP	case	ADMINISTRACION	O
+LA	LA	DET	det	ADMINISTRACION	O
+ADMINISTRACION	ADMINISTRACION	NOUN	nmod	ADMINISTRADOR	O
+FEDERAL	FEDERAL	PROPN	flat	ADMINISTRACION	O
+DE	DE	ADP	case	INGRESOS	O
+INGRESOS	INGRESOS	PROPN	nmod	ADMINISTRADOR	O
+PUBLICOS	PUBLICOS	PROPN	amod	ADMINISTRADOR	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	NOUN	ROOT	Artículo	O
+1º	1º	NUM	nummod	Artículo	O
+—	—	PROPN	flat	Artículo	O
+Aprobar	Aprobar	PROPN	flat	—	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	flat	—	O
+II	II	PROPN	flat	Anexo	O
+"	"	PUNCT	punct	A	O
+A	A	ADP	appos	Artículo	O
+"	"	PUNCT	punct	A	O
+que	que	PRON	nsubj	forma	O
+forma	formar	VERB	acl	Artículo	O
+parte	partir	NOUN	compound	forma	O
+integrante	integrante	ADJ	advmod	forma	O
+de	de	ADP	case	presente	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	obj	forma	O
+,	,	PUNCT	punct	reemplaza	O
+el	el	DET	det	cual	O
+cual	cual	PRON	nsubj	reemplaza	O
+reemplaza	reemplazar	VERB	acl	presente	O
+al	al	ADP	case	Anexo	O
+Anexo	Anexo	PROPN	obj	reemplaza	O
+II	II	PROPN	flat	Anexo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Anexo	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Anexo	O
+268/	268/	NUM	nummod	Anexo	O
+98	98	NUM	flat	Anexo	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	Anexo	O
+)	)	PUNCT	punct	AFIP	O
+.	.	PUNCT	punct	Artículo	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2º	2º	PUNCT	punct	forma	O
+—	—	PROPN	flat	2º	O
+Aprobar	Aprobar	PROPN	flat	—	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	flat	—	O
+III	III	PROPN	flat	Anexo	O
+"	"	PUNCT	punct	A	O
+A	A	ADP	appos	—	O
+"	"	PUNCT	punct	A	O
+que	que	PRON	nsubj	forma	O
+forma	formar	VERB	ROOT	forma	O
+parte	partir	NOUN	compound	forma	O
+integrante	integrante	ADJ	advmod	forma	O
+de	de	ADP	case	presente	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	obj	forma	O
+,	,	PUNCT	punct	reemplaza	O
+el	el	DET	det	cual	O
+cual	cual	PRON	nsubj	reemplaza	O
+reemplaza	reemplazar	VERB	acl	presente	O
+al	al	ADP	case	Anexo	O
+Anexo	Anexo	PROPN	obj	reemplaza	O
+III	III	PROPN	flat	Anexo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Anexo	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Anexo	O
+268/98	268/98	PROPN	flat	Anexo	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	Anexo	O
+)	)	PUNCT	punct	AFIP	O
+.	.	PUNCT	punct	forma	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3º	3º	PUNCT	nummod	—	O
+—	—	PROPN	ROOT	—	O
+Dejar	Dejar	VERB	xcomp	—	O
+sin	sin	ADP	case	efecto	O
+efecto	efecto	NOUN	compound	—	O
+los	lo	DET	det	Anexos	O
+Anexos	Anexos	PROPN	nsubj	—	O
+II	II	PROPN	flat	Anexos	O
+y	y	CONJ	cc	III	O
+III	III	PROPN	conj	Anexos	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Anexos	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Resolución	O
+268/98	268/98	PROPN	flat	Resolución	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	Anexos	O
+)	)	PUNCT	punct	AFIP	O
+.	.	PUNCT	punct	—	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4º	4º	NUM	punct	—	O
+—	—	PROPN	ROOT	—	O
+Regístrese	Regístrese	PROPN	flat	—	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADJ	appos	—	O
+a	a	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nmod	dése	O
+NACIONAL	NACIONAL	PROPN	flat	DIRECCION	O
+DEL	DEL	ADP	case	REGISTRO	O
+REGISTRO	REGISTRO	PROPN	flat	DIRECCION	O
+OFICIAL	OFICIAL	PROPN	amod	DIRECCION	O
+para	parir	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	nmod	dése	O
+y	y	CONJ	cc	publíquese	O
+publíquese	publíquese	VERB	conj	dése	O
+en	en	ADP	case	Boletín	O
+el	el	DET	det	Boletín	O
+Boletín	Boletín	PROPN	obl	publíquese	O
+de	de	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	flat	Boletín	O
+GENERAL	GENERAL	ADJ	flat	Boletín	O
+DE	DE	ADP	case	ADUANAS	O
+ADUANAS	ADUANAS	PROPN	nmod	Boletín	O
+.	.	PUNCT	punct	—	O
+Remítase	Remítase	PROPN	ROOT	Remítase	O
+copia	copiar	NOUN	advmod	Remítase	O
+al	al	ADP	case	INSTITUTO	O
+INSTITUTO	INSTITUTO	PROPN	obj	Remítase	O
+NACIONAL	NACIONAL	PROPN	flat	INSTITUTO	O
+DE	DE	ADP	case	ESTADISTICAS	O
+ESTADISTICAS	ESTADISTICAS	PROPN	flat	INSTITUTO	O
+Y	Y	CONJ	cc	CENSO	O
+CENSO	CENSO	PROPN	conj	INSTITUTO	O
+(	(	PUNCT	punct	INDEC	O
+INDEC	INDEC	PROPN	flat	INSTITUTO	O
+)	)	PUNCT	punct	INDEC	O
+,	,	PUNCT	punct	SECRETARIA	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	obl	Remítase	O
+ADMINISTRATIVA	ADMINISTRATIVA	ADJ	amod	SECRETARIA	O
+DEL	DEL	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	SECRETARIA	O
+—Sección	—Sección	NOUN	appos	SECRETARIA	O
+Nacional	Nacional	PROPN	appos	SECRETARIA	O
+—	—	PROPN	flat	SECRETARIA	O
+,	,	PUNCT	punct	SECRETARIA	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	nmod	SECRETARIA	O
+GENERAL	GENERAL	ADJ	flat	SECRETARIA	O
+DE	DE	ADP	case	ALADI	O
+LA	LA	DET	det	ALADI	O
+ALADI	ALADI	PROPN	nmod	SECRETARIA	O
+(	(	PUNCT	punct	ROU	O
+ROU	ROU	PROPN	flat	SECRETARIA	O
+)	)	PUNCT	punct	ROU	O
+y	y	CONJ	cc	SECRETARIA	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	conj	SECRETARIA	O
+DEL	DEL	ADP	case	CONVENIO	O
+CONVENIO	CONVENIO	PROPN	nmod	SECRETARIA	O
+DE	DE	ADP	case	COOPERACION	O
+COOPERACION	COOPERACION	NOUN	nmod	SECRETARIA	O
+DE	DE	ADP	case	ASISTENCIA	O
+ASISTENCIA	ASISTENCIA	PROPN	nmod	SECRETARIA	O
+MUTUA	MUTUA	NOUN	appos	SECRETARIA	O
+ENTRE	ENTRE	ADP	case	DIRECCIONES	O
+LAS	LAS	DET	det	DIRECCIONES	O
+DIRECCIONES	DIRECCIONES	NOUN	nmod	SECRETARIA	O
+NACIONALES	NACIONALES	ADJ	amod	DIRECCIONES	O
+DE	DE	ADP	case	ADUANA	O
+ADUANA	ADUANA	NOUN	nmod	DIRECCIONES	O
+DE	DE	ADP	case	AMERICA	O
+AMERICA	AMERICA	PROPN	nmod	DIRECCIONES	O
+LATINA	LATINA	PROPN	flat	DIRECCIONES	O
+,	,	PUNCT	punct	ESPAÑA	O
+ESPAÑA	ESPAÑA	PROPN	appos	SECRETARIA	O
+Y	Y	CONJ	cc	PORTUGAL	O
+PORTUGAL	PORTUGAL	PROPN	conj	SECRETARIA	O
+.	.	PUNCT	punct	Remítase	O
+Cumplido	Cumplido	ADJ	ROOT	Cumplido	O
+,	,	PUNCT	punct	archívese	O
+archívese	archívese	VERB	advmod	Cumplido	O
+.	.	PUNCT	punct	Cumplido	O
+—	—	PROPN	ROOT	—	O
+Alberto	Alberto	PROPN	flat	—	O
+R.	R.	PROPN	flat	—	O
+Abad	Abad	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+II	II	PROPN	flat	ANEXO	O
+"	"	PUNCT	punct	ANEXO	O
+A	A	ADP	flat	ANEXO	O
+"	"	PUNCT	punct	A	O
+
+6909.90.00	6909.90.00	NOUN	ROOT	6909.90.00	O
+
+7017.10.00	7017.10.00	NUM	ROOT	7017.10.00	O
+
+7017.20.00	7017.20.00	NUM	ROOT	7017.20.00	O
+
+7017.90.00	7017.90.00	VERB	ROOT	7017.90.00	O
+
+8206.00.00	8206.00.00	VERB	ROOT	8206.00.00	O
+
+8413.19.00	8413.19.00	VERB	ROOT	8413.19.00	O
+
+9015.10.00	9015.10.00	NOUN	ROOT	9015.10.00	O
+
+9015.30.00	9015.30.00	NOUN	ROOT	9015.30.00	O
+
+9024.80.19	9024.80.19	NUM	ROOT	9024.80.19	O
+
+9024.80.20	9024.80.20	NUM	ROOT	9024.80.20	O
+
+9025.19.10	9025.19.10	NOUN	ROOT	9025.19.10	O
+
+9029.20.10	9029.20.10	NUM	ROOT	9029.20.10	O
+
+9029.20.20	9029.20.20	NUM	ROOT	9029.20.20	O
+
+–––––––––	–––––––––	NOUN	ROOT	–––––––––	O
+
+NOTA	NOTA	ADV	ROOT	NOTA	O
+:	:	PUNCT	punct	NOTA	O
+
+EL	EL	DET	det	ORIGINAL	O
+ORIGINAL	ORIGINAL	NOUN	nsubj	APROBADO	O
+DEL	DEL	ADP	case	ANEXO	O
+ANEXO	ANEXO	PROPN	nmod	ORIGINAL	O
+II	II	PROPN	flat	ANEXO	O
+FUE	FUE	PROPN	flat	ANEXO	O
+APROBADO	APROBADO	NOUN	ROOT	APROBADO	O
+POR	POR	ADP	case	RESOLUCION	O
+RESOLUCION	RESOLUCION	PROPN	obj	APROBADO	O
+GENERAL	GENERAL	PROPN	flat	RESOLUCION	O
+Nº	Nº	CONJ	flat	RESOLUCION	O
+268/98	268/98	PROPN	flat	RESOLUCION	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	RESOLUCION	O
+)	)	PUNCT	punct	AFIP	O
+.	.	PUNCT	punct	APROBADO	O
+
+ESTA	ESTA	PRON	det	ES	O
+ES	ES	AUX	ROOT	ES	O
+LA	LA	DET	det	MODIFICACION	O
+PRIMERA	PRIMERA	ADJ	amod	MODIFICACION	O
+MODIFICACION	MODIFICACION	NOUN	appos	ES	O
+APROBADA	APROBADA	PROPN	flat	MODIFICACION	O
+POR	POR	ADP	case	RESOLUCION	O
+RESOLUCION	RESOLUCION	PROPN	nmod	ES	O
+GENERAL	GENERAL	PROPN	flat	RESOLUCION	O
+Nº	Nº	ADP	cc	1425	O
+1425	1425	NOUN	appos	ES	O
+.	.	PUNCT	punct	ES	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+III	III	PROPN	flat	ANEXO	O
+"	"	PUNCT	punct	A	O
+A	A	ADP	flat	ANEXO	O
+"	"	PUNCT	punct	A	O
+
+7017.10.00	7017.10.00	NUM	ROOT	7017.10.00	O
+
+7017.20.00	7017.20.00	NUM	ROOT	7017.20.00	O
+
+7017.90.00	7017.90.00	VERB	ROOT	7017.90.00	O
+
+8413.11.00	8413.11.00	NUM	ROOT	8413.11.00	O
+
+8423.10.00	8423.10.00	NOUN	ROOT	8423.10.00	O
+
+8423.20.00	8423.20.00	VERB	ROOT	8423.20.00	O
+
+8423.30.11	8423.30.11	NUM	ROOT	8423.30.11	O
+
+8423.30.19	8423.30.19	NUM	ROOT	8423.30.19	O
+
+8423.30.90	8423.30.90	NUM	ROOT	8423.30.90	O
+
+8423.81.10	8423.81.10	DET	ROOT	8423.81.10	O
+
+8423.81.90	8423.81.90	NUM	ROOT	8423.81.90	O
+
+8423.82.00	8423.82.00	NUM	ROOT	8423.82.00	O
+
+8423.89.00	8423.89.00	NUM	ROOT	8423.89.00	O
+
+8423.90.10	8423.90.10	NUM	ROOT	8423.90.10	O
+
+8526.10.10	8526.10.10	NUM	ROOT	8526.10.10	O
+
+9016.00.10	9016.00.10	NUM	ROOT	9016.00.10	O
+
+9016.00.90	9016.00.90	NUM	ROOT	9016.00.90	O
+
+9017.80.10	9017.80.10	NUM	ROOT	9017.80.10	O
+
+9017.80.90	9017.80.90	NOUN	ROOT	9017.80.90	O
+
+9025.11.10	9025.11.10	NUM	ROOT	9025.11.10	O
+
+9029.10.90	9029.10.90	VERB	ROOT	9029.10.90	O
+
+9031.80.11	9031.80.11	ADV	ROOT	9031.80.11	O
+
+9031.80.90	9031.80.90	NUM	ROOT	9031.80.90	O
+
+–––––––––	–––––––––	NOUN	ROOT	–––––––––	O
+
+NOTA	NOTA	ADV	ROOT	NOTA	O
+:	:	PUNCT	punct	NOTA	O
+
+EL	EL	DET	det	ORIGINAL	O
+ORIGINAL	ORIGINAL	NOUN	nsubj	APROBADO	O
+DEL	DEL	ADP	case	ANEXO	O
+ANEXO	ANEXO	PROPN	nmod	ORIGINAL	O
+III	III	PROPN	flat	ANEXO	O
+FUE	FUE	PROPN	flat	ANEXO	O
+APROBADO	APROBADO	NOUN	ROOT	APROBADO	O
+POR	POR	ADP	case	RESOLUCION	O
+RESOLUCION	RESOLUCION	PROPN	obj	APROBADO	O
+GENERAL	GENERAL	PROPN	flat	RESOLUCION	O
+Nº	Nº	CONJ	flat	RESOLUCION	O
+268/98	268/98	PROPN	flat	RESOLUCION	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	RESOLUCION	O
+)	)	PUNCT	punct	AFIP	O
+.	.	PUNCT	punct	APROBADO	O
+
+ESTA	ESTA	PRON	det	ES	O
+ES	ES	AUX	ROOT	ES	O
+LA	LA	DET	det	MODIFICACION	O
+PRIMERA	PRIMERA	ADJ	amod	MODIFICACION	O
+MODIFICACION	MODIFICACION	NOUN	appos	ES	O
+APROBADA	APROBADA	PROPN	flat	MODIFICACION	O
+POR	POR	ADP	case	RESOLUCION	O
+RESOLUCION	RESOLUCION	PROPN	nmod	ES	O
+GENERAL	GENERAL	PROPN	flat	RESOLUCION	O
+Nº	Nº	ADP	cc	1425	O
+1425	1425	NOUN	appos	ES	O
+.	.	PUNCT	punct	ES	O
+
+

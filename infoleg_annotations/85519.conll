@@ -1,0 +1,931 @@
+(	(	PUNCT	punct	Nota	O
+Nota	Nota	PROPN	ROOT	Nota	O
+Infoleg	Infoleg	PROPN	flat	Nota	O
+:	:	PUNCT	punct	Norma	O
+Norma	Norma	PROPN	flat	Nota	O
+abrogada	abrogar	ADJ	amod	Norma	O
+por	por	ADP	case	art	O
+art	artículo	NOUN	obj	abrogada	O
+.	.	PUNCT	punct	Nota	O
+4	4	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	°	Resolución
+General	General	PROPN	flat	Resolución	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+1661/2004	1661/2004	NUM	flat	Resolución	Resolución
+de	de	ADP	case	AFIP	O
+la	lo	DET	det	AFIP	O
+AFIP	AFIP	PROPN	nmod	Resolución	O
+B.O.	B.O.	PROPN	flat	Resolución	O
+26/3/2004	26/3/2004	NUM	appos	°	O
+)	)	PUNCT	punct	°	O
+.	.	PUNCT	punct	°	O
+
+Administración	Administración	PROPN	ROOT	Administración	O
+Federal	Federal	PROPN	flat	Administración	O
+de	de	ADP	case	Ingresos	O
+Ingresos	Ingresos	PROPN	flat	Administración	O
+Públicos	Públicos	PROPN	flat	Ingresos	O
+
+IMPORTACIONES	IMPORTACIONES	NOUN	ROOT	IMPORTACIONES	O
+
+Resolución	Resolución	PROPN	ROOT	Resolución	O
+General	General	PROPN	flat	Resolución	O
+1507	1507	NOUN	appos	Resolución	O
+
+Publicación	Publicación	NOUN	ROOT	Publicación	O
+de	de	ADP	case	Valores	O
+Valores	Valores	PROPN	flat	Publicación	O
+Referenciales	Referenciales	PROPN	flat	Valores	O
+de	de	ADP	case	carácter	O
+carácter	carácter	NOUN	nmod	Publicación	O
+preventivo	preventivo	ADJ	amod	carácter	O
+.	.	PUNCT	punct	Publicación	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+,	,	PUNCT	punct	19/05/2003	O
+19/05/2003	19/05/2003	NUM	ROOT	19/05/2003	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nsubj	VISTO	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Resolución	O
+1004	1004	NUM	flat	Resolución	O
+(	(	PUNCT	punct	AFIP	O
+AFIP	AFIP	PROPN	flat	Resolución	O
+)	)	PUNCT	punct	AFIP	O
+,	,	PUNCT	punct	prevé	O
+por	por	ADP	case	que	O
+la	lo	DET	det	que	O
+que	que	PRON	obl	prevé	O
+se	se	PRON	obj	prevé	O
+prevé	prever	VERB	acl	Resolución	O
+que	que	SCONJ	mark	establecerá	O
+la	lo	DET	det	ADMINISTRACION	O
+ADMINISTRACION	ADMINISTRACION	PROPN	nsubj	establecerá	O
+FEDERAL	FEDERAL	PROPN	flat	ADMINISTRACION	O
+DE	DE	ADP	case	INGRESOS	O
+INGRESOS	INGRESOS	PROPN	nmod	ADMINISTRACION	O
+PUBLICOS	PUBLICOS	PROPN	flat	INGRESOS	O
+establecerá	establecer	VERB	csubj	prevé	O
+valores	valorar	NOUN	obj	establecerá	O
+referenciales	referencial	ADJ	amod	valores	O
+,	,	PUNCT	punct	carácter	O
+de	de	ADP	case	carácter	O
+carácter	carácter	NOUN	nmod	valores	O
+precautorio	precautorio	ADJ	amod	carácter	O
+,	,	PUNCT	punct	estimados	O
+estimados	estimar	ADJ	amod	carácter	O
+por	por	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	obj	estimados	O
+GENERAL	GENERAL	ADJ	flat	DIRECCION	O
+DE	DE	ADP	case	ADUANAS	O
+ADUANAS	ADUANAS	PROPN	nmod	DIRECCION	O
+,	,	PUNCT	punct	evitar	O
+para	parir	ADP	mark	evitar	O
+evitar	evitar	VERB	advcl	establecerá	O
+daños	daño	NOUN	obj	evitar	O
+a	a	ADP	case	economía	O
+la	lo	DET	det	economía	O
+economía	economía	NOUN	nmod	daños	O
+nacional	nacional	ADJ	amod	economía	O
+y	y	CONJ	cc	resguardar	O
+resguardar	resguardar	VERB	conj	evitar	O
+el	el	DET	det	interés	O
+interés	interés	NOUN	obj	resguardar	O
+fiscal	fiscal	ADJ	amod	interés	O
+en	en	ADP	case	importación	O
+la	lo	DET	det	importación	O
+importación	importación	NOUN	obl	resguardar	O
+de	de	ADP	case	mercaderías	O
+mercaderías	mercadería	NOUN	nmod	importación	O
+,	,	PUNCT	punct	evitar	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	mark	efectuado	O
+efectuado	efectuar	VERB	advcl	corresponde	O
+el	el	DET	det	análisis	O
+análisis	análisis	NOUN	obj	efectuado	O
+pertinente	pertinente	ADJ	amod	análisis	O
+en	en	ADP	case	valores	O
+relación	relación	NOUN	fixed	en	O
+a	a	ADP	fixed	en	O
+los	lo	DET	det	valores	O
+valores	valorar	NOUN	obl	efectuado	O
+de	de	ADP	case	determinada	O
+determinada	determinar	ADJ	nmod	valores	O
+mercadería	mercadería	NOUN	amod	determinada	O
+,	,	PUNCT	punct	efectuado	O
+corresponde	corresponder	VERB	ROOT	corresponde	O
+la	lo	DET	det	publicación	O
+publicación	publicación	NOUN	nsubj	corresponde	O
+de	de	ADP	case	mismos	O
+los	lo	DET	det	mismos	O
+mismos	mismo	PRON	nmod	publicación	O
+de	de	ADP	case	previsto	O
+acuerdo	acordar	NOUN	fixed	de	O
+a	a	ADP	fixed	de	O
+lo	el	DET	det	previsto	O
+previsto	prever	ADJ	amod	publicación	O
+en	en	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obl	previsto	O
+2º	2º	NUM	appos	artículo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	artículo	O
+General	General	PROPN	flat	Resolución	O
+citada	citar	ADJ	amod	artículo	O
+en	en	ADP	case	VISTO	O
+el	el	DET	det	VISTO	O
+VISTO	VISTO	PROPN	obl	citada	O
+.	.	PUNCT	punct	corresponde	O
+
+Que	Que	SCONJ	mark	tomado	O
+ha	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+que	que	PRON	obj	compete	O
+le	le	PRON	obj	compete	O
+compete	competer	VERB	acl	intervención	O
+la	lo	DET	det	Subdirección	O
+Subdirección	Subdirección	PROPN	nsubj	compete	O
+General	General	PROPN	flat	Subdirección	O
+de	de	ADP	case	Legal	O
+Legal	Legal	PROPN	flat	Subdirección	O
+y	y	CONJ	cc	Técnica	O
+Técnica	Técnica	PROPN	conj	Subdirección	O
+Aduanera	Aduanera	PROPN	flat	Técnica	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	dicta	O
+la	lo	DET	det	presente	O
+presente	presentar	ADJ	nsubj	dicta	O
+se	se	PRON	obj	dicta	O
+dicta	dictar	VERB	ROOT	dicta	O
+en	en	ADP	case	ejercicio	O
+ejercicio	ejercicio	NOUN	obl	dicta	O
+de	de	ADP	case	facultades	O
+las	los	DET	det	facultades	O
+facultades	facultad	NOUN	nmod	ejercicio	O
+conferidas	conferir	ADJ	amod	facultades	O
+por	por	ADP	case	artículo	O
+el	el	DET	det	artículo	O
+artículo	artículo	NOUN	obj	conferidas	O
+7º	7º	NUM	punct	artículo	O
+del	del	ADP	case	Decreto	O
+Decreto	Decreto	PROPN	nmod	artículo	O
+Nº	Nº	PROPN	flat	Decreto	O
+618	618	NUM	appos	artículo	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	artículo	O
+10	10	NUM	appos	fecha	O
+de	de	ADP	case	Julio	O
+Julio	Julio	PROPN	nmod	artículo	O
+de	de	ADP	case	1997	O
+1997	1997	NOUN	nmod	artículo	O
+.	.	PUNCT	punct	dicta	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+;	;	PUNCT	punct	ello	O
+
+EL	EL	DET	det	ADMINISTRADOR	O
+ADMINISTRADOR	ADMINISTRADOR	NOUN	ROOT	ADMINISTRADOR	O
+FEDERAL	FEDERAL	ADJ	amod	ADMINISTRADOR	O
+DE	DE	ADP	case	ADMINISTRACION	O
+LA	LA	DET	det	ADMINISTRACION	O
+ADMINISTRACION	ADMINISTRACION	NOUN	nmod	ADMINISTRADOR	O
+FEDERAL	FEDERAL	PROPN	flat	ADMINISTRACION	O
+DE	DE	ADP	case	INGRESOS	O
+INGRESOS	INGRESOS	PROPN	nmod	ADMINISTRADOR	O
+PUBLICOS	PUBLICOS	PROPN	amod	ADMINISTRADOR	O
+
+RESUELVE	RESUELVE	NOUN	ROOT	RESUELVE	O
+:	:	PUNCT	punct	RESUELVE	O
+
+Artículo	Artículo	NOUN	ROOT	Artículo	O
+1º	1º	NUM	nummod	Artículo	O
+—	—	PROPN	flat	Artículo	O
+Aprobar	Aprobar	PROPN	flat	—	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	flat	Artículo	O
+I	I	CONJ	flat	Anexo	O
+–	–	PROPN	flat	Anexo	O
+LISTADO	LISTADO	ADJ	flat	Anexo	O
+DE	DE	ADP	case	MERCADERIAS	O
+MERCADERIAS	MERCADERIAS	NOUN	flat	Anexo	O
+CON	CON	ADP	case	VALORES	O
+VALORES	VALORES	PROPN	flat	Anexo	O
+PROVISORIOS	PROVISORIOS	PROPN	flat	VALORES	O
+y	y	CONJ	cc	ANEXO	O
+el	el	DET	det	ANEXO	O
+ANEXO	ANEXO	PROPN	conj	Artículo	O
+II	II	PROPN	flat	ANEXO	O
+–	–	VERB	nummod	Artículo	O
+ORIGEN	ORIGEN	NOUN	flat	Artículo	O
+DE	DE	ADP	case	MERCADERIAS	O
+LAS	LAS	DET	det	MERCADERIAS	O
+MERCADERIAS	MERCADERIAS	PROPN	nmod	Artículo	O
+–	–	NOUN	appos	Artículo	O
+de	de	ADP	case	Resolución	O
+esta	este	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nmod	Artículo	O
+General	General	PROPN	flat	Resolución	O
+.	.	PUNCT	punct	Artículo	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2º	2º	PUNCT	ROOT	2º	O
+—	—	VERB	flat	2º	O
+La	La	DET	det	Resolución	O
+presente	presentar	ADJ	amod	Resolución	O
+Resolución	Resolución	PROPN	nsubj	aplicación	O
+será	ser	AUX	cop	aplicación	O
+de	de	ADP	case	aplicación	O
+aplicación	aplicación	NOUN	ROOT	aplicación	O
+para	parir	ADP	case	solicitudes	O
+las	los	DET	det	solicitudes	O
+solicitudes	solicitud	NOUN	nmod	aplicación	O
+de	de	ADP	case	destinación	O
+destinación	destinación	NOUN	nmod	solicitudes	O
+de	de	ADP	case	importación	O
+importación	importación	NOUN	nmod	destinación	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	importación	O
+,	,	PUNCT	punct	oficialicen	O
+que	que	PRON	nsubj	oficialicen	O
+se	se	PRON	obj	oficialicen	O
+oficialicen	oficializar	VERB	acl	solicitudes	O
+a	a	ADP	case	día	O
+partir	partir	NOUN	fixed	a	O
+del	del	ADP	fixed	a	O
+día	día	NOUN	obl	oficialicen	O
+siguiente	siguiente	ADJ	amod	día	O
+de	de	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	nmod	día	O
+en	en	ADP	case	Boletín	O
+el	el	DET	det	Boletín	O
+Boletín	Boletín	PROPN	nmod	publicación	O
+Oficial	Oficial	PROPN	flat	Boletín	O
+.	.	PUNCT	punct	aplicación	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3º	3º	NUM	punct	constituirse	O
+—	—	VERB	nsubj	constituirse	O
+La	La	DET	det	garantía	O
+garantía	garantir	NOUN	nsubj	constituirse	O
+podrá	poder	AUX	aux	constituirse	O
+constituirse	constituirse	VERB	ROOT	constituirse	O
+además	además	ADV	advmod	constituirse	O
+mediante	mediante	ADP	case	seguro	O
+seguro	seguro	NOUN	obl	constituirse	O
+de	de	ADP	case	garantía	O
+garantía	garantir	NOUN	nmod	seguro	O
+,	,	PUNCT	punct	modificándose	O
+modificándose	modificándose	ADJ	conj	constituirse	O
+en	en	ADP	case	sentido	O
+tal	tal	DET	det	sentido	O
+sentido	sentir	NOUN	nmod	modificándose	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	nsubj	modificándose	O
+II	II	PROPN	flat	Anexo	O
+,	,	PUNCT	punct	Punto	O
+Punto	Punto	PROPN	flat	Anexo	O
+III	III	PROPN	flat	Punto	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Punto	O
+General	General	PROPN	flat	Resolución	O
+Nº	Nº	PROPN	flat	Punto	O
+857	857	NUM	flat	Punto	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	flat	Punto	O
+7	7	NUM	appos	fecha	O
+de	de	ADP	case	junio	O
+junio	junio	NOUN	compound	7	O
+de	de	ADP	case	2000	O
+2000	2000	NUM	compound	7	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+4º	4º	NOUN	punct	—	O
+—	—	PROPN	ROOT	—	O
+Dejar	Dejar	VERB	flat	—	O
+sin	sin	ADP	case	efecto	O
+efecto	efecto	NOUN	compound	—	O
+las	los	DET	det	Resoluciones	O
+Resoluciones	Resoluciones	PROPN	nsubj	—	O
+Generales	Generales	PROPN	flat	Resoluciones	O
+Nº	Nº	PROPN	flat	Resoluciones	O
+1308	1308	NOUN	flat	Resoluciones	O
+del	del	ADP	case	28	O
+28	28	NUM	nummod	Resoluciones	O
+de	de	ADP	case	junio	O
+junio	junio	NOUN	compound	28	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	28	O
+y	y	CONJ	cc	1366	O
+1366	1366	NOUN	conj	28	O
+del	del	ADP	case	31	O
+31	31	NUM	nummod	Resoluciones	O
+de	de	ADP	case	octubre	O
+octubre	octubre	NOUN	compound	31	O
+de	de	ADP	case	2002	O
+2002	2002	NUM	compound	31	O
+.	.	PUNCT	punct	—	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+5º	5º	NUM	punct	—	O
+—	—	PROPN	ROOT	—	O
+Regístrese	Regístrese	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+Dése	Dése	ADV	ROOT	Dése	O
+a	a	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	obl	Dése	O
+NACIONAL	NACIONAL	PROPN	flat	DIRECCION	O
+DEL	DEL	ADP	case	REGISTRO	O
+REGISTRO	REGISTRO	PROPN	flat	DIRECCION	O
+OFICIAL	OFICIAL	PROPN	flat	DIRECCION	O
+para	parir	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	obl	Dése	O
+y	y	CONJ	cc	publíquese	O
+publíquese	publíquese	VERB	conj	Dése	O
+en	en	ADP	case	Boletín	O
+el	el	DET	det	Boletín	O
+Boletín	Boletín	PROPN	obl	publíquese	O
+de	de	ADP	case	DIRECCION	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	flat	Boletín	O
+GENERAL	GENERAL	ADJ	flat	Boletín	O
+DE	DE	ADP	case	ADUANAS	O
+ADUANAS	ADUANAS	PROPN	nmod	Boletín	O
+.	.	PUNCT	punct	Dése	O
+Remítase	Remítase	PROPN	ROOT	Remítase	O
+copia	copiar	NOUN	amod	Remítase	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	obj	Remítase	O
+ADMINISTRATIVA	ADMINISTRATIVA	ADJ	amod	SECRETARIA	O
+DEL	DEL	ADP	case	MERCOSUR-	O
+MERCOSUR-	MERCOSUR-	PROPN	nmod	SECRETARIA	O
+Sección	Sección	PROPN	flat	MERCOSUR-	O
+Nacional-	Nacional-	PROPN	flat	Sección	O
+,	,	PUNCT	punct	SECRETARIA	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	obl	Remítase	O
+ADMINISTRATIVA	ADMINISTRATIVA	ADJ	amod	SECRETARIA	O
+DE	DE	ADP	case	ALADI	O
+LA	LA	DET	det	ALADI	O
+ALADI	ALADI	PROPN	nmod	SECRETARIA	O
+(	(	PUNCT	punct	MONTEVIDEO	O
+MONTEVIDEO	MONTEVIDEO	PROPN	flat	SECRETARIA	O
+ROU	ROU	PROPN	flat	MONTEVIDEO	O
+)	)	PUNCT	punct	MONTEVIDEO	O
+,	,	PUNCT	punct	SECRETARIA	O
+a	a	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	obl	Remítase	O
+DE	DE	ADP	case	CONVENIO	O
+CONVENIO	CONVENIO	ADJ	flat	SECRETARIA	O
+MULTILATERAL	MULTILATERAL	NOUN	appos	SECRETARIA	O
+SOBRE	SOBRE	ADP	case	COOPERACION	O
+COOPERACION	COOPERACION	PROPN	nmod	SECRETARIA	O
+Y	Y	CONJ	cc	ASISTENCIA	O
+ASISTENCIA	ASISTENCIA	PROPN	conj	COOPERACION	O
+MUTUA	MUTUA	NOUN	flat	SECRETARIA	O
+ENTRE	ENTRE	ADP	case	DIRECCIONES	O
+LAS	LAS	DET	det	DIRECCIONES	O
+DIRECCIONES	DIRECCIONES	NOUN	nmod	SECRETARIA	O
+DE	DE	ADP	case	ADUANAS	O
+ADUANAS	ADUANAS	NOUN	nmod	DIRECCIONES	O
+DE	DE	ADP	case	AMERICA	O
+AMERICA	AMERICA	PROPN	nmod	DIRECCIONES	O
+LATINA	LATINA	PROPN	flat	AMERICA	O
+,	,	PUNCT	punct	ESPAÑA	O
+ESPAÑA	ESPAÑA	PROPN	appos	SECRETARIA	O
+Y	Y	CONJ	cc	PORTUGAL	O
+PORTUGAL	PORTUGAL	PROPN	conj	SECRETARIA	O
+(	(	PUNCT	punct	MEXICO	O
+MEXICO	MEXICO	PROPN	flat	SECRETARIA	O
+DF	DF	PROPN	flat	MEXICO	O
+)	)	PUNCT	punct	MEXICO	O
+.	.	PUNCT	punct	Remítase	O
+Cumplido	Cumplido	ADJ	ROOT	Cumplido	O
+archívese	archívese	ADV	advmod	Cumplido	O
+.	.	PUNCT	punct	Cumplido	O
+—	—	PROPN	ROOT	—	O
+Alberto	Alberto	PROPN	flat	—	O
+R.	R.	PROPN	flat	—	O
+Abad	Abad	PROPN	flat	—	O
+.	.	PUNCT	punct	—	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+I	I	CONJ	flat	ANEXO	O
+
+LISTADO	LISTADO	ADJ	ROOT	LISTADO	O
+DE	DE	ADP	case	MERCADERIAS	O
+MERCADERIAS	MERCADERIAS	NOUN	obl	LISTADO	O
+CON	CON	ADP	case	VALORES	O
+VALORES	VALORES	NOUN	obl	LISTADO	O
+REFERENCIALES	REFERENCIALES	ADJ	flat	VALORES	O
+
+P.A.NCM	P.A.NCM	PROPN	ROOT	P.A.NCM	O
+P.A.	P.A.	PROPN	nsubj	P.A.NCM	O
+NCM	NCM	PROPN	flat	P.A.	O
+desde	desde	ADP	case	0401.10.10	O
+0401.10.10	0401.10.10	NUM	obl	P.A.NCM	O
+hasta	hasta	ADP	case	Ver	O
+5209.22.00	5209.22.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	obl	P.A.NCM	O
+desde	desde	ADP	case	5209.31.00	O
+5209.31.00	5209.31.00	NUM	advmod	P.A.NCM	O
+hasta	hasta	ADP	case	Ver	O
+5210.31.00	5210.31.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	nmod	P.A.NCM	O
+desde	desde	ADP	case	5210.49.00	O
+5210.49.00	5210.49.00	NUM	advmod	P.A.NCM	O
+hasta	hasta	ADP	case	Ver	O
+5402.33.00	5402.33.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	obl	P.A.NCM	O
+desde	desde	ADP	case	5402.39.10	O
+5402.39.10	5402.39.10	NUM	obl	P.A.NCM	O
+hasta	hasta	ADP	case	5407.54.00	O
+5407.54.00	5407.54.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	nsubj	P.A.NCM	O
+P.A.	P.A.	PROPN	flat	Ver	O
+NCM	NCM	PROPN	flat	P.A.	O
+5407.61.00	5407.61.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	flat	Ver	O
+desde	desde	ADP	case	5407.69.00	O
+5407.69.00	5407.69.00	NUM	advmod	P.A.NCM	O
+hasta	hasta	ADP	case	5513.11.00	O
+5513.11.00	5513.11.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	appos	P.A.NCM	O
+desde	desde	ADP	case	5513.12.00	O
+5513.12.00	5513.12.00	NUM	advmod	P.A.NCM	O
+hasta	hasta	ADP	case	5515.11.00	O
+5515.11.00	5515.11.00	NUM	nummod	Ver	O
+Ver	Ver	PROPN	appos	P.A.NCM	O
+desde	desde	ADP	case	5515.13.00	O
+5515.13.00	5515.13.00	NUM	advmod	P.A.NCM	O
+hasta	hasta	ADP	case	9617.00.10	O
+9617.00.10	9617.00.10	NUM	nmod	P.A.NCM	O
+Ver	Ver	PROPN	nsubj	P.A.NCM	O
+
+ANEXO	ANEXO	PROPN	ROOT	ANEXO	O
+II	II	ADJ	flat	ANEXO	O
+
+ORIGEN	ORIGEN	NOUN	ROOT	ORIGEN	O
+DE	DE	ADP	case	MERCADERIAS	O
+LAS	LAS	DET	det	MERCADERIAS	O
+MERCADERIAS	MERCADERIAS	NOUN	nmod	ORIGEN	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+1	1	NUM	appos	GRUPO	O
+
+203	203	NUM	nummod	BRASIL	O
+BRASIL	BRASIL	PROPN	ROOT	BRASIL	O
+
+205	205	NUM	nummod	COLOMBIA	O
+COLOMBIA	COLOMBIA	NOUN	ROOT	COLOMBIA	O
+
+208	208	NUM	nummod	CHILE	O
+CHILE	CHILE	NOUN	ROOT	CHILE	O
+
+210	210	NUM	nummod	ECUADOR	O
+ECUADOR	ECUADOR	NOUN	ROOT	ECUADOR	O
+
+221	221	NUM	nummod	PARAGUAY	O
+PARAGUAY	PARAGUAY	NOUN	ROOT	PARAGUAY	O
+
+225	225	NUM	nummod	URUGUAY	O
+URUGUAY	URUGUAY	NOUN	ROOT	URUGUAY	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+2	2	NUM	appos	GRUPO	O
+
+438	438	NUM	nummod	ALEMANIA	O
+ALEMANIA	ALEMANIA	NOUN	ROOT	ALEMANIA	O
+
+406	406	NUM	nummod	BELGICA	O
+BELGICA	BELGICA	NOUN	ROOT	BELGICA	O
+
+409	409	NUM	nummod	DINAMARCA	O
+DINAMARCA	DINAMARCA	NOUN	ROOT	DINAMARCA	O
+
+410	410	NUM	nummod	ESPAÑA	O
+ESPAÑA	ESPAÑA	PROPN	ROOT	ESPAÑA	O
+
+412	412	NUM	nummod	FRANCIA	O
+FRANCIA	FRANCIA	PROPN	ROOT	FRANCIA	O
+
+423	423	NUM	nummod	HOLANDA	O
+HOLANDA	HOLANDA	NOUN	ROOT	HOLANDA	O
+
+417	417	NUM	nummod	ITALIA	O
+ITALIA	ITALIA	NOUN	ROOT	ITALIA	O
+
+320	320	NUM	nummod	JAPON	O
+JAPON	JAPON	NOUN	ROOT	JAPON	O
+
+425	425	NUM	nummod	PORTUGAL	O
+PORTUGAL	PORTUGAL	NOUN	ROOT	PORTUGAL	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+3	3	NUM	appos	GRUPO	O
+
+204	204	NUM	nummod	CANADA	O
+CANADA	CANADA	PROPN	ROOT	CANADA	O
+
+212	212	NUM	nummod	ESTADOS	O
+ESTADOS	ESTADOS	NOUN	ROOT	ESTADOS	O
+UNIDOS	UNIDOS	ADJ	flat	ESTADOS	O
+
+218	218	NUM	nummod	MEXICO	O
+MEXICO	MEXICO	NOUN	ROOT	MEXICO	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+4	4	NUM	appos	GRUPO	O
+
+308	308	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+DEMOCRATICA	DEMOCRATICA	VERB	amod	COREA	O
+
+309	309	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+REPUBLICANA	REPUBLICANA	PROPN	appos	COREA	O
+
+310	310	NUM	nummod	CHINA	O
+CHINA	CHINA	PROPN	ROOT	CHINA	O
+
+331	331	NUM	nummod	EMIRATOS	O
+EMIRATOS	EMIRATOS	NOUN	ROOT	EMIRATOS	O
+ARABES	ARABES	NOUN	appos	EMIRATOS	O
+UNIDOS	UNIDOS	ADJ	flat	ARABES	O
+
+312	312	NUM	nummod	FILIPINAS	O
+FILIPINAS	FILIPINAS	NOUN	ROOT	FILIPINAS	O
+
+341	341	NUM	nummod	HONG	O
+HONG	HONG	NOUN	ROOT	HONG	O
+KONG	KONG	PROPN	amod	HONG	O
+
+315	315	NUM	nummod	INDIA	O
+INDIA	INDIA	PROPN	ROOT	INDIA	O
+
+316	316	NUM	nummod	INDONESIA	O
+INDONESIA	INDONESIA	NOUN	ROOT	INDONESIA	O
+
+319	319	NUM	nummod	ISRAEL	O
+ISRAEL	ISRAEL	PROPN	ROOT	ISRAEL	O
+
+326	326	NUM	nummod	MALASIA	O
+MALASIA	MALASIA	NOUN	ROOT	MALASIA	O
+
+332	332	NUM	nummod	PAKISTAN	O
+PAKISTAN	PAKISTAN	PROPN	ROOT	PAKISTAN	O
+
+313	313	NUM	nummod	TAIWAN	O
+TAIWAN	TAIWAN	PROPN	ROOT	TAIWAN	O
+
+335	335	NUM	nummod	THAILANDIA	O
+THAILANDIA	THAILANDIA	NOUN	ROOT	THAILANDIA	O
+
+333	333	NUM	nummod	SINGAPUR	O
+SINGAPUR	SINGAPUR	NOUN	ROOT	SINGAPUR	O
+
+337	337	NUM	nummod	VIETNAM	O
+VIETNAM	VIETNAM	PROPN	ROOT	VIETNAM	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+5	5	NUM	appos	GRUPO	O
+
+159	159	NUM	nummod	SUDAFRICA	O
+SUDAFRICA	SUDAFRICA	PROPN	ROOT	SUDAFRICA	O
+
+411	411	NUM	nummod	FINLANDIA	O
+FINLANDIA	FINLANDIA	NOUN	ROOT	FINLANDIA	O
+
+414	414	NUM	nummod	HUNGRIA	O
+HUNGRIA	HUNGRIA	NOUN	ROOT	HUNGRIA	O
+
+422	422	NUM	nummod	NORUEGA	O
+NORUEGA	NORUEGA	PROPN	ROOT	NORUEGA	O
+
+424	424	NUM	nummod	POLONIA	O
+POLONIA	POLONIA	NOUN	ROOT	POLONIA	O
+
+426	426	NUM	nummod	REINO	O
+REINO	REINO	NOUN	ROOT	REINO	O
+UNIDO	UNIDO	PROPN	amod	REINO	O
+
+427	427	NUM	nummod	RUMANIA	O
+RUMANIA	RUMANIA	NOUN	ROOT	RUMANIA	O
+
+429	429	NUM	nummod	SUECIA	O
+SUECIA	SUECIA	NOUN	ROOT	SUECIA	O
+
+430	430	NUM	nummod	SUIZA	O
+SUIZA	SUIZA	PROPN	ROOT	SUIZA	O
+
+436	436	NUM	nummod	TURQUIA	O
+TURQUIA	TURQUIA	NOUN	ROOT	TURQUIA	O
+
+445	445	NUM	nummod	UCRANIA	O
+UCRANIA	UCRANIA	NOUN	ROOT	UCRANIA	O
+
+451	451	NUM	nummod	REPUBLICA	O
+REPUBLICA	REPUBLICA	NOUN	ROOT	REPUBLICA	O
+CHECA	CHECA	VERB	amod	REPUBLICA	O
+
+444	444	NUM	nummod	RUSIA	O
+RUSIA	RUSIA	NOUN	ROOT	RUSIA	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+6	6	NUM	appos	GRUPO	O
+
+202	202	NUM	nummod	BOLIVIA	O
+BOLIVIA	BOLIVIA	NOUN	ROOT	BOLIVIA	O
+
+222	222	NUM	nummod	PERU	O
+PERU	PERU	PROPN	ROOT	PERU	O
+
+226	226	NUM	nummod	VENEZUELA	O
+VENEZUELA	VENEZUELA	PROPN	ROOT	VENEZUELA	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+7	7	NUM	appos	GRUPO	O
+
+128	128	NUM	nummod	ISLA	O
+ISLA	ISLA	PROPN	ROOT	ISLA	O
+MAURICIO	MAURICIO	ADJ	amod	ISLA	O
+
+345	345	NUM	nummod	BANGLADESH	O
+BANGLADESH	BANGLADESH	NOUN	ROOT	BANGLADESH	O
+
+344	344	NUM	nummod	MACAO	O
+MACAO	MACAO	PROPN	ROOT	MACAO	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+8	8	NUM	appos	GRUPO	O
+
+308	308	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+DEMOCRATICA	DEMOCRATICA	VERB	amod	COREA	O
+
+309	309	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+REPUBLICANA	REPUBLICANA	PROPN	appos	COREA	O
+
+331	331	NUM	nummod	EMIRATOS	O
+EMIRATOS	EMIRATOS	NOUN	ROOT	EMIRATOS	O
+ARABES	ARABES	NOUN	appos	EMIRATOS	O
+UNIDOS	UNIDOS	ADJ	flat	ARABES	O
+
+312	312	NUM	nummod	FILIPINAS	O
+FILIPINAS	FILIPINAS	NOUN	ROOT	FILIPINAS	O
+
+341	341	NUM	nummod	HONG	O
+HONG	HONG	NOUN	ROOT	HONG	O
+KONG	KONG	PROPN	amod	HONG	O
+
+315	315	NUM	nummod	INDIA	O
+INDIA	INDIA	PROPN	ROOT	INDIA	O
+
+316	316	NUM	nummod	INDONESIA	O
+INDONESIA	INDONESIA	NOUN	ROOT	INDONESIA	O
+
+319	319	NUM	nummod	ISRAEL	O
+ISRAEL	ISRAEL	PROPN	ROOT	ISRAEL	O
+
+326	326	NUM	nummod	MALASIA	O
+MALASIA	MALASIA	NOUN	ROOT	MALASIA	O
+
+332	332	NUM	nummod	PAKISTAN	O
+PAKISTAN	PAKISTAN	PROPN	ROOT	PAKISTAN	O
+
+313	313	NUM	nummod	TAIWAN	O
+TAIWAN	TAIWAN	PROPN	ROOT	TAIWAN	O
+
+335	335	NUM	nummod	THAILANDIA	O
+THAILANDIA	THAILANDIA	NOUN	ROOT	THAILANDIA	O
+
+333	333	NUM	nummod	SINGAPUR	O
+SINGAPUR	SINGAPUR	NOUN	ROOT	SINGAPUR	O
+
+337	337	NUM	nummod	VIETNAM	O
+VIETNAM	VIETNAM	PROPN	ROOT	VIETNAM	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+9	9	NUM	appos	GRUPO	O
+
+310	310	NUM	nummod	CHINA	O
+CHINA	CHINA	PROPN	ROOT	CHINA	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+10	10	NUM	appos	GRUPO	O
+
+308	308	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+DEMOCRATICA	DEMOCRATICA	VERB	amod	COREA	O
+
+310	310	NUM	nummod	CHINA	O
+CHINA	CHINA	PROPN	ROOT	CHINA	O
+
+331	331	NUM	nummod	EMIRATOS	O
+EMIRATOS	EMIRATOS	NOUN	ROOT	EMIRATOS	O
+ARABES	ARABES	NOUN	appos	EMIRATOS	O
+UNIDOS	UNIDOS	ADJ	flat	ARABES	O
+
+312	312	NUM	nummod	FILIPINAS	O
+FILIPINAS	FILIPINAS	NOUN	ROOT	FILIPINAS	O
+
+341	341	NUM	nummod	HONG	O
+HONG	HONG	NOUN	ROOT	HONG	O
+KONG	KONG	PROPN	amod	HONG	O
+
+315	315	NUM	nummod	INDIA	O
+INDIA	INDIA	PROPN	ROOT	INDIA	O
+
+316	316	NUM	nummod	INDONESIA	O
+INDONESIA	INDONESIA	NOUN	ROOT	INDONESIA	O
+
+319	319	NUM	nummod	ISRAEL	O
+ISRAEL	ISRAEL	PROPN	ROOT	ISRAEL	O
+
+326	326	NUM	nummod	MALASIA	O
+MALASIA	MALASIA	NOUN	ROOT	MALASIA	O
+
+332	332	NUM	nummod	PAKISTAN	O
+PAKISTAN	PAKISTAN	PROPN	ROOT	PAKISTAN	O
+
+335	335	NUM	nummod	THAILANDIA	O
+THAILANDIA	THAILANDIA	NOUN	ROOT	THAILANDIA	O
+
+333	333	NUM	nummod	SINGAPUR	O
+SINGAPUR	SINGAPUR	NOUN	ROOT	SINGAPUR	O
+
+337	337	NUM	nummod	VIETNAM	O
+VIETNAM	VIETNAM	PROPN	ROOT	VIETNAM	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+11	11	NUM	appos	GRUPO	O
+
+438	438	NUM	nummod	ALEMANIA	O
+ALEMANIA	ALEMANIA	NOUN	ROOT	ALEMANIA	O
+
+406	406	NUM	nummod	BELGICA	O
+BELGICA	BELGICA	NOUN	ROOT	BELGICA	O
+
+409	409	NUM	nummod	DINAMARCA	O
+DINAMARCA	DINAMARCA	NOUN	ROOT	DINAMARCA	O
+
+410	410	NUM	nummod	ESPAÑA	O
+ESPAÑA	ESPAÑA	PROPN	ROOT	ESPAÑA	O
+
+412	412	NUM	nummod	FRANCIA	O
+FRANCIA	FRANCIA	PROPN	ROOT	FRANCIA	O
+
+423	423	NUM	nummod	HOLANDA	O
+HOLANDA	HOLANDA	NOUN	ROOT	HOLANDA	O
+
+320	320	NUM	nummod	JAPON	O
+JAPON	JAPON	NOUN	ROOT	JAPON	O
+
+425	425	NUM	nummod	PORTUGAL	O
+PORTUGAL	PORTUGAL	NOUN	ROOT	PORTUGAL	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+12	12	NUM	appos	GRUPO	O
+
+308	308	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+DEMOCRATICA	DEMOCRATICA	VERB	amod	COREA	O
+
+309	309	NUM	nummod	COREA	O
+COREA	COREA	NOUN	ROOT	COREA	O
+REPUBLICANA	REPUBLICANA	PROPN	appos	COREA	O
+
+331	331	NUM	nummod	EMIRATOS	O
+EMIRATOS	EMIRATOS	NOUN	ROOT	EMIRATOS	O
+ARABES	ARABES	NOUN	appos	EMIRATOS	O
+UNIDOS	UNIDOS	ADJ	flat	ARABES	O
+
+312	312	NUM	nummod	FILIPINAS	O
+FILIPINAS	FILIPINAS	NOUN	ROOT	FILIPINAS	O
+
+341	341	NUM	nummod	HONG	O
+HONG	HONG	NOUN	ROOT	HONG	O
+KONG	KONG	PROPN	amod	HONG	O
+
+315	315	NUM	nummod	INDIA	O
+INDIA	INDIA	PROPN	ROOT	INDIA	O
+
+316	316	NUM	nummod	INDONESIA	O
+INDONESIA	INDONESIA	NOUN	ROOT	INDONESIA	O
+
+319	319	NUM	nummod	ISRAEL	O
+ISRAEL	ISRAEL	PROPN	ROOT	ISRAEL	O
+
+326	326	NUM	nummod	MALASIA	O
+MALASIA	MALASIA	NOUN	ROOT	MALASIA	O
+
+332	332	NUM	nummod	PAKISTAN	O
+PAKISTAN	PAKISTAN	PROPN	ROOT	PAKISTAN	O
+
+335	335	NUM	nummod	THAILANDIA	O
+THAILANDIA	THAILANDIA	NOUN	ROOT	THAILANDIA	O
+
+333	333	NUM	nummod	SINGAPUR	O
+SINGAPUR	SINGAPUR	NOUN	ROOT	SINGAPUR	O
+
+337	337	NUM	nummod	VIETNAM	O
+VIETNAM	VIETNAM	PROPN	ROOT	VIETNAM	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+13	13	NUM	appos	GRUPO	O
+
+438	438	NUM	nummod	ALEMANIA	O
+ALEMANIA	ALEMANIA	NOUN	ROOT	ALEMANIA	O
+
+406	406	NUM	nummod	BELGICA	O
+BELGICA	BELGICA	NOUN	ROOT	BELGICA	O
+
+409	409	NUM	nummod	DINAMARCA	O
+DINAMARCA	DINAMARCA	NOUN	ROOT	DINAMARCA	O
+
+412	412	NUM	nummod	FRANCIA	O
+FRANCIA	FRANCIA	PROPN	ROOT	FRANCIA	O
+
+423	423	NUM	nummod	HOLANDA	O
+HOLANDA	HOLANDA	NOUN	ROOT	HOLANDA	O
+
+320	320	NUM	nummod	JAPON	O
+JAPON	JAPON	NOUN	ROOT	JAPON	O
+
+425	425	NUM	nummod	PORTUGAL	O
+PORTUGAL	PORTUGAL	NOUN	ROOT	PORTUGAL	O
+
+448	448	NUM	nummod	ESLOVAQUIA	O
+ESLOVAQUIA	ESLOVAQUIA	NOUN	ROOT	ESLOVAQUIA	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+14	14	NUM	appos	GRUPO	O
+
+113	113	NUM	nummod	EGIPTO	O
+EGIPTO	EGIPTO	NOUN	ROOT	EGIPTO	O
+
+413	413	NUM	nummod	GRECIA	O
+GRECIA	GRECIA	PROPN	ROOT	GRECIA	O
+
+426	426	NUM	nummod	REINO	O
+REINO	REINO	NOUN	ROOT	REINO	O
+UNIDO	UNIDO	PROPN	amod	REINO	O
+
+GRUPO	GRUPO	PROPN	ROOT	GRUPO	O
+15	15	NUM	appos	GRUPO	O
+
+438	438	NUM	nummod	ALEMANIA	O
+ALEMANIA	ALEMANIA	NOUN	ROOT	ALEMANIA	O
+
+406	406	NUM	nummod	BELGICA	O
+BELGICA	BELGICA	NOUN	ROOT	BELGICA	O
+
+409	409	NUM	nummod	DINAMARCA	O
+DINAMARCA	DINAMARCA	NOUN	ROOT	DINAMARCA	O
+
+410	410	NUM	nummod	ESPAÑA	O
+ESPAÑA	ESPAÑA	PROPN	ROOT	ESPAÑA	O
+
+412	412	NUM	nummod	FRANCIA	O
+FRANCIA	FRANCIA	PROPN	ROOT	FRANCIA	O
+
+423	423	NUM	nummod	HOLANDA	O
+HOLANDA	HOLANDA	NOUN	ROOT	HOLANDA	O
+
+417	417	NUM	nummod	ITALIA	O
+ITALIA	ITALIA	NOUN	ROOT	ITALIA	O
+
+425	425	NUM	nummod	PORTUGAL	O
+PORTUGAL	PORTUGAL	NOUN	ROOT	PORTUGAL	O
+
+

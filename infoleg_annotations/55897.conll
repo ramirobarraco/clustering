@@ -1,0 +1,4021 @@
+Subsecretaría	Subsecretaría	PROPN	ROOT	Subsecretaría	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Subsecretaría	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+
+IMPORTACIONES	IMPORTACIONES	NOUN	ROOT	IMPORTACIONES	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	O
+9/99	9/99	NUM	nummod	Disposición	O
+
+Determínase	Determínase	VERB	ROOT	Determínase	O
+el	el	DET	det	listado	O
+listado	listar	NOUN	obj	Determínase	O
+de	de	ADP	case	posiciones	O
+las	los	DET	det	posiciones	O
+posiciones	posicionar	NOUN	nmod	listado	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	Mercosur	O
+Mercosur	Mercosur	PROPN	flat	Nomenclatura	O
+que	que	PRON	nsubj	requerirán	O
+requerirán	requerir	VERB	acl	posiciones	O
+de	de	ADP	case	presentación	O
+la	lo	DET	det	presentación	O
+presentación	presentación	NOUN	obj	requerirán	O
+del	del	ADP	case	Formulario	O
+Formulario	Formulario	PROPN	nmod	presentación	O
+Informativo	Informativo	PROPN	flat	Formulario	O
+previsto	prever	ADJ	amod	Formulario	O
+por	por	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	obj	previsto	O
+N	N	PROPN	flat	Resolución	O
+°	°	PROPN	flat	Resolución	O
+17/99-MEYOSP	17/99-MEYOSP	NUM	appos	Resolución	O
+.	.	PUNCT	punct	Determínase	O
+
+Bs	Bs	INTJ	ROOT	Bs	O
+.	.	PUNCT	punct	Bs	O
+As	As	NOUN	ROOT	As	O
+.	.	PUNCT	punct	As	O
+4/2/99	4/2/99	VERB	ROOT	4/2/99	O
+
+VISTO	VISTO	VERB	ROOT	VISTO	O
+el	el	DET	det	Expediente	O
+Expediente	Expediente	PROPN	nsubj	VISTO	O
+N	N	PROPN	flat	Expediente	O
+°	°	PROPN	obj	VISTO	O
+061	061	NUM	nummod	°	O
+-	-	PUNCT	punct	000763/99	O
+000763/99	000763/99	NOUN	appos	°	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	nmod	000763/99	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Registro	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	nmod	000763/99	O
+Y	Y	CONJ	cc	OBRAS	O
+OBRAS	OBRAS	PROPN	conj	ECONOMIA	O
+Y	Y	CONJ	cc	SERVICIOS	O
+SERVICIOS	SERVICIOS	PROPN	conj	OBRAS	O
+PUBLICOS	PUBLICOS	PROPN	flat	SERVICIOS	O
+,	,	PUNCT	punct	000763/99	O
+y	y	CONJ	punct	VISTO	O
+
+CONSIDERANDO	CONSIDERANDO	VERB	ROOT	CONSIDERANDO	O
+:	:	PUNCT	punct	CONSIDERANDO	O
+
+Que	Que	SCONJ	advmod	dispuso	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	nsubj	dispuso	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Resolución	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	Resolución	O
+Y	Y	CONJ	cc	OBRAS	O
+OBRAS	OBRAS	PROPN	conj	ECONOMIA	O
+Y	Y	CONJ	cc	SERVICIOS	O
+SERVICIOS	SERVICIOS	PROPN	conj	OBRAS	O
+PUBLICOS	PUBLICOS	PROPN	flat	SERVICIOS	O
+N	N	PROPN	flat	SERVICIOS	O
+°	°	PROPN	flat	SERVICIOS	O
+17	17	NUM	nummod	°	O
+,	,	PUNCT	punct	fecha	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Resolución	O
+20	20	NUM	appos	fecha	O
+de	de	ADP	case	enero	O
+enero	enero	NOUN	compound	20	O
+de	de	ADP	case	1999	O
+1999	1999	NUM	compound	20	O
+,	,	PUNCT	punct	fecha	O
+dispuso	disponer	VERB	ROOT	dispuso	O
+que	que	SCONJ	mark	disponer	O
+a	a	ADP	case	efectos	O
+los	lo	DET	det	efectos	O
+efectos	efecto	NOUN	obl	disponer	O
+del	del	ADP	case	cumplimiento	O
+cumplimiento	cumplimiento	NOUN	nmod	efectos	O
+del	del	ADP	case	trámite	O
+trámite	trámite	NOUN	nmod	cumplimiento	O
+de	de	ADP	case	solicitudes	O
+las	los	DET	det	solicitudes	O
+solicitudes	solicitud	NOUN	nmod	trámite	O
+de	de	ADP	case	destinación	O
+destinación	destinación	NOUN	nmod	solicitudes	O
+de	de	ADP	case	importación	O
+importación	importación	NOUN	nmod	destinación	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	importación	O
+,	,	PUNCT	punct	efectos	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	NOUN	nsubj	disponer	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	flat	SECRETARIA	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	SECRETARIA	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	SECRETARIA	O
+,	,	PUNCT	punct	dependiente	O
+dependiente	dependiente	ADJ	amod	SECRETARIA	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	nmod	dependiente	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	MINISTERIO	O
+Y	Y	CONJ	cc	OBRAS	O
+OBRAS	OBRAS	PROPN	conj	MINISTERIO	O
+Y	Y	CONJ	cc	SERVICIOS	O
+SERVICIOS	SERVICIOS	PROPN	conj	OBRAS	O
+PUBLICOS	PUBLICOS	PROPN	flat	SERVICIOS	O
+,	,	PUNCT	punct	dependiente	O
+podrá	poder	AUX	aux	disponer	O
+disponer	disponer	VERB	xcomp	dispuso	O
+la	lo	DET	det	presentación	O
+presentación	presentación	NOUN	obj	disponer	O
+del	del	ADP	case	Formulario	O
+Formulario	Formulario	PROPN	nmod	presentación	O
+Informativo	Informativo	PROPN	flat	Formulario	O
+.	.	PUNCT	punct	dispuso	O
+
+Que	Que	SCONJ	mark	establecieron	O
+por	por	ADP	case	Resolución	O
+Resolución	Resolución	PROPN	obl	establecieron	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	flat	Resolución	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	nmod	SECRETARIA	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	Resolución	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	Resolución	O
+N	N	PROPN	flat	MINERIA	O
+°	°	PROPN	flat	Resolución	O
+59	59	NUM	nummod	°	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	nmod	Resolución	O
+29	29	NUM	appos	Resolución	O
+de	de	ADP	case	enero	O
+enero	enero	NOUN	compound	29	O
+de	de	ADP	case	1999	O
+1999	1999	NUM	compound	29	O
+,	,	PUNCT	punct	Resolución	O
+se	se	PRON	obj	establecieron	O
+establecieron	establecer	VERB	ROOT	establecieron	O
+ajustes	ajuste	NOUN	nsubj	establecieron	O
+al	al	ADP	case	modelo	O
+modelo	modelar	NOUN	nmod	ajustes	O
+de	de	ADP	case	dicho	O
+dicho	decir	ADJ	nmod	modelo	O
+formulario	formulario	ADJ	amod	dicho	O
+,	,	PUNCT	punct	establecieron	O
+así	asir	ADV	cc	establecieron	O
+como	comer	SCONJ	fixed	así	O
+también	también	ADV	advmod	así	O
+la	lo	DET	det	instrumentación	O
+instrumentación	instrumentación	NOUN	obj	así	O
+del	del	ADP	case	procedimiento	O
+procedimiento	procedimiento	NOUN	nmod	instrumentación	O
+a	a	ADP	mark	seguir	O
+seguir	seguir	VERB	acl	procedimiento	O
+para	parir	ADP	case	cumplimiento	O
+el	el	DET	det	cumplimiento	O
+cumplimiento	cumplimiento	NOUN	obl	seguir	O
+de	de	ADP	case	establecido	O
+lo	el	DET	det	establecido	O
+establecido	establecer	ADJ	amod	cumplimiento	O
+por	por	ADP	case	medidas	O
+las	los	DET	det	medidas	O
+medidas	medir	NOUN	obj	establecido	O
+precedentemente	precedentemente	ADV	advmod	señaladas	O
+señaladas	señalar	ADJ	amod	medidas	O
+.	.	PUNCT	punct	establecieron	O
+
+Que	Que	SCONJ	mark	hace	O
+de	de	ADP	case	conformidad	O
+conformidad	conformidad	NOUN	obl	hace	O
+con	con	ADP	case	dispuesto	O
+lo	el	DET	det	dispuesto	O
+dispuesto	disponer	ADJ	amod	conformidad	O
+en	en	ADP	case	Artículo	O
+el	el	DET	det	Artículo	O
+Artículo	Artículo	PROPN	obl	dispuesto	O
+11	11	NUM	nummod	Artículo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Artículo	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	nmod	Artículo	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	flat	Artículo	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	Artículo	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	Artículo	O
+N	N	PROPN	flat	MINERIA	O
+°	°	PROPN	flat	Artículo	O
+59/99	59/99	NUM	nummod	Artículo	O
+se	se	PRON	obj	hace	O
+hace	hacer	VERB	ROOT	hace	O
+necesario	necesario	ADJ	iobj	hace	O
+determinar	determinar	VERB	xcomp	hace	O
+el	el	DET	det	listado	O
+listado	listar	NOUN	obj	determinar	O
+de	de	ADP	case	posiciones	O
+las	los	DET	det	posiciones	O
+posiciones	posicionar	NOUN	nmod	listado	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+común	común	ADJ	amod	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	Nomenclatura	O
+que	que	PRON	nsubj	requerirán	O
+requerirán	requerir	VERB	acl	posiciones	O
+de	de	ADP	case	presentación	O
+la	lo	DET	det	presentación	O
+presentación	presentación	NOUN	obj	requerirán	O
+del	del	ADP	case	Formulario	O
+Formulario	Formulario	PROPN	nmod	presentación	O
+Informativo	Informativo	PROPN	flat	Formulario	O
+.	.	PUNCT	punct	hace	O
+
+Que	Que	SCONJ	mark	tomado	O
+la	lo	DET	det	DIRECCION	O
+DIRECCION	DIRECCION	PROPN	nsubj	tomado	O
+DE	DE	ADP	case	LEGALES	O
+LEGALES	LEGALES	PROPN	nmod	DIRECCION	O
+DEL	DEL	ADP	case	AREA	O
+AREA	AREA	PROPN	nmod	DIRECCION	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	nmod	DIRECCION	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	DIRECCION	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	DIRECCION	O
+ha	haber	AUX	aux	tomado	O
+tomado	tomar	VERB	ROOT	tomado	O
+la	lo	DET	det	intervención	O
+intervención	intervención	NOUN	obj	tomado	O
+que	que	PRON	nsubj	compete	O
+le	le	PRON	obj	compete	O
+compete	competer	VERB	acl	intervención	O
+.	.	PUNCT	punct	tomado	O
+
+Que	Que	SCONJ	mark	dicta	O
+la	lo	DET	det	disposición	O
+presente	presentar	ADJ	amod	disposición	O
+disposición	disposición	NOUN	nsubj	dicta	O
+se	se	PRON	obj	dicta	O
+dicta	dictar	VERB	ROOT	dicta	O
+en	en	ADP	case	previsto	O
+función	función	NOUN	fixed	en	O
+de	de	ADP	fixed	en	O
+lo	el	DET	det	previsto	O
+previsto	prever	ADJ	obl	dicta	O
+en	en	ADP	case	Artículo	O
+el	el	DET	det	Artículo	O
+Artículo	Artículo	PROPN	obl	previsto	O
+11	11	NUM	nummod	Artículo	O
+de	de	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	flat	Artículo	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	flat	Artículo	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	flat	Artículo	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	Artículo	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	Artículo	O
+N	N	PROPN	flat	MINERIA	O
+°	°	PROPN	flat	Artículo	O
+59/99	59/99	NUM	nummod	Artículo	O
+
+Por	Por	ADP	case	ello	O
+ello	él	PRON	ROOT	ello	O
+,	,	PUNCT	punct	ello	O
+
+EL	EL	DET	det	SUBSECRETARIO	O
+SUBSECRETARIO	SUBSECRETARIO	NOUN	ROOT	SUBSECRETARIO	O
+DE	DE	ADP	case	COMERCIO	O
+COMERCIO	COMERCIO	NOUN	flat	SUBSECRETARIO	O
+EXTERIOR	EXTERIOR	NOUN	amod	SUBSECRETARIO	O
+
+DISPONE	DISPONE	NOUN	ROOT	DISPONE	O
+:	:	PUNCT	punct	DISPONE	O
+
+Artículo	Artículo	PROPN	nsubj	presentar	O
+1	1	NUM	nummod	Artículo	O
+°	°	PROPN	flat	Artículo	O
+-	-	PUNCT	punct	solicitudes	O
+Las	Las	DET	det	solicitudes	O
+solicitudes	solicitud	NOUN	appos	Artículo	O
+de	de	ADP	case	destinaciones	O
+destinaciones	destinación	NOUN	nmod	solicitudes	O
+definitivas	definitivo	ADJ	amod	destinaciones	O
+de	de	ADP	case	importación	O
+importación	importación	NOUN	nmod	destinaciones	O
+para	parir	ADP	case	consumo	O
+consumo	consumir	NOUN	nmod	importación	O
+en	en	ADP	case	que	O
+las	los	DET	det	que	O
+que	que	PRON	obl	declaren	O
+se	se	PRON	obj	declaren	O
+declaren	declarar	VERB	acl	solicitudes	O
+mercaderías	mercadería	NOUN	nsubj	declaren	O
+comprendidas	comprender	ADJ	amod	mercaderías	O
+en	en	ADP	case	posiciones	O
+las	los	DET	det	posiciones	O
+posiciones	posicionar	NOUN	obl	comprendidas	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	MERCOSUR	O
+MERCOSUR	MERCOSUR	PROPN	nmod	Nomenclatura	O
+que	que	SCONJ	mark	SIETE	O
+en	en	ADP	case	SIETE	O
+las	los	DET	det	SIETE	O
+SIETE	SIETE	PROPN	nmod	posiciones	O
+(	(	PUNCT	punct	7	O
+7	7	NUM	appos	SIETE	O
+)	)	PUNCT	punct	7	O
+planillas	planilla	ADJ	amod	posiciones	O
+que	que	PRON	nsubj	forma	O
+,	,	PUNCT	punct	Anexo	O
+como	comer	SCONJ	mark	Anexo	O
+Anexo	Anexo	PROPN	obl	forma	O
+,	,	PUNCT	punct	Anexo	O
+forma	formar	VERB	acl	posiciones	O
+parte	partir	NOUN	compound	forma	O
+de	de	ADP	case	disposición	O
+la	lo	DET	det	disposición	O
+presente	presentar	ADJ	amod	disposición	O
+disposición	disposición	NOUN	obj	forma	O
+,	,	PUNCT	punct	forma	O
+deberán	deber	AUX	aux	presentar	O
+presentar	presentar	VERB	ROOT	presentar	O
+el	el	DET	det	Formulario	O
+Formulario	Formulario	PROPN	obj	presentar	O
+Informativo	Informativo	PROPN	flat	Formulario	O
+establecido	establecer	ADJ	amod	Formulario	O
+por	por	ADP	case	Resolución	O
+Resolución	Resolución	PROPN	obj	establecido	O
+del	del	ADP	case	MINISTERIO	O
+MINISTERIO	MINISTERIO	PROPN	flat	Resolución	O
+DE	DE	ADP	case	ECONOMIA	O
+ECONOMIA	ECONOMIA	PROPN	flat	Resolución	O
+Y	Y	CONJ	cc	OBRAS	O
+OBRAS	OBRAS	PROPN	conj	ECONOMIA	O
+Y	Y	CONJ	cc	SERVICIOS	O
+SERVICIOS	SERVICIOS	PROPN	conj	OBRAS	O
+PUBLICOS	PUBLICOS	PROPN	flat	SERVICIOS	O
+N	N	PROPN	flat	SERVICIOS	O
+°	°	PROPN	flat	SERVICIOS	O
+17	17	NUM	nummod	°	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	compound	17	O
+20	20	NUM	appos	Resolución	O
+de	de	ADP	case	enero	O
+enero	enero	NOUN	compound	20	O
+de	de	ADP	case	1999	O
+1999	1999	NUM	compound	20	O
+y	y	CONJ	cc	modificado	O
+modificado	modificar	ADJ	conj	establecido	O
+por	por	ADP	case	Resolución	O
+la	lo	DET	det	Resolución	O
+Resolución	Resolución	PROPN	obj	modificado	O
+de	de	ADP	case	SECRETARIA	O
+la	lo	DET	det	SECRETARIA	O
+SECRETARIA	SECRETARIA	PROPN	flat	Resolución	O
+DE	DE	ADP	case	INDUSTRIA	O
+INDUSTRIA	INDUSTRIA	NOUN	flat	Resolución	O
+,	,	PUNCT	punct	COMERCIO	O
+COMERCIO	COMERCIO	PROPN	conj	Resolución	O
+Y	Y	CONJ	cc	MINERIA	O
+MINERIA	MINERIA	PROPN	conj	Resolución	O
+N	N	PROPN	flat	MINERIA	O
+°	°	PROPN	flat	MINERIA	O
+59	59	NUM	nummod	°	O
+de	de	ADP	case	fecha	O
+fecha	fecho	NOUN	compound	59	O
+29	29	NUM	appos	Resolución	O
+de	de	ADP	case	enero	O
+enero	enero	NOUN	compound	29	O
+de	de	ADP	case	1999	O
+1999	1999	NUM	compound	29	O
+.	.	PUNCT	punct	presentar	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+2	2	NUM	nummod	°	O
+°	°	PROPN	ROOT	°	O
+-	-	PUNCT	punct	regir	O
+La	La	DET	det	disposición	O
+presente	presentar	ADJ	amod	disposición	O
+disposición	disposición	NOUN	nsubj	regir	O
+comenzará	comenzar	AUX	aux	regir	O
+a	a	ADP	mark	regir	O
+regir	regir	VERB	acl	°	O
+a	a	ADP	case	día	O
+partir	partir	NOUN	fixed	a	O
+del	del	ADP	fixed	a	O
+día	día	NOUN	obl	regir	O
+siguiente	siguiente	ADJ	amod	día	O
+al	al	ADP	case	publicación	O
+de	de	ADP	case	publicación	O
+su	su	DET	det	publicación	O
+publicación	publicación	NOUN	obj	regir	O
+en	en	ADP	case	Boletín	O
+el	el	DET	det	Boletín	O
+Boletín	Boletín	PROPN	nmod	publicación	O
+Oficial	Oficial	PROPN	flat	Boletín	O
+.	.	PUNCT	punct	°	O
+
+Art	Art	PROPN	ROOT	Art	O
+.	.	PUNCT	punct	Art	O
+3	3	NUM	nummod	°	O
+°	°	PROPN	nsubj	publíquese	O
+-	-	PUNCT	punct	Comuníquese	O
+Comuníquese	Comuníquese	PROPN	appos	°	O
+,	,	PUNCT	punct	Comuníquese	O
+publíquese	publíquese	VERB	ROOT	publíquese	O
+,	,	PUNCT	punct	dése	O
+dése	dése	ADV	advmod	publíquese	O
+a	a	ADP	case	Dirección	O
+la	lo	DET	det	Dirección	O
+Dirección	Dirección	PROPN	nmod	dése	O
+Nacional	Nacional	PROPN	flat	Dirección	O
+del	del	ADP	case	Registro	O
+Registro	Registro	PROPN	flat	Dirección	O
+Oficial	Oficial	PROPN	flat	Dirección	O
+y	y	CONJ	cc	archívese	O
+archívese	archívese	VERB	conj	dése	O
+.	.	PUNCT	punct	publíquese	O
+-	-	PUNCT	punct	Félix	O
+Félix	Félix	PROPN	ROOT	Félix	O
+A.	A.	PROPN	flat	Félix	O
+Peña	Peña	PROPN	flat	Félix	O
+.	.	PUNCT	punct	Félix	O
+
+ANEXO	ANEXO	NOUN	ROOT	ANEXO	O
+A	A	ADP	case	DISPOSICION	O
+LA	LA	DET	det	DISPOSICION	O
+DISPOSICION	DISPOSICION	PROPN	nmod	ANEXO	O
+S.S.C.E.	S.S.C.E.	PROPN	flat	DISPOSICION	O
+N	N	PROPN	flat	S.S.C.E.	O
+°	°	PROPN	flat	DISPOSICION	O
+9	9	NUM	nummod	ANEXO	O
+
+Anexo	Anexo	ADV	ROOT	Anexo	O
+sustituido	sustituir	ADJ	amod	Anexo	O
+por	por	ADP	case	normas	O
+las	los	DET	det	normas	O
+siguientes	siguiente	ADJ	amod	normas	O
+normas	norma	NOUN	obj	sustituido	O
+:	:	PUNCT	punct	Anexo	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+11/99	11/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Disposición	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Disposición	O
+4/3/1999	4/3/1999	NUM	nummod	Disposición	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+24/99	24/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Subsecretaría	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+1/7/1999	1/7/1999	NUM	nummod	Subsecretaría	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+25/99	25/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Disposición	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Disposición	O
+12/8/1999	12/8/1999	NUM	nummod	Disposición	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+34/99	34/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Disposición	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Disposición	O
+20/9/1999	20/9/1999	NUM	nummod	Disposición	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+36/99	36/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Disposición	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Disposición	O
+30/9/1999	30/9/1999	NUM	nummod	Disposición	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+43/99	43/99	NUM	nummod	Disposición	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Comercio	O
+Comercio	Comercio	PROPN	flat	Disposición	O
+Exterior	Exterior	PROPN	flat	Comercio	O
+B.O.	B.O.	PROPN	flat	Disposición	O
+13/12/1999	13/12/1999	NUM	nummod	Disposición	O
+.	.	PUNCT	punct	Disposición	O
+
+Resolución	Resolución	PROPN	ROOT	Resolución	Resolución
+N	N	PROPN	flat	Resolución	Resolución
+°	°	PROPN	flat	Resolución	Resolución
+174/2000	174/2000	PROPN	nummod	Resolución	Resolución
+Secretaría	Secretaría	PROPN	flat	Resolución	O
+de	de	ADP	case	Industria	O
+Industria	Industria	PROPN	flat	Secretaría	O
+,	,	PUNCT	punct	Comercio	O
+Comercio	Comercio	PROPN	conj	Secretaría	O
+y	y	CONJ	cc	Minería	O
+Minería	Minería	PROPN	conj	Secretaría	O
+B.O.	B.O.	PROPN	flat	Minería	O
+14/4/2000	14/4/2000	NUM	nummod	Minería	O
+.	.	PUNCT	punct	Resolución	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+75/2000	75/2000	NUM	nummod	Subsecretaría	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Industria	O
+Industria	Industria	PROPN	flat	Subsecretaría	O
+,	,	PUNCT	punct	Comercio	O
+Comercio	Comercio	PROPN	conj	Subsecretaría	O
+y	y	CONJ	cc	Minería	O
+Minería	Minería	PROPN	conj	Subsecretaría	O
+B.O.	B.O.	PROPN	flat	Minería	O
+18/8/2000	18/8/2000	NUM	nummod	Minería	O
+,	,	PUNCT	punct	modificaciones	O
+según	según	ADP	case	modificaciones	O
+modificaciones	modificación	NOUN	nmod	Disposición	O
+introducidas	introducir	ADJ	amod	modificaciones	O
+por	por	ADP	case	normas	O
+las	los	DET	det	normas	O
+siguientes	siguiente	ADJ	amod	normas	O
+normas	norma	NOUN	obj	introducidas	O
+:	:	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	appos	normas	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+2/2002	2/2002	NUM	nummod	°	Disposición
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+15/4/2002	15/4/2002	NUM	nummod	Subsecretaría	O
+y	y	CONJ	cc	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+1/2003	1/2003	NUM	nummod	°	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	nmod	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+7/2/2003	7/2/2003	NUM	flat	Subsecretaría	O
+.	.	PUNCT	punct	Disposición	O
+
+Disposición	Disposición	NOUN	nsubj	°	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	ROOT	°	Disposición
+9/2003	9/2003	NUM	advmod	°	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	obl	°	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Gestión	O
+26/8/2003	26/8/2003	NUM	nummod	Gestión	O
+,	,	PUNCT	punct	modificaciones	O
+según	según	ADP	case	modificaciones	O
+modificaciones	modificación	NOUN	obl	°	O
+introducidas	introducir	ADJ	amod	modificaciones	O
+por	por	ADP	case	normas	O
+las	los	DET	det	normas	O
+siguientes	siguiente	ADJ	amod	normas	O
+normas	norma	NOUN	obj	introducidas	O
+:	:	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	appos	normas	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+14/2003	14/2003	NUM	nummod	°	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+6/10/2003	6/10/2003	NUM	nummod	Subsecretaría	O
+;	;	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+7/2004	7/2004	NUM	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+23/2/2004	23/2/2004	NUM	flat	Subsecretaría	O
+;	;	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+14/2004	14/2004	NUM	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+5/5/2004	5/5/2004	NUM	appos	Subsecretaría	O
+;	;	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+26/2004	26/2004	NUM	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	nmod	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+5/8/2004	5/8/2004	NUM	nummod	B.O.	O
+;	;	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+30/2004	30/2004	NUM	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Gestión	O
+13/10/2004	13/10/2004	NUM	nummod	Gestión	O
+;	;	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+8/2005	8/2005	NOUN	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+15/6/2005	15/6/2005	NUM	nummod	Subsecretaría	O
+,	,	PUNCT	punct	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+9/2005	9/2005	NUM	nummod	Disposición	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	flat	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+27/6/2005	27/6/2005	NUM	nummod	Subsecretaría	O
+y	y	CONJ	cc	Disposición	O
+Disposición	Disposición	PROPN	conj	Disposición	Disposición
+N	N	PROPN	flat	Disposición	Disposición
+°	°	PROPN	flat	Disposición	Disposición
+15/2005	15/2005	NUM	nummod	°	Disposición
+de	de	ADP	case	Subsecretaría	O
+la	lo	DET	det	Subsecretaría	O
+Subsecretaría	Subsecretaría	PROPN	nmod	Disposición	O
+de	de	ADP	case	Política	O
+Política	Política	PROPN	flat	Subsecretaría	O
+y	y	CONJ	cc	Gestión	O
+Gestión	Gestión	PROPN	conj	Política	O
+Comercial	Comercial	PROPN	flat	Gestión	O
+B.O.	B.O.	PROPN	flat	Subsecretaría	O
+29/8/2005	29/8/2005	NUM	flat	Disposición	O
+)	)	PUNCT	punct	Disposición	O
+.	.	PUNCT	punct	°	O
+
+0105.11.10	0105.11.10	NUM	ROOT	0105.11.10	O
+
+0105.11.90	0105.11.90	NUM	ROOT	0105.11.90	O
+
+0207.11.00	0207.11.00	VERB	ROOT	0207.11.00	O
+
+0207.12.00	0207.12.00	NUM	ROOT	0207.12.00	O
+
+0207.13.00	0207.13.00	NUM	ROOT	0207.13.00	O
+
+0207.14.00	0207.14.00	NUM	ROOT	0207.14.00	O
+
+0210.19.00	0210.19.00	NUM	ROOT	0210.19.00	O
+
+0402.10.10	0402.10.10	NUM	ROOT	0402.10.10	O
+
+0402.10.90	0402.10.90	NUM	ROOT	0402.10.90	O
+
+0402.21.10	0402.21.10	NUM	ROOT	0402.21.10	O
+
+0402.21.20	0402.21.20	NUM	ROOT	0402.21.20	O
+
+0402.29.10	0402.29.10	NUM	ROOT	0402.29.10	O
+
+0402.29.20	0402.29.20	NUM	ROOT	0402.29.20	O
+
+0407.00.11	0407.00.11	NUM	ROOT	0407.00.11	O
+
+0408.11.00	0408.11.00	NUM	ROOT	0408.11.00	O
+
+0408.91.00	0408.91.00	NUM	ROOT	0408.91.00	O
+
+0408.99.00	0408.99.00	NUM	ROOT	0408.99.00	O
+
+0703.20.90	0703.20.90	NUM	ROOT	0703.20.90	O
+
+1109.00.00	1109.00.00	NUM	ROOT	1109.00.00	O
+
+1302.39.10	1302.39.10	NUM	ROOT	1302.39.10	O
+
+1602.41.00	1602.41.00	NUM	ROOT	1602.41.00	O
+
+1602.42.00	1602.42.00	NOUN	ROOT	1602.42.00	O
+
+1704.90.20	1704.90.20	DET	ROOT	1704.90.20	O
+
+2006.00.00	2006.00.00	NOUN	ROOT	2006.00.00	O
+
+2008.70.10	2008.70.10	ADJ	ROOT	2008.70.10	O
+
+2008.70.90	2008.70.90	NOUN	ROOT	2008.70.90	O
+
+2401.20.30	2401.20.30	NUM	ROOT	2401.20.30	O
+
+2523.21.00	2523.21.00	VERB	ROOT	2523.21.00	O
+
+2523.29.10	2523.29.10	NOUN	ROOT	2523.29.10	O
+
+2804.69.00	2804.69.00	NUM	ROOT	2804.69.00	O
+
+2821.10.11	2821.10.11	NOUN	ROOT	2821.10.11	O
+
+2836.10.00	2836.10.00	NOUN	ROOT	2836.10.00	O
+
+2836.30.00	2836.30.00	NOUN	ROOT	2836.30.00	O
+
+2849.10.00	2849.10.00	NUM	ROOT	2849.10.00	O
+
+2915.21.00	2915.21.00	NUM	ROOT	2915.21.00	O
+
+2915.70.39	2915.70.39	VERB	ROOT	2915.70.39	O
+
+2917.31.00	2917.31.00	NOUN	ROOT	2917.31.00	O
+
+2917.35.00	2917.35.00	NOUN	ROOT	2917.35.00	O
+
+2926.90.23	2926.90.23	ADV	ROOT	2926.90.23	O
+
+3204.12.10	3204.12.10	NUM	ROOT	3204.12.10	O
+
+3604.10.00	3604.10.00	NUM	ROOT	3604.10.00	O
+
+3808.20.21	3808.20.21	NUM	ROOT	3808.20.21	O
+
+3812.30.29	3812.30.29	NUM	ROOT	3812.30.29	O
+
+3825.30.00	3825.30.00	NUM	ROOT	3825.30.00	O
+
+3901.20.19	3901.20.19	NUM	ROOT	3901.20.19	O
+
+3902.10.10	3902.10.10	NUM	ROOT	3902.10.10	O
+
+3902.30.00	3902.30.00	NUM	ROOT	3902.30.00	O
+
+3903.11.10	3903.11.10	NUM	ROOT	3903.11.10	O
+
+3903.19.00	3903.19.00	NUM	ROOT	3903.19.00	O
+
+3903.30.10	3903.30.10	ADJ	ROOT	3903.30.10	O
+
+3903.30.20	3903.30.20	NUM	ROOT	3903.30.20	O
+
+3904.10.20	3904.10.20	NUM	ROOT	3904.10.20	O
+
+3907.60.00	3907.60.00	NUM	ROOT	3907.60.00	O
+
+3917.32.10	3917.32.10	ADJ	ROOT	3917.32.10	O
+
+3917.32.29	3917.32.29	NUM	ROOT	3917.32.29	O
+
+3917.32.30	3917.32.30	NUM	ROOT	3917.32.30	O
+
+3917.32.40	3917.32.40	VERB	ROOT	3917.32.40	O
+
+3917.32.59	3917.32.59	NUM	ROOT	3917.32.59	O
+
+3917.32.90	3917.32.90	NUM	ROOT	3917.32.90	O
+
+3920.51.00	3920.51.00	NUM	ROOT	3920.51.00	O
+
+3920.61.00	3920.61.00	NUM	ROOT	3920.61.00	O
+
+3921.13.90	3921.13.90	ADV	ROOT	3921.13.90	O
+
+3923.30.00	3923.30.00	NUM	ROOT	3923.30.00	O
+
+3923.40.00	3923.40.00	NUM	ROOT	3923.40.00	O
+
+3923.50.00	3923.50.00	NUM	ROOT	3923.50.00	O
+
+3923.90.00	3923.90.00	NUM	ROOT	3923.90.00	O
+
+4002.19.11	4002.19.11	NUM	ROOT	4002.19.11	O
+
+4011.20.10	4011.20.10	NUM	ROOT	4011.20.10	O
+
+4011.20.90	4011.20.90	NUM	ROOT	4011.20.90	O
+
+4011.50.00	4011.50.00	NUM	ROOT	4011.50.00	O
+
+4202.11.00	4202.11.00	NUM	ROOT	4202.11.00	O
+
+4202.12.10	4202.12.10	ADV	ROOT	4202.12.10	O
+
+4202.12.20	4202.12.20	NOUN	ROOT	4202.12.20	O
+
+4202.19.00	4202.19.00	NOUN	ROOT	4202.19.00	O
+
+4202.21.00	4202.21.00	NUM	ROOT	4202.21.00	O
+
+4202.22.10	4202.22.10	NUM	ROOT	4202.22.10	O
+
+4202.22.20	4202.22.20	NUM	ROOT	4202.22.20	O
+
+4202.29.00	4202.29.00	NUM	ROOT	4202.29.00	O
+
+4202.31.00	4202.31.00	NUM	ROOT	4202.31.00	O
+
+4202.32.00	4202.32.00	NUM	ROOT	4202.32.00	O
+
+4202.39.00	4202.39.00	NUM	ROOT	4202.39.00	O
+
+4202.91.00	4202.91.00	NUM	ROOT	4202.91.00	O
+
+4202.92.00	4202.92.00	VERB	ROOT	4202.92.00	O
+
+4202.99.00	4202.99.00	NUM	ROOT	4202.99.00	O
+
+4203.10.00	4203.10.00	NUM	ROOT	4203.10.00	O
+
+4203.29.00	4203.29.00	VERB	ROOT	4203.29.00	O
+
+4203.30.00	4203.30.00	VERB	ROOT	4203.30.00	O
+
+4407.10.00	4407.10.00	NUM	ROOT	4407.10.00	O
+
+4408.10.10	4408.10.10	NUM	ROOT	4408.10.10	O
+
+4408.31.10	4408.31.10	NOUN	ROOT	4408.31.10	O
+
+4408.39.10	4408.39.10	NUM	ROOT	4408.39.10	O
+
+4408.90.10	4408.90.10	ADV	ROOT	4408.90.10	O
+
+4409.10.00	4409.10.00	VERB	ROOT	4409.10.00	O
+
+4410.31.00	4410.31.00	VERB	ROOT	4410.31.00	O
+
+4410.32.00	4410.32.00	NUM	ROOT	4410.32.00	O
+
+4410.33.00	4410.33.00	NUM	ROOT	4410.33.00	O
+
+4410.39.00	4410.39.00	NOUN	ROOT	4410.39.00	O
+
+4411.19.00	4411.19.00	NUM	ROOT	4411.19.00	O
+
+4411.21.00	4411.21.00	NUM	ROOT	4411.21.00	O
+
+4411.29.00	4411.29.00	NUM	ROOT	4411.29.00	O
+
+4412.14.00	4412.14.00	VERB	ROOT	4412.14.00	O
+
+4412.19.00	4412.19.00	VERB	ROOT	4412.19.00	O
+
+4412.22.00	4412.22.00	VERB	ROOT	4412.22.00	O
+
+4412.23.00	4412.23.00	VERB	ROOT	4412.23.00	O
+
+4412.29.00	4412.29.00	NUM	ROOT	4412.29.00	O
+
+4412.92.00	4412.92.00	VERB	ROOT	4412.92.00	O
+
+4415.20.00	4415.20.00	NUM	ROOT	4415.20.00	O
+
+4421.10.00	4421.10.00	NUM	ROOT	4421.10.00	O
+
+4802.10.00	4802.10.00	VERB	ROOT	4802.10.00	O
+
+4802.20.10	4802.20.10	NOUN	ROOT	4802.20.10	O
+
+4802.20.90	4802.20.90	NUM	ROOT	4802.20.90	O
+
+4802.30.10	4802.30.10	NUM	ROOT	4802.30.10	O
+
+4802.30.99	4802.30.99	NUM	ROOT	4802.30.99	O
+
+4802.40.10	4802.40.10	NOUN	ROOT	4802.40.10	O
+
+4802.40.90	4802.40.90	NUM	ROOT	4802.40.90	O
+
+4802.54.10	4802.54.10	NUM	ROOT	4802.54.10	O
+
+4802.54.90	4802.54.90	NUM	ROOT	4802.54.90	O
+
+4802.55.10	4802.55.10	NOUN	ROOT	4802.55.10	O
+
+4802.55.91	4802.55.91	NUM	ROOT	4802.55.91	O
+
+4802.55.92	4802.55.92	NUM	ROOT	4802.55.92	O
+
+4802.55.99	4802.55.99	NUM	ROOT	4802.55.99	O
+
+4802.56.10	4802.56.10	NUM	ROOT	4802.56.10	O
+
+4802.56.91	4802.56.91	NUM	ROOT	4802.56.91	O
+
+4802.56.92	4802.56.92	NUM	ROOT	4802.56.92	O
+
+4802.56.93	4802.56.93	NUM	ROOT	4802.56.93	O
+
+4802.56.99	4802.56.99	NUM	ROOT	4802.56.99	O
+
+4802.57.10	4802.57.10	NUM	ROOT	4802.57.10	O
+
+4802.57.91	4802.57.91	NUM	ROOT	4802.57.91	O
+
+4802.57.92	4802.57.92	NUM	ROOT	4802.57.92	O
+
+4802.57.93	4802.57.93	NUM	ROOT	4802.57.93	O
+
+4802.57.99	4802.57.99	NUM	ROOT	4802.57.99	O
+
+4802.58.10	4802.58.10	NOUN	ROOT	4802.58.10	O
+
+4802.58.91	4802.58.91	NUM	ROOT	4802.58.91	O
+
+4802.58.92	4802.58.92	NUM	ROOT	4802.58.92	O
+
+4802.58.99	4802.58.99	NUM	ROOT	4802.58.99	O
+
+4802.61.10	4802.61.10	VERB	ROOT	4802.61.10	O
+
+4802.61.92	4802.61.92	NUM	ROOT	4802.61.92	O
+
+4802.61.99	4802.61.99	NUM	ROOT	4802.61.99	O
+
+4802.62.10	4802.62.10	NUM	ROOT	4802.62.10	O
+
+4802.62.92	4802.62.92	NUM	ROOT	4802.62.92	O
+
+4802.62.99	4802.62.99	NUM	ROOT	4802.62.99	O
+
+4802.69.10	4802.69.10	ADJ	ROOT	4802.69.10	O
+
+4802.69.92	4802.69.92	NUM	ROOT	4802.69.92	O
+
+4802.69.99	4802.69.99	NUM	ROOT	4802.69.99	O
+
+4803.00.10	4803.00.10	NOUN	ROOT	4803.00.10	O
+
+4803.00.90	4803.00.90	ADV	ROOT	4803.00.90	O
+
+4804.11.00	4804.11.00	VERB	ROOT	4804.11.00	O
+
+4804.19.00	4804.19.00	NOUN	ROOT	4804.19.00	O
+
+4804.21.00	4804.21.00	NUM	ROOT	4804.21.00	O
+
+4804.29.00	4804.29.00	VERB	ROOT	4804.29.00	O
+
+4804.31.90	4804.31.90	NUM	ROOT	4804.31.90	O
+
+4804.39.90	4804.39.90	NUM	ROOT	4804.39.90	O
+
+4804.41.00	4804.41.00	VERB	ROOT	4804.41.00	O
+
+4804.42.00	4804.42.00	NUM	ROOT	4804.42.00	O
+
+4804.49.00	4804.49.00	NUM	ROOT	4804.49.00	O
+
+4804.51.00	4804.51.00	VERB	ROOT	4804.51.00	O
+
+4804.52.00	4804.52.00	VERB	ROOT	4804.52.00	O
+
+4804.59.00	4804.59.00	NUM	ROOT	4804.59.00	O
+
+4805.11.00	4805.11.00	NUM	ROOT	4805.11.00	O
+
+4805.12.00	4805.12.00	NUM	ROOT	4805.12.00	O
+
+4805.19.00	4805.19.00	VERB	ROOT	4805.19.00	O
+
+4805.24.00	4805.24.00	VERB	ROOT	4805.24.00	O
+
+4805.25.00	4805.25.00	VERB	ROOT	4805.25.00	O
+
+4805.30.00	4805.30.00	NUM	ROOT	4805.30.00	O
+
+4805.40.90	4805.40.90	NUM	ROOT	4805.40.90	O
+
+4805.50.00	4805.50.00	NUM	ROOT	4805.50.00	O
+
+4805.91.00	4805.91.00	NUM	ROOT	4805.91.00	O
+
+4805.92.10	4805.92.10	NOUN	ROOT	4805.92.10	O
+
+4805.92.90	4805.92.90	ADJ	ROOT	4805.92.90	O
+
+4805.93.00	4805.93.00	VERB	ROOT	4805.93.00	O
+
+4806.10.00	4806.10.00	VERB	ROOT	4806.10.00	O
+
+4806.20.00	4806.20.00	NOUN	ROOT	4806.20.00	O
+
+4806.30.00	4806.30.00	VERB	ROOT	4806.30.00	O
+
+4806.40.00	4806.40.00	VERB	ROOT	4806.40.00	O
+
+4810.13.10	4810.13.10	NUM	ROOT	4810.13.10	O
+
+4810.13.81	4810.13.81	NUM	ROOT	4810.13.81	O
+
+4810.13.89	4810.13.89	NUM	ROOT	4810.13.89	O
+
+4810.13.90	4810.13.90	NUM	ROOT	4810.13.90	O
+
+4810.14.10	4810.14.10	NUM	ROOT	4810.14.10	O
+
+4810.14.81	4810.14.81	NUM	ROOT	4810.14.81	O
+
+4810.14.89	4810.14.89	NUM	ROOT	4810.14.89	O
+
+4810.14.90	4810.14.90	NUM	ROOT	4810.14.90	O
+
+4810.19.10	4810.19.10	NUM	ROOT	4810.19.10	O
+
+4810.19.81	4810.19.81	NUM	ROOT	4810.19.81	O
+
+4810.19.89	4810.19.89	NUM	ROOT	4810.19.89	O
+
+4810.19.90	4810.19.90	ADV	ROOT	4810.19.90	O
+
+4810.22.10	4810.22.10	NUM	ROOT	4810.22.10	O
+
+4810.22.90	4810.22.90	ADV	ROOT	4810.22.90	O
+
+4810.29.10	4810.29.10	NUM	ROOT	4810.29.10	O
+
+4810.29.90	4810.29.90	NUM	ROOT	4810.29.90	O
+
+4810.31.10	4810.31.10	NOUN	ROOT	4810.31.10	O
+
+4810.31.90	4810.31.90	ADV	ROOT	4810.31.90	O
+
+4810.32.10	4810.32.10	NUM	ROOT	4810.32.10	O
+
+4810.32.90	4810.32.90	NUM	ROOT	4810.32.90	O
+
+4810.39.10	4810.39.10	NOUN	ROOT	4810.39.10	O
+
+4810.39.90	4810.39.90	NUM	ROOT	4810.39.90	O
+
+4810.92.10	4810.92.10	NOUN	ROOT	4810.92.10	O
+
+4810.92.90	4810.92.90	NUM	ROOT	4810.92.90	O
+
+4810.99.10	4810.99.10	NUM	ROOT	4810.99.10	O
+
+4810.99.90	4810.99.90	NUM	ROOT	4810.99.90	O
+
+4811.10.10	4811.10.10	NUM	ROOT	4811.10.10	O
+
+4811.41.10	4811.41.10	NOUN	ROOT	4811.41.10	O
+
+4811.49.10	4811.49.10	NOUN	ROOT	4811.49.10	O
+
+4811.51.10	4811.51.10	NUM	ROOT	4811.51.10	O
+
+4811.59.10	4811.59.10	NUM	ROOT	4811.59.10	O
+
+4811.60.10	4811.60.10	NOUN	ROOT	4811.60.10	O
+
+4811.90.10	4811.90.10	VERB	ROOT	4811.90.10	O
+
+4814.20.00	4814.20.00	VERB	ROOT	4814.20.00	O
+
+4818.20.00	4818.20.00	NUM	ROOT	4818.20.00	O
+
+4818.30.00	4818.30.00	NUM	ROOT	4818.30.00	O
+
+4818.40.10	4818.40.10	NOUN	ROOT	4818.40.10	O
+
+4818.40.90	4818.40.90	NUM	ROOT	4818.40.90	O
+
+4819.10.00	4819.10.00	NUM	ROOT	4819.10.00	O
+
+4819.20.00	4819.20.00	ADP	ROOT	4819.20.00	O
+
+4819.30.00	4819.30.00	ADP	ROOT	4819.30.00	O
+
+4819.40.00	4819.40.00	NUM	ROOT	4819.40.00	O
+
+4819.50.00	4819.50.00	VERB	ROOT	4819.50.00	O
+
+4819.60.00	4819.60.00	VERB	ROOT	4819.60.00	O
+
+4820.10.00	4820.10.00	NUM	ROOT	4820.10.00	O
+
+4820.20.00	4820.20.00	VERB	ROOT	4820.20.00	O
+
+4820.30.00	4820.30.00	NUM	ROOT	4820.30.00	O
+
+4820.40.00	4820.40.00	NUM	ROOT	4820.40.00	O
+
+4820.50.00	4820.50.00	NUM	ROOT	4820.50.00	O
+
+4820.90.00	4820.90.00	NUM	ROOT	4820.90.00	O
+
+4821.10.00	4821.10.00	NOUN	ROOT	4821.10.00	O
+
+4821.90.00	4821.90.00	NUM	ROOT	4821.90.00	O
+
+4823.12.00	4823.12.00	NUM	ROOT	4823.12.00	O
+
+4823.19.00	4823.19.00	VERB	ROOT	4823.19.00	O
+
+4823.20.91	4823.20.91	NUM	ROOT	4823.20.91	O
+
+4823.20.99	4823.20.99	NUM	ROOT	4823.20.99	O
+
+4823.40.00	4823.40.00	VERB	ROOT	4823.40.00	O
+
+4823.70.00	4823.70.00	NUM	ROOT	4823.70.00	O
+
+4823.90.91	4823.90.91	NUM	ROOT	4823.90.91	O
+
+4823.90.99	4823.90.99	ADV	ROOT	4823.90.99	O
+
+4907.00.10	4907.00.10	NOUN	ROOT	4907.00.10	O
+
+4907.00.20	4907.00.20	NUM	ROOT	4907.00.20	O
+
+4907.00.30	4907.00.30	NOUN	ROOT	4907.00.30	O
+
+4907.00.90	4907.00.90	VERB	ROOT	4907.00.90	O
+
+4911.10.10	4911.10.10	NUM	ROOT	4911.10.10	O
+
+5106.20.00	5106.20.00	NUM	ROOT	5106.20.00	O
+
+5107.20.00	5107.20.00	NUM	ROOT	5107.20.00	O
+
+5111.11.10	5111.11.10	NUM	ROOT	5111.11.10	O
+
+5111.11.20	5111.11.20	NUM	ROOT	5111.11.20	O
+
+5111.19.00	5111.19.00	NUM	ROOT	5111.19.00	O
+
+5111.20.00	5111.20.00	NUM	ROOT	5111.20.00	O
+
+5111.30.90	5111.30.90	NUM	ROOT	5111.30.90	O
+
+5111.90.00	5111.90.00	NUM	ROOT	5111.90.00	O
+
+5112.11.00	5112.11.00	NUM	ROOT	5112.11.00	O
+
+5112.19.10	5112.19.10	NUM	ROOT	5112.19.10	O
+
+5112.19.20	5112.19.20	NUM	ROOT	5112.19.20	O
+
+5112.20.10	5112.20.10	NUM	ROOT	5112.20.10	O
+
+5112.20.20	5112.20.20	NUM	ROOT	5112.20.20	O
+
+5112.30.10	5112.30.10	NUM	ROOT	5112.30.10	O
+
+5112.30.20	5112.30.20	NUM	ROOT	5112.30.20	O
+
+5112.90.00	5112.90.00	NUM	ROOT	5112.90.00	O
+
+5113.00.11	5113.00.11	NUM	ROOT	5113.00.11	O
+
+5113.00.12	5113.00.12	ADV	ROOT	5113.00.12	O
+
+5113.00.13	5113.00.13	ADV	ROOT	5113.00.13	O
+
+5113.00.20	5113.00.20	NUM	ROOT	5113.00.20	O
+
+5204.20.00	5204.20.00	NUM	ROOT	5204.20.00	O
+
+5205.11.00	5205.11.00	NUM	ROOT	5205.11.00	O
+
+5205.12.00	5205.12.00	NUM	ROOT	5205.12.00	O
+
+5205.13.10	5205.13.10	NUM	ROOT	5205.13.10	O
+
+5205.14.00	5205.14.00	NUM	ROOT	5205.14.00	O
+
+5205.22.00	5205.22.00	NUM	ROOT	5205.22.00	O
+
+5205.23.10	5205.23.10	NUM	ROOT	5205.23.10	O
+
+5205.24.00	5205.24.00	NUM	ROOT	5205.24.00	O
+
+5205.33.00	5205.33.00	NUM	ROOT	5205.33.00	O
+
+5205.42.00	5205.42.00	NUM	ROOT	5205.42.00	O
+
+5206.12.00	5206.12.00	NUM	ROOT	5206.12.00	O
+
+5206.14.00	5206.14.00	NUM	ROOT	5206.14.00	O
+
+5206.23.00	5206.23.00	NUM	ROOT	5206.23.00	O
+
+5206.24.00	5206.24.00	NUM	ROOT	5206.24.00	O
+
+5208.11.00	5208.11.00	VERB	ROOT	5208.11.00	O
+
+5208.12.00	5208.12.00	NUM	ROOT	5208.12.00	O
+
+5208.13.00	5208.13.00	NUM	ROOT	5208.13.00	O
+
+5208.19.00	5208.19.00	NUM	ROOT	5208.19.00	O
+
+5208.21.00	5208.21.00	VERB	ROOT	5208.21.00	O
+
+5208.22.00	5208.22.00	NUM	ROOT	5208.22.00	O
+
+5208.23.00	5208.23.00	NUM	ROOT	5208.23.00	O
+
+5208.29.00	5208.29.00	NUM	ROOT	5208.29.00	O
+
+5208.31.00	5208.31.00	NUM	ROOT	5208.31.00	O
+
+5208.32.00	5208.32.00	NUM	ROOT	5208.32.00	O
+
+5208.33.00	5208.33.00	NUM	ROOT	5208.33.00	O
+
+5208.39.00	5208.39.00	NOUN	ROOT	5208.39.00	O
+
+5208.41.00	5208.41.00	NUM	ROOT	5208.41.00	O
+
+5208.42.00	5208.42.00	NUM	ROOT	5208.42.00	O
+
+5208.43.00	5208.43.00	NUM	ROOT	5208.43.00	O
+
+5208.49.00	5208.49.00	NUM	ROOT	5208.49.00	O
+
+5208.51.00	5208.51.00	NUM	ROOT	5208.51.00	O
+
+5208.52.00	5208.52.00	NUM	ROOT	5208.52.00	O
+
+5208.53.00	5208.53.00	NUM	ROOT	5208.53.00	O
+
+5208.59.00	5208.59.00	NUM	ROOT	5208.59.00	O
+
+5209.11.00	5209.11.00	NUM	ROOT	5209.11.00	O
+
+5209.12.00	5209.12.00	NUM	ROOT	5209.12.00	O
+
+5209.19.00	5209.19.00	NUM	ROOT	5209.19.00	O
+
+5209.21.00	5209.21.00	NUM	ROOT	5209.21.00	O
+
+5209.22.00	5209.22.00	NUM	ROOT	5209.22.00	O
+
+5209.29.00	5209.29.00	NUM	ROOT	5209.29.00	O
+
+5209.31.00	5209.31.00	NUM	ROOT	5209.31.00	O
+
+5209.32.00	5209.32.00	NUM	ROOT	5209.32.00	O
+
+5209.39.00	5209.39.00	NUM	ROOT	5209.39.00	O
+
+5209.41.00	5209.41.00	NUM	ROOT	5209.41.00	O
+
+5209.42.10	5209.42.10	NUM	ROOT	5209.42.10	O
+
+5209.42.90	5209.42.90	ADV	ROOT	5209.42.90	O
+
+5209.43.00	5209.43.00	VERB	ROOT	5209.43.00	O
+
+5209.49.00	5209.49.00	NUM	ROOT	5209.49.00	O
+
+5209.51.00	5209.51.00	NUM	ROOT	5209.51.00	O
+
+5209.52.00	5209.52.00	NUM	ROOT	5209.52.00	O
+
+5209.59.00	5209.59.00	NUM	ROOT	5209.59.00	O
+
+5210.11.00	5210.11.00	VERB	ROOT	5210.11.00	O
+
+5210.12.00	5210.12.00	NUM	ROOT	5210.12.00	O
+
+5210.19.00	5210.19.00	NUM	ROOT	5210.19.00	O
+
+5210.21.00	5210.21.00	NUM	ROOT	5210.21.00	O
+
+5210.22.00	5210.22.00	VERB	ROOT	5210.22.00	O
+
+5210.29.00	5210.29.00	NUM	ROOT	5210.29.00	O
+
+5210.31.00	5210.31.00	NUM	ROOT	5210.31.00	O
+
+5210.32.00	5210.32.00	NUM	ROOT	5210.32.00	O
+
+5210.39.00	5210.39.00	NUM	ROOT	5210.39.00	O
+
+5210.41.00	5210.41.00	NUM	ROOT	5210.41.00	O
+
+5210.42.00	5210.42.00	NUM	ROOT	5210.42.00	O
+
+5210.49.00	5210.49.00	NUM	ROOT	5210.49.00	O
+
+5210.51.00	5210.51.00	NUM	ROOT	5210.51.00	O
+
+5210.52.00	5210.52.00	NUM	ROOT	5210.52.00	O
+
+5210.59.00	5210.59.00	NUM	ROOT	5210.59.00	O
+
+5211.11.00	5211.11.00	NUM	ROOT	5211.11.00	O
+
+5211.12.00	5211.12.00	NUM	ROOT	5211.12.00	O
+
+5211.19.00	5211.19.00	NUM	ROOT	5211.19.00	O
+
+5211.21.00	5211.21.00	VERB	ROOT	5211.21.00	O
+
+5211.22.00	5211.22.00	NUM	ROOT	5211.22.00	O
+
+5211.29.00	5211.29.00	VERB	ROOT	5211.29.00	O
+
+5211.31.00	5211.31.00	NUM	ROOT	5211.31.00	O
+
+5211.32.00	5211.32.00	NUM	ROOT	5211.32.00	O
+
+5211.39.00	5211.39.00	NUM	ROOT	5211.39.00	O
+
+5211.41.00	5211.41.00	NUM	ROOT	5211.41.00	O
+
+5211.42.10	5211.42.10	NUM	ROOT	5211.42.10	O
+
+5211.42.90	5211.42.90	ADV	ROOT	5211.42.90	O
+
+5211.43.00	5211.43.00	NUM	ROOT	5211.43.00	O
+
+5211.49.00	5211.49.00	NUM	ROOT	5211.49.00	O
+
+5211.51.00	5211.51.00	NUM	ROOT	5211.51.00	O
+
+5211.52.00	5211.52.00	NUM	ROOT	5211.52.00	O
+
+5211.59.00	5211.59.00	VERB	ROOT	5211.59.00	O
+
+5212.11.00	5212.11.00	NUM	ROOT	5212.11.00	O
+
+5212.12.00	5212.12.00	NUM	ROOT	5212.12.00	O
+
+5212.13.00	5212.13.00	NUM	ROOT	5212.13.00	O
+
+5212.14.00	5212.14.00	VERB	ROOT	5212.14.00	O
+
+5212.15.00	5212.15.00	NUM	ROOT	5212.15.00	O
+
+5212.21.00	5212.21.00	NUM	ROOT	5212.21.00	O
+
+5212.22.00	5212.22.00	VERB	ROOT	5212.22.00	O
+
+5212.23.00	5212.23.00	NUM	ROOT	5212.23.00	O
+
+5212.24.00	5212.24.00	NUM	ROOT	5212.24.00	O
+
+5212.25.00	5212.25.00	NUM	ROOT	5212.25.00	O
+
+5309.11.00	5309.11.00	VERB	ROOT	5309.11.00	O
+
+5309.19.00	5309.19.00	NUM	ROOT	5309.19.00	O
+
+5309.21.00	5309.21.00	NUM	ROOT	5309.21.00	O
+
+5309.29.00	5309.29.00	VERB	ROOT	5309.29.00	O
+
+5310.10.10	5310.10.10	NUM	ROOT	5310.10.10	O
+
+5310.10.90	5310.10.90	NUM	ROOT	5310.10.90	O
+
+5311.00.00	5311.00.00	NUM	ROOT	5311.00.00	O
+
+5401.10.11	5401.10.11	NUM	ROOT	5401.10.11	O
+
+5401.10.12	5401.10.12	ADV	ROOT	5401.10.12	O
+
+5402.10.10	5402.10.10	NUM	ROOT	5402.10.10	O
+
+5402.10.90	5402.10.90	NUM	ROOT	5402.10.90	O
+
+5402.20.00	5402.20.00	NUM	ROOT	5402.20.00	O
+
+5402.31.11	5402.31.11	NUM	ROOT	5402.31.11	O
+
+5402.31.19	5402.31.19	NUM	ROOT	5402.31.19	O
+
+5402.31.90	5402.31.90	NUM	ROOT	5402.31.90	O
+
+5402.32.11	5402.32.11	NUM	ROOT	5402.32.11	O
+
+5402.32.19	5402.32.19	NUM	ROOT	5402.32.19	O
+
+5402.32.90	5402.32.90	NUM	ROOT	5402.32.90	O
+
+5402.33.00	5402.33.00	NUM	ROOT	5402.33.00	O
+
+5402.39.10	5402.39.10	NUM	ROOT	5402.39.10	O
+
+5402.39.90	5402.39.90	NUM	ROOT	5402.39.90	O
+
+5402.41.10	5402.41.10	NUM	ROOT	5402.41.10	O
+
+5402.41.90	5402.41.90	NUM	ROOT	5402.41.90	O
+
+5402.42.00	5402.42.00	NUM	ROOT	5402.42.00	O
+
+5402.43.00	5402.43.00	NUM	ROOT	5402.43.00	O
+
+5402.49.10	5402.49.10	NUM	ROOT	5402.49.10	O
+
+5402.49.90	5402.49.90	NUM	ROOT	5402.49.90	O
+
+5402.51.90	5402.51.90	ADV	ROOT	5402.51.90	O
+
+5402.52.00	5402.52.00	NUM	ROOT	5402.52.00	O
+
+5402.59.00	5402.59.00	NUM	ROOT	5402.59.00	O
+
+5402.61.90	5402.61.90	NUM	ROOT	5402.61.90	O
+
+5402.62.00	5402.62.00	VERB	ROOT	5402.62.00	O
+
+5402.69.00	5402.69.00	NUM	ROOT	5402.69.00	O
+
+5403.10.00	5403.10.00	NUM	ROOT	5403.10.00	O
+
+5403.20.10	5403.20.10	NOUN	ROOT	5403.20.10	O
+
+5403.20.90	5403.20.90	NUM	ROOT	5403.20.90	O
+
+5403.31.00	5403.31.00	NUM	ROOT	5403.31.00	O
+
+5403.32.00	5403.32.00	NUM	ROOT	5403.32.00	O
+
+5403.33.00	5403.33.00	NUM	ROOT	5403.33.00	O
+
+5403.39.00	5403.39.00	VERB	ROOT	5403.39.00	O
+
+5403.41.00	5403.41.00	NUM	ROOT	5403.41.00	O
+
+5403.42.00	5403.42.00	NUM	ROOT	5403.42.00	O
+
+5403.49.00	5403.49.00	NUM	ROOT	5403.49.00	O
+
+5404.10.11	5404.10.11	NUM	ROOT	5404.10.11	O
+
+5404.10.19	5404.10.19	NUM	ROOT	5404.10.19	O
+
+5404.10.90	5404.10.90	NUM	ROOT	5404.10.90	O
+
+5404.90.00	5404.90.00	NUM	ROOT	5404.90.00	O
+
+5406.10.00	5406.10.00	NUM	ROOT	5406.10.00	O
+
+5406.20.00	5406.20.00	NUM	ROOT	5406.20.00	O
+
+5407.10.19	5407.10.19	NUM	ROOT	5407.10.19	O
+
+5407.10.29	5407.10.29	NUM	ROOT	5407.10.29	O
+
+5407.20.00	5407.20.00	NUM	ROOT	5407.20.00	O
+
+5407.30.00	5407.30.00	NUM	ROOT	5407.30.00	O
+
+5407.41.00	5407.41.00	NUM	ROOT	5407.41.00	O
+
+5407.42.00	5407.42.00	NUM	ROOT	5407.42.00	O
+
+5407.43.00	5407.43.00	NUM	ROOT	5407.43.00	O
+
+5407.44.00	5407.44.00	NUM	ROOT	5407.44.00	O
+
+5407.51.00	5407.51.00	NUM	ROOT	5407.51.00	O
+
+5407.52.10	5407.52.10	NUM	ROOT	5407.52.10	O
+
+5407.52.20	5407.52.20	NUM	ROOT	5407.52.20	O
+
+5407.53.00	5407.53.00	NUM	ROOT	5407.53.00	O
+
+5407.54.00	5407.54.00	NUM	ROOT	5407.54.00	O
+
+5407.61.00	5407.61.00	NUM	ROOT	5407.61.00	O
+
+5407.69.00	5407.69.00	NUM	ROOT	5407.69.00	O
+
+5407.71.00	5407.71.00	NUM	ROOT	5407.71.00	O
+
+5407.72.00	5407.72.00	NUM	ROOT	5407.72.00	O
+
+5407.73.00	5407.73.00	NUM	ROOT	5407.73.00	O
+
+5407.74.00	5407.74.00	NUM	ROOT	5407.74.00	O
+
+5407.81.00	5407.81.00	NUM	ROOT	5407.81.00	O
+
+5407.82.00	5407.82.00	NUM	ROOT	5407.82.00	O
+
+5407.83.00	5407.83.00	NUM	ROOT	5407.83.00	O
+
+5407.84.00	5407.84.00	VERB	ROOT	5407.84.00	O
+
+5407.91.00	5407.91.00	NUM	ROOT	5407.91.00	O
+
+5407.92.00	5407.92.00	NUM	ROOT	5407.92.00	O
+
+5407.93.00	5407.93.00	VERB	ROOT	5407.93.00	O
+
+5407.94.00	5407.94.00	NUM	ROOT	5407.94.00	O
+
+5408.10.00	5408.10.00	NUM	ROOT	5408.10.00	O
+
+5408.21.00	5408.21.00	NUM	ROOT	5408.21.00	O
+
+5408.22.00	5408.22.00	NUM	ROOT	5408.22.00	O
+
+5408.23.00	5408.23.00	NUM	ROOT	5408.23.00	O
+
+5408.24.00	5408.24.00	NUM	ROOT	5408.24.00	O
+
+5408.31.00	5408.31.00	NUM	ROOT	5408.31.00	O
+
+5408.32.00	5408.32.00	NUM	ROOT	5408.32.00	O
+
+5408.33.00	5408.33.00	NUM	ROOT	5408.33.00	O
+
+5408.34.00	5408.34.00	NUM	ROOT	5408.34.00	O
+
+5501.10.00	5501.10.00	NUM	ROOT	5501.10.00	O
+
+5501.20.00	5501.20.00	NOUN	ROOT	5501.20.00	O
+
+5501.30.00	5501.30.00	NUM	ROOT	5501.30.00	O
+
+5501.90.00	5501.90.00	NUM	ROOT	5501.90.00	O
+
+5503.10.91	5503.10.91	NUM	ROOT	5503.10.91	O
+
+5503.10.99	5503.10.99	NUM	ROOT	5503.10.99	O
+
+5503.20.00	5503.20.00	NUM	ROOT	5503.20.00	O
+
+5503.30.00	5503.30.00	NUM	ROOT	5503.30.00	O
+
+5503.40.00	5503.40.00	NUM	ROOT	5503.40.00	O
+
+5503.90.10	5503.90.10	NUM	ROOT	5503.90.10	O
+
+5503.90.90	5503.90.90	ADV	ROOT	5503.90.90	O
+
+5505.10.00	5505.10.00	VERB	ROOT	5505.10.00	O
+
+5505.20.00	5505.20.00	NUM	ROOT	5505.20.00	O
+
+5506.10.00	5506.10.00	VERB	ROOT	5506.10.00	O
+
+5506.20.00	5506.20.00	NUM	ROOT	5506.20.00	O
+
+5506.30.00	5506.30.00	NUM	ROOT	5506.30.00	O
+
+5506.90.00	5506.90.00	NUM	ROOT	5506.90.00	O
+
+5507.00.00	5507.00.00	NUM	ROOT	5507.00.00	O
+
+5508.10.00	5508.10.00	NUM	ROOT	5508.10.00	O
+
+5509.22.00	5509.22.00	NUM	ROOT	5509.22.00	O
+
+5509.31.00	5509.31.00	NUM	ROOT	5509.31.00	O
+
+5509.32.00	5509.32.00	VERB	ROOT	5509.32.00	O
+
+5509.53.00	5509.53.00	NUM	ROOT	5509.53.00	O
+
+5509.61.00	5509.61.00	NUM	ROOT	5509.61.00	O
+
+5509.62.00	5509.62.00	NUM	ROOT	5509.62.00	O
+
+5510.11.00	5510.11.00	NUM	ROOT	5510.11.00	O
+
+5510.90.00	5510.90.00	NUM	ROOT	5510.90.00	O
+
+5511.10.00	5511.10.00	NUM	ROOT	5511.10.00	O
+
+5512.11.00	5512.11.00	NOUN	ROOT	5512.11.00	O
+
+5512.19.00	5512.19.00	NUM	ROOT	5512.19.00	O
+
+5512.21.00	5512.21.00	NUM	ROOT	5512.21.00	O
+
+5512.29.00	5512.29.00	NUM	ROOT	5512.29.00	O
+
+5512.91.90	5512.91.90	NUM	ROOT	5512.91.90	O
+
+5512.99.90	5512.99.90	NUM	ROOT	5512.99.90	O
+
+5513.11.00	5513.11.00	NUM	ROOT	5513.11.00	O
+
+5513.12.00	5513.12.00	NUM	ROOT	5513.12.00	O
+
+5513.13.00	5513.13.00	NUM	ROOT	5513.13.00	O
+
+5513.19.00	5513.19.00	NUM	ROOT	5513.19.00	O
+
+5513.21.00	5513.21.00	NUM	ROOT	5513.21.00	O
+
+5513.22.00	5513.22.00	NUM	ROOT	5513.22.00	O
+
+5513.23.00	5513.23.00	NUM	ROOT	5513.23.00	O
+
+5513.29.00	5513.29.00	NOUN	ROOT	5513.29.00	O
+
+5513.31.00	5513.31.00	NUM	ROOT	5513.31.00	O
+
+5513.32.00	5513.32.00	VERB	ROOT	5513.32.00	O
+
+5513.33.00	5513.33.00	NUM	ROOT	5513.33.00	O
+
+5513.39.00	5513.39.00	VERB	ROOT	5513.39.00	O
+
+5513.41.00	5513.41.00	NUM	ROOT	5513.41.00	O
+
+5513.42.00	5513.42.00	NUM	ROOT	5513.42.00	O
+
+5513.43.00	5513.43.00	NUM	ROOT	5513.43.00	O
+
+5513.49.00	5513.49.00	NUM	ROOT	5513.49.00	O
+
+5514.11.00	5514.11.00	NUM	ROOT	5514.11.00	O
+
+5514.12.00	5514.12.00	NUM	ROOT	5514.12.00	O
+
+5514.13.00	5514.13.00	NUM	ROOT	5514.13.00	O
+
+5514.19.00	5514.19.00	NUM	ROOT	5514.19.00	O
+
+5514.21.00	5514.21.00	NUM	ROOT	5514.21.00	O
+
+5514.22.00	5514.22.00	NUM	ROOT	5514.22.00	O
+
+5514.23.00	5514.23.00	NUM	ROOT	5514.23.00	O
+
+5514.29.00	5514.29.00	NUM	ROOT	5514.29.00	O
+
+5514.31.00	5514.31.00	NUM	ROOT	5514.31.00	O
+
+5514.32.00	5514.32.00	NUM	ROOT	5514.32.00	O
+
+5514.33.00	5514.33.00	NUM	ROOT	5514.33.00	O
+
+5514.39.00	5514.39.00	NUM	ROOT	5514.39.00	O
+
+5514.41.00	5514.41.00	NUM	ROOT	5514.41.00	O
+
+5514.42.00	5514.42.00	NUM	ROOT	5514.42.00	O
+
+5514.43.00	5514.43.00	NUM	ROOT	5514.43.00	O
+
+5514.49.00	5514.49.00	NUM	ROOT	5514.49.00	O
+
+5515.11.00	5515.11.00	NUM	ROOT	5515.11.00	O
+
+5515.12.00	5515.12.00	NUM	ROOT	5515.12.00	O
+
+5515.13.00	5515.13.00	NUM	ROOT	5515.13.00	O
+
+5515.19.00	5515.19.00	NUM	ROOT	5515.19.00	O
+
+5515.21.00	5515.21.00	NUM	ROOT	5515.21.00	O
+
+5515.22.00	5515.22.00	NUM	ROOT	5515.22.00	O
+
+5515.29.00	5515.29.00	NUM	ROOT	5515.29.00	O
+
+5515.91.00	5515.91.00	NUM	ROOT	5515.91.00	O
+
+5515.92.00	5515.92.00	NUM	ROOT	5515.92.00	O
+
+5515.99.00	5515.99.00	NUM	ROOT	5515.99.00	O
+
+5516.11.00	5516.11.00	NUM	ROOT	5516.11.00	O
+
+5516.12.00	5516.12.00	NUM	ROOT	5516.12.00	O
+
+5516.13.00	5516.13.00	NUM	ROOT	5516.13.00	O
+
+5516.14.00	5516.14.00	NUM	ROOT	5516.14.00	O
+
+5516.21.00	5516.21.00	NUM	ROOT	5516.21.00	O
+
+5516.22.00	5516.22.00	NUM	ROOT	5516.22.00	O
+
+5516.23.00	5516.23.00	NOUN	ROOT	5516.23.00	O
+
+5516.24.00	5516.24.00	NUM	ROOT	5516.24.00	O
+
+5516.31.00	5516.31.00	NUM	ROOT	5516.31.00	O
+
+5516.32.00	5516.32.00	NUM	ROOT	5516.32.00	O
+
+5516.33.00	5516.33.00	NUM	ROOT	5516.33.00	O
+
+5516.34.00	5516.34.00	NUM	ROOT	5516.34.00	O
+
+5516.41.00	5516.41.00	NUM	ROOT	5516.41.00	O
+
+5516.42.00	5516.42.00	NUM	ROOT	5516.42.00	O
+
+5516.43.00	5516.43.00	VERB	ROOT	5516.43.00	O
+
+5516.44.00	5516.44.00	NUM	ROOT	5516.44.00	O
+
+5516.91.00	5516.91.00	NUM	ROOT	5516.91.00	O
+
+5516.92.00	5516.92.00	NUM	ROOT	5516.92.00	O
+
+5516.93.00	5516.93.00	NUM	ROOT	5516.93.00	O
+
+5516.94.00	5516.94.00	NUM	ROOT	5516.94.00	O
+
+5602.10.00	5602.10.00	NUM	ROOT	5602.10.00	O
+
+5602.21.00	5602.21.00	NUM	ROOT	5602.21.00	O
+
+5602.29.00	5602.29.00	VERB	ROOT	5602.29.00	O
+
+5602.90.00	5602.90.00	VERB	ROOT	5602.90.00	O
+
+5603.11.90	5603.11.90	ADV	ROOT	5603.11.90	O
+
+5603.12.10	5603.12.10	NUM	ROOT	5603.12.10	O
+
+5603.12.90	5603.12.90	NUM	ROOT	5603.12.90	O
+
+5603.13.10	5603.13.10	NUM	ROOT	5603.13.10	O
+
+5603.13.90	5603.13.90	NUM	ROOT	5603.13.90	O
+
+5603.14.90	5603.14.90	ADV	ROOT	5603.14.90	O
+
+5603.91.00	5603.91.00	NOUN	ROOT	5603.91.00	O
+
+5603.92.10	5603.92.10	NUM	ROOT	5603.92.10	O
+
+5603.92.90	5603.92.90	NUM	ROOT	5603.92.90	O
+
+5603.93.10	5603.93.10	NUM	ROOT	5603.93.10	O
+
+5603.93.90	5603.93.90	ADV	ROOT	5603.93.90	O
+
+5603.94.00	5603.94.00	NUM	ROOT	5603.94.00	O
+
+5604.10.00	5604.10.00	NUM	ROOT	5604.10.00	O
+
+5607.29.00	5607.29.00	NUM	ROOT	5607.29.00	O
+
+5607.41.00	5607.41.00	NUM	ROOT	5607.41.00	O
+
+5607.49.00	5607.49.00	NUM	ROOT	5607.49.00	O
+
+5607.50.90	5607.50.90	NUM	ROOT	5607.50.90	O
+
+5608.11.00	5608.11.00	NUM	ROOT	5608.11.00	O
+
+5701.10.11	5701.10.11	NUM	ROOT	5701.10.11	O
+
+5701.10.12	5701.10.12	NUM	ROOT	5701.10.12	O
+
+5701.10.20	5701.10.20	NUM	ROOT	5701.10.20	O
+
+5701.90.00	5701.90.00	NUM	ROOT	5701.90.00	O
+
+5702.10.00	5702.10.00	NUM	ROOT	5702.10.00	O
+
+5702.20.00	5702.20.00	NUM	ROOT	5702.20.00	O
+
+5702.31.00	5702.31.00	NUM	ROOT	5702.31.00	O
+
+5702.32.00	5702.32.00	NUM	ROOT	5702.32.00	O
+
+5702.39.00	5702.39.00	SYM	ROOT	5702.39.00	O
+
+5702.41.00	5702.41.00	NUM	ROOT	5702.41.00	O
+
+5702.42.00	5702.42.00	NUM	ROOT	5702.42.00	O
+
+5702.49.00	5702.49.00	VERB	ROOT	5702.49.00	O
+
+5702.51.00	5702.51.00	NUM	ROOT	5702.51.00	O
+
+5702.52.00	5702.52.00	NUM	ROOT	5702.52.00	O
+
+5702.59.00	5702.59.00	NUM	ROOT	5702.59.00	O
+
+5702.91.00	5702.91.00	NUM	ROOT	5702.91.00	O
+
+5702.92.00	5702.92.00	NUM	ROOT	5702.92.00	O
+
+5702.99.00	5702.99.00	NUM	ROOT	5702.99.00	O
+
+5703.10.00	5703.10.00	NUM	ROOT	5703.10.00	O
+
+5703.20.00	5703.20.00	VERB	ROOT	5703.20.00	O
+
+5703.30.00	5703.30.00	NUM	ROOT	5703.30.00	O
+
+5703.90.00	5703.90.00	NUM	ROOT	5703.90.00	O
+
+5704.10.00	5704.10.00	NUM	ROOT	5704.10.00	O
+
+5704.90.00	5704.90.00	NUM	ROOT	5704.90.00	O
+
+5705.00.00	5705.00.00	NUM	ROOT	5705.00.00	O
+
+5801.10.00	5801.10.00	NUM	ROOT	5801.10.00	O
+
+5801.21.00	5801.21.00	NUM	ROOT	5801.21.00	O
+
+5801.22.00	5801.22.00	NUM	ROOT	5801.22.00	O
+
+5801.23.00	5801.23.00	NUM	ROOT	5801.23.00	O
+
+5801.24.00	5801.24.00	NUM	ROOT	5801.24.00	O
+
+5801.25.00	5801.25.00	NUM	ROOT	5801.25.00	O
+
+5801.26.00	5801.26.00	NUM	ROOT	5801.26.00	O
+
+5801.31.00	5801.31.00	NUM	ROOT	5801.31.00	O
+
+5801.32.00	5801.32.00	NUM	ROOT	5801.32.00	O
+
+5801.33.00	5801.33.00	NUM	ROOT	5801.33.00	O
+
+5801.34.00	5801.34.00	NUM	ROOT	5801.34.00	O
+
+5801.35.00	5801.35.00	NUM	ROOT	5801.35.00	O
+
+5801.36.00	5801.36.00	NOUN	ROOT	5801.36.00	O
+
+5801.90.00	5801.90.00	NUM	ROOT	5801.90.00	O
+
+5802.11.00	5802.11.00	NOUN	ROOT	5802.11.00	O
+
+5802.19.00	5802.19.00	NUM	ROOT	5802.19.00	O
+
+5802.20.00	5802.20.00	NUM	ROOT	5802.20.00	O
+
+5802.30.00	5802.30.00	NOUN	ROOT	5802.30.00	O
+
+5803.10.00	5803.10.00	VERB	ROOT	5803.10.00	O
+
+5803.90.00	5803.90.00	NUM	ROOT	5803.90.00	O
+
+5804.10.10	5804.10.10	NUM	ROOT	5804.10.10	O
+
+5804.10.90	5804.10.90	ADV	ROOT	5804.10.90	O
+
+5804.21.00	5804.21.00	NUM	ROOT	5804.21.00	O
+
+5804.29.10	5804.29.10	NUM	ROOT	5804.29.10	O
+
+5804.29.90	5804.29.90	NUM	ROOT	5804.29.90	O
+
+5804.30.10	5804.30.10	NUM	ROOT	5804.30.10	O
+
+5804.30.90	5804.30.90	ADJ	ROOT	5804.30.90	O
+
+5805.00.10	5805.00.10	NUM	ROOT	5805.00.10	O
+
+5805.00.20	5805.00.20	NUM	ROOT	5805.00.20	O
+
+5805.00.90	5805.00.90	ADV	ROOT	5805.00.90	O
+
+5806.10.00	5806.10.00	NUM	ROOT	5806.10.00	O
+
+5806.20.00	5806.20.00	NUM	ROOT	5806.20.00	O
+
+5806.31.00	5806.31.00	NUM	ROOT	5806.31.00	O
+
+5806.32.00	5806.32.00	NUM	ROOT	5806.32.00	O
+
+5806.39.00	5806.39.00	NUM	ROOT	5806.39.00	O
+
+5806.40.00	5806.40.00	NUM	ROOT	5806.40.00	O
+
+5807.10.00	5807.10.00	NUM	ROOT	5807.10.00	O
+
+5807.90.00	5807.90.00	NUM	ROOT	5807.90.00	O
+
+5808.10.00	5808.10.00	NUM	ROOT	5808.10.00	O
+
+5808.90.00	5808.90.00	VERB	ROOT	5808.90.00	O
+
+5809.00.00	5809.00.00	NUM	ROOT	5809.00.00	O
+
+5810.10.00	5810.10.00	NUM	ROOT	5810.10.00	O
+
+5810.91.00	5810.91.00	NUM	ROOT	5810.91.00	O
+
+5810.92.00	5810.92.00	NUM	ROOT	5810.92.00	O
+
+5810.99.00	5810.99.00	NUM	ROOT	5810.99.00	O
+
+5811.00.00	5811.00.00	NUM	ROOT	5811.00.00	O
+
+5902.10.10	5902.10.10	NUM	ROOT	5902.10.10	O
+
+5902.10.90	5902.10.90	ADV	ROOT	5902.10.90	O
+
+5902.20.00	5902.20.00	NUM	ROOT	5902.20.00	O
+
+5902.90.00	5902.90.00	NUM	ROOT	5902.90.00	O
+
+5903.10.00	5903.10.00	NUM	ROOT	5903.10.00	O
+
+5903.20.00	5903.20.00	NUM	ROOT	5903.20.00	O
+
+5903.90.00	5903.90.00	NUM	ROOT	5903.90.00	O
+
+5906.99.00	5906.99.00	NUM	ROOT	5906.99.00	O
+
+5907.00.00	5907.00.00	VERB	ROOT	5907.00.00	O
+
+6001.10.10	6001.10.10	DET	ROOT	6001.10.10	O
+
+6001.10.20	6001.10.20	NUM	ROOT	6001.10.20	O
+
+6001.10.90	6001.10.90	NUM	ROOT	6001.10.90	O
+
+6001.21.00	6001.21.00	VERB	ROOT	6001.21.00	O
+
+6001.22.00	6001.22.00	NUM	ROOT	6001.22.00	O
+
+6001.29.00	6001.29.00	VERB	ROOT	6001.29.00	O
+
+6001.91.00	6001.91.00	NUM	ROOT	6001.91.00	O
+
+6001.92.00	6001.92.00	NUM	ROOT	6001.92.00	O
+
+6001.99.00	6001.99.00	NOUN	ROOT	6001.99.00	O
+
+6002.40.10	6002.40.10	NUM	ROOT	6002.40.10	O
+
+6002.40.20	6002.40.20	NUM	ROOT	6002.40.20	O
+
+6002.40.90	6002.40.90	NUM	ROOT	6002.40.90	O
+
+6002.90.10	6002.90.10	ADJ	ROOT	6002.90.10	O
+
+6002.90.20	6002.90.20	NUM	ROOT	6002.90.20	O
+
+6002.90.90	6002.90.90	NUM	ROOT	6002.90.90	O
+
+6003.10.00	6003.10.00	NOUN	ROOT	6003.10.00	O
+
+6003.20.00	6003.20.00	NUM	ROOT	6003.20.00	O
+
+6003.30.00	6003.30.00	NUM	ROOT	6003.30.00	O
+
+6003.40.00	6003.40.00	NUM	ROOT	6003.40.00	O
+
+6003.90.00	6003.90.00	VERB	ROOT	6003.90.00	O
+
+6004.10.10	6004.10.10	NUM	ROOT	6004.10.10	O
+
+6004.10.20	6004.10.20	NUM	ROOT	6004.10.20	O
+
+6004.10.90	6004.10.90	NUM	ROOT	6004.10.90	O
+
+6004.90.10	6004.90.10	NOUN	ROOT	6004.90.10	O
+
+6004.90.20	6004.90.20	NUM	ROOT	6004.90.20	O
+
+6004.90.90	6004.90.90	NUM	ROOT	6004.90.90	O
+
+6005.10.00	6005.10.00	NOUN	ROOT	6005.10.00	O
+
+6005.21.00	6005.21.00	NOUN	ROOT	6005.21.00	O
+
+6005.22.00	6005.22.00	NUM	ROOT	6005.22.00	O
+
+6005.23.00	6005.23.00	NOUN	ROOT	6005.23.00	O
+
+6005.24.00	6005.24.00	NOUN	ROOT	6005.24.00	O
+
+6005.31.00	6005.31.00	NUM	ROOT	6005.31.00	O
+
+6005.32.00	6005.32.00	NUM	ROOT	6005.32.00	O
+
+6005.33.00	6005.33.00	NUM	ROOT	6005.33.00	O
+
+6005.34.00	6005.34.00	NOUN	ROOT	6005.34.00	O
+
+6005.41.00	6005.41.00	NOUN	ROOT	6005.41.00	O
+
+6005.42.00	6005.42.00	NUM	ROOT	6005.42.00	O
+
+6005.43.00	6005.43.00	NOUN	ROOT	6005.43.00	O
+
+6005.44.00	6005.44.00	NUM	ROOT	6005.44.00	O
+
+6005.90.00	6005.90.00	NOUN	ROOT	6005.90.00	O
+
+6006.10.00	6006.10.00	NOUN	ROOT	6006.10.00	O
+
+6006.21.00	6006.21.00	NUM	ROOT	6006.21.00	O
+
+6006.22.00	6006.22.00	NUM	ROOT	6006.22.00	O
+
+6006.23.00	6006.23.00	NOUN	ROOT	6006.23.00	O
+
+6006.24.00	6006.24.00	NOUN	ROOT	6006.24.00	O
+
+6006.31.00	6006.31.00	NUM	ROOT	6006.31.00	O
+
+6006.32.00	6006.32.00	NUM	ROOT	6006.32.00	O
+
+6006.33.00	6006.33.00	NOUN	ROOT	6006.33.00	O
+
+6006.34.00	6006.34.00	NUM	ROOT	6006.34.00	O
+
+6006.41.00	6006.41.00	NOUN	ROOT	6006.41.00	O
+
+6006.42.00	6006.42.00	NUM	ROOT	6006.42.00	O
+
+6006.43.00	6006.43.00	NUM	ROOT	6006.43.00	O
+
+6006.44.00	6006.44.00	NOUN	ROOT	6006.44.00	O
+
+6006.90.00	6006.90.00	NUM	ROOT	6006.90.00	O
+
+6101.10.00	6101.10.00	NOUN	ROOT	6101.10.00	O
+
+6101.20.00	6101.20.00	NUM	ROOT	6101.20.00	O
+
+6101.30.00	6101.30.00	NUM	ROOT	6101.30.00	O
+
+6101.90.00	6101.90.00	NUM	ROOT	6101.90.00	O
+
+6102.10.00	6102.10.00	NUM	ROOT	6102.10.00	O
+
+6102.20.00	6102.20.00	NOUN	ROOT	6102.20.00	O
+
+6102.30.00	6102.30.00	DET	ROOT	6102.30.00	O
+
+6102.90.00	6102.90.00	NUM	ROOT	6102.90.00	O
+
+6103.11.00	6103.11.00	NUM	ROOT	6103.11.00	O
+
+6103.12.00	6103.12.00	NUM	ROOT	6103.12.00	O
+
+6103.19.00	6103.19.00	NUM	ROOT	6103.19.00	O
+
+6103.21.00	6103.21.00	NOUN	ROOT	6103.21.00	O
+
+6103.22.00	6103.22.00	NOUN	ROOT	6103.22.00	O
+
+6103.23.00	6103.23.00	VERB	ROOT	6103.23.00	O
+
+6103.29.00	6103.29.00	NUM	ROOT	6103.29.00	O
+
+6103.31.00	6103.31.00	NUM	ROOT	6103.31.00	O
+
+6103.32.00	6103.32.00	NOUN	ROOT	6103.32.00	O
+
+6103.33.00	6103.33.00	NUM	ROOT	6103.33.00	O
+
+6103.39.00	6103.39.00	NUM	ROOT	6103.39.00	O
+
+6103.41.00	6103.41.00	NUM	ROOT	6103.41.00	O
+
+6103.42.00	6103.42.00	NOUN	ROOT	6103.42.00	O
+
+6103.43.00	6103.43.00	NOUN	ROOT	6103.43.00	O
+
+6103.49.00	6103.49.00	NUM	ROOT	6103.49.00	O
+
+6104.11.00	6104.11.00	NUM	ROOT	6104.11.00	O
+
+6104.12.00	6104.12.00	NUM	ROOT	6104.12.00	O
+
+6104.13.00	6104.13.00	NOUN	ROOT	6104.13.00	O
+
+6104.19.00	6104.19.00	NUM	ROOT	6104.19.00	O
+
+6104.21.00	6104.21.00	NOUN	ROOT	6104.21.00	O
+
+6104.22.00	6104.22.00	NUM	ROOT	6104.22.00	O
+
+6104.23.00	6104.23.00	NOUN	ROOT	6104.23.00	O
+
+6104.29.00	6104.29.00	NOUN	ROOT	6104.29.00	O
+
+6104.31.00	6104.31.00	NUM	ROOT	6104.31.00	O
+
+6104.32.00	6104.32.00	NUM	ROOT	6104.32.00	O
+
+6104.33.00	6104.33.00	NUM	ROOT	6104.33.00	O
+
+6104.39.00	6104.39.00	NUM	ROOT	6104.39.00	O
+
+6104.41.00	6104.41.00	NUM	ROOT	6104.41.00	O
+
+6104.42.00	6104.42.00	NUM	ROOT	6104.42.00	O
+
+6104.43.00	6104.43.00	NUM	ROOT	6104.43.00	O
+
+6104.44.00	6104.44.00	NUM	ROOT	6104.44.00	O
+
+6104.49.00	6104.49.00	NUM	ROOT	6104.49.00	O
+
+6104.51.00	6104.51.00	NOUN	ROOT	6104.51.00	O
+
+6104.52.00	6104.52.00	NUM	ROOT	6104.52.00	O
+
+6104.53.00	6104.53.00	NOUN	ROOT	6104.53.00	O
+
+6104.59.00	6104.59.00	NUM	ROOT	6104.59.00	O
+
+6104.61.00	6104.61.00	NUM	ROOT	6104.61.00	O
+
+6104.62.00	6104.62.00	NUM	ROOT	6104.62.00	O
+
+6104.63.00	6104.63.00	NOUN	ROOT	6104.63.00	O
+
+6104.69.00	6104.69.00	NOUN	ROOT	6104.69.00	O
+
+6105.10.00	6105.10.00	NOUN	ROOT	6105.10.00	O
+
+6105.20.00	6105.20.00	NUM	ROOT	6105.20.00	O
+
+6105.90.00	6105.90.00	NOUN	ROOT	6105.90.00	O
+
+6106.10.00	6106.10.00	NOUN	ROOT	6106.10.00	O
+
+6106.20.00	6106.20.00	NUM	ROOT	6106.20.00	O
+
+6106.90.00	6106.90.00	VERB	ROOT	6106.90.00	O
+
+6107.11.00	6107.11.00	NOUN	ROOT	6107.11.00	O
+
+6107.12.00	6107.12.00	DET	ROOT	6107.12.00	O
+
+6107.19.00	6107.19.00	NOUN	ROOT	6107.19.00	O
+
+6107.21.00	6107.21.00	NUM	ROOT	6107.21.00	O
+
+6107.22.00	6107.22.00	NUM	ROOT	6107.22.00	O
+
+6107.29.00	6107.29.00	NOUN	ROOT	6107.29.00	O
+
+6107.91.00	6107.91.00	NUM	ROOT	6107.91.00	O
+
+6107.92.00	6107.92.00	NOUN	ROOT	6107.92.00	O
+
+6107.99.00	6107.99.00	NUM	ROOT	6107.99.00	O
+
+6108.11.00	6108.11.00	NUM	ROOT	6108.11.00	O
+
+6108.19.00	6108.19.00	NOUN	ROOT	6108.19.00	O
+
+6108.21.00	6108.21.00	NUM	ROOT	6108.21.00	O
+
+6108.22.00	6108.22.00	NOUN	ROOT	6108.22.00	O
+
+6108.29.00	6108.29.00	NUM	ROOT	6108.29.00	O
+
+6108.31.00	6108.31.00	NUM	ROOT	6108.31.00	O
+
+6108.32.00	6108.32.00	NUM	ROOT	6108.32.00	O
+
+6108.39.00	6108.39.00	NOUN	ROOT	6108.39.00	O
+
+6108.91.00	6108.91.00	NUM	ROOT	6108.91.00	O
+
+6108.92.00	6108.92.00	NUM	ROOT	6108.92.00	O
+
+6108.99.00	6108.99.00	VERB	ROOT	6108.99.00	O
+
+6109.10.00	6109.10.00	NUM	ROOT	6109.10.00	O
+
+6109.90.00	6109.90.00	NOUN	ROOT	6109.90.00	O
+
+6110.11.00	6110.11.00	NOUN	ROOT	6110.11.00	O
+
+6110.12.00	6110.12.00	VERB	ROOT	6110.12.00	O
+
+6110.19.00	6110.19.00	NUM	ROOT	6110.19.00	O
+
+6110.20.00	6110.20.00	NUM	ROOT	6110.20.00	O
+
+6110.30.00	6110.30.00	NOUN	ROOT	6110.30.00	O
+
+6110.90.00	6110.90.00	VERB	ROOT	6110.90.00	O
+
+6111.10.00	6111.10.00	NUM	ROOT	6111.10.00	O
+
+6111.20.00	6111.20.00	NOUN	ROOT	6111.20.00	O
+
+6111.30.00	6111.30.00	NUM	ROOT	6111.30.00	O
+
+6111.90.00	6111.90.00	NUM	ROOT	6111.90.00	O
+
+6112.11.00	6112.11.00	NOUN	ROOT	6112.11.00	O
+
+6112.12.00	6112.12.00	NOUN	ROOT	6112.12.00	O
+
+6112.19.00	6112.19.00	NUM	ROOT	6112.19.00	O
+
+6112.20.00	6112.20.00	NOUN	ROOT	6112.20.00	O
+
+6112.31.00	6112.31.00	NUM	ROOT	6112.31.00	O
+
+6112.39.00	6112.39.00	NUM	ROOT	6112.39.00	O
+
+6112.41.00	6112.41.00	NUM	ROOT	6112.41.00	O
+
+6112.49.00	6112.49.00	NOUN	ROOT	6112.49.00	O
+
+6113.00.00	6113.00.00	NUM	ROOT	6113.00.00	O
+
+6114.10.00	6114.10.00	VERB	ROOT	6114.10.00	O
+
+6114.20.00	6114.20.00	NUM	ROOT	6114.20.00	O
+
+6114.30.00	6114.30.00	NUM	ROOT	6114.30.00	O
+
+6114.90.00	6114.90.00	NOUN	ROOT	6114.90.00	O
+
+6115.11.00	6115.11.00	NUM	ROOT	6115.11.00	O
+
+6115.12.00	6115.12.00	NOUN	ROOT	6115.12.00	O
+
+6115.19.10	6115.19.10	NOUN	ROOT	6115.19.10	O
+
+6115.19.20	6115.19.20	NUM	ROOT	6115.19.20	O
+
+6115.19.90	6115.19.90	ADV	ROOT	6115.19.90	O
+
+6115.20.10	6115.20.10	NUM	ROOT	6115.20.10	O
+
+6115.20.20	6115.20.20	NUM	ROOT	6115.20.20	O
+
+6115.20.90	6115.20.90	ADV	ROOT	6115.20.90	O
+
+6115.91.00	6115.91.00	NUM	ROOT	6115.91.00	O
+
+6115.92.00	6115.92.00	NOUN	ROOT	6115.92.00	O
+
+6115.93.00	6115.93.00	NUM	ROOT	6115.93.00	O
+
+6115.99.00	6115.99.00	NUM	ROOT	6115.99.00	O
+
+6116.10.00	6116.10.00	NUM	ROOT	6116.10.00	O
+
+6116.91.00	6116.91.00	NOUN	ROOT	6116.91.00	O
+
+6116.92.00	6116.92.00	NUM	ROOT	6116.92.00	O
+
+6116.93.00	6116.93.00	NOUN	ROOT	6116.93.00	O
+
+6116.99.00	6116.99.00	VERB	ROOT	6116.99.00	O
+
+6117.10.00	6117.10.00	NUM	ROOT	6117.10.00	O
+
+6117.20.00	6117.20.00	DET	ROOT	6117.20.00	O
+
+6117.80.00	6117.80.00	NOUN	ROOT	6117.80.00	O
+
+6117.90.00	6117.90.00	VERB	ROOT	6117.90.00	O
+
+6201.11.00	6201.11.00	NUM	ROOT	6201.11.00	O
+
+6201.12.00	6201.12.00	NUM	ROOT	6201.12.00	O
+
+6201.13.00	6201.13.00	NUM	ROOT	6201.13.00	O
+
+6201.19.00	6201.19.00	NUM	ROOT	6201.19.00	O
+
+6201.91.00	6201.91.00	NUM	ROOT	6201.91.00	O
+
+6201.92.00	6201.92.00	NUM	ROOT	6201.92.00	O
+
+6201.93.00	6201.93.00	NUM	ROOT	6201.93.00	O
+
+6201.99.00	6201.99.00	NOUN	ROOT	6201.99.00	O
+
+6202.11.00	6202.11.00	NOUN	ROOT	6202.11.00	O
+
+6202.12.00	6202.12.00	NUM	ROOT	6202.12.00	O
+
+6202.13.00	6202.13.00	NUM	ROOT	6202.13.00	O
+
+6202.19.00	6202.19.00	NUM	ROOT	6202.19.00	O
+
+6202.91.00	6202.91.00	NUM	ROOT	6202.91.00	O
+
+6202.92.00	6202.92.00	NUM	ROOT	6202.92.00	O
+
+6202.93.00	6202.93.00	NOUN	ROOT	6202.93.00	O
+
+6202.99.00	6202.99.00	NOUN	ROOT	6202.99.00	O
+
+6203.11.00	6203.11.00	NOUN	ROOT	6203.11.00	O
+
+6203.12.00	6203.12.00	NUM	ROOT	6203.12.00	O
+
+6203.19.00	6203.19.00	NOUN	ROOT	6203.19.00	O
+
+6203.21.00	6203.21.00	NUM	ROOT	6203.21.00	O
+
+6203.22.00	6203.22.00	NOUN	ROOT	6203.22.00	O
+
+6203.23.00	6203.23.00	NUM	ROOT	6203.23.00	O
+
+6203.29.00	6203.29.00	NOUN	ROOT	6203.29.00	O
+
+6203.31.00	6203.31.00	NUM	ROOT	6203.31.00	O
+
+6203.32.00	6203.32.00	NUM	ROOT	6203.32.00	O
+
+6203.33.00	6203.33.00	VERB	ROOT	6203.33.00	O
+
+6203.39.00	6203.39.00	NUM	ROOT	6203.39.00	O
+
+6203.41.00	6203.41.00	NOUN	ROOT	6203.41.00	O
+
+6203.42.00	6203.42.00	NUM	ROOT	6203.42.00	O
+
+6203.43.00	6203.43.00	VERB	ROOT	6203.43.00	O
+
+6203.49.00	6203.49.00	NOUN	ROOT	6203.49.00	O
+
+6204.11.00	6204.11.00	NOUN	ROOT	6204.11.00	O
+
+6204.12.00	6204.12.00	NOUN	ROOT	6204.12.00	O
+
+6204.13.00	6204.13.00	NUM	ROOT	6204.13.00	O
+
+6204.19.00	6204.19.00	NUM	ROOT	6204.19.00	O
+
+6204.21.00	6204.21.00	NUM	ROOT	6204.21.00	O
+
+6204.22.00	6204.22.00	NUM	ROOT	6204.22.00	O
+
+6204.23.00	6204.23.00	NUM	ROOT	6204.23.00	O
+
+6204.29.00	6204.29.00	NOUN	ROOT	6204.29.00	O
+
+6204.31.00	6204.31.00	NOUN	ROOT	6204.31.00	O
+
+6204.32.00	6204.32.00	NUM	ROOT	6204.32.00	O
+
+6204.33.00	6204.33.00	NUM	ROOT	6204.33.00	O
+
+6204.39.00	6204.39.00	NUM	ROOT	6204.39.00	O
+
+6204.41.00	6204.41.00	NOUN	ROOT	6204.41.00	O
+
+6204.42.00	6204.42.00	NOUN	ROOT	6204.42.00	O
+
+6204.43.00	6204.43.00	NUM	ROOT	6204.43.00	O
+
+6204.44.00	6204.44.00	NOUN	ROOT	6204.44.00	O
+
+6204.49.00	6204.49.00	NUM	ROOT	6204.49.00	O
+
+6204.51.00	6204.51.00	NUM	ROOT	6204.51.00	O
+
+6204.52.00	6204.52.00	NUM	ROOT	6204.52.00	O
+
+6204.53.00	6204.53.00	NUM	ROOT	6204.53.00	O
+
+6204.59.00	6204.59.00	NUM	ROOT	6204.59.00	O
+
+6204.61.00	6204.61.00	NUM	ROOT	6204.61.00	O
+
+6204.62.00	6204.62.00	NOUN	ROOT	6204.62.00	O
+
+6204.63.00	6204.63.00	NUM	ROOT	6204.63.00	O
+
+6204.69.00	6204.69.00	NOUN	ROOT	6204.69.00	O
+
+6205.10.00	6205.10.00	NUM	ROOT	6205.10.00	O
+
+6205.20.00	6205.20.00	NOUN	ROOT	6205.20.00	O
+
+6205.30.00	6205.30.00	NUM	ROOT	6205.30.00	O
+
+6205.90.00	6205.90.00	NUM	ROOT	6205.90.00	O
+
+6206.10.00	6206.10.00	NUM	ROOT	6206.10.00	O
+
+6206.20.00	6206.20.00	DET	ROOT	6206.20.00	O
+
+6206.30.00	6206.30.00	VERB	ROOT	6206.30.00	O
+
+6206.40.00	6206.40.00	NOUN	ROOT	6206.40.00	O
+
+6206.90.00	6206.90.00	NOUN	ROOT	6206.90.00	O
+
+6207.11.00	6207.11.00	NUM	ROOT	6207.11.00	O
+
+6207.19.00	6207.19.00	VERB	ROOT	6207.19.00	O
+
+6207.21.00	6207.21.00	NUM	ROOT	6207.21.00	O
+
+6207.22.00	6207.22.00	NOUN	ROOT	6207.22.00	O
+
+6207.29.00	6207.29.00	NOUN	ROOT	6207.29.00	O
+
+6207.91.00	6207.91.00	NOUN	ROOT	6207.91.00	O
+
+6207.92.00	6207.92.00	NOUN	ROOT	6207.92.00	O
+
+6207.99.00	6207.99.00	NUM	ROOT	6207.99.00	O
+
+6208.11.00	6208.11.00	NOUN	ROOT	6208.11.00	O
+
+6208.19.00	6208.19.00	NUM	ROOT	6208.19.00	O
+
+6208.21.00	6208.21.00	NOUN	ROOT	6208.21.00	O
+
+6208.22.00	6208.22.00	NOUN	ROOT	6208.22.00	O
+
+6208.29.00	6208.29.00	NOUN	ROOT	6208.29.00	O
+
+6208.91.00	6208.91.00	NUM	ROOT	6208.91.00	O
+
+6208.92.00	6208.92.00	NUM	ROOT	6208.92.00	O
+
+6208.99.00	6208.99.00	NUM	ROOT	6208.99.00	O
+
+6209.10.00	6209.10.00	NOUN	ROOT	6209.10.00	O
+
+6209.20.00	6209.20.00	NOUN	ROOT	6209.20.00	O
+
+6209.30.00	6209.30.00	NUM	ROOT	6209.30.00	O
+
+6209.90.00	6209.90.00	NOUN	ROOT	6209.90.00	O
+
+6210.10.00	6210.10.00	NUM	ROOT	6210.10.00	O
+
+6210.20.00	6210.20.00	NUM	ROOT	6210.20.00	O
+
+6210.30.00	6210.30.00	NOUN	ROOT	6210.30.00	O
+
+6210.40.00	6210.40.00	NUM	ROOT	6210.40.00	O
+
+6210.50.00	6210.50.00	NUM	ROOT	6210.50.00	O
+
+6211.11.00	6211.11.00	NUM	ROOT	6211.11.00	O
+
+6211.12.00	6211.12.00	NUM	ROOT	6211.12.00	O
+
+6211.20.00	6211.20.00	ADV	ROOT	6211.20.00	O
+
+6211.31.00	6211.31.00	NUM	ROOT	6211.31.00	O
+
+6211.32.00	6211.32.00	NUM	ROOT	6211.32.00	O
+
+6211.33.00	6211.33.00	NUM	ROOT	6211.33.00	O
+
+6211.39.00	6211.39.00	NOUN	ROOT	6211.39.00	O
+
+6211.41.00	6211.41.00	NUM	ROOT	6211.41.00	O
+
+6211.42.00	6211.42.00	NUM	ROOT	6211.42.00	O
+
+6211.43.00	6211.43.00	DET	ROOT	6211.43.00	O
+
+6211.49.00	6211.49.00	NUM	ROOT	6211.49.00	O
+
+6212.10.00	6212.10.00	NUM	ROOT	6212.10.00	O
+
+6212.20.00	6212.20.00	NOUN	ROOT	6212.20.00	O
+
+6212.30.00	6212.30.00	NOUN	ROOT	6212.30.00	O
+
+6212.90.00	6212.90.00	NUM	ROOT	6212.90.00	O
+
+6213.10.00	6213.10.00	NOUN	ROOT	6213.10.00	O
+
+6213.20.00	6213.20.00	VERB	ROOT	6213.20.00	O
+
+6213.90.00	6213.90.00	NOUN	ROOT	6213.90.00	O
+
+6214.10.00	6214.10.00	NUM	ROOT	6214.10.00	O
+
+6214.20.00	6214.20.00	NUM	ROOT	6214.20.00	O
+
+6214.30.00	6214.30.00	NOUN	ROOT	6214.30.00	O
+
+6214.40.00	6214.40.00	NUM	ROOT	6214.40.00	O
+
+6214.90.10	6214.90.10	NOUN	ROOT	6214.90.10	O
+
+6214.90.90	6214.90.90	NUM	ROOT	6214.90.90	O
+
+6215.10.00	6215.10.00	NUM	ROOT	6215.10.00	O
+
+6215.20.00	6215.20.00	NOUN	ROOT	6215.20.00	O
+
+6215.90.00	6215.90.00	NUM	ROOT	6215.90.00	O
+
+6216.00.00	6216.00.00	NOUN	ROOT	6216.00.00	O
+
+6217.10.00	6217.10.00	NUM	ROOT	6217.10.00	O
+
+6217.90.00	6217.90.00	DET	ROOT	6217.90.00	O
+
+6301.10.00	6301.10.00	NUM	ROOT	6301.10.00	O
+
+6301.20.00	6301.20.00	NOUN	ROOT	6301.20.00	O
+
+6301.30.00	6301.30.00	NOUN	ROOT	6301.30.00	O
+
+6301.40.00	6301.40.00	NUM	ROOT	6301.40.00	O
+
+6301.90.00	6301.90.00	NUM	ROOT	6301.90.00	O
+
+6302.10.00	6302.10.00	NOUN	ROOT	6302.10.00	O
+
+6302.21.00	6302.21.00	NOUN	ROOT	6302.21.00	O
+
+6302.22.00	6302.22.00	VERB	ROOT	6302.22.00	O
+
+6302.29.00	6302.29.00	VERB	ROOT	6302.29.00	O
+
+6302.31.00	6302.31.00	NUM	ROOT	6302.31.00	O
+
+6302.32.00	6302.32.00	NUM	ROOT	6302.32.00	O
+
+6302.39.00	6302.39.00	NUM	ROOT	6302.39.00	O
+
+6302.40.00	6302.40.00	NUM	ROOT	6302.40.00	O
+
+6302.51.00	6302.51.00	NOUN	ROOT	6302.51.00	O
+
+6302.52.00	6302.52.00	NOUN	ROOT	6302.52.00	O
+
+6302.53.00	6302.53.00	NUM	ROOT	6302.53.00	O
+
+6302.59.00	6302.59.00	NOUN	ROOT	6302.59.00	O
+
+6302.60.00	6302.60.00	NUM	ROOT	6302.60.00	O
+
+6302.91.00	6302.91.00	NUM	ROOT	6302.91.00	O
+
+6302.92.00	6302.92.00	NUM	ROOT	6302.92.00	O
+
+6302.93.00	6302.93.00	NOUN	ROOT	6302.93.00	O
+
+6302.99.00	6302.99.00	NUM	ROOT	6302.99.00	O
+
+6303.11.00	6303.11.00	NOUN	ROOT	6303.11.00	O
+
+6303.12.00	6303.12.00	NUM	ROOT	6303.12.00	O
+
+6303.19.00	6303.19.00	NUM	ROOT	6303.19.00	O
+
+6303.91.00	6303.91.00	NUM	ROOT	6303.91.00	O
+
+6303.92.00	6303.92.00	NUM	ROOT	6303.92.00	O
+
+6303.99.00	6303.99.00	NOUN	ROOT	6303.99.00	O
+
+6304.11.00	6304.11.00	NUM	ROOT	6304.11.00	O
+
+6304.19.10	6304.19.10	NUM	ROOT	6304.19.10	O
+
+6304.19.90	6304.19.90	NUM	ROOT	6304.19.90	O
+
+6304.91.00	6304.91.00	NUM	ROOT	6304.91.00	O
+
+6304.92.00	6304.92.00	NOUN	ROOT	6304.92.00	O
+
+6304.93.00	6304.93.00	NUM	ROOT	6304.93.00	O
+
+6304.99.00	6304.99.00	NUM	ROOT	6304.99.00	O
+
+6305.10.00	6305.10.00	NUM	ROOT	6305.10.00	O
+
+6305.20.00	6305.20.00	NUM	ROOT	6305.20.00	O
+
+6305.32.00	6305.32.00	NUM	ROOT	6305.32.00	O
+
+6305.33.10	6305.33.10	NUM	ROOT	6305.33.10	O
+
+6305.33.90	6305.33.90	VERB	ROOT	6305.33.90	O
+
+6305.39.00	6305.39.00	NUM	ROOT	6305.39.00	O
+
+6305.90.00	6305.90.00	NUM	ROOT	6305.90.00	O
+
+6306.11.00	6306.11.00	NOUN	ROOT	6306.11.00	O
+
+6306.12.00	6306.12.00	NUM	ROOT	6306.12.00	O
+
+6306.19.00	6306.19.00	NUM	ROOT	6306.19.00	O
+
+6306.21.00	6306.21.00	VERB	ROOT	6306.21.00	O
+
+6306.22.00	6306.22.00	NOUN	ROOT	6306.22.00	O
+
+6306.29.00	6306.29.00	NOUN	ROOT	6306.29.00	O
+
+6306.31.00	6306.31.00	NOUN	ROOT	6306.31.00	O
+
+6306.39.00	6306.39.00	NOUN	ROOT	6306.39.00	O
+
+6306.41.00	6306.41.00	VERB	ROOT	6306.41.00	O
+
+6306.49.00	6306.49.00	NUM	ROOT	6306.49.00	O
+
+6306.91.00	6306.91.00	NUM	ROOT	6306.91.00	O
+
+6306.99.00	6306.99.00	NUM	ROOT	6306.99.00	O
+
+6307.10.00	6307.10.00	NUM	ROOT	6307.10.00	O
+
+6307.20.00	6307.20.00	NOUN	ROOT	6307.20.00	O
+
+6307.90.10	6307.90.10	NOUN	ROOT	6307.90.10	O
+
+6307.90.90	6307.90.90	NUM	ROOT	6307.90.90	O
+
+6308.00.00	6308.00.00	NOUN	ROOT	6308.00.00	O
+
+6309.00.10	6309.00.10	NUM	ROOT	6309.00.10	O
+
+6309.00.90	6309.00.90	ADV	ROOT	6309.00.90	O
+
+6310.10.00	6310.10.00	NOUN	ROOT	6310.10.00	O
+
+6310.90.00	6310.90.00	NOUN	ROOT	6310.90.00	O
+
+6401.10.00	6401.10.00	NOUN	ROOT	6401.10.00	O
+
+6401.91.00	6401.91.00	NUM	ROOT	6401.91.00	O
+
+6401.92.00	6401.92.00	NOUN	ROOT	6401.92.00	O
+
+6401.99.00	6401.99.00	NOUN	ROOT	6401.99.00	O
+
+6402.12.00	6402.12.00	NUM	ROOT	6402.12.00	O
+
+6402.19.00	6402.19.00	NOUN	ROOT	6402.19.00	O
+
+6402.20.00	6402.20.00	NUM	ROOT	6402.20.00	O
+
+6402.30.00	6402.30.00	NOUN	ROOT	6402.30.00	O
+
+6402.91.00	6402.91.00	VERB	ROOT	6402.91.00	O
+
+6402.99.00	6402.99.00	NUM	ROOT	6402.99.00	O
+
+6403.12.00	6403.12.00	NUM	ROOT	6403.12.00	O
+
+6403.19.00	6403.19.00	NUM	ROOT	6403.19.00	O
+
+6403.20.00	6403.20.00	NUM	ROOT	6403.20.00	O
+
+6403.30.00	6403.30.00	NOUN	ROOT	6403.30.00	O
+
+6403.40.00	6403.40.00	NUM	ROOT	6403.40.00	O
+
+6403.51.00	6403.51.00	NOUN	ROOT	6403.51.00	O
+
+6403.59.00	6403.59.00	NOUN	ROOT	6403.59.00	O
+
+6403.91.00	6403.91.00	NUM	ROOT	6403.91.00	O
+
+6403.99.00	6403.99.00	NUM	ROOT	6403.99.00	O
+
+6404.11.00	6404.11.00	NUM	ROOT	6404.11.00	O
+
+6404.19.00	6404.19.00	NOUN	ROOT	6404.19.00	O
+
+6404.20.00	6404.20.00	NUM	ROOT	6404.20.00	O
+
+6405.10.10	6405.10.10	NUM	ROOT	6405.10.10	O
+
+6405.10.20	6405.10.20	NUM	ROOT	6405.10.20	O
+
+6405.10.90	6405.10.90	ADV	ROOT	6405.10.90	O
+
+6405.20.00	6405.20.00	NUM	ROOT	6405.20.00	O
+
+6405.90.00	6405.90.00	NOUN	ROOT	6405.90.00	O
+
+6406.10.00	6406.10.00	NOUN	ROOT	6406.10.00	O
+
+6406.20.00	6406.20.00	NUM	ROOT	6406.20.00	O
+
+6406.91.00	6406.91.00	NOUN	ROOT	6406.91.00	O
+
+6406.99.10	6406.99.10	ADV	ROOT	6406.99.10	O
+
+6406.99.20	6406.99.20	NUM	ROOT	6406.99.20	O
+
+6406.99.90	6406.99.90	NUM	ROOT	6406.99.90	O
+
+6805.30.20	6805.30.20	NUM	ROOT	6805.30.20	O
+
+6907.90.00	6907.90.00	NUM	ROOT	6907.90.00	O
+
+7005.29.00	7005.29.00	NUM	ROOT	7005.29.00	O
+
+7007.21.00	7007.21.00	NUM	ROOT	7007.21.00	O
+
+7202.11.00	7202.11.00	SYM	ROOT	7202.11.00	O
+
+7202.29.00	7202.29.00	VERB	ROOT	7202.29.00	O
+
+7202.30.00	7202.30.00	VERB	ROOT	7202.30.00	O
+
+7202.99.90	7202.99.90	NUM	ROOT	7202.99.90	O
+
+7205.10.00	7205.10.00	NUM	ROOT	7205.10.00	O
+
+7208.10.00	7208.10.00	VERB	ROOT	7208.10.00	O
+
+7208.25.00	7208.25.00	NUM	ROOT	7208.25.00	O
+
+7208.26.10	7208.26.10	NUM	ROOT	7208.26.10	O
+
+7208.26.90	7208.26.90	VERB	ROOT	7208.26.90	O
+
+7208.27.10	7208.27.10	ADJ	ROOT	7208.27.10	O
+
+7208.27.90	7208.27.90	ADJ	ROOT	7208.27.90	O
+
+7208.36.10	7208.36.10	NUM	ROOT	7208.36.10	O
+
+7208.36.90	7208.36.90	ADJ	ROOT	7208.36.90	O
+
+7208.37.00	7208.37.00	NUM	ROOT	7208.37.00	O
+
+7208.38.10	7208.38.10	NUM	ROOT	7208.38.10	O
+
+7208.38.90	7208.38.90	ADV	ROOT	7208.38.90	O
+
+7208.39.10	7208.39.10	NUM	ROOT	7208.39.10	O
+
+7208.39.90	7208.39.90	ADJ	ROOT	7208.39.90	O
+
+7208.40.00	7208.40.00	VERB	ROOT	7208.40.00	O
+
+7208.51.00	7208.51.00	NUM	ROOT	7208.51.00	O
+
+7208.52.00	7208.52.00	VERB	ROOT	7208.52.00	O
+
+7208.53.00	7208.53.00	NOUN	ROOT	7208.53.00	O
+
+7208.54.00	7208.54.00	NUM	ROOT	7208.54.00	O
+
+7208.90.00	7208.90.00	VERB	ROOT	7208.90.00	O
+
+7209.15.00	7209.15.00	VERB	ROOT	7209.15.00	O
+
+7209.16.00	7209.16.00	NOUN	ROOT	7209.16.00	O
+
+7209.17.00	7209.17.00	NOUN	ROOT	7209.17.00	O
+
+7209.18.00	7209.18.00	PUNCT	ROOT	7209.18.00	O
+
+7209.25.00	7209.25.00	VERB	ROOT	7209.25.00	O
+
+7209.26.00	7209.26.00	VERB	ROOT	7209.26.00	O
+
+7209.27.00	7209.27.00	NOUN	ROOT	7209.27.00	O
+
+7209.28.00	7209.28.00	VERB	ROOT	7209.28.00	O
+
+7209.90.00	7209.90.00	VERB	ROOT	7209.90.00	O
+
+7210.11.00	7210.11.00	VERB	ROOT	7210.11.00	O
+
+7210.12.00	7210.12.00	NUM	ROOT	7210.12.00	O
+
+7210.30.10	7210.30.10	NUM	ROOT	7210.30.10	O
+
+7210.30.90	7210.30.90	NUM	ROOT	7210.30.90	O
+
+7210.41.10	7210.41.10	PRON	ROOT	7210.41.10	O
+
+7210.41.90	7210.41.90	ADP	ROOT	7210.41.90	O
+
+7210.49.10	7210.49.10	NUM	ROOT	7210.49.10	O
+
+7210.49.90	7210.49.90	VERB	ROOT	7210.49.90	O
+
+7210.50.00	7210.50.00	NOUN	ROOT	7210.50.00	O
+
+7210.61.00	7210.61.00	NUM	ROOT	7210.61.00	O
+
+7210.69.19	7210.69.19	NUM	ROOT	7210.69.19	O
+
+7210.69.90	7210.69.90	NUM	ROOT	7210.69.90	O
+
+7210.70.10	7210.70.10	NUM	ROOT	7210.70.10	O
+
+7210.70.20	7210.70.20	NUM	ROOT	7210.70.20	O
+
+7210.90.00	7210.90.00	NOUN	ROOT	7210.90.00	O
+
+7211.14.00	7211.14.00	NOUN	ROOT	7211.14.00	O
+
+7211.19.00	7211.19.00	INTJ	ROOT	7211.19.00	O
+
+7211.23.00	7211.23.00	NUM	ROOT	7211.23.00	O
+
+7211.29.10	7211.29.10	PRON	ROOT	7211.29.10	O
+
+7211.29.20	7211.29.20	NUM	ROOT	7211.29.20	O
+
+7211.90.90	7211.90.90	ADJ	ROOT	7211.90.90	O
+
+7212.10.00	7212.10.00	NUM	ROOT	7212.10.00	O
+
+7212.20.10	7212.20.10	NUM	ROOT	7212.20.10	O
+
+7212.20.90	7212.20.90	NUM	ROOT	7212.20.90	O
+
+7212.30.00	7212.30.00	VERB	ROOT	7212.30.00	O
+
+7212.40.10	7212.40.10	NUM	ROOT	7212.40.10	O
+
+7212.40.20	7212.40.20	NUM	ROOT	7212.40.20	O
+
+7212.50.00	7212.50.00	NOUN	ROOT	7212.50.00	O
+
+7213.10.00	7213.10.00	NUM	ROOT	7213.10.00	O
+
+7213.20.00	7213.20.00	NUM	ROOT	7213.20.00	O
+
+7213.91.10	7213.91.10	ADJ	ROOT	7213.91.10	O
+
+7213.91.90	7213.91.90	ADV	ROOT	7213.91.90	O
+
+7213.99.10	7213.99.10	NUM	ROOT	7213.99.10	O
+
+7213.99.90	7213.99.90	NUM	ROOT	7213.99.90	O
+
+7214.10.10	7214.10.10	ADJ	ROOT	7214.10.10	O
+
+7214.10.90	7214.10.90	NUM	ROOT	7214.10.90	O
+
+7214.20.00	7214.20.00	NUM	ROOT	7214.20.00	O
+
+7214.30.00	7214.30.00	VERB	ROOT	7214.30.00	O
+
+7214.91.00	7214.91.00	NUM	ROOT	7214.91.00	O
+
+7214.99.10	7214.99.10	NUM	ROOT	7214.99.10	O
+
+7214.99.90	7214.99.90	NUM	ROOT	7214.99.90	O
+
+7215.10.00	7215.10.00	VERB	ROOT	7215.10.00	O
+
+7215.50.00	7215.50.00	VERB	ROOT	7215.50.00	O
+
+7215.90.10	7215.90.10	ADJ	ROOT	7215.90.10	O
+
+7215.90.90	7215.90.90	NUM	ROOT	7215.90.90	O
+
+7216.10.00	7216.10.00	NOUN	ROOT	7216.10.00	O
+
+7216.21.00	7216.21.00	NUM	ROOT	7216.21.00	O
+
+7216.22.00	7216.22.00	NUM	ROOT	7216.22.00	O
+
+7216.31.00	7216.31.00	VERB	ROOT	7216.31.00	O
+
+7216.32.00	7216.32.00	VERB	ROOT	7216.32.00	O
+
+7216.40.10	7216.40.10	NOUN	ROOT	7216.40.10	O
+
+7216.40.90	7216.40.90	VERB	ROOT	7216.40.90	O
+
+7216.50.00	7216.50.00	VERB	ROOT	7216.50.00	O
+
+7216.61.10	7216.61.10	ADJ	ROOT	7216.61.10	O
+
+7216.61.90	7216.61.90	ADJ	ROOT	7216.61.90	O
+
+7216.69.10	7216.69.10	NUM	ROOT	7216.69.10	O
+
+7216.69.90	7216.69.90	NUM	ROOT	7216.69.90	O
+
+7216.91.00	7216.91.00	NOUN	ROOT	7216.91.00	O
+
+7216.99.00	7216.99.00	NOUN	ROOT	7216.99.00	O
+
+7217.10.19	7217.10.19	ADV	ROOT	7217.10.19	O
+
+7217.10.90	7217.10.90	NOUN	ROOT	7217.10.90	O
+
+7217.20.10	7217.20.10	ADJ	ROOT	7217.20.10	O
+
+7217.20.90	7217.20.90	NUM	ROOT	7217.20.90	O
+
+7217.30.10	7217.30.10	NOUN	ROOT	7217.30.10	O
+
+7217.30.90	7217.30.90	VERB	ROOT	7217.30.90	O
+
+7217.90.00	7217.90.00	NOUN	ROOT	7217.90.00	O
+
+7222.11.00	7222.11.00	NUM	ROOT	7222.11.00	O
+
+7222.19.10	7222.19.10	ADJ	ROOT	7222.19.10	O
+
+7222.19.90	7222.19.90	NUM	ROOT	7222.19.90	O
+
+7222.20.00	7222.20.00	NUM	ROOT	7222.20.00	O
+
+7222.30.00	7222.30.00	NOUN	ROOT	7222.30.00	O
+
+7224.90.00	7224.90.00	NOUN	ROOT	7224.90.00	O
+
+7225.30.00	7225.30.00	VERB	ROOT	7225.30.00	O
+
+7225.40.90	7225.40.90	ADV	ROOT	7225.40.90	O
+
+7225.50.00	7225.50.00	VERB	ROOT	7225.50.00	O
+
+7225.91.00	7225.91.00	VERB	ROOT	7225.91.00	O
+
+7225.92.00	7225.92.00	NUM	ROOT	7225.92.00	O
+
+7225.99.00	7225.99.00	NOUN	ROOT	7225.99.00	O
+
+7226.20.90	7226.20.90	ADV	ROOT	7226.20.90	O
+
+7226.91.00	7226.91.00	VERB	ROOT	7226.91.00	O
+
+7226.92.00	7226.92.00	VERB	ROOT	7226.92.00	O
+
+7226.93.00	7226.93.00	NOUN	ROOT	7226.93.00	O
+
+7226.94.00	7226.94.00	NUM	ROOT	7226.94.00	O
+
+7226.99.00	7226.99.00	NUM	ROOT	7226.99.00	O
+
+7227.10.00	7227.10.00	VERB	ROOT	7227.10.00	O
+
+7227.20.00	7227.20.00	VERB	ROOT	7227.20.00	O
+
+7227.90.00	7227.90.00	VERB	ROOT	7227.90.00	O
+
+7228.10.10	7228.10.10	NUM	ROOT	7228.10.10	O
+
+7228.10.90	7228.10.90	NUM	ROOT	7228.10.90	O
+
+7228.20.00	7228.20.00	VERB	ROOT	7228.20.00	O
+
+7228.30.00	7228.30.00	NOUN	ROOT	7228.30.00	O
+
+7228.40.00	7228.40.00	NOUN	ROOT	7228.40.00	O
+
+7228.50.00	7228.50.00	NUM	ROOT	7228.50.00	O
+
+7228.60.00	7228.60.00	VERB	ROOT	7228.60.00	O
+
+7229.10.00	7229.10.00	VERB	ROOT	7229.10.00	O
+
+7229.20.00	7229.20.00	VERB	ROOT	7229.20.00	O
+
+7229.90.00	7229.90.00	VERB	ROOT	7229.90.00	O
+
+7301.10.00	7301.10.00	VERB	ROOT	7301.10.00	O
+
+7301.20.00	7301.20.00	VERB	ROOT	7301.20.00	O
+
+7302.90.00	7302.90.00	NUM	ROOT	7302.90.00	O
+
+7304.10.90	7304.10.90	ADJ	ROOT	7304.10.90	O
+
+7304.21.10	7304.21.10	NUM	ROOT	7304.21.10	O
+
+7304.21.90	7304.21.90	VERB	ROOT	7304.21.90	O
+
+7304.29.10	7304.29.10	VERB	ROOT	7304.29.10	O
+
+7304.29.20	7304.29.20	NUM	ROOT	7304.29.20	O
+
+7304.29.31	7304.29.31	NUM	ROOT	7304.29.31	O
+
+7304.29.39	7304.29.39	ADV	ROOT	7304.29.39	O
+
+7304.29.90	7304.29.90	ADV	ROOT	7304.29.90	O
+
+7304.31.10	7304.31.10	NUM	ROOT	7304.31.10	O
+
+7304.31.90	7304.31.90	ADJ	ROOT	7304.31.90	O
+
+7304.39.10	7304.39.10	NUM	ROOT	7304.39.10	O
+
+7304.39.20	7304.39.20	DET	ROOT	7304.39.20	O
+
+7304.39.90	7304.39.90	NUM	ROOT	7304.39.90	O
+
+7304.41.00	7304.41.00	NUM	ROOT	7304.41.00	O
+
+7304.49.00	7304.49.00	VERB	ROOT	7304.49.00	O
+
+7304.51.10	7304.51.10	NOUN	ROOT	7304.51.10	O
+
+7304.51.90	7304.51.90	VERB	ROOT	7304.51.90	O
+
+7304.59.10	7304.59.10	ADJ	ROOT	7304.59.10	O
+
+7304.59.90	7304.59.90	NUM	ROOT	7304.59.90	O
+
+7304.90.11	7304.90.11	NOUN	ROOT	7304.90.11	O
+
+7304.90.19	7304.90.19	NUM	ROOT	7304.90.19	O
+
+7304.90.90	7304.90.90	ADV	ROOT	7304.90.90	O
+
+7305.11.00	7305.11.00	NOUN	ROOT	7305.11.00	O
+
+7305.12.00	7305.12.00	VERB	ROOT	7305.12.00	O
+
+7305.19.00	7305.19.00	NUM	ROOT	7305.19.00	O
+
+7305.20.00	7305.20.00	NUM	ROOT	7305.20.00	O
+
+7305.31.00	7305.31.00	NOUN	ROOT	7305.31.00	O
+
+7305.39.00	7305.39.00	NUM	ROOT	7305.39.00	O
+
+7305.90.00	7305.90.00	VERB	ROOT	7305.90.00	O
+
+7306.10.00	7306.10.00	NOUN	ROOT	7306.10.00	O
+
+7306.20.00	7306.20.00	NUM	ROOT	7306.20.00	O
+
+7306.30.00	7306.30.00	VERB	ROOT	7306.30.00	O
+
+7306.40.00	7306.40.00	VERB	ROOT	7306.40.00	O
+
+7306.50.00	7306.50.00	VERB	ROOT	7306.50.00	O
+
+7306.60.00	7306.60.00	VERB	ROOT	7306.60.00	O
+
+7306.90.10	7306.90.10	NUM	ROOT	7306.90.10	O
+
+7306.90.20	7306.90.20	VERB	ROOT	7306.90.20	O
+
+7306.90.90	7306.90.90	NUM	ROOT	7306.90.90	O
+
+7307.19.10	7307.19.10	ADJ	ROOT	7307.19.10	O
+
+7307.19.20	7307.19.20	NUM	ROOT	7307.19.20	O
+
+7307.19.90	7307.19.90	NUM	ROOT	7307.19.90	O
+
+7307.21.00	7307.21.00	NUM	ROOT	7307.21.00	O
+
+7307.22.00	7307.22.00	VERB	ROOT	7307.22.00	O
+
+7307.23.00	7307.23.00	NOUN	ROOT	7307.23.00	O
+
+7307.29.00	7307.29.00	NUM	ROOT	7307.29.00	O
+
+7307.91.00	7307.91.00	NUM	ROOT	7307.91.00	O
+
+7307.92.00	7307.92.00	VERB	ROOT	7307.92.00	O
+
+7307.93.00	7307.93.00	NOUN	ROOT	7307.93.00	O
+
+7307.99.00	7307.99.00	VERB	ROOT	7307.99.00	O
+
+7308.20.00	7308.20.00	VERB	ROOT	7308.20.00	O
+
+7308.30.00	7308.30.00	VERB	ROOT	7308.30.00	O
+
+7308.40.00	7308.40.00	NUM	ROOT	7308.40.00	O
+
+7308.90.10	7308.90.10	NUM	ROOT	7308.90.10	O
+
+7308.90.90	7308.90.90	ADV	ROOT	7308.90.90	O
+
+7309.00.10	7309.00.10	NUM	ROOT	7309.00.10	O
+
+7309.00.90	7309.00.90	NUM	ROOT	7309.00.90	O
+
+7311.00.00	7311.00.00	NUM	ROOT	7311.00.00	O
+
+7312.10.90	7312.10.90	ADV	ROOT	7312.10.90	O
+
+7312.90.00	7312.90.00	VERB	ROOT	7312.90.00	O
+
+7313.00.00	7313.00.00	VERB	ROOT	7313.00.00	O
+
+7314.14.00	7314.14.00	VERB	ROOT	7314.14.00	O
+
+7314.19.00	7314.19.00	VERB	ROOT	7314.19.00	O
+
+7314.20.00	7314.20.00	NOUN	ROOT	7314.20.00	O
+
+7314.31.00	7314.31.00	NUM	ROOT	7314.31.00	O
+
+7314.39.00	7314.39.00	VERB	ROOT	7314.39.00	O
+
+7314.41.00	7314.41.00	VERB	ROOT	7314.41.00	O
+
+7314.42.00	7314.42.00	NOUN	ROOT	7314.42.00	O
+
+7314.49.00	7314.49.00	NUM	ROOT	7314.49.00	O
+
+7314.50.00	7314.50.00	VERB	ROOT	7314.50.00	O
+
+7315.82.00	7315.82.00	NUM	ROOT	7315.82.00	O
+
+7317.00.10	7317.00.10	NOUN	ROOT	7317.00.10	O
+
+7317.00.20	7317.00.20	VERB	ROOT	7317.00.20	O
+
+7317.00.90	7317.00.90	ADJ	ROOT	7317.00.90	O
+
+7318.11.00	7318.11.00	VERB	ROOT	7318.11.00	O
+
+7318.12.00	7318.12.00	VERB	ROOT	7318.12.00	O
+
+7318.14.00	7318.14.00	VERB	ROOT	7318.14.00	O
+
+7318.16.00	7318.16.00	VERB	ROOT	7318.16.00	O
+
+7318.19.00	7318.19.00	VERB	ROOT	7318.19.00	O
+
+7318.21.00	7318.21.00	NUM	ROOT	7318.21.00	O
+
+7318.29.00	7318.29.00	VERB	ROOT	7318.29.00	O
+
+7320.90.00	7320.90.00	VERB	ROOT	7320.90.00	O
+
+7321.11.00	7321.11.00	VERB	ROOT	7321.11.00	O
+
+7325.10.00	7325.10.00	NOUN	ROOT	7325.10.00	O
+
+7325.99.10	7325.99.10	VERB	ROOT	7325.99.10	O
+
+7325.99.90	7325.99.90	VERB	ROOT	7325.99.90	O
+
+7326.20.00	7326.20.00	VERB	ROOT	7326.20.00	O
+
+7326.90.00	7326.90.00	VERB	ROOT	7326.90.00	O
+
+7407.10.10	7407.10.10	NUM	ROOT	7407.10.10	O
+
+7407.10.21	7407.10.21	ADV	ROOT	7407.10.21	O
+
+7407.10.29	7407.10.29	VERB	ROOT	7407.10.29	O
+
+7407.21.10	7407.21.10	NOUN	ROOT	7407.21.10	O
+
+7407.21.20	7407.21.20	NUM	ROOT	7407.21.20	O
+
+7407.22.10	7407.22.10	NUM	ROOT	7407.22.10	O
+
+7407.22.20	7407.22.20	NUM	ROOT	7407.22.20	O
+
+7407.29.10	7407.29.10	NUM	ROOT	7407.29.10	O
+
+7407.29.21	7407.29.21	NUM	ROOT	7407.29.21	O
+
+7407.29.29	7407.29.29	VERB	ROOT	7407.29.29	O
+
+7408.11.00	7408.11.00	NUM	ROOT	7408.11.00	O
+
+7408.19.00	7408.19.00	VERB	ROOT	7408.19.00	O
+
+7408.21.00	7408.21.00	NUM	ROOT	7408.21.00	O
+
+7408.22.00	7408.22.00	NUM	ROOT	7408.22.00	O
+
+7408.29.11	7408.29.11	ADV	ROOT	7408.29.11	O
+
+7408.29.19	7408.29.19	NUM	ROOT	7408.29.19	O
+
+7408.29.90	7408.29.90	ADJ	ROOT	7408.29.90	O
+
+7409.11.00	7409.11.00	VERB	ROOT	7409.11.00	O
+
+7409.19.00	7409.19.00	VERB	ROOT	7409.19.00	O
+
+7409.21.00	7409.21.00	NUM	ROOT	7409.21.00	O
+
+7409.29.00	7409.29.00	VERB	ROOT	7409.29.00	O
+
+7409.31.00	7409.31.00	VERB	ROOT	7409.31.00	O
+
+7409.39.00	7409.39.00	NUM	ROOT	7409.39.00	O
+
+7409.40.10	7409.40.10	ADJ	ROOT	7409.40.10	O
+
+7409.40.90	7409.40.90	DET	ROOT	7409.40.90	O
+
+7409.90.00	7409.90.00	NOUN	ROOT	7409.90.00	O
+
+7410.11.10	7410.11.10	SYM	ROOT	7410.11.10	O
+
+7410.11.90	7410.11.90	ADJ	ROOT	7410.11.90	O
+
+7410.12.00	7410.12.00	VERB	ROOT	7410.12.00	O
+
+7410.21.10	7410.21.10	NOUN	ROOT	7410.21.10	O
+
+7410.21.20	7410.21.20	NUM	ROOT	7410.21.20	O
+
+7410.21.90	7410.21.90	ADJ	ROOT	7410.21.90	O
+
+7410.22.00	7410.22.00	VERB	ROOT	7410.22.00	O
+
+7411.10.10	7411.10.10	VERB	ROOT	7411.10.10	O
+
+7411.10.90	7411.10.90	NUM	ROOT	7411.10.90	O
+
+7411.21.10	7411.21.10	PRON	ROOT	7411.21.10	O
+
+7411.21.90	7411.21.90	VERB	ROOT	7411.21.90	O
+
+7411.22.10	7411.22.10	NOUN	ROOT	7411.22.10	O
+
+7411.22.90	7411.22.90	ADV	ROOT	7411.22.90	O
+
+7411.29.10	7411.29.10	NUM	ROOT	7411.29.10	O
+
+7411.29.90	7411.29.90	ADJ	ROOT	7411.29.90	O
+
+7412.10.00	7412.10.00	NOUN	ROOT	7412.10.00	O
+
+7412.20.00	7412.20.00	SYM	ROOT	7412.20.00	O
+
+7413.00.00	7413.00.00	NUM	ROOT	7413.00.00	O
+
+7607.20.00	7607.20.00	NUM	ROOT	7607.20.00	O
+
+7614.10.10	7614.10.10	ADJ	ROOT	7614.10.10	O
+
+7614.10.90	7614.10.90	ADJ	ROOT	7614.10.90	O
+
+7614.90.10	7614.90.10	NUM	ROOT	7614.90.10	O
+
+7614.90.90	7614.90.90	ADJ	ROOT	7614.90.90	O
+
+8201.10.00	8201.10.00	NUM	ROOT	8201.10.00	O
+
+8201.60.00	8201.60.00	NUM	ROOT	8201.60.00	O
+
+8202.10.00	8202.10.00	NUM	ROOT	8202.10.00	O
+
+8202.20.00	8202.20.00	NUM	ROOT	8202.20.00	O
+
+8202.39.00	8202.39.00	NUM	ROOT	8202.39.00	O
+
+8202.91.00	8202.91.00	VERB	ROOT	8202.91.00	O
+
+8202.99.10	8202.99.10	NOUN	ROOT	8202.99.10	O
+
+8202.99.90	8202.99.90	NUM	ROOT	8202.99.90	O
+
+8203.20.90	8203.20.90	ADJ	ROOT	8203.20.90	O
+
+8203.40.00	8203.40.00	NUM	ROOT	8203.40.00	O
+
+8204.12.00	8204.12.00	NUM	ROOT	8204.12.00	O
+
+8205.10.00	8205.10.00	NUM	ROOT	8205.10.00	O
+
+8205.20.00	8205.20.00	NUM	ROOT	8205.20.00	O
+
+8205.40.00	8205.40.00	NUM	ROOT	8205.40.00	O
+
+8205.59.00	8205.59.00	NUM	ROOT	8205.59.00	O
+
+8205.90.00	8205.90.00	NOUN	ROOT	8205.90.00	O
+
+8206.00.00	8206.00.00	VERB	ROOT	8206.00.00	O
+
+8207.40.10	8207.40.10	NOUN	ROOT	8207.40.10	O
+
+8207.50.11	8207.50.11	NUM	ROOT	8207.50.11	O
+
+8207.60.00	8207.60.00	NUM	ROOT	8207.60.00	O
+
+8207.70.10	8207.70.10	NOUN	ROOT	8207.70.10	O
+
+8207.70.20	8207.70.20	NUM	ROOT	8207.70.20	O
+
+8207.80.00	8207.80.00	VERB	ROOT	8207.80.00	O
+
+8208.20.00	8208.20.00	NUM	ROOT	8208.20.00	O
+
+8208.30.00	8208.30.00	NUM	ROOT	8208.30.00	O
+
+8208.40.00	8208.40.00	NUM	ROOT	8208.40.00	O
+
+8208.90.00	8208.90.00	NUM	ROOT	8208.90.00	O
+
+8209.00.90	8209.00.90	ADV	ROOT	8209.00.90	O
+
+8301.10.00	8301.10.00	ADP	ROOT	8301.10.00	O
+
+8302.41.00	8302.41.00	NUM	ROOT	8302.41.00	O
+
+8302.42.00	8302.42.00	NUM	ROOT	8302.42.00	O
+
+8302.49.00	8302.49.00	NUM	ROOT	8302.49.00	O
+
+8309.10.00	8309.10.00	NOUN	ROOT	8309.10.00	O
+
+8402.12.00	8402.12.00	NOUN	ROOT	8402.12.00	O
+
+8409.91.14	8409.91.14	PUNCT	ROOT	8409.91.14	O
+
+8409.99.14	8409.99.14	NUM	ROOT	8409.99.14	O
+
+8409.99.17	8409.99.17	NUM	ROOT	8409.99.17	O
+
+8409.99.90	8409.99.90	NUM	ROOT	8409.99.90	O
+
+8412.21.10	8412.21.10	NUM	ROOT	8412.21.10	O
+
+8412.21.90	8412.21.90	NUM	ROOT	8412.21.90	O
+
+8412.29.00	8412.29.00	DET	ROOT	8412.29.00	O
+
+8412.31.10	8412.31.10	ADJ	ROOT	8412.31.10	O
+
+8413.11.00	8413.11.00	NUM	ROOT	8413.11.00	O
+
+8413.30.90	8413.30.90	ADV	ROOT	8413.30.90	O
+
+8413.60.11	8413.60.11	NUM	ROOT	8413.60.11	O
+
+8413.60.90	8413.60.90	NUM	ROOT	8413.60.90	O
+
+8413.70.80	8413.70.80	NUM	ROOT	8413.70.80	O
+
+8413.70.90	8413.70.90	ADV	ROOT	8413.70.90	O
+
+8413.91.00	8413.91.00	NUM	ROOT	8413.91.00	O
+
+8413.92.00	8413.92.00	NOUN	ROOT	8413.92.00	O
+
+8414.10.00	8414.10.00	NUM	ROOT	8414.10.00	O
+
+8414.20.00	8414.20.00	NUM	ROOT	8414.20.00	O
+
+8414.30.91	8414.30.91	NUM	ROOT	8414.30.91	O
+
+8414.80.19	8414.80.19	NUM	ROOT	8414.80.19	O
+
+8414.80.39	8414.80.39	VERB	ROOT	8414.80.39	O
+
+8415.10.11	8415.10.11	ADV	ROOT	8415.10.11	O
+
+8415.10.19	8415.10.19	ADV	ROOT	8415.10.19	O
+
+8415.10.90	8415.10.90	ADV	ROOT	8415.10.90	O
+
+8415.20.10	8415.20.10	NOUN	ROOT	8415.20.10	O
+
+8415.81.10	8415.81.10	NUM	ROOT	8415.81.10	O
+
+8415.81.90	8415.81.90	NUM	ROOT	8415.81.90	O
+
+8415.82.10	8415.82.10	PRON	ROOT	8415.82.10	O
+
+8415.83.00	8415.83.00	NUM	ROOT	8415.83.00	O
+
+8418.10.00	8418.10.00	NUM	ROOT	8418.10.00	O
+
+8418.21.00	8418.21.00	DET	ROOT	8418.21.00	O
+
+8418.30.00	8418.30.00	ADP	ROOT	8418.30.00	O
+
+8418.40.00	8418.40.00	NUM	ROOT	8418.40.00	O
+
+8418.50.10	8418.50.10	NOUN	ROOT	8418.50.10	O
+
+8418.61.10	8418.61.10	NUM	ROOT	8418.61.10	O
+.	.	PUNCT	punct	8418.61.10	O
+
+8418.69.20	8418.69.20	NUM	ROOT	8418.69.20	O
+
+8418.91.00	8418.91.00	NUM	ROOT	8418.91.00	O
+
+8419.20.00	8419.20.00	NUM	ROOT	8419.20.00	O
+
+8419.50.21	8419.50.21	NUM	ROOT	8419.50.21	O
+
+8419.50.90	8419.50.90	ADJ	ROOT	8419.50.90	O
+
+8419.89.91	8419.89.91	NUM	ROOT	8419.89.91	O
+
+8419.89.99	8419.89.99	NUM	ROOT	8419.89.99	O
+
+8419.90.20	8419.90.20	DET	ROOT	8419.90.20	O
+
+8419.90.90	8419.90.90	ADP	ROOT	8419.90.90	O
+
+8421.12.10	8421.12.10	NUM	ROOT	8421.12.10	O
+
+8421.12.90	8421.12.90	NUM	ROOT	8421.12.90	O
+
+8421.19.10	8421.19.10	NUM	ROOT	8421.19.10	O
+
+8421.21.00	8421.21.00	NUM	ROOT	8421.21.00	O
+
+8421.29.20	8421.29.20	ADP	ROOT	8421.29.20	O
+
+8421.29.30	8421.29.30	NUM	ROOT	8421.29.30	O
+
+8421.29.90	8421.29.90	NUM	ROOT	8421.29.90	O
+
+8421.99.10	8421.99.10	VERB	ROOT	8421.99.10	O
+
+8428.10.00	8428.10.00	VERB	ROOT	8428.10.00	O
+
+8428.90.90	8428.90.90	ADV	ROOT	8428.90.90	O
+
+8431.31.10	8431.31.10	NUM	ROOT	8431.31.10	O
+
+8431.43.10	8431.43.10	NOUN	ROOT	8431.43.10	O
+
+8431.43.90	8431.43.90	DET	ROOT	8431.43.90	O
+
+8433.51.00	8433.51.00	NUM	ROOT	8433.51.00	O
+
+8433.52.00	8433.52.00	NUM	ROOT	8433.52.00	O
+
+8433.53.00	8433.53.00	NUM	ROOT	8433.53.00	O
+
+8433.59.90	8433.59.90	NUM	ROOT	8433.59.90	O
+
+8433.60.90	8433.60.90	NUM	ROOT	8433.60.90	O
+
+8436.80.00	8436.80.00	NUM	ROOT	8436.80.00	O
+
+8441.10.90	8441.10.90	NUM	ROOT	8441.10.90	O
+
+8450.11.00	8450.11.00	NUM	ROOT	8450.11.00	O
+
+8452.29.90	8452.29.90	ADV	ROOT	8452.29.90	O
+
+8454.90.90	8454.90.90	NUM	ROOT	8454.90.90	O
+
+8456.30.19	8456.30.19	NUM	ROOT	8456.30.19	O
+
+8456.30.90	8456.30.90	ADJ	ROOT	8456.30.90	O
+
+8457.10.00	8457.10.00	NUM	ROOT	8457.10.00	O
+
+8457.20.10	8457.20.10	NUM	ROOT	8457.20.10	O
+
+8457.30.10	8457.30.10	NUM	ROOT	8457.30.10	O
+
+8457.30.90	8457.30.90	ADV	ROOT	8457.30.90	O
+
+8458.91.00	8458.91.00	NUM	ROOT	8458.91.00	O
+
+8458.99.00	8458.99.00	NUM	ROOT	8458.99.00	O
+
+8459.21.99	8459.21.99	NUM	ROOT	8459.21.99	O
+
+8459.29.00	8459.29.00	NUM	ROOT	8459.29.00	O
+
+8459.31.00	8459.31.00	DET	ROOT	8459.31.00	O
+
+8459.40.00	8459.40.00	NUM	ROOT	8459.40.00	O
+
+8459.51.00	8459.51.00	NUM	ROOT	8459.51.00	O
+
+8459.61.00	8459.61.00	NUM	ROOT	8459.61.00	O
+
+8459.69.00	8459.69.00	VERB	ROOT	8459.69.00	O
+
+8460.11.00	8460.11.00	NUM	ROOT	8460.11.00	O
+
+8460.21.00	8460.21.00	SYM	ROOT	8460.21.00	O
+
+8460.29.00	8460.29.00	NOUN	ROOT	8460.29.00	O
+
+8460.39.00	8460.39.00	NUM	ROOT	8460.39.00	O
+
+8460.40.19	8460.40.19	NUM	ROOT	8460.40.19	O
+
+8460.40.91	8460.40.91	NUM	ROOT	8460.40.91	O
+
+8460.90.10	8460.90.10	NUM	ROOT	8460.90.10	O
+
+8460.90.90	8460.90.90	ADP	ROOT	8460.90.90	O
+
+8461.20.10	8461.20.10	NOUN	ROOT	8461.20.10	O
+
+8461.30.90	8461.30.90	NUM	ROOT	8461.30.90	O
+
+8461.50.20	8461.50.20	NUM	ROOT	8461.50.20	O
+
+8461.50.90	8461.50.90	NUM	ROOT	8461.50.90	O
+
+8461.90.10	8461.90.10	NUM	ROOT	8461.90.10	O
+
+8461.90.90	8461.90.90	NUM	ROOT	8461.90.90	O
+
+8462.10.90	8462.10.90	ADV	ROOT	8462.10.90	O
+
+8462.21.00	8462.21.00	NUM	ROOT	8462.21.00	O
+
+8462.29.00	8462.29.00	NUM	ROOT	8462.29.00	O
+
+8462.31.00	8462.31.00	VERB	ROOT	8462.31.00	O
+
+8462.39.90	8462.39.90	ADV	ROOT	8462.39.90	O
+
+8462.41.00	8462.41.00	NUM	ROOT	8462.41.00	O
+
+8462.49.00	8462.49.00	VERB	ROOT	8462.49.00	O
+
+8462.99.90	8462.99.90	ADV	ROOT	8462.99.90	O
+
+8463.20.90	8463.20.90	ADV	ROOT	8463.20.90	O
+
+8463.30.00	8463.30.00	VERB	ROOT	8463.30.00	O
+
+8463.90.10	8463.90.10	ADJ	ROOT	8463.90.10	O
+
+8465.10.00	8465.10.00	VERB	ROOT	8465.10.00	O
+
+8465.91.10	8465.91.10	NUM	ROOT	8465.91.10	O
+
+8465.91.20	8465.91.20	NUM	ROOT	8465.91.20	O
+
+8465.91.90	8465.91.90	ADV	ROOT	8465.91.90	O
+
+8465.92.11	8465.92.11	NUM	ROOT	8465.92.11	O
+
+8465.93.10	8465.93.10	NUM	ROOT	8465.93.10	O
+
+8465.94.00	8465.94.00	NUM	ROOT	8465.94.00	O
+
+8465.95.91	8465.95.91	NUM	ROOT	8465.95.91	O
+
+8465.95.92	8465.95.92	NUM	ROOT	8465.95.92	O
+
+8465.99.00	8465.99.00	VERB	ROOT	8465.99.00	O
+
+8466.10.00	8466.10.00	NUM	ROOT	8466.10.00	O
+
+8466.20.10	8466.20.10	NUM	ROOT	8466.20.10	O
+
+8466.20.90	8466.20.90	NOUN	ROOT	8466.20.90	O
+
+8466.30.00	8466.30.00	NUM	ROOT	8466.30.00	O
+
+8466.92.00	8466.92.00	NUM	ROOT	8466.92.00	O
+
+8466.94.20	8466.94.20	NUM	ROOT	8466.94.20	O
+
+8467.19.00	8467.19.00	NUM	ROOT	8467.19.00	O
+
+8471.60.72	8471.60.72	NUM	ROOT	8471.60.72	O
+
+8477.59.90	8477.59.90	VERB	ROOT	8477.59.90	O
+
+8480.10.00	8480.10.00	NUM	ROOT	8480.10.00	O
+
+8480.20.00	8480.20.00	NUM	ROOT	8480.20.00	O
+
+8480.30.00	8480.30.00	NUM	ROOT	8480.30.00	O
+
+8480.41.00	8480.41.00	NUM	ROOT	8480.41.00	O
+
+8480.49.10	8480.49.10	DET	ROOT	8480.49.10	O
+
+8480.60.00	8480.60.00	VERB	ROOT	8480.60.00	O
+
+8480.79.00	8480.79.00	NUM	ROOT	8480.79.00	O
+
+8481.20.90	8481.20.90	ADV	ROOT	8481.20.90	O
+
+8481.30.00	8481.30.00	NUM	ROOT	8481.30.00	O
+
+8481.80.21	8481.80.21	NUM	ROOT	8481.80.21	O
+
+8481.80.92	8481.80.92	NUM	ROOT	8481.80.92	O
+
+8481.80.93	8481.80.93	NUM	ROOT	8481.80.93	O
+
+8481.80.94	8481.80.94	NUM	ROOT	8481.80.94	O
+
+8481.80.95	8481.80.95	ADV	ROOT	8481.80.95	O
+
+8481.80.96	8481.80.96	ADJ	ROOT	8481.80.96	O
+
+8481.80.97	8481.80.97	NUM	ROOT	8481.80.97	O
+
+8481.90.10	8481.90.10	NUM	ROOT	8481.90.10	O
+
+8481.90.90	8481.90.90	NUM	ROOT	8481.90.90	O
+
+8483.60.90	8483.60.90	ADV	ROOT	8483.60.90	O
+
+8483.90.00	8483.90.00	NUM	ROOT	8483.90.00	O
+
+8501.40.19	8501.40.19	NUM	ROOT	8501.40.19	O
+
+8501.52.10	8501.52.10	ADJ	ROOT	8501.52.10	O
+
+8504.23.00	8504.23.00	NOUN	ROOT	8504.23.00	O
+
+8504.40.50	8504.40.50	NUM	ROOT	8504.40.50	O
+
+8504.40.90	8504.40.90	NUM	ROOT	8504.40.90	O
+
+8504.50.00	8504.50.00	NUM	ROOT	8504.50.00	O
+
+8509.10.00	8509.10.00	NUM	ROOT	8509.10.00	O
+
+8509.20.00	8509.20.00	NUM	ROOT	8509.20.00	O
+
+8509.40.10	8509.40.10	NUM	ROOT	8509.40.10	O
+
+8509.40.20	8509.40.20	ADP	ROOT	8509.40.20	O
+
+8509.40.50	8509.40.50	NUM	ROOT	8509.40.50	O
+
+8509.40.90	8509.40.90	NUM	ROOT	8509.40.90	O
+
+8515.21.00	8515.21.00	VERB	ROOT	8515.21.00	O
+
+8515.39.00	8515.39.00	NUM	ROOT	8515.39.00	O
+
+8515.80.10	8515.80.10	DET	ROOT	8515.80.10	O
+
+8515.90.00	8515.90.00	NOUN	ROOT	8515.90.00	O
+
+8516.40.00	8516.40.00	NUM	ROOT	8516.40.00	O
+
+8516.71.00	8516.71.00	NUM	ROOT	8516.71.00	O
+
+8516.72.00	8516.72.00	NUM	ROOT	8516.72.00	O
+
+8516.79.90	8516.79.90	ADV	ROOT	8516.79.90	O
+
+8517.19.91	8517.19.91	NUM	ROOT	8517.19.91	O
+
+8517.30.14	8517.30.14	NUM	ROOT	8517.30.14	O
+
+8521.90.90	8521.90.90	ADV	ROOT	8521.90.90	O
+
+8525.40.90	8525.40.90	ADV	ROOT	8525.40.90	O
+
+8528.12.19	8528.12.19	NUM	ROOT	8528.12.19	O
+
+8528.12.90	8528.12.90	ADV	ROOT	8528.12.90	O
+
+8532.10.00	8532.10.00	NUM	ROOT	8532.10.00	O
+
+8535.10.00	8535.10.00	NUM	ROOT	8535.10.00	O
+
+8535.90.00	8535.90.00	NUM	ROOT	8535.90.00	O
+
+8536.20.00	8536.20.00	DET	ROOT	8536.20.00	O
+
+8536.30.00	8536.30.00	PUNCT	ROOT	8536.30.00	O
+
+8539.31.00	8539.31.00	NUM	ROOT	8539.31.00	O
+
+8543.89.39	8543.89.39	NUM	ROOT	8543.89.39	O
+
+8544.11.00	8544.11.00	VERB	ROOT	8544.11.00	O
+
+8544.19.10	8544.19.10	NOUN	ROOT	8544.19.10	O
+
+8544.19.90	8544.19.90	ADP	ROOT	8544.19.90	O
+
+8544.20.00	8544.20.00	NUM	ROOT	8544.20.00	O
+
+8544.30.00	8544.30.00	NUM	ROOT	8544.30.00	O
+
+8544.41.00	8544.41.00	NUM	ROOT	8544.41.00	O
+
+8544.49.00	8544.49.00	NUM	ROOT	8544.49.00	O
+
+8544.51.00	8544.51.00	NUM	ROOT	8544.51.00	O
+
+8544.59.00	8544.59.00	NUM	ROOT	8544.59.00	O
+
+8544.60.00	8544.60.00	NOUN	ROOT	8544.60.00	O
+
+8544.70.10	8544.70.10	NOUN	ROOT	8544.70.10	O
+
+8544.70.20	8544.70.20	NUM	ROOT	8544.70.20	O
+
+8544.70.30	8544.70.30	NOUN	ROOT	8544.70.30	O
+
+8544.70.90	8544.70.90	DET	ROOT	8544.70.90	O
+
+8701.10.00	8701.10.00	ADJ	ROOT	8701.10.00	O
+
+8701.20.00	8701.20.00	NUM	ROOT	8701.20.00	O
+
+8701.30.00	8701.30.00	NUM	ROOT	8701.30.00	O
+
+8701.90.00	8701.90.00	NUM	ROOT	8701.90.00	O
+
+8708.39.00	8708.39.00	ADJ	ROOT	8708.39.00	O
+
+8708.50.90	8708.50.90	VERB	ROOT	8708.50.90	O
+
+8708.80.00	8708.80.00	NUM	ROOT	8708.80.00	O
+
+8711.10.00	8711.10.00	NUM	ROOT	8711.10.00	O
+
+8711.20.10	8711.20.10	NUM	ROOT	8711.20.10	O
+
+8712.00.10	8712.00.10	NOUN	ROOT	8712.00.10	O
+
+8714.19.00	8714.19.00	VERB	ROOT	8714.19.00	O
+
+8716.31.00	8716.31.00	VERB	ROOT	8716.31.00	O
+
+8716.39.00	8716.39.00	NOUN	ROOT	8716.39.00	O
+
+8716.40.00	8716.40.00	NUM	ROOT	8716.40.00	O
+
+9001.10.20	9001.10.20	NUM	ROOT	9001.10.20	O
+
+9017.80.10	9017.80.10	NUM	ROOT	9017.80.10	O
+
+9018.31.11	9018.31.11	NUM	ROOT	9018.31.11	O
+
+9018.31.19	9018.31.19	NUM	ROOT	9018.31.19	O
+
+9018.32.19	9018.32.19	NUM	ROOT	9018.32.19	O
+
+9018.90.10	9018.90.10	NUM	ROOT	9018.90.10	O
+
+9019.10.00	9019.10.00	NOUN	ROOT	9019.10.00	O
+
+9019.20.90	9019.20.90	NOUN	ROOT	9019.20.90	O
+
+9021.50.00	9021.50.00	NUM	ROOT	9021.50.00	O
+
+9032.89.84	9032.89.84	ADJ	ROOT	9032.89.84	O
+
+9401.30.10	9401.30.10	NUM	ROOT	9401.30.10	O
+
+9401.40.10	9401.40.10	NUM	ROOT	9401.40.10	O
+
+9401.61.00	9401.61.00	VERB	ROOT	9401.61.00	O
+
+9401.69.00	9401.69.00	NUM	ROOT	9401.69.00	O
+
+9401.71.00	9401.71.00	NUM	ROOT	9401.71.00	O
+
+9401.90.10	9401.90.10	NUM	ROOT	9401.90.10	O
+
+9403.30.00	9403.30.00	NOUN	ROOT	9403.30.00	O
+
+9403.40.00	9403.40.00	NUM	ROOT	9403.40.00	O
+
+9403.50.00	9403.50.00	NOUN	ROOT	9403.50.00	O
+
+9403.60.00	9403.60.00	NOUN	ROOT	9403.60.00	O
+
+9403.90.10	9403.90.10	NUM	ROOT	9403.90.10	O
+
+9406.00.10	9406.00.10	NUM	ROOT	9406.00.10	O
+
+9406.00.91	9406.00.91	NUM	ROOT	9406.00.91	O
+
+9502.10.10	9502.10.10	NUM	ROOT	9502.10.10	O
+
+9502.10.90	9502.10.90	NUM	ROOT	9502.10.90	O
+
+9503.49.00	9503.49.00	NOUN	ROOT	9503.49.00	O
+
+9503.60.00	9503.60.00	NUM	ROOT	9503.60.00	O
+
+9503.70.00	9503.70.00	NUM	ROOT	9503.70.00	O
+
+9504.90.00	9504.90.00	NUM	ROOT	9504.90.00	O
+
+9505.10.00	9505.10.00	NUM	ROOT	9505.10.00	O
+
+9506.62.00	9506.62.00	NUM	ROOT	9506.62.00	O
+
+9603.50.00	9603.50.00	NUM	ROOT	9603.50.00	O
+
+9607.11.00	9607.11.00	NOUN	ROOT	9607.11.00	O
+
+9607.19.00	9607.19.00	NUM	ROOT	9607.19.00	O
+
+FE	FE	NOUN	ROOT	FE	O
+DE	DE	ADP	case	ERRATAS	O
+ERRATAS	ERRATAS	PROPN	nmod	FE	O
+
+SUBSECRETARIA	SUBSECRETARIA	NOUN	ROOT	SUBSECRETARIA	O
+DE	DE	ADP	case	COMERCIO	O
+COMERCIO	COMERCIO	NOUN	nmod	SUBSECRETARIA	O
+EXTERIOR	EXTERIOR	NOUN	appos	SUBSECRETARIA	O
+
+Disposición	Disposición	NOUN	ROOT	Disposición	O
+9/99	9/99	NUM	nummod	Disposición	O
+
+En	En	ADP	case	edición	O
+la	lo	DET	det	edición	O
+edición	edición	NOUN	obl	deslizaron	O
+del	del	ADP	case	8	O
+8	8	NUM	nmod	edición	O
+de	de	ADP	case	febrero	O
+febrero	febrero	NOUN	compound	8	O
+de	de	ADP	case	1999	O
+1999	1999	NUM	compound	8	O
+,	,	PUNCT	punct	publicó	O
+donde	donde	PRON	obl	publicó	O
+se	se	PRON	obj	publicó	O
+publicó	publicar	VERB	acl	8	O
+la	lo	DET	det	Disposición	O
+citada	citar	ADJ	amod	Disposición	O
+Disposición	Disposición	PROPN	nsubj	publicó	O
+,	,	PUNCT	punct	publicó	O
+se	se	PRON	obj	deslizaron	O
+deslizaron	deslizar	VERB	ROOT	deslizaron	O
+errores	error	NOUN	nsubj	deslizaron	O
+de	de	ADP	case	imprenta	O
+imprenta	imprenta	NOUN	nmod	errores	O
+en	en	ADP	case	Anexo	O
+el	el	DET	det	Anexo	O
+Anexo	Anexo	PROPN	obl	deslizaron	O
+,	,	PUNCT	punct	posiciones	O
+en	en	ADP	case	posiciones	O
+las	los	DET	det	posiciones	O
+siguientes	siguiente	ADJ	amod	posiciones	O
+posiciones	posicionar	NOUN	obl	deslizaron	O
+arancelarias	arancelario	ADJ	amod	posiciones	O
+de	de	ADP	case	Nomenclatura	O
+la	lo	DET	det	Nomenclatura	O
+Nomenclatura	Nomenclatura	PROPN	nmod	posiciones	O
+Común	Común	PROPN	flat	Nomenclatura	O
+del	del	ADP	case	Mercosur	O
+Mercosur	Mercosur	PROPN	flat	Nomenclatura	O
+:	:	PUNCT	punct	posiciones	O
+
+DONDE	DONDE	ADJ	det	6006.10.00	O
+DICE	DICE	VERB	flat	DONDE	O
+DEBE	DEBE	PROPN	flat	DONDE	O
+DECIR	DECIR	ADJ	flat	DONDE	O
+2104.12.20	2104.12.20	NUM	nummod	DONDE	O
+3204.12.20	3204.12.20	NUM	nummod	DONDE	O
+3919.10.10	3919.10.10	PROPN	nummod	3204.12.20	O
+3919.10.00	3919.10.00	NUM	nummod	DONDE	O
+4212.13.00	4212.13.00	NUM	nummod	DONDE	O
+4412.13.00	4412.13.00	NUM	nummod	DONDE	O
+4212.14.00	4212.14.00	NUM	nummod	DONDE	O
+4412.14.00	4412.14.00	NUM	nummod	DONDE	O
+5603.21.10	5603.21.10	NUM	nummod	4412.14.00	O
+5603.12.10	5603.12.10	NUM	nummod	4412.14.00	O
+6006.10.00	6006.10.00	NUM	det	6406.10.00	O
+6406.10.00	6406.10.00	NOUN	det	6406.20.00	O
+6006.20.00	6006.20.00	NUM	nummod	6406.10.00	O
+6406.20.00	6406.20.00	NUM	det	6406.91.00	O
+6006.91.00	6006.91.00	NUM	nummod	6406.20.00	O
+6406.91.00	6406.91.00	NUM	det	6006.99.20	O
+6006.99.10	6006.99.10	NUM	nummod	6406.91.00	O
+6406.99.10	6406.99.10	NUM	nummod	6406.91.00	O
+6006.99.20	6006.99.20	NUM	nummod	6406.99.90	O
+6406.99.20	6406.99.20	NUM	det	6006.99.90	O
+6006.99.90	6006.99.90	NUM	nummod	6006.99.20	O
+6406.99.90	6406.99.90	NUM	ROOT	6406.99.90	O
+
+Asimismo	Asimismo	ADV	advmod	omitió	O
+,	,	PUNCT	punct	Asimismo	O
+en	en	ADP	case	anexo	O
+el	el	DET	det	anexo	O
+mencionado	mencionar	ADJ	amod	anexo	O
+anexo	anexar	NOUN	obl	omitió	O
+se	se	PRON	obj	omitió	O
+omitió	omitir	VERB	ROOT	omitió	O
+la	lo	DET	det	posición	O
+posición	posición	NOUN	nsubj	omitió	O
+4804.11.00	4804.11.00	NUM	appos	posición	O
+y	y	CONJ	cc	incluyó	O
+se	se	PRON	obj	incluyó	O
+incluyó	incluir	VERB	conj	omitió	O
+erróneamente	erróneamente	ADV	advmod	incluyó	O
+la	lo	DET	det	posición	O
+posición	posición	NOUN	nsubj	incluyó	O
+4907.00.00	4907.00.00	NUM	appos	posición	O
+,	,	PUNCT	punct	contemplada	O
+no	no	ADV	advmod	contemplada	O
+contemplada	contemplar	ADJ	amod	posición	O
+en	en	ADP	case	Disposición	O
+la	lo	DET	det	Disposición	O
+Disposición	Disposición	PROPN	obl	contemplada	O
+.	.	PUNCT	punct	omitió	O
+
+
